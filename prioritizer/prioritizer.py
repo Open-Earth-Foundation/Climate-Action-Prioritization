@@ -16,7 +16,7 @@ from utils.additional_scoring_functions import (
     find_highest_emission,
 )
 from utils.prompt import return_prompt
-
+from utils.tournament_llm import tournament_rank
 load_dotenv()
 
 api_key = os.getenv("OPENAI_API_KEY")
@@ -104,10 +104,10 @@ def quantitative_score(city, action):
 
     def load_weights():
         # Get the directory of the current script (prioritizer.py)
-        script_dir = Path(__file__).resolve().parent
+        script_dir = Path(__file__).resolve().parent.parent
 
         # Construct the full path to the weights.json file
-        weights_path = script_dir / "CAP_data" / "weights.json"
+        weights_path = script_dir / "data" / "weights" / "weights.json"
 
         # weights_path = "CAP_data/weights.json"
         with open(weights_path, "r", encoding="utf-8") as f:
@@ -270,21 +270,22 @@ def qualitative_prioritizer(top_quantitative, actions, city):
     city_locode = city.get("locode", "Unknown")
     city_region = city.get("region", "Unknown")
     city_regionName = city.get("regionName", "Unknown")
-    llm_output = qualitative_score(city, top_quantitative)
+    llm_output = tournament_rank(top_quantitative, city)
+    #llm_output = qualitative_score(city, top_quantitative)
 
     if llm_output:
-
-        for action in llm_output.actions:
+        for action in llm_output:
+            print(action)
             qualitative_scores.append(
                 {
                     "locode": city_locode,
                     "cityName": city_name,
                     "region": city_region,
                     "regionName": city_regionName,
-                    "actionId": action.action_id,
-                    "actionName": action.action_name,
-                    "actionPriority": action.actionPriority,
-                    "explanation": action.explanation,
+                    "actionId": action["action_id"],
+                    "actionName": action["action_name"],
+                    "actionPriority": action["actionPriority"],
+                    "explanation": action["explanation"],
                 }
             )
         print("Qualitative prioritization completed.")
