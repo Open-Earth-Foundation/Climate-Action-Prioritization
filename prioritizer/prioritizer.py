@@ -10,12 +10,12 @@ import pandas as pd
 from pydantic import BaseModel
 from typing import List
 from pathlib import Path
-from utils.reading_writing_data import read_city_inventory, read_actions, write_output
-from utils.additional_scoring_functions import (
+from .utils.reading_writing_data import read_city_inventory, read_actions, write_output
+from .utils.additional_scoring_functions import (
     count_matching_hazards,
     find_highest_emission,
 )
-from utils.prompt import return_prompt
+from .utils.prompt import return_prompt
 
 load_dotenv()
 
@@ -76,11 +76,11 @@ def calculate_emissions_reduction(city, action):
         if reduction_str is None:
             pass
         if reduction_str and reduction_str in reduction_mapping:
-            print("Reduction string:", reduction_str)
-            print("Reduction mapping:", reduction_mapping[reduction_str])
+            # print("Reduction string:", reduction_str)
+            # print("Reduction mapping:", reduction_mapping[reduction_str])
             reduction_percentage = reduction_mapping[reduction_str]
             city_emission = city.get(city_emission_key, 0)
-            print("City emission:", city_emission)
+            # print("City emission:", city_emission)
             reduction_amount = city_emission * reduction_percentage
             total_reduction += reduction_amount
 
@@ -123,14 +123,15 @@ def quantitative_score(city, action):
         hazards_weight = weights.get("Hazard", 1)
         # check if it's not 0
         score += matching_hazards_count * hazards_weight
-    print("Score after hazard:", score)
+    # print("Score after hazard:", score)
 
     # Dependencies - caculate the number of dependencies and give a minus score based on that very low impact
     dependencies = action.get("Dependencies", [])
     dependencies_weights = weights.get("Dependencies", 1)
     if isinstance(dependencies, list):
         score -= len(dependencies) * dependencies_weights
-    print("Score after dependencies:", score)
+    # print("Score after dependencies:", score)
+
     # ActionName - pass
     # AdaptationCategory - pass this time
     # Subsector - skip for now maybe more data needed as now we are covering per sector
@@ -138,25 +139,25 @@ def quantitative_score(city, action):
 
     # Sector - if it matches the most emmissions intensive sectors gets bonus points
     total_emission_reduction_all_sectors = calculate_emissions_reduction(city, action)
-    print(
-        "Total emissions reduction for all sectors:",
-        total_emission_reduction_all_sectors,
-    )
+    # print(
+    #     "Total emissions reduction for all sectors:",
+    #     total_emission_reduction_all_sectors,
+    # )
     if total_emission_reduction_all_sectors > 0:
         total_emissions = city.get("totalEmissions", 1)  # Avoid division by zero
         reduction_percentage = (
             total_emission_reduction_all_sectors / total_emissions
         ) * 100
-        print("Reduction percentage:", reduction_percentage)
+        # print("Reduction percentage:", reduction_percentage)
         score += round((reduction_percentage / 100), 3)
-    print("Score after emissions reduction:", score)
+    # print("Score after emissions reduction:", score)
 
     # Calculate for every sector
     weights_emissions = weights.get("GHGReductionPotential", 1)
     most_emissions, percentage_emissions_value = find_highest_emission(city)
     if action.get("Sector") == most_emissions:
         score += (percentage_emissions_value / 100) * weights_emissions
-    print("Score after sector emission reduction:", score)
+    # print("Score after sector emission reduction:", score)
     # InterventionType - skip for now
     # Description - use only for LLM
     # BehavioralChangeTargeted - skip for now
@@ -167,10 +168,9 @@ def quantitative_score(city, action):
     if adaptation_effectiveness in scale_adaptation_effectiveness:
         adaptation_weight = weights.get("AdaptationEffectiveness", 1)
         score += (
-            scale_adaptation_effectiveness[adaptation_effectiveness]
-            * adaptation_weight
+            scale_adaptation_effectiveness[adaptation_effectiveness] * adaptation_weight
         )
-    print("Score after adaptation effectiveness:", score)
+    # print("Score after adaptation effectiveness:", score)
 
     # Time in years score
     timeline_str = action.get("TimelineForImplementation", "")
@@ -183,7 +183,7 @@ def quantitative_score(city, action):
     else:
         print("Invalid timeline:", timeline_str)
 
-    print("Score after time in years:", score)
+    # print("Score after time in years:", score)
 
     # Cost score
     if "CostInvestmentNeeded" in action:
@@ -192,8 +192,8 @@ def quantitative_score(city, action):
         cost_score = scale_adaptation_effectiveness.get(cost_investment_needed, 0)
         score += cost_score * cost_score_weight
 
-    print("Score after cost:", score)
-    print("-------------")
+    # print("Score after cost:", score)
+    # print("-------------")
     return score
 
 
