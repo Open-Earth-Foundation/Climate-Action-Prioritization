@@ -174,6 +174,14 @@ def get_accuracy_expert_vs_comparators(
         actionA_with_context = get_action_by_id(actions, actionA)
         actionB_with_context = get_action_by_id(actions, actionB)
 
+        # print(f"Action A: {actionA_with_context}")
+
+        # input("Press Enter to continue")
+        # Skip mitigation actions
+        if actionA_with_context and "mitigation" in actionA_with_context["ActionType"]:
+            print(f"Skipping mitigation action: {actionA}")
+            continue
+
         # Check if both actions were found
         # E.g. if comparisons were made from experts on actions that were later deleted
         if actionA_with_context and actionB_with_context:
@@ -185,11 +193,11 @@ def get_accuracy_expert_vs_comparators(
                 )
                 # print(f"Predicted label quanti: {predicted_label_quanti}")
 
-                ### QUALITATIVE
-                predicted_label_quali = get_qualitative_label(
-                    city_data, actionA_with_context, actionB_with_context
-                )
-                # print(f"Predicted label quali: {predicted_label_quali}")
+                # ### QUALITATIVE
+                # predicted_label_quali = get_qualitative_label(
+                #     city_data, actionA_with_context, actionB_with_context
+                # )
+                # # print(f"Predicted label quali: {predicted_label_quali}")
 
                 ### ML
                 predicted_label_ml = get_ml_label(
@@ -197,18 +205,18 @@ def get_accuracy_expert_vs_comparators(
                 )
                 # print(f"Predicted label ML: {predicted_label_ml}")
 
-                # ### Majority vote
-                votes = [
-                    predicted_label_quali,
-                    predicted_label_quanti,
-                    predicted_label_ml,
-                ]
+                # # ### Majority vote
+                # votes = [
+                #     predicted_label_quali,
+                #     predicted_label_quanti,
+                #     predicted_label_ml,
+                # ]
 
-                if votes.count(actionA) >= 2:
-                    predicted_label_majority = actionA
-                else:
-                    predicted_label_majority = actionB
-                # print(f"Predicted label majority: {predicted_label_majority}")
+                # if votes.count(actionA) >= 2:
+                #     predicted_label_majority = actionA
+                # else:
+                #     predicted_label_majority = actionB
+                # # print(f"Predicted label majority: {predicted_label_majority}")
 
                 # For Pearson correlation
                 # Convert predictions into binary error vectors
@@ -231,14 +239,14 @@ def get_accuracy_expert_vs_comparators(
                 if predicted_label_quanti == preferred_action:
                     score_quanti += 1
 
-                if predicted_label_quali == preferred_action:
-                    score_quali += 1
+                # if predicted_label_quali == preferred_action:
+                #     score_quali += 1
 
                 if predicted_label_ml == preferred_action:
                     score_ml += 1
 
-                if predicted_label_majority == preferred_action:
-                    score_majority += 1
+                # if predicted_label_majority == preferred_action:
+                #     score_majority += 1
 
                 # Count this as a valid comparison
                 valid_comparisons += 1
