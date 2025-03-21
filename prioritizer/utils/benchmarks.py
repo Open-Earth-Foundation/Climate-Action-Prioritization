@@ -174,13 +174,11 @@ def get_accuracy_expert_vs_comparators(
         actionA_with_context = get_action_by_id(actions, actionA)
         actionB_with_context = get_action_by_id(actions, actionB)
 
-        # print(f"Action A: {actionA_with_context}")
-
         # input("Press Enter to continue")
         # Skip mitigation actions
-        if actionA_with_context and "mitigation" in actionA_with_context["ActionType"]:
-            print(f"Skipping mitigation action: {actionA}")
-            continue
+        # if actionA_with_context and "mitigation" in actionA_with_context["ActionType"]:
+        #     print(f"Skipping mitigation action: {actionA}")
+        #     continue
 
         # Check if both actions were found
         # E.g. if comparisons were made from experts on actions that were later deleted

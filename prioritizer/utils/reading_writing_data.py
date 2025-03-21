@@ -9,8 +9,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Set constants for file paths
 # BASE_DIR = Path("../data")
-# ACTION_DATA_PATH = BASE_DIR / "../data/climate_actions/output/merged.json"
-ACTION_DATA_PATH = BASE_DIR / "../data/climate_actions/output/merged_main_hazards.json"
+ACTION_DATA_PATH = BASE_DIR / "../data/climate_actions/output/merged.json"
+# ACTION_DATA_PATH = BASE_DIR / "../data/climate_actions/output/merged_main_hazards.json"
 CITY_DATA_PATH = BASE_DIR / "../data/cities/city_data.json"
 OUTPUT_PATH = BASE_DIR / "../data/prioritized/"
 

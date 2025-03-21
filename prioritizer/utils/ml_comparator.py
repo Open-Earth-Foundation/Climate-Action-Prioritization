@@ -78,10 +78,10 @@ root_path = Path(__file__).resolve().parent.parent.parent
 
 loaded_model = xgb.XGBClassifier()
 # Load hyperparameters and trained weights
-# loaded_model.load_model(root_path / "data" / "ml" / "model" / "xgb_model.json")
-loaded_model.load_model(
-    root_path / "data" / "ml" / "model" / "xgb_model_train_test_split.json"
-)
+loaded_model.load_model(root_path / "data" / "ml" / "model" / "xgb_model.json")
+# loaded_model.load_model(
+#     root_path / "data" / "ml" / "model" / "xgb_model_train_test_split.json"
+# )
 
 
 def ml_compare(city: dict, action_A: dict, action_B: dict) -> int:
