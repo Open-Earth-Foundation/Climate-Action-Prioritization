@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "For Tarauac\u00e1, implementing agroforestry systems blends tree cover with traditional farming to enhance soil fertility, improve water retention, and sequester carbon. This approach reduces the environmental footprint of agriculture while boosting farm resilience to climate variability. The integration of trees into cropping systems supports long-term sustainability and ecological balance.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -58,71 +58,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR TAA",
-        "cityName": "Tarauac\u00e1",
-        "region": "AC",
-        "regionName": "Acre",
-        "actionId": "icare_0133",
-        "actionName": "Promote Urban Reforestation and Green Corridors",
-        "actionPriority": 2,
-        "explanation": "For Tarauac\u00e1, promoting urban reforestation and creating green corridors provides natural cooling, improves air quality, and manages stormwater by absorbing excess runoff. These green spaces also enhance urban aesthetics and offer recreational benefits. Integrating nature into the urban fabric strengthens the city\u2019s resilience against extreme weather events.",
-        "action": {
-            "ActionID": "icare_0133",
-            "ActionName": "Promote Urban Reforestation and Green Corridors",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Increase urban tree coverage to mitigate the urban heat island effect and enhance biodiversity.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "80-100"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Identification of priority areas and selection of native, climate-resilient species for tree planting.",
-                "Partnerships with local organizations and nurseries, and allocation of resources for planting and maintenance.",
-                "Community engagement to ensure long-term care and support."
-            ],
-            "KeyPerformanceIndicators": [
-                "Increase in urban tree canopy cover (%)",
-                "Total length of green corridors created or restored (kilometers)",
-                "Reduction in urban heat island effect temperatures (\u00b0C)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -132,8 +78,8 @@
         "regionName": "Acre",
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
-        "actionPriority": 3,
-        "explanation": "For Tarauac\u00e1, reinforcing deforestation controls is vital to preserve existing forests that act as natural carbon sinks and regulate local hydrology. This measure helps curb illegal logging and land clearing, protecting biodiversity and preventing soil erosion. Maintaining forest cover is critical for sustaining the ecological functions that help mitigate climate change impacts.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -184,8 +130,17 @@
             "PowersAndMandates": [
                 "national"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -193,13 +148,13 @@
         "cityName": "Tarauac\u00e1",
         "region": "AC",
         "regionName": "Acre",
-        "actionId": "icare_0129",
-        "actionName": "Facilitate Technology Transfer for Conservation Practices",
-        "actionPriority": 4,
-        "explanation": "For Tarauac\u00e1, facilitating technology transfer equips local farmers and land managers with modern conservation practices, such as precision irrigation and sustainable pest management. These innovations improve efficiency and reduce resource waste. This exchange of knowledge fosters a more resilient and sustainable agricultural sector.",
+        "actionId": "icare_0133",
+        "actionName": "Promote Urban Reforestation and Green Corridors",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0129",
-            "ActionName": "Facilitate Technology Transfer for Conservation Practices",
+            "ActionID": "icare_0133",
+            "ActionName": "Promote Urban Reforestation and Green Corridors",
             "ActionType": [
                 "mitigation"
             ],
@@ -208,20 +163,20 @@
                 "afolu"
             ],
             "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
+                "land"
             ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Promote the adoption of sustainable agricultural practices through training, pilot projects, and technology demonstrations.",
+            "Description": "Increase urban tree coverage to mitigate the urban heat island effect and enhance biodiversity.",
             "CoBenefits": {
-                "air_quality": 1,
+                "air_quality": 2,
                 "water_quality": 1,
                 "habitat": 2,
-                "cost_of_living": 0,
+                "cost_of_living": 1,
                 "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+                "mobility": 1,
+                "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
@@ -229,89 +184,35 @@
                 "transportation": null,
                 "waste": null,
                 "ippu": null,
-                "afolu": "60-79"
+                "afolu": "80-100"
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Provision of training programs and establishment of pilot projects to showcase sustainable practices.",
-                "Partnerships with research institutions for technology development and financial incentives to encourage adoption.",
-                "Access to technical assistance for successful implementation."
+                "Identification of priority areas and selection of native, climate-resilient species for tree planting.",
+                "Partnerships with local organizations and nurseries, and allocation of resources for planting and maintenance.",
+                "Community engagement to ensure long-term care and support."
             ],
             "KeyPerformanceIndicators": [
-                "Number of conservation technologies transferred and applied on farms.",
-                "Percentage of producers trained to implement conservation practices.",
-                "Reduction in soil degradation or increase in vegetation cover (hectares)."
+                "Increase in urban tree canopy cover (%)",
+                "Total length of green corridors created or restored (kilometers)",
+                "Reduction in urban heat island effect temperatures (\u00b0C)"
             ],
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR TAA",
-        "cityName": "Tarauac\u00e1",
-        "region": "AC",
-        "regionName": "Acre",
-        "actionId": "icare_0130",
-        "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
-        "actionPriority": 5,
-        "explanation": "For Tarauac\u00e1, technical assistance and rural extension services help farmers adopt sustainable, climate-smart techniques that improve productivity and resilience. This on-site support bridges the gap between innovative practices and traditional methods. As a result, rural communities become better equipped to adapt to climate change.",
-        "action": {
-            "ActionID": "icare_0130",
-            "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Provide technical support and training to rural producers for sustainable agricultural production.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Availability of skilled technical staff and tailored training programs.",
-                "Partnerships with agricultural research institutions and allocation of resources for capacity-building.",
-                "Engagement with rural producers to ensure active participation."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of producers benefiting from rural technical assistance (% of total).",
-                "Percentage of participants adopting climate-resilient practices.",
-                "Reduced vulnerability of properties to climate risk (%).\""
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -321,8 +222,8 @@
         "regionName": "Acre",
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
-        "actionPriority": 6,
-        "explanation": "For Tarauac\u00e1, establishing PES programs offers financial incentives to landowners for conserving forests and water resources. This approach aligns economic benefits with environmental stewardship, encouraging sustainable land management. Such programs provide a steady revenue stream for conservation efforts and help maintain critical ecosystems.",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -373,8 +274,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -382,13 +292,13 @@
         "cityName": "Tarauac\u00e1",
         "region": "AC",
         "regionName": "Acre",
-        "actionId": "icare_0102",
-        "actionName": "Promote Sustainable Agricultural Practices",
-        "actionPriority": 7,
-        "explanation": "For Tarauac\u00e1, adopting sustainable agricultural practices\u2014such as efficient water use, integrated pest management, and conservation tillage\u2014reduces environmental impact while maintaining productivity. These methods help farms better withstand climate variability and preserve natural resources. In the long run, sustainable agriculture supports food security and minimizes the sector\u2019s carbon footprint.",
+        "actionId": "icare_0130",
+        "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0102",
-            "ActionName": "Promote Sustainable Agricultural Practices",
+            "ActionID": "icare_0130",
+            "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
             "ActionType": [
                 "mitigation"
             ],
@@ -402,11 +312,11 @@
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Encourage agricultural practices that reduce greenhouse gas emissions, such as reduced use of fertilizers and agrochemicals.",
+            "Description": "Provide technical support and training to rural producers for sustainable agricultural production.",
             "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 1,
                 "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
@@ -422,22 +332,103 @@
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Development of educational programs and resources to promote sustainable agricultural practices among farmers.",
-                "Implementation of policies that incentivize the reduction of fertilizer and agrochemical use, such as subsidies for organic inputs or sustainable farming techniques.",
-                "Collaboration with agricultural organizations to provide technical support and guidance on emission-reducing practices."
+                "Availability of skilled technical staff and tailored training programs.",
+                "Partnerships with agricultural research institutions and allocation of resources for capacity-building.",
+                "Engagement with rural producers to ensure active participation."
             ],
             "KeyPerformanceIndicators": [
-                "Percentage of farmland adopting sustainable practices (% of total agricultural land).",
-                "Increase in crop yield per hectare (tons/hectare) due to sustainable methods.",
-                "Reduction in water usage for agriculture (liters or m\u00b3/hectare/year)."
+                "Number of producers benefiting from rural technical assistance (% of total).",
+                "Percentage of participants adopting climate-resilient practices.",
+                "Reduced vulnerability of properties to climate risk (%).\""
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR TAA",
+        "cityName": "Tarauac\u00e1",
+        "region": "AC",
+        "regionName": "Acre",
+        "actionId": "icare_0129",
+        "actionName": "Facilitate Technology Transfer for Conservation Practices",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0129",
+            "ActionName": "Facilitate Technology Transfer for Conservation Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promote the adoption of sustainable agricultural practices through training, pilot projects, and technology demonstrations.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Provision of training programs and establishment of pilot projects to showcase sustainable practices.",
+                "Partnerships with research institutions for technology development and financial incentives to encourage adoption.",
+                "Access to technical assistance for successful implementation."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of conservation technologies transferred and applied on farms.",
+                "Percentage of producers trained to implement conservation practices.",
+                "Reduction in soil degradation or increase in vegetation cover (hectares)."
             ],
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -447,8 +438,8 @@
         "regionName": "Acre",
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
-        "actionPriority": 8,
-        "explanation": "For Tarauac\u00e1, promoting organic farming limits chemical inputs and fosters healthier soils and water systems. Organic practices bolster biodiversity and improve the resilience of crops to climate stresses. This approach not only benefits public health but also contributes to long-term sustainability in the agricultural sector.",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -499,8 +490,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -510,8 +510,8 @@
         "regionName": "Acre",
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
-        "actionPriority": 9,
-        "explanation": "For Tarauac\u00e1, supporting regenerative agriculture practices, such as cover cropping and composting, improves soil structure and captures carbon. This not only increases crop resilience but also enhances water retention and reduces erosion. Regenerative methods drive long-term improvements in productivity and environmental health.",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -562,8 +562,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -573,8 +582,8 @@
         "regionName": "Acre",
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
-        "actionPriority": 10,
-        "explanation": "For Tarauac\u00e1, incentivizing agroforestry in livestock systems encourages the integration of trees with grazing lands, providing natural shade and additional fodder. This practice improves pasture quality and sequesters carbon, reducing the environmental impact of livestock operations. It also diversifies income sources for farmers, enhancing rural sustainability.",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -625,8 +634,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -634,13 +652,13 @@
         "cityName": "Tarauac\u00e1",
         "region": "AC",
         "regionName": "Acre",
-        "actionId": "icare_0127",
-        "actionName": "Accelerate Environmental Regularization of Rural Properties",
-        "actionPriority": 11,
-        "explanation": "For Tarauac\u00e1, accelerating the formalization of rural properties strengthens land tenure security, which in turn enforces sustainable land-use practices. This legal clarity helps curb illegal deforestation and promotes responsible agriculture. Such regularization is critical for maintaining the balance between development and conservation.",
+        "actionId": "icare_0102",
+        "actionName": "Promote Sustainable Agricultural Practices",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0127",
-            "ActionName": "Accelerate Environmental Regularization of Rural Properties",
+            "ActionID": "icare_0102",
+            "ActionName": "Promote Sustainable Agricultural Practices",
             "ActionType": [
                 "mitigation"
             ],
@@ -654,15 +672,15 @@
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Implement programs to register properties in the Rural Environmental Registry (CAR) and adhere to environmental restoration commitments.",
+            "Description": "Encourage agricultural practices that reduce greenhouse gas emissions, such as reduced use of fertilizers and agrochemicals.",
             "CoBenefits": {
-                "air_quality": 1,
+                "air_quality": 2,
                 "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 0,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 1
+                "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
@@ -676,20 +694,29 @@
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Access to digital platforms and technical training for property registration and restoration processes.",
-                "Financial incentives and partnerships with environmental agencies to support implementation.",
-                "Monitoring and enforcement mechanisms to ensure compliance with restoration commitments."
+                "Development of educational programs and resources to promote sustainable agricultural practices among farmers.",
+                "Implementation of policies that incentivize the reduction of fertilizer and agrochemical use, such as subsidies for organic inputs or sustainable farming techniques.",
+                "Collaboration with agricultural organizations to provide technical support and guidance on emission-reducing practices."
             ],
             "KeyPerformanceIndicators": [
-                "Number of rural properties with regularised Rural Environmental Registration (CAR).",
-                "Total area of native vegetation protected or restored on regularised properties (hectares).",
-                "Annual reduction in greenhouse gas emissions (tCO\u2082e) due to regularisation."
+                "Percentage of farmland adopting sustainable practices (% of total agricultural land).",
+                "Increase in crop yield per hectare (tons/hectare) due to sustainable methods.",
+                "Reduction in water usage for agriculture (liters or m\u00b3/hectare/year)."
             ],
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -699,8 +726,8 @@
         "regionName": "Acre",
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
-        "actionPriority": 12,
-        "explanation": "For Tarauac\u00e1, transitioning to low-emission agricultural machinery significantly reduces fuel consumption and related emissions. Modern equipment improves operational efficiency and reduces the environmental impact of farming. This shift not only supports sustainable production but also helps lower operating costs, benefiting local farmers.",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -751,8 +778,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -760,13 +796,13 @@
         "cityName": "Tarauac\u00e1",
         "region": "AC",
         "regionName": "Acre",
-        "actionId": "ipcc_0061",
-        "actionName": "Soil Carbon Management in Croplands and Grasslands",
-        "actionPriority": 13,
-        "explanation": "For Tarauac\u00e1, implementing soil carbon management techniques such as reduced tillage and the use of organic matter enhances soil quality and sequesters carbon. These practices improve crop resilience and support long-term agricultural productivity in a changing climate. This approach is both cost-effective and environmentally beneficial, reducing the overall carbon footprint of farming.",
+        "actionId": "icare_0127",
+        "actionName": "Accelerate Environmental Regularization of Rural Properties",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0061",
-            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
+            "ActionID": "icare_0127",
+            "ActionName": "Accelerate Environmental Regularization of Rural Properties",
             "ActionType": [
                 "mitigation"
             ],
@@ -775,22 +811,22 @@
                 "afolu"
             ],
             "Subsector": [
-                "land"
+                "agriculture_forestry_and_fishing_activities"
             ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
+            "Description": "Implement programs to register properties in the Rural Environmental Registry (CAR) and adhere to environmental restoration commitments.",
             "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 0,
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
                 "cost_of_living": 0,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 0
+                "stakeholder_engagement": 1
             },
-            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
+            "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
                 "stationary_energy": null,
                 "transportation": null,
@@ -799,22 +835,32 @@
                 "afolu": "60-79"
             },
             "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
+            "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Success depends on the availability of resources for monitoring and verification",
-                "regional adaptation of practices",
-                "addressing barriers such as soil saturation and permanence issues"
+                "Access to digital platforms and technical training for property registration and restoration processes.",
+                "Financial incentives and partnerships with environmental agencies to support implementation.",
+                "Monitoring and enforcement mechanisms to ensure compliance with restoration commitments."
             ],
             "KeyPerformanceIndicators": [
-                "Increase in soil organic carbon",
-                "reduction in GHG emissions",
-                "improvement in agricultural productivity",
-                "biodiversity enhancements"
+                "Number of rural properties with regularised Rural Environmental Registration (CAR).",
+                "Total area of native vegetation protected or restored on regularised properties (hectares).",
+                "Annual reduction in greenhouse gas emissions (tCO\u2082e) due to regularisation."
             ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -824,8 +870,8 @@
         "regionName": "Acre",
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-        "actionPriority": 14,
-        "explanation": "For Tarauac\u00e1, prioritizing locally produced agroecological goods in public procurement supports regional farmers and reduces transportation emissions. This policy reinforces sustainable production practices and builds a resilient local food system. Public institutions benefit from higher-quality, locally adapted products, enhancing both food security and economic stability.",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -876,8 +922,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -885,13 +940,13 @@
         "cityName": "Tarauac\u00e1",
         "region": "AC",
         "regionName": "Acre",
-        "actionId": "icare_0132",
-        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
-        "actionPriority": 15,
-        "explanation": "For Tarauac\u00e1, fostering local agroecological production with short supply chains minimizes transportation impacts and waste. This approach promotes closer connections between producers and consumers, ensuring fresher products and lower carbon footprints. Supporting local systems builds economic resilience and enhances environmental sustainability.",
+        "actionId": "ipcc_0061",
+        "actionName": "Soil Carbon Management in Croplands and Grasslands",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0132",
-            "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
+            "ActionID": "ipcc_0061",
+            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
             "ActionType": [
                 "mitigation"
             ],
@@ -900,47 +955,55 @@
                 "afolu"
             ],
             "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
+                "land"
             ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Support local, sustainable agricultural practices and reduce emissions associated with food transport.",
+            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
             "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 2
+                "stakeholder_engagement": 0
             },
-            "EquityAndInclusionConsiderations": null,
+            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
             "GHGReductionPotential": {
                 "stationary_energy": null,
                 "transportation": null,
                 "waste": null,
                 "ippu": null,
-                "afolu": "20-39"
+                "afolu": "60-79"
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Incentives for sustainable agricultural practices and development of local food distribution networks.",
-                "Partnerships with producers and investment in infrastructure to support local markets.",
-                "Policies to prioritize low-emission transportation methods."
+                "Success depends on the availability of resources for monitoring and verification",
+                "regional adaptation of practices",
+                "addressing barriers such as soil saturation and permanence issues"
             ],
             "KeyPerformanceIndicators": [
-                "Number of producers adhering to local agroecological practices.",
-                "Percentage of food consumed in the city from short chains.",
-                "Reduction in emissions associated with food transport (tCO\u2082e)."
+                "Increase in soil organic carbon",
+                "reduction in GHG emissions",
+                "improvement in agricultural productivity",
+                "biodiversity enhancements"
             ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -950,8 +1013,8 @@
         "regionName": "Acre",
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
-        "actionPriority": 16,
-        "explanation": "For Tarauac\u00e1, promoting certification programs for agroecological practices incentivizes farmers to adopt sustainable methods. Certification not only adds market value to eco-friendly products but also encourages continuous improvement in environmental performance. This measure boosts consumer confidence in local produce and supports a transition toward more sustainable agricultural practices.",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1002,71 +1065,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR TAA",
-        "cityName": "Tarauac\u00e1",
-        "region": "AC",
-        "regionName": "Acre",
-        "actionId": "icare_0085",
-        "actionName": "Promote the Adoption of Agroecological Pest Control",
-        "actionPriority": 17,
-        "explanation": "For Tarauac\u00e1, encouraging agroecological pest control reduces dependency on synthetic pesticides, protecting both soil and water resources. This natural approach supports beneficial insect populations and promotes healthier crop production. It ultimately lowers environmental and health risks while maintaining agricultural productivity.",
-        "action": {
-            "ActionID": "icare_0085",
-            "ActionName": "Promote the Adoption of Agroecological Pest Control",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage pest control methods that are agroecological, such as using natural predators and repellent plants, to reduce reliance on chemical pesticides.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Development of educational programs to inform farmers about agroecological pest control methods and their benefits.",
-                "Provision of access to resources or materials for implementing natural pest control methods, such as introducing beneficial insects or cultivating repellent plants.",
-                "Creation of incentives or support networks to encourage the transition away from chemical pesticides in favor of sustainable alternatives."
-            ],
-            "KeyPerformanceIndicators": [
-                "Increase in productivity rates in areas adopting agroecological pest control (%).",
-                "Number of educational campaigns conducted on sustainable pest control.",
-                "Impact on total production costs due to the adoption of agroecological practices (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1076,8 +1085,8 @@
         "regionName": "Acre",
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-        "actionPriority": 18,
-        "explanation": "For Tarauac\u00e1, offering fiscal incentives for sustainable practices motivates businesses and landowners to invest in green technologies. These incentives lower financial barriers, leading to broader adoption of conservation measures. Over time, they drive systemic change towards a more sustainable and environmentally responsible local economy.",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1128,8 +1137,161 @@
             "PowersAndMandates": [
                 "state"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR TAA",
+        "cityName": "Tarauac\u00e1",
+        "region": "AC",
+        "regionName": "Acre",
+        "actionId": "icare_0132",
+        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0132",
+            "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Support local, sustainable agricultural practices and reduce emissions associated with food transport.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Incentives for sustainable agricultural practices and development of local food distribution networks.",
+                "Partnerships with producers and investment in infrastructure to support local markets.",
+                "Policies to prioritize low-emission transportation methods."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of producers adhering to local agroecological practices.",
+                "Percentage of food consumed in the city from short chains.",
+                "Reduction in emissions associated with food transport (tCO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR TAA",
+        "cityName": "Tarauac\u00e1",
+        "region": "AC",
+        "regionName": "Acre",
+        "actionId": "icare_0085",
+        "actionName": "Promote the Adoption of Agroecological Pest Control",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0085",
+            "ActionName": "Promote the Adoption of Agroecological Pest Control",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Encourage pest control methods that are agroecological, such as using natural predators and repellent plants, to reduce reliance on chemical pesticides.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development of educational programs to inform farmers about agroecological pest control methods and their benefits.",
+                "Provision of access to resources or materials for implementing natural pest control methods, such as introducing beneficial insects or cultivating repellent plants.",
+                "Creation of incentives or support networks to encourage the transition away from chemical pesticides in favor of sustainable alternatives."
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in productivity rates in areas adopting agroecological pest control (%).",
+                "Number of educational campaigns conducted on sustainable pest control.",
+                "Impact on total production costs due to the adoption of agroecological practices (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1140,7 +1302,7 @@
         "actionId": "ipcc_0052",
         "actionName": "Reduce Deforestation and Degradation",
         "actionPriority": 19,
-        "explanation": "For Tarauac\u00e1, reducing deforestation and land degradation is crucial for maintaining forest cover and ecosystem services, such as water regulation and carbon sequestration. This action mitigates environmental damage and prevents the loss of biodiversity. Sustaining natural habitats is key to long-term climate stability and rural productivity.",
+        "explanation": "Ranked #19 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0052",
             "ActionName": "Reduce Deforestation and Degradation",
@@ -1190,7 +1352,16 @@
                 "the amount of GHG emissions avoided per year"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
             "biome": "tropical_rainforest"
         }
     },
@@ -1202,7 +1373,7 @@
         "actionId": "ipcc_0053",
         "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
         "actionPriority": 20,
-        "explanation": "For Tarauac\u00e1, investing in afforestation, reforestation, and restoring forest ecosystems enhances natural carbon sequestration while rebuilding essential habitats. These actions improve water retention and reduce soil erosion, mitigating the effects of extreme weather. In the long term, restoring forests bolsters regional climate resilience and supports sustainable ecological recovery.",
+        "explanation": "Ranked #20 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0053",
             "ActionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
@@ -1253,8 +1424,17 @@
                 "ecosystem service metrics such as water regulation and soil quality"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

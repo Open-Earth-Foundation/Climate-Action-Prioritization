@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Implementing agroforestry systems in Altamira is a high priority due to the city's location in a tropical rainforest biome, which is highly susceptible to deforestation and land degradation. Agroforestry can help restore degraded lands, enhance biodiversity, and improve soil health, which is crucial given the city's significant land use emissions. Additionally, this action can contribute to food security by providing diverse crops and improving resilience against climate hazards such as droughts and floods. By integrating trees with crops and livestock, agroforestry systems can also help mitigate climate change impacts by sequestering carbon and reducing overall emissions.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -58,8 +58,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -70,7 +79,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 2,
-        "explanation": "Strengthening mechanisms for deforestation control in Altamira is crucial due to the city's location within a tropical rainforest biome, which is highly susceptible to deforestation. The region's land use emissions are significantly high, indicating that deforestation is a major contributor to the city's overall carbon footprint. By enhancing deforestation control, Altamira can mitigate its environmental impact and preserve biodiversity, which is vital for maintaining ecological balance. Additionally, controlling deforestation can help reduce the risk of landslides and floods, which are significant hazards in the area, thereby protecting infrastructure and public health.",
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -121,8 +130,17 @@
             "PowersAndMandates": [
                 "national"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -133,7 +151,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 3,
-        "explanation": "Promoting urban reforestation and green corridors in Altamira is crucial due to the city's location in a tropical rainforest biome, which is under threat from deforestation and urban expansion. This action can help mitigate the high emissions from land use changes, which are a significant contributor to the city's total emissions. Additionally, increasing green spaces can improve air quality and provide natural cooling, which is essential given the high risk of heatwaves impacting public health and infrastructure. Furthermore, reforestation efforts can enhance biodiversity and contribute to the resilience of the city's ecosystem against climate hazards such as floods and landslides.",
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -184,8 +202,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -196,7 +223,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 4,
-        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) in Altamira is crucial due to the city's significant land use emissions, which are a major contributor to its total emissions. The tropical rainforest biome of Altamira is a vital carbon sink, and incentivizing conservation through PES can help preserve this critical ecosystem. Additionally, PES programs can provide economic benefits to local communities, aligning with the moderate socio-economic challenges faced by the population. By prioritizing this action, Altamira can address both environmental and socio-economic issues, promoting sustainable development in the region.",
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -247,8 +274,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -259,7 +295,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 5,
-        "explanation": "Facilitating technology transfer for conservation practices in Altamira is crucial due to the city's location in a tropical rainforest biome, which is highly sensitive to environmental changes. The city faces significant risks from droughts, heatwaves, and floods, which threaten its biodiversity and public health. By adopting advanced conservation technologies, Altamira can better manage its natural resources and mitigate the impacts of these hazards. Additionally, improving conservation practices can help reduce land use emissions, which are a major contributor to the city's total emissions, thereby supporting sustainable development.",
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -310,8 +346,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -322,7 +367,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 6,
-        "explanation": "Conducting Technical Assistance and Rural Extension (ATER) actions in Altamira is crucial due to the city's significant challenges related to land use emissions and socio-economic factors. With a vast area and a low population density, effective land management and sustainable agricultural practices are essential to mitigate the high land use emissions. Additionally, providing technical support to rural communities can enhance food security, which is at risk due to frequent droughts and floods. These actions can also improve the livelihoods of moderate-income populations by increasing agricultural productivity and resilience to climate impacts.",
+        "explanation": "Ranked #6 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -373,71 +418,17 @@
             "PowersAndMandates": [
                 "state"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR ATM",
-        "cityName": "Altamira",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0102",
-        "actionName": "Promote Sustainable Agricultural Practices",
-        "actionPriority": 7,
-        "explanation": "Promoting sustainable agricultural practices in Altamira is crucial due to the city's significant land use emissions, which are a major contributor to its total emissions. The region's tropical rainforest biome is highly sensitive to unsustainable agricultural methods, which can lead to deforestation and biodiversity loss. By adopting sustainable practices, Altamira can mitigate these environmental impacts and enhance food security, which is at high risk from droughts and floods. Additionally, sustainable agriculture can improve the socio-economic conditions by providing more stable and resilient livelihoods for the local population.",
-        "action": {
-            "ActionID": "icare_0102",
-            "ActionName": "Promote Sustainable Agricultural Practices",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage agricultural practices that reduce greenhouse gas emissions, such as reduced use of fertilizers and agrochemicals.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of educational programs and resources to promote sustainable agricultural practices among farmers.",
-                "Implementation of policies that incentivize the reduction of fertilizer and agrochemical use, such as subsidies for organic inputs or sustainable farming techniques.",
-                "Collaboration with agricultural organizations to provide technical support and guidance on emission-reducing practices."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of farmland adopting sustainable practices (% of total agricultural land).",
-                "Increase in crop yield per hectare (tons/hectare) due to sustainable methods.",
-                "Reduction in water usage for agriculture (liters or m\u00b3/hectare/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -447,8 +438,8 @@
         "regionName": "Par\u00e1",
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
-        "actionPriority": 8,
-        "explanation": "Supporting regenerative agriculture practices in Altamira is crucial due to the city's location in a tropical rainforest biome, which is highly sensitive to land use changes. The city faces significant land use emissions, and regenerative agriculture can help mitigate these by enhancing soil health and sequestering carbon. Additionally, with the high risk of droughts impacting food security, regenerative practices can improve resilience by increasing soil moisture retention and reducing dependency on external water sources. This action aligns with the need to address both environmental sustainability and food security challenges in the region.",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -499,8 +490,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -510,8 +510,8 @@
         "regionName": "Par\u00e1",
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
-        "actionPriority": 9,
-        "explanation": "Creating incentives for agroforestry practices in livestock systems is crucial for Altamira due to its significant land use emissions, which are a major contributor to the city's total emissions. Agroforestry can help sequester carbon, reduce emissions, and improve biodiversity, which is vital given the city's tropical rainforest biome. Additionally, these practices can enhance soil health and water retention, mitigating the impacts of droughts and improving food security. By integrating trees into livestock systems, the city can also address socio-economic challenges by providing additional income sources for local farmers.",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -562,8 +562,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -573,8 +582,8 @@
         "regionName": "Par\u00e1",
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
-        "actionPriority": 10,
-        "explanation": "Promoting organic farming in Altamira is a crucial action due to the city's location in a tropical rainforest biome, which is highly sensitive to environmental changes. Organic farming practices can help reduce land use emissions, which are currently a significant contributor to the city's total emissions. Additionally, this approach can enhance food security by providing sustainable agricultural practices that are less vulnerable to the impacts of climate change, such as droughts and floods. By reducing reliance on chemical fertilizers and pesticides, organic farming also supports biodiversity, which is vital for maintaining the ecological balance in the region.",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -625,8 +634,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -634,13 +652,13 @@
         "cityName": "Altamira",
         "region": "PA",
         "regionName": "Par\u00e1",
-        "actionId": "icare_0127",
-        "actionName": "Accelerate Environmental Regularization of Rural Properties",
-        "actionPriority": 11,
-        "explanation": "Accelerating the environmental regularization of rural properties in Altamira is crucial due to the city's significant land use emissions, which are a major contributor to its total emissions. The region's tropical rainforest biome is under threat from deforestation and land misuse, which can be mitigated through proper regularization. This action will help preserve biodiversity and improve the resilience of the ecosystem against climate hazards such as droughts and floods. Additionally, regularization can enhance sustainable land management practices, supporting both environmental and socio-economic stability in the region.",
+        "actionId": "icare_0102",
+        "actionName": "Promote Sustainable Agricultural Practices",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0127",
-            "ActionName": "Accelerate Environmental Regularization of Rural Properties",
+            "ActionID": "icare_0102",
+            "ActionName": "Promote Sustainable Agricultural Practices",
             "ActionType": [
                 "mitigation"
             ],
@@ -654,15 +672,15 @@
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Implement programs to register properties in the Rural Environmental Registry (CAR) and adhere to environmental restoration commitments.",
+            "Description": "Encourage agricultural practices that reduce greenhouse gas emissions, such as reduced use of fertilizers and agrochemicals.",
             "CoBenefits": {
-                "air_quality": 1,
+                "air_quality": 2,
                 "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 0,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 1
+                "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
@@ -676,20 +694,29 @@
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Access to digital platforms and technical training for property registration and restoration processes.",
-                "Financial incentives and partnerships with environmental agencies to support implementation.",
-                "Monitoring and enforcement mechanisms to ensure compliance with restoration commitments."
+                "Development of educational programs and resources to promote sustainable agricultural practices among farmers.",
+                "Implementation of policies that incentivize the reduction of fertilizer and agrochemical use, such as subsidies for organic inputs or sustainable farming techniques.",
+                "Collaboration with agricultural organizations to provide technical support and guidance on emission-reducing practices."
             ],
             "KeyPerformanceIndicators": [
-                "Number of rural properties with regularised Rural Environmental Registration (CAR).",
-                "Total area of native vegetation protected or restored on regularised properties (hectares).",
-                "Annual reduction in greenhouse gas emissions (tCO\u2082e) due to regularisation."
+                "Percentage of farmland adopting sustainable practices (% of total agricultural land).",
+                "Increase in crop yield per hectare (tons/hectare) due to sustainable methods.",
+                "Reduction in water usage for agriculture (liters or m\u00b3/hectare/year)."
             ],
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -699,8 +726,8 @@
         "regionName": "Par\u00e1",
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
-        "actionPriority": 12,
-        "explanation": "Encouraging the use of low-emission agricultural machinery in Altamira is crucial due to the city's significant land use emissions, which are a major contributor to its total emissions profile. By adopting cleaner technologies in agriculture, the city can reduce its environmental impact and improve air quality, which is essential given the high risk of public health issues related to air pollution. Additionally, this action aligns with the need to address the socio-economic challenges faced by the community, as it can lead to more sustainable agricultural practices and potentially lower operational costs for farmers. Implementing this action can also help mitigate the effects of climate change, which is critical in a region vulnerable to droughts and other climate-related hazards.",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -751,8 +778,89 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR ATM",
+        "cityName": "Altamira",
+        "region": "PA",
+        "regionName": "Par\u00e1",
+        "actionId": "icare_0127",
+        "actionName": "Accelerate Environmental Regularization of Rural Properties",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0127",
+            "ActionName": "Accelerate Environmental Regularization of Rural Properties",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implement programs to register properties in the Rural Environmental Registry (CAR) and adhere to environmental restoration commitments.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Access to digital platforms and technical training for property registration and restoration processes.",
+                "Financial incentives and partnerships with environmental agencies to support implementation.",
+                "Monitoring and enforcement mechanisms to ensure compliance with restoration commitments."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of rural properties with regularised Rural Environmental Registration (CAR).",
+                "Total area of native vegetation protected or restored on regularised properties (hectares).",
+                "Annual reduction in greenhouse gas emissions (tCO\u2082e) due to regularisation."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -763,7 +871,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 13,
-        "explanation": "Prioritizing the procurement of locally produced agroecological products in public purchases is crucial for Altamira due to its significant challenges in food security and environmental sustainability. The city faces high risks from droughts and floods, which can severely impact food availability and agricultural productivity. By supporting local agroecological practices, the city can enhance its resilience to these climate hazards while promoting sustainable land use. Additionally, this action can stimulate the local economy by supporting local farmers and reducing dependency on external food sources, thereby improving food security and socio-economic conditions.",
+        "explanation": "Ranked #13 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -814,8 +922,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -826,7 +943,7 @@
         "actionId": "ipcc_0061",
         "actionName": "Soil Carbon Management in Croplands and Grasslands",
         "actionPriority": 14,
-        "explanation": "Soil Carbon Management in Croplands and Grasslands is a crucial action for Altamira due to its significant land use emissions, which are a major contributor to the city's total emissions. By improving soil carbon management, the city can enhance carbon sequestration, thereby reducing its overall carbon footprint. Additionally, this action can improve soil health and productivity, which is vital for food security, especially in a region facing high risks from droughts and floods. Implementing this action can also contribute to biodiversity conservation, as healthier soils support diverse ecosystems.",
+        "explanation": "Ranked #14 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0061",
             "ActionName": "Soil Carbon Management in Croplands and Grasslands",
@@ -876,71 +993,17 @@
                 "biodiversity enhancements"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR ATM",
-        "cityName": "Altamira",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0099",
-        "actionName": "Support Agroecological Certification Programs",
-        "actionPriority": 15,
-        "explanation": "Supporting agroecological certification programs in Altamira is crucial due to the city's location in a tropical rainforest biome, which is highly sensitive to environmental changes. Agroecological practices can help mitigate land use emissions, which are a significant contributor to the city's total emissions. By promoting sustainable agriculture, these programs can enhance food security, which is at high risk from droughts and floods. Additionally, such initiatives can improve the socio-economic conditions by providing better income opportunities for local farmers, aligning with the city's moderate low-income status.",
-        "action": {
-            "ActionID": "icare_0099",
-            "ActionName": "Support Agroecological Certification Programs",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage the certification of agroecological products that meet sustainability criteria and have low environmental impact.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Development of clear and accessible certification standards for agroecological products that emphasize sustainability and low environmental impact.",
-                "Support for farmers and producers to meet certification requirements through training, financial assistance, or technical guidance.",
-                "Creation of marketing strategies and partnerships to increase the visibility and demand for certified agroecological products in local and global markets."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of farmers or producers obtaining agroecological certifications.",
-                "Percentage of certified agricultural products in the market (%).",
-                "Reduction in the use of synthetic inputs (e.g., fertilizers, pesticides)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -950,8 +1013,8 @@
         "regionName": "Par\u00e1",
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-        "actionPriority": 16,
-        "explanation": "Supporting the implementation of ecological fiscal incentives in Altamira is crucial due to the city's significant land use emissions, which are a major contributor to its total emissions. By promoting sustainable land management practices through fiscal incentives, the city can address its high emissions and mitigate environmental impacts. Additionally, these incentives can encourage local stakeholders to engage in conservation efforts, which is vital given the city's location in a tropical rainforest biome. This action aligns with the need to enhance biodiversity protection and reduce the risk of environmental hazards such as droughts and floods.",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1002,71 +1065,17 @@
             "PowersAndMandates": [
                 "state"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR ATM",
-        "cityName": "Altamira",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0132",
-        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
-        "actionPriority": 17,
-        "explanation": "Encouraging local agroecological production and short supply chains in Altamira is crucial due to the city's significant land use emissions and its location in a tropical rainforest biome. This action can help reduce emissions by promoting sustainable agricultural practices that are less reliant on deforestation and long-distance transportation. Additionally, it can enhance food security, which is at high risk from droughts and floods, by ensuring a more resilient local food system. By supporting local farmers and reducing dependency on external food sources, this initiative can also improve socio-economic conditions in the region.",
-        "action": {
-            "ActionID": "icare_0132",
-            "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Support local, sustainable agricultural practices and reduce emissions associated with food transport.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Incentives for sustainable agricultural practices and development of local food distribution networks.",
-                "Partnerships with producers and investment in infrastructure to support local markets.",
-                "Policies to prioritize low-emission transportation methods."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of producers adhering to local agroecological practices.",
-                "Percentage of food consumed in the city from short chains.",
-                "Reduction in emissions associated with food transport (tCO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1076,8 +1085,8 @@
         "regionName": "Par\u00e1",
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
-        "actionPriority": 18,
-        "explanation": "Promoting the adoption of agroecological pest control in Altamira is crucial due to the city's location in a tropical rainforest biome, which is highly sensitive to ecological imbalances. This approach can help maintain biodiversity, which is under threat from various hazards such as droughts and heatwaves. By reducing reliance on chemical pesticides, agroecological methods can also mitigate the risk of water contamination, which is a significant concern given the city's very high inadequate water access. Furthermore, this action supports sustainable agricultural practices, contributing to food security in a region vulnerable to climate impacts.",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1128,8 +1137,161 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR ATM",
+        "cityName": "Altamira",
+        "region": "PA",
+        "regionName": "Par\u00e1",
+        "actionId": "icare_0132",
+        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0132",
+            "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Support local, sustainable agricultural practices and reduce emissions associated with food transport.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Incentives for sustainable agricultural practices and development of local food distribution networks.",
+                "Partnerships with producers and investment in infrastructure to support local markets.",
+                "Policies to prioritize low-emission transportation methods."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of producers adhering to local agroecological practices.",
+                "Percentage of food consumed in the city from short chains.",
+                "Reduction in emissions associated with food transport (tCO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR ATM",
+        "cityName": "Altamira",
+        "region": "PA",
+        "regionName": "Par\u00e1",
+        "actionId": "icare_0099",
+        "actionName": "Support Agroecological Certification Programs",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0099",
+            "ActionName": "Support Agroecological Certification Programs",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Encourage the certification of agroecological products that meet sustainability criteria and have low environmental impact.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development of clear and accessible certification standards for agroecological products that emphasize sustainability and low environmental impact.",
+                "Support for farmers and producers to meet certification requirements through training, financial assistance, or technical guidance.",
+                "Creation of marketing strategies and partnerships to increase the visibility and demand for certified agroecological products in local and global markets."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of farmers or producers obtaining agroecological certifications.",
+                "Percentage of certified agricultural products in the market (%).",
+                "Reduction in the use of synthetic inputs (e.g., fertilizers, pesticides)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1140,7 +1302,7 @@
         "actionId": "ipcc_0052",
         "actionName": "Reduce Deforestation and Degradation",
         "actionPriority": 19,
-        "explanation": "Reducing deforestation and degradation is crucial for Altamira, given its location in a tropical rainforest biome. The city faces significant land use emissions, which are a major contributor to its total emissions profile. By addressing deforestation, Altamira can significantly reduce its carbon footprint and mitigate climate change impacts. Additionally, preserving the rainforest is vital for maintaining biodiversity and protecting water resources, which are at high risk due to droughts. This action is essential for ensuring long-term environmental sustainability and resilience against climate hazards.",
+        "explanation": "Ranked #19 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0052",
             "ActionName": "Reduce Deforestation and Degradation",
@@ -1190,7 +1352,16 @@
                 "the amount of GHG emissions avoided per year"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
             "biome": "tropical_rainforest"
         }
     },
@@ -1202,7 +1373,7 @@
         "actionId": "ipcc_0053",
         "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
         "actionPriority": 20,
-        "explanation": "Afforestation, reforestation, and forest ecosystem restoration are critical actions for Altamira due to its location in a tropical rainforest biome. The city faces significant land use emissions, which are a major contributor to its total emissions profile. By restoring and expanding forested areas, Altamira can effectively sequester carbon, thereby reducing its overall emissions. Additionally, these actions can help mitigate the impacts of climate change, such as droughts and floods, which pose high risks to the city's water resources, food security, and infrastructure. Restoring forest ecosystems also supports biodiversity, which is vital for maintaining ecological balance and resilience.",
+        "explanation": "Ranked #20 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0053",
             "ActionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
@@ -1253,8 +1424,17 @@
                 "ecosystem service metrics such as water regulation and soil quality"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

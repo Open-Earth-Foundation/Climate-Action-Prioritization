@@ -4,479 +4,40 @@
         "cityName": "Ribeir\u00e3o das Neves",
         "region": "MG",
         "regionName": "Minas Gerais",
-        "actionId": "icare_0042",
-        "actionName": "Encourage renewable energy policies at the municipal level",
+        "actionId": "icare_0139",
+        "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Encouraging renewable energy policies at the municipal level in Ribeir\u00e3o das Neves is crucial due to the city's significant stationary energy emissions, which contribute heavily to its total emissions. By promoting renewable energy, the city can reduce its reliance on fossil fuels, thereby decreasing its carbon footprint and improving air quality. Additionally, renewable energy initiatives can stimulate local economic growth and provide new job opportunities, which is particularly beneficial given the city's very low-income socio-economic status. Implementing these policies aligns with global sustainability goals and can enhance the city's resilience against climate-related risks.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0042",
-            "ActionName": "Encourage renewable energy policies at the municipal level",
+            "ActionID": "icare_0139",
+            "ActionName": "Implementation of urban toll.",
             "ActionType": [
                 "mitigation"
             ],
             "Hazard": null,
             "Sector": [
-                "stationary_energy"
+                "transportation"
             ],
             "Subsector": [
-                "non-specified_sources"
+                "on-road"
             ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Advocate for and implement policies that prioritize the development and integration of renewable energy systems in local government operations and planning.",
+            "Description": "Establishment of a congestion charge and/or license plate rotation for light vehicles in saturated areas and at saturated times",
             "CoBenefits": {
                 "air_quality": 2,
                 "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Political will and leadership to prioritize renewable energy in local government policies and planning processes",
-                "Development of clear policies and regulatory frameworks that facilitate the integration of renewable energy systems into government operations",
-                "Availability of funding or financial mechanisms to support the transition to renewable energy in municipal infrastructure and operations"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of renewable energy projects approved or initiated annually at the municipal level.",
-                "Percentage of municipal energy demand met by renewable sources (%).",
-                "Reduction in municipal carbon emissions due to --renewable energy adoption (tons CO\u2082e/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0024",
-        "actionName": "Integrate renewables into municipal water systems",
-        "actionPriority": 2,
-        "explanation": "Integrating renewables into municipal water systems in Ribeir\u00e3o das Neves is a crucial step towards enhancing the city's resilience against climate change impacts. The city faces significant risks from droughts, which threaten water resources and food security. By incorporating renewable energy, the city can ensure a more reliable and sustainable water supply, reducing dependency on traditional energy sources that contribute to emissions. This action also aligns with the city's need to address its high stationary energy emissions, promoting a cleaner and more sustainable urban environment.",
-        "action": {
-            "ActionID": "icare_0024",
-            "ActionName": "Integrate renewables into municipal water systems",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implement renewable energy sources, such as solar or wind power, to drive water treatment, pumping, and distribution systems, reducing energy costs and emissions.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of funding or financial incentives to integrate renewable energy sources like solar or wind power into water treatment and distribution systems",
-                "Technical expertise and infrastructure to retrofit existing systems with renewable energy solutions or design new facilities powered by renewables",
-                "Policy and regulatory support to encourage the use of clean energy in water systems and ensure its integration into municipal energy grids"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of municipal water systems powered by renewables.",
-                "Reduction in energy consumption from non-renewable sources (kWh/year).",
-                "GHG emissions avoided (tons CO\u2082e)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0038",
-        "actionName": "Promote community solar farms",
-        "actionPriority": 3,
-        "explanation": "Promoting community solar farms in Ribeir\u00e3o das Neves is a strategic action to address the city's high stationary energy emissions. By harnessing solar energy, the city can reduce its reliance on traditional energy sources, thereby decreasing its overall carbon footprint. Additionally, this initiative can provide affordable and sustainable energy solutions to the local population, which is crucial given the very low income levels in the area. Furthermore, community solar farms can foster local job creation and economic development, contributing to the socio-economic upliftment of the region.",
-        "action": {
-            "ActionID": "icare_0038",
-            "ActionName": "Promote community solar farms",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Develop and encourage the adoption of shared solar energy projects, enabling communities to collectively benefit from clean, renewable power.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
                 "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of policies and regulatory frameworks to support community-based shared solar energy projects and ensure equitable access to clean energy",
-                "Availability of financial mechanisms or incentives to help communities invest in and maintain shared solar energy systems",
-                "Collaboration between local governments, energy providers, and community organizations to design and implement shared solar projects effectively"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of households served by community solar projects.",
-                "GHG emissions avoided through solar energy production (tons CO\u2082e)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0033",
-        "actionName": "Install biodigesters in rural properties",
-        "actionPriority": 4,
-        "explanation": "Installing biodigesters in rural properties in Ribeir\u00e3o das Neves is a strategic action to address waste emissions, which are a significant component of the city's total emissions. Biodigesters can help convert organic waste into biogas, reducing methane emissions and providing a renewable energy source. This action is particularly relevant given the city's low-income status, as it can offer cost-effective energy solutions and improve waste management. Additionally, by reducing waste emissions, the city can mitigate some of the environmental impacts associated with its current waste management practices.",
-        "action": {
-            "ActionID": "icare_0033",
-            "ActionName": "Install biodigesters in rural properties",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Equip rural farms and properties with biodigesters to convert organic waste into biogas and nutrient-rich fertilizers, providing a sustainable energy source.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
+                "cost_of_living": -1,
                 "housing": 0,
-                "mobility": 0,
+                "mobility": 2,
                 "stakeholder_engagement": 0
             },
             "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Availability of funding or subsidies to support the installation of biodigesters on rural farms and properties",
-                "Access to technical expertise for the design, installation, and maintenance of biodigesters",
-                "Development of a supportive regulatory framework that encourages the use of biogas and organic waste management systems in rural agriculture"
-            ],
-            "KeyPerformanceIndicators": [
-                "Volume of biogas generated (m\u00b3/year).",
-                "GHG emissions avoided by replacing fossil fuels (tons CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0040",
-        "actionName": "Adopt solar-powered street lighting in rural areas",
-        "actionPriority": 5,
-        "explanation": "Adopting solar-powered street lighting in rural areas of Ribeir\u00e3o das Neves is a strategic move to enhance energy efficiency and reduce emissions. The city has significant stationary energy emissions, and transitioning to solar energy can help mitigate this impact. Additionally, solar lighting can improve safety and accessibility in rural areas, which may currently lack adequate infrastructure. This action aligns with the city's need to address energy security and reduce its carbon footprint, contributing to a more sustainable and resilient community.",
-        "action": {
-            "ActionID": "icare_0040",
-            "ActionName": "Adopt solar-powered street lighting in rural areas",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Install solar-powered streetlights to improve safety and accessibility in rural communities while reducing energy costs and environmental impact.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of funding or financial mechanisms to support the installation of solar-powered streetlights in rural communities",
-                "Access to technical expertise to design, install, and maintain solar-powered street lighting systems",
-                "Collaboration with local governments and communities to ensure the integration of solar streetlights into existing infrastructure and energy plans"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of streetlights powered by solar energy.",
-                "Annual reduction in electricity consumption (kWh).",
-                "GHG emissions avoided (tons CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0029",
-        "actionName": "Adopt policies for fossil fuel-free buildings",
-        "actionPriority": 6,
-        "explanation": "Adopting policies for fossil fuel-free buildings in Ribeir\u00e3o das Neves is crucial due to the city's high population density and significant stationary energy emissions. Transitioning to cleaner energy sources in buildings can substantially reduce the city's overall emissions, contributing to improved air quality and public health. Additionally, this action aligns with the need to mitigate climate change impacts, such as heatwaves and floods, which pose high risks to public health and infrastructure in the region. Implementing these policies can also set a precedent for sustainable urban development, fostering a healthier and more resilient community.",
-        "action": {
-            "ActionID": "icare_0029",
-            "ActionName": "Adopt policies for fossil fuel-free buildings",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Enforce regulations requiring new constructions to utilize renewable energy systems, energy-efficient designs, and zero-emission technologies.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of building codes and regulatory frameworks that mandate the integration of renewable energy systems and energy-efficient designs in new constructions",
-                "Availability of incentives or support for developers to comply with regulations and adopt zero-emission technologies",
-                "Technical expertise and resources to ensure proper implementation and monitoring of renewable energy systems and energy-efficient designs in construction projects"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of buildings transitioning to renewable energy sources.",
-                "Total reduction in fossil fuel use for heating/cooling (m\u00b3 or liters).",
-                "Decrease in building-related GHG emissions (tons CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0097",
-        "actionName": "Support Distributed Energy Generation in Residences and Businesses",
-        "actionPriority": 7,
-        "explanation": "Supporting distributed energy generation in residences and businesses is crucial for Ribeir\u00e3o das Neves due to its high stationary energy emissions. By promoting local energy generation, the city can reduce its reliance on centralized power sources, which often contribute significantly to emissions. This action also aligns with the need to enhance energy security, especially in a region where droughts pose a risk to traditional energy sources. Furthermore, distributed energy systems can provide resilience against power outages, which is vital for maintaining public health and infrastructure stability in the face of climate-related hazards.",
-        "action": {
-            "ActionID": "icare_0097",
-            "ActionName": "Support Distributed Energy Generation in Residences and Businesses",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Facilitate the use of solar panels and other renewable energy technologies in homes and commercial buildings.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Provide financial incentives, clear installation regulations, and access to affordable technologies for solar panels.",
-                "Launch public awareness campaigns and offer training for homeowners and businesses.",
-                "Encourage adoption of renewable energy technologies to promote long-term energy savings."
-            ],
-            "KeyPerformanceIndicators": [
-                "Installed capacity of distributed energy generation (MW).",
-                "Percentage of homes and businesses generating their own energy (%).",
-                "Reduction in CO\u2082 emissions through distributed generation (tCO\u2082e/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0011",
-        "actionName": "Provide tax incentives for renewable energy in residential projects",
-        "actionPriority": 8,
-        "explanation": "Providing tax incentives for renewable energy in residential projects is crucial for Ribeir\u00e3o das Neves due to its high stationary energy emissions. Encouraging the adoption of renewable energy can significantly reduce these emissions, contributing to a cleaner environment. Additionally, this action can help mitigate the impact of heatwaves, which pose a high risk to public health in the city. By promoting renewable energy, the city can also enhance its energy security, reducing dependency on non-renewable sources.",
-        "action": {
-            "ActionID": "icare_0011",
-            "ActionName": "Provide tax incentives for renewable energy in residential projects",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage homeowners to adopt solar, wind, and other clean energy sources.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 2,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
+                "stationary_energy": null,
+                "transportation": "80-100",
                 "waste": null,
                 "ippu": null,
                 "afolu": null
@@ -485,649 +46,28 @@
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Availability of financial incentives, subsidies, or tax credits to encourage homeowners to install solar, wind, and other clean energy systems",
-                "Access to information and educational resources to help homeowners understand the benefits, costs, and installation processes for clean energy systems",
-                "Development of supportive regulations and policies that facilitate the installation of renewable energy technologies in residential areas"
+                "Establish a clear legal framework and invest in technology for monitoring and enforcement (e.g., cameras, sensors).",
+                "Launch awareness campaigns and ensure availability of efficient public transportation or alternative mobility solutions.",
+                "Collaborate with local governments and transport agencies, and set up systems for monitoring and evaluating the policy's effectiveness."
             ],
             "KeyPerformanceIndicators": [
-                "Number of households benefiting from tax incentives for renewable energy adoption.",
-                "Annual increase in renewable energy installations in residential projects.",
-                "Estimated reduction in CO\u2082 equivalent emissions from renewable energy adoption."
+                "Reduction of CO\u2082 emissions from urban road transport (tCO\u2082e/year).",
+                "Revenue generated by the implementation of the urban congestion charge (R$)."
             ],
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0105",
-        "actionName": "Reduce technical losses in energy distribution networks",
-        "actionPriority": 9,
-        "explanation": "Reducing technical losses in energy distribution networks is crucial for Ribeir\u00e3o das Neves due to its significant stationary energy emissions. By improving the efficiency of energy distribution, the city can lower its overall emissions, contributing to a cleaner environment. Additionally, this action can enhance energy security, which is vital given the city's vulnerability to droughts affecting energy resources. Implementing this measure can also lead to cost savings for both the energy providers and consumers, making it a financially beneficial initiative.",
-        "action": {
-            "ActionID": "icare_0105",
-            "ActionName": "Reduce technical losses in energy distribution networks",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Upgrade and maintain electrical infrastructure to minimize energy lost during transmission and distribution, improving overall grid efficiency.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of funding to invest in modernizing electrical infrastructure and upgrading transmission and distribution networks",
-                "Access to technical expertise for implementing upgrades that reduce energy losses and improve grid efficiency",
-                "Policy and regulatory frameworks to ensure ongoing maintenance and integration of energy-efficient technologies into the grid infrastructure"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage reduction in technical losses from baseline (%).",
-                "Energy savings achieved annually (kWh).",
-                "GHG emissions avoided through reduced energy losses (tons CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0005",
-        "actionName": "Create credit lines for residential and community wind energy projects",
-        "actionPriority": 10,
-        "explanation": "Creating credit lines for residential and community wind energy projects in Ribeir\u00e3o das Neves is a strategic action to address the city's energy needs sustainably. Given the city's high population density and low-income levels, providing financial support for renewable energy projects can help reduce energy costs for residents. Additionally, this initiative can contribute to lowering stationary energy emissions, which are a significant part of the city's total emissions. By promoting wind energy, the city can enhance its energy security and resilience against climate-related risks such as droughts and heatwaves.",
-        "action": {
-            "ActionID": "icare_0005",
-            "ActionName": "Create credit lines for residential and community wind energy projects",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Establish accessible financing programs to support the development and adoption of wind energy systems in households and community-based projects, enabling a transition to cleaner energy sources.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 2,
-                "housing": 2,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of financial programs, grants, or subsidies to make wind energy systems affordable for households and community projects",
-                "Access to technical expertise and resources to guide the installation and maintenance of wind energy systems in residential and community settings",
-                "Policy and regulatory support to encourage the adoption of wind energy, including streamlined permitting processes and incentives for clean energy projects"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of wind energy projects financed annually.",
-                "Installed capacity of wind energy systems from credit-supported projects (MW).",
-                "Estimated reduction in CO\u2082 equivalent emissions from wind energy adoption."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0020",
-        "actionName": "Promote sustainable construction practices and encourage green technologies in public, residential, commercial, industrial, and service buildings.",
-        "actionPriority": 11,
-        "explanation": "Promoting sustainable construction practices and encouraging green technologies in Ribeir\u00e3o das Neves is crucial due to the city's high population density and significant emissions from stationary energy and transportation. Implementing these practices can help reduce the city's overall carbon footprint, addressing the high total emissions of 473,401.459 tons. Additionally, sustainable construction can improve resilience against climate-related hazards such as floods and heatwaves, which pose significant risks to public health and infrastructure. By adopting green technologies, the city can also enhance its energy efficiency, contributing to better energy security and reducing the socio-economic impact on its low-income population.",
-        "action": {
-            "ActionID": "icare_0020",
-            "ActionName": "Promote sustainable construction practices and encourage green technologies in public, residential, commercial, industrial, and service buildings.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "This action seeks to increase the share of renewable energy sources in the city energy matrix, focusing on residential, commercial, industrial, and service buildings.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of incentives and subsidies to encourage the adoption of renewable energy technologies in buildings",
-                "Development of a supportive regulatory framework for the installation and integration of renewable energy systems in residential, commercial, and industrial sectors",
-                "Investment in the necessary infrastructure to support renewable energy generation and distribution within the city"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of jobs created in circular economy sectors.",
-                "Increase in the percentage of materials reused or recycled in the city.",
-                "Annual reduction in CO\u2082 equivalent emissions from circular economy initiatives."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0008",
-        "actionName": "Develop Smart Grids and Energy Storage Systems",
-        "actionPriority": 12,
-        "explanation": "Developing smart grids and energy storage systems in Ribeir\u00e3o das Neves is crucial due to the city's high stationary energy emissions. By implementing these technologies, the city can enhance energy efficiency and reduce emissions, contributing to a more sustainable environment. Additionally, smart grids can improve energy security, which is vital given the city's vulnerability to droughts affecting energy resources. This action also aligns with the need to address public health risks associated with heatwaves, as improved energy systems can support better cooling solutions.",
-        "action": {
-            "ActionID": "icare_0008",
-            "ActionName": "Develop Smart Grids and Energy Storage Systems",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "This action focuses on the development of smart grids and energy storage systems to optimize energy management and enhance the integration of renewable energy sources. Smart grids enable more efficient distribution and use of electricity, while energy storage systems help store excess renewable energy for later use. Together, they ensure a stable, reliable, and sustainable energy supply, enabling municipalities to better manage energy demand, reduce grid congestion, and support the transition to clean energy.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Investment in the development and deployment of smart grids and energy storage technologies to improve energy management",
-                "Technical expertise and infrastructure to integrate renewable energy sources into the smart grid and ensure effective energy storage",
-                "Policy and regulatory frameworks to support the widespread adoption of smart grids and energy storage systems, including incentives and grid integration standards"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of the grid covered by smart grid technology.",
-                "Installed capacity of energy storage systems (MW or MWh).",
-                "Reduction in energy losses across the grid (%)."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0002",
-        "actionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
-        "actionPriority": 13,
-        "explanation": "Encouraging the use of the Brazilian Labeling Program for Buildings in Ribeir\u00e3o das Neves is a strategic action to improve energy efficiency and reduce emissions. The city has significant stationary energy emissions, and this program can help mitigate these by promoting energy-efficient building practices. Additionally, with the city's low-income status, improving energy efficiency can lead to cost savings for residents, making it a socially beneficial initiative. This action also aligns with the need to address public health risks associated with heatwaves, as energy-efficient buildings can provide better thermal comfort.",
-        "action": {
-            "ActionID": "icare_0002",
-            "ActionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promote energy efficiency labeling in public, commercial, and service buildings.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Establish clear standards and regulations for energy efficiency labeling.",
-                "Launch public awareness campaigns and provide incentives for buildings to obtain labels.",
-                "Offer training for building managers to improve energy performance and adoption of labels."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of new buildings with an A rating on the energy efficiency label.",
-                "Estimated reduction in emissions (tCO\u2082e/year) due to the energy efficiency of labeled buildings."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0027",
-        "actionName": "Create financing programs for local renewable energy projects",
-        "actionPriority": 14,
-        "explanation": "Creating financing programs for local renewable energy projects in Ribeir\u00e3o das Neves is crucial due to the city's high stationary energy emissions. By promoting renewable energy, the city can significantly reduce its carbon footprint and improve air quality. Additionally, such programs can stimulate local economic growth by creating jobs and fostering innovation in the energy sector. Given the city's socio-economic challenges, these programs can also provide affordable energy solutions to low-income households, enhancing their quality of life. Overall, this action aligns with the city's need to address environmental and socio-economic issues simultaneously.",
-        "action": {
-            "ActionID": "icare_0027",
-            "ActionName": "Create financing programs for local renewable energy projects",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Establish funding mechanisms, such as grants and low-interest loans, to support the development of small-scale renewable energy initiatives in communities.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 2,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of accessible financial mechanisms, including grants and low-interest loans, to support small-scale renewable energy projects in communities",
-                "Collaboration with financial institutions and local governments to ensure the effective disbursement and management of funding for renewable energy initiatives",
-                "Clear guidelines and support for community organizations and local businesses to access funding and successfully implement renewable energy projects"
-            ],
-            "KeyPerformanceIndicators": [
-                "Total funds allocated for renewable energy projects (USD).",
-                "Number of projects financed annually.",
-                "Increase in renewable energy capacity installed (MW)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0043",
-        "actionName": "Integrate geothermal energy for heating where feasible",
-        "actionPriority": 15,
-        "explanation": "Integrating geothermal energy for heating in Ribeir\u00e3o das Neves could significantly reduce stationary energy emissions, which are currently a major contributor to the city's total emissions. Given the city's high population density and the need for sustainable energy solutions, geothermal energy offers a renewable and low-emission alternative. Although the socio-economic factors indicate a very low-income level, which might pose challenges in implementation, the long-term benefits of reduced emissions and energy costs could outweigh the initial investment. Additionally, this action aligns with the city's need to address climate change impacts, particularly in reducing emissions and enhancing energy security.",
-        "action": {
-            "ActionID": "icare_0043",
-            "ActionName": "Integrate geothermal energy for heating where feasible",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Utilize geothermal heat pumps and direct-use geothermal systems to provide sustainable and efficient heating solutions in suitable locations.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Availability of technical expertise and resources to assess the feasibility and install geothermal heat pumps and direct-use systems in suitable locations",
-                "Access to financing or incentives to support the adoption of geothermal heating solutions in residential, commercial, or public facilities",
-                "Development of regulatory frameworks to guide the installation and ensure proper integration of geothermal systems into local energy infrastructure"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of heating systems in the city powered by geothermal energy (%).",
-                "Annual reduction in fossil fuel consumption for heating (liters or tons of CO\u2082e avoided).",
-                "Cost savings for residents or businesses using geothermal energy compared to traditional heating methods (USD/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0046",
-        "actionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
-        "actionPriority": 16,
-        "explanation": "Promoting socioeconomic development in Ribeir\u00e3o das Neves is crucial due to the city's very low income levels, which can hinder overall quality of life. By focusing on a circular economy and zero carbon emissions, the city can address its significant emissions from stationary energy and transportation, contributing to a more sustainable environment. This approach not only aims to improve economic conditions but also aligns with global sustainability goals, potentially attracting investments and fostering innovation. Additionally, enhancing the quality of life through sustainable practices can mitigate the risks associated with climate hazards such as droughts and floods, which pose significant threats to public health and infrastructure.",
-        "action": {
-            "ActionID": "icare_0046",
-            "ActionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "commercial_and_institutional_buildings_and_facilities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "The city government should undertake political action consistent with its economic capacity and the challenges it faces to support the development of a new, sustainable economy with zero carbon emissions, one that protects labor conditions, entrepreneurship, and the economic vitality of the city.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Political will and leadership: A committed local government willing to prioritize sustainable development and carbon neutrality.",
-                "Economic capacity and resources: Sufficient financial resources to invest in green initiatives and sustainable infrastructure.",
-                "Collaboration with stakeholders: Engaging with businesses, labor unions, and entrepreneurs to align strategies and ensure the economic transition is inclusive and equitable."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage reduction in municipal carbon emissions per capita (%).",
-                "Number of circular economy initiatives implemented annually (e.g., recycling programs, waste-to-energy projects).",
-                "Increase in green jobs created through circular economy and zero-carbon initiatives (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0004",
-        "actionName": "Raise awareness to reduce peak-hour energy consumption",
-        "actionPriority": 17,
-        "explanation": "Raising awareness to reduce peak-hour energy consumption is crucial for Ribeir\u00e3o das Neves due to its high stationary energy emissions. By targeting peak-hour consumption, the city can alleviate stress on the energy grid, potentially reducing emissions and improving energy security. Additionally, this action can help mitigate the impact of heatwaves, which pose a significant risk to public health in the area. Educating the population on energy conservation can lead to long-term behavioral changes that support sustainable energy use.",
-        "action": {
-            "ActionID": "icare_0004",
-            "ActionName": "Raise awareness to reduce peak-hour energy consumption",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Launch educational campaigns and initiatives to encourage consumers to shift energy use to off-peak hours, alleviating strain on the grid and reducing overall energy costs.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of targeted educational campaigns to raise awareness about the benefits of shifting energy use to off-peak hours",
-                "Collaboration with utility companies to provide data and tools that help consumers understand peak and off-peak energy times",
-                "Incentives or pricing mechanisms, such as time-of-use rates, to encourage consumers to adopt energy consumption patterns that reduce grid strain during peak hours"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage reduction in energy consumption during peak hours.",
-                "Number of households and businesses participating in awareness programs.",
-                "Estimated reduction in CO\u2082 equivalent emissions from reduced peak-hour energy usage."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0022",
-        "actionName": "Set municipal energy efficiency targets",
-        "actionPriority": 18,
-        "explanation": "Setting municipal energy efficiency targets is crucial for Ribeir\u00e3o das Neves due to its significant stationary energy emissions, which contribute heavily to the city's total emissions. By improving energy efficiency, the city can reduce its carbon footprint, which is essential given the high risk of climate-related hazards such as heatwaves and floods that threaten public health and infrastructure. Additionally, enhancing energy efficiency can lead to cost savings and improved energy security, which is particularly important in a region with socio-economic challenges. This action aligns with the city's need to address environmental sustainability while also considering economic and social benefits.",
-        "action": {
-            "ActionID": "icare_0022",
-            "ActionName": "Set municipal energy efficiency targets",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "non-specified_sources"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Define measurable goals for energy savings in municipal operations and infrastructure, promoting accountability and progress toward sustainability objectives.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Development of clear, measurable energy-saving targets for municipal operations and infrastructure",
-                "Access to data and tools to track and assess energy consumption across different municipal sectors",
-                "Policy and leadership commitment to integrating energy-saving goals into municipal planning, budgeting, and operations"
-            ],
-            "KeyPerformanceIndicators": [
-                "Annual progress toward achieving municipal energy efficiency targets (%).",
-                "Reduction in municipal energy consumption (kWh/year).",
-                "Estimated reduction in CO\u2082 equivalent emissions from municipal energy efficiency efforts."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1137,8 +77,8 @@
         "regionName": "Minas Gerais",
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
-        "actionPriority": 19,
-        "explanation": "The incentive to create bike-sharing programs, particularly with electric bikes, is a strategic action for Ribeir\u00e3o das Neves. This city has a high population density, which makes it suitable for bike-sharing as a means to reduce transportation emissions, currently a significant contributor to the city's total emissions. Additionally, promoting electric bikes can help mitigate the impact of heatwaves on public health by providing a cooler, more sustainable transportation option. Encouraging bike-sharing can also improve access to transportation for low-income residents, aligning with the city's socio-economic needs.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -1189,8 +129,605 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0094",
+        "actionName": "Adoption of biomethane in public fleets.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0094",
+            "ActionName": "Adoption of biomethane in public fleets.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Use biomethane produced from urban and agro-industrial waste to fuel public buses and trucks, reducing greenhouse gas emissions in municipal fleets",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development of infrastructure for the production, processing, and distribution of biomethane from urban and agro-industrial waste.",
+                "Retrofitting or acquisition of public buses and trucks capable of using biomethane as a fuel source.",
+                "Establishment of policies and financial incentives to support biomethane production and its integration into municipal fleets."
+            ],
+            "KeyPerformanceIndicators": [
+                "Cost savings in fleet operation due to biomethane use (USD/year).",
+                "Increase in biomethane production capacity (%).",
+                "Percentage of biomethane sourced locally versus imported."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0042",
+        "actionName": "Encourage renewable energy policies at the municipal level",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0042",
+            "ActionName": "Encourage renewable energy policies at the municipal level",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "non-specified_sources"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Advocate for and implement policies that prioritize the development and integration of renewable energy systems in local government operations and planning.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 1,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Political will and leadership to prioritize renewable energy in local government policies and planning processes",
+                "Development of clear policies and regulatory frameworks that facilitate the integration of renewable energy systems into government operations",
+                "Availability of funding or financial mechanisms to support the transition to renewable energy in municipal infrastructure and operations"
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of renewable energy projects approved or initiated annually at the municipal level.",
+                "Percentage of municipal energy demand met by renewable sources (%).",
+                "Reduction in municipal carbon emissions due to --renewable energy adoption (tons CO\u2082e/year)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0057",
+        "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0057",
+            "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "railways"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "These systems offer high capacity and low emissions, crucial for cities with high population density.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in the development and expansion of high-capacity public transportation infrastructure, such as electric buses and metro systems.",
+                "Implementation of policies and incentives to encourage the use of public transport over private vehicles.",
+                "Integration of renewable energy sources to power these systems, reducing emissions further."
+            ],
+            "KeyPerformanceIndicators": [
+                "Length of new transit lines built (km/year).",
+                "Reduction in road traffic congestion (%).",
+                "Reduction in private vehicle usage (number of trips avoided/year)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "c40_0026",
+        "actionName": "Vehicle Emissions",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0026",
+            "ActionName": "Vehicle Emissions",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "\"Vehicle Emissions\" reduction strategies focus on minimizing the environmental impact of all types of vehicles. Implementing cleaner technologies and promoting alternative fuels contribute to lower emissions, fostering sustainable and eco-friendly transportation.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "The \"Vehicle Emissions\" reduction strategies inherently promote equity and inclusion by addressing the environmental impacts that disproportionately affect vulnerable and underserved communities. These communities often experience higher levels of air pollution and related health issues due to proximity to high-traffic areas and industrial zones. By implementing cleaner technologies and promoting alternative fuels, the action directly benefits these populations by improving air quality and reducing health risks.\n \n Additionally, the focus on sustainable and eco-friendly transportation can enhance access to affordable and efficient transportation options for underserved communities, which may lack reliable public transit. This inclusivity ensures that all community members, regardless of socioeconomic status, can benefit from cleaner air and improved public health outcomes. Overall, the action recognizes and addresses the specific needs of vulnerable populations, fostering a more equitable approach to climate action.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development and availability of cleaner vehicle technologies",
+                "Infrastructure for alternative fuel distribution",
+                "Government policies and regulations supporting emissions reduction",
+                "Public awareness and acceptance of eco-friendly transportation options",
+                "Investment in research and development for sustainable transportation solutions"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in vehicle emissions (CO2, NOx, PM)",
+                "Percentage of vehicles using alternative fuels",
+                "Number of electric vehicles on the road",
+                "Fuel efficiency improvements (miles per gallon)",
+                "Adoption rate of cleaner technologies",
+                "Reduction in fossil fuel consumption",
+                "Public transportation usage rates",
+                "Air quality index improvements",
+                "Percentage of low-emission zones established",
+                "Investment in sustainable transportation infrastructure"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0059",
+        "actionName": "Modernization of ports and airports with zero-emission technologies",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0059",
+            "ActionName": "Modernization of ports and airports with zero-emission technologies",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "aviation"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Ports and airports can switch heavy machinery and vehicles to electric or hydrogen-powered versions, cutting GHG emissions in major transport infrastructures.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": ">10 years",
+            "Dependencies": [
+                "Investment in the development and deployment of electric and hydrogen-powered machinery and vehicles for ports and airports.",
+                "Construction of refueling and charging infrastructure for electric and hydrogen-powered equipment within these transport hubs.",
+                "Collaboration with regulatory bodies to ensure that new technologies comply with environmental standards and safety regulations."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of operations powered by zero-emission technologies.",
+                "Annual reduction in fossil fuel use at ports and airports (liters/year).",
+                "GHG emissions reduction from port and airport modernization (tons CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0099",
+        "actionName": "Support Agroecological Certification Programs",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0099",
+            "ActionName": "Support Agroecological Certification Programs",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Encourage the certification of agroecological products that meet sustainability criteria and have low environmental impact.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development of clear and accessible certification standards for agroecological products that emphasize sustainability and low environmental impact.",
+                "Support for farmers and producers to meet certification requirements through training, financial assistance, or technical guidance.",
+                "Creation of marketing strategies and partnerships to increase the visibility and demand for certified agroecological products in local and global markets."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of farmers or producers obtaining agroecological certifications.",
+                "Percentage of certified agricultural products in the market (%).",
+                "Reduction in the use of synthetic inputs (e.g., fertilizers, pesticides)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0132",
+        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0132",
+            "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Support local, sustainable agricultural practices and reduce emissions associated with food transport.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Incentives for sustainable agricultural practices and development of local food distribution networks.",
+                "Partnerships with producers and investment in infrastructure to support local markets.",
+                "Policies to prioritize low-emission transportation methods."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of producers adhering to local agroecological practices.",
+                "Percentage of food consumed in the city from short chains.",
+                "Reduction in emissions associated with food transport (tCO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "c40_0035",
+        "actionName": "Waste Efficiency",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0035",
+            "ActionName": "Waste Efficiency",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "all"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "\"Waste Efficiency\" initiatives aim to improve the efficiency of waste collection processes, reducing resource consumption and minimizing environmental impact. This includes optimizing waste management systems to enhance energy efficiency and promote sustainable waste disposal practices.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "The \"Waste Efficiency\" initiatives promote equity and inclusion by focusing on underserved communities that often bear the brunt of inefficient waste management systems. By optimizing waste collection processes, these initiatives can reduce the environmental burden on vulnerable populations, who may live in areas disproportionately affected by waste and pollution. \n \n Additionally, improving energy efficiency in waste management can lead to cost savings, which can be reinvested into community services or infrastructure that benefit low-income neighborhoods. The promotion of sustainable waste disposal practices also ensures that all community members, regardless of socioeconomic status, have access to environmentally responsible options, fostering a sense of shared responsibility and inclusion in climate action efforts. \n \n Overall, these initiatives recognize the unique challenges faced by underserved communities and aim to create a more equitable waste management system that benefits all residents.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "80-100",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Effective waste management infrastructure and technology",
+                "Collaboration with local governments and waste management authorities",
+                "Public awareness and education on waste disposal practices",
+                "Access to data for monitoring and optimizing waste collection processes",
+                "Investment in sustainable waste processing facilities"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in waste collection costs",
+                "Percentage decrease in waste sent to landfills",
+                "Increase in recycling rates",
+                "Energy consumption per ton of waste collected",
+                "Carbon emissions reduction from waste management",
+                "Customer satisfaction with waste collection services",
+                "Volume of waste processed through sustainable methods",
+                "Operational efficiency of waste collection routes"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1200,8 +737,8 @@
         "regionName": "Minas Gerais",
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-        "actionPriority": 20,
-        "explanation": "Prioritizing the procurement of locally produced agroecological products in public purchases is crucial for Ribeir\u00e3o das Neves due to its very low-income socio-economic status. This action can stimulate the local economy by supporting local farmers and producers, thereby creating jobs and increasing income levels. Additionally, it can enhance food security, which is a significant concern given the high risk of droughts and floods impacting food availability. By focusing on agroecological products, the city can also promote sustainable agricultural practices that are better suited to the local biome and environmental conditions.",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -1252,8 +789,670 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0085",
+        "actionName": "Promote the Adoption of Agroecological Pest Control",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0085",
+            "ActionName": "Promote the Adoption of Agroecological Pest Control",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Encourage pest control methods that are agroecological, such as using natural predators and repellent plants, to reduce reliance on chemical pesticides.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development of educational programs to inform farmers about agroecological pest control methods and their benefits.",
+                "Provision of access to resources or materials for implementing natural pest control methods, such as introducing beneficial insects or cultivating repellent plants.",
+                "Creation of incentives or support networks to encourage the transition away from chemical pesticides in favor of sustainable alternatives."
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in productivity rates in areas adopting agroecological pest control (%).",
+                "Number of educational campaigns conducted on sustainable pest control.",
+                "Impact on total production costs due to the adoption of agroecological practices (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0021",
+        "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0021",
+            "ActionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "The objective of this action is to rationalize the use of individual motorized transportation, reducing its share in the mobility matrix. It is also important to regulate private app-based transportation services, aiming to provide quality service integrated with the city's overall mobility.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Development of policies and regulations to reduce the use of individual motorized transportation and encourage alternative modes of transport",
+                "Integration of private app-based transportation services with the city's public transportation system for seamless mobility",
+                "Investment in public transport infrastructure to provide accessible, reliable, and high-quality alternatives to private car usage"
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage reduction in private vehicle use in the city (%).",
+                "Increase in public transportation ridership annually (%).",
+                "Reduction in CO\u2082 equivalent emissions from reduced motorized transportation (tons/year)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0117",
+        "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0117",
+            "ActionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Increase the quality of transportation service delivery, aiming at the modal shift of passengers from private motorized transport to public transport, thereby reducing emissions generated by cars and motorcycles.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Improve the quality of public transportation services to attract passengers from private motorized transport.",
+                "Implement policies and infrastructure that support and enhance the efficiency of public transportation systems.",
+                "Promote awareness of the environmental benefits of public transport to encourage a modal shift and reduce emissions."
+            ],
+            "KeyPerformanceIndicators": [
+                "Annual increase in the number of passengers using the municipal bus system.",
+                "Percentage of bus routes with improved travel time reliability.",
+                "Estimated reduction in CO\u2082 equivalent emissions due to increased public transportation use."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0091",
+        "actionName": "Implementation of prioritized routes for sustainable vehicles.",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0091",
+            "ActionName": "Implementation of prioritized routes for sustainable vehicles.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Create priority lanes for electric, hybrid, and low-emission vehicles in urban centers to encourage their adoption and reduce pollution in high-traffic areas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Implementation of traffic management systems to enforce and monitor the use of priority lanes.",
+                "Development of clear signage and public awareness campaigns to inform drivers about lane eligibility and usage.",
+                "Establishment of regulatory frameworks incentivizing the adoption of low-emission vehicles for eligibility in priority lanes."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of sustainable vehicles using prioritized routes.",
+                "Increase in delivery efficiency for goods transported via prioritized routes (%).",
+                "Public acceptance rate of prioritized routes for sustainable vehicles (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "c40_0036",
+        "actionName": "Landfill Management",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0036",
+            "ActionName": "Landfill Management",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "all"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "\"Landfill Management\" strategies focus on responsible and sustainable landfill practices to minimize environmental degradation. By adopting effective management techniques, cities aim to reduce the ecological footprint associated with landfill sites and encourage waste reduction.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "The \"Landfill Management\" strategies promote equity and inclusion by addressing the environmental impacts of landfill sites, which often disproportionately affect vulnerable and underserved communities. These communities frequently reside near landfills and are more susceptible to health risks associated with pollution and environmental degradation. By implementing responsible and sustainable landfill practices, the action aims to reduce these negative impacts, thereby improving the quality of life for residents in these areas.\n \n Additionally, effective waste reduction techniques can create opportunities for community engagement and participation, allowing underserved populations to have a voice in local environmental decisions. This inclusion fosters a sense of ownership and empowerment among community members, ensuring that their needs and concerns are considered in the management of landfill sites. Overall, the action acknowledges and seeks to mitigate the inequities faced by marginalized communities in relation to waste management and environmental health.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "60-79",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Effective waste segregation practices to ensure proper disposal and recycling",
+                "Investment in technology for waste treatment and landfill monitoring",
+                "Community engagement and education on waste reduction and recycling",
+                "Regulatory frameworks and policies supporting sustainable landfill practices",
+                "Collaboration with local governments and organizations for resource sharing and best practices"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in landfill waste volume",
+                "Percentage of waste diverted from landfills",
+                "Rate of landfill gas capture",
+                "Soil and water quality around landfill sites",
+                "Frequency of landfill inspections",
+                "Public awareness and engagement levels",
+                "Cost savings from improved landfill management practices",
+                "Compliance with environmental regulations"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0024",
+        "actionName": "Integrate renewables into municipal water systems",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0024",
+            "ActionName": "Integrate renewables into municipal water systems",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_generation_supplied_to_the_grid"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implement renewable energy sources, such as solar or wind power, to drive water treatment, pumping, and distribution systems, reducing energy costs and emissions.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Availability of funding or financial incentives to integrate renewable energy sources like solar or wind power into water treatment and distribution systems",
+                "Technical expertise and infrastructure to retrofit existing systems with renewable energy solutions or design new facilities powered by renewables",
+                "Policy and regulatory support to encourage the use of clean energy in water systems and ensure its integration into municipal energy grids"
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of municipal water systems powered by renewables.",
+                "Reduction in energy consumption from non-renewable sources (kWh/year).",
+                "GHG emissions avoided (tons CO\u2082e)"
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0129",
+        "actionName": "Facilitate Technology Transfer for Conservation Practices",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0129",
+            "ActionName": "Facilitate Technology Transfer for Conservation Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promote the adoption of sustainable agricultural practices through training, pilot projects, and technology demonstrations.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Provision of training programs and establishment of pilot projects to showcase sustainable practices.",
+                "Partnerships with research institutions for technology development and financial incentives to encourage adoption.",
+                "Access to technical assistance for successful implementation."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of conservation technologies transferred and applied on farms.",
+                "Percentage of producers trained to implement conservation practices.",
+                "Reduction in soil degradation or increase in vegetation cover (hectares)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0097",
+        "actionName": "Support Distributed Energy Generation in Residences and Businesses",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0097",
+            "ActionName": "Support Distributed Energy Generation in Residences and Businesses",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "residential_buildings"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Facilitate the use of solar panels and other renewable energy technologies in homes and commercial buildings.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Provide financial incentives, clear installation regulations, and access to affordable technologies for solar panels.",
+                "Launch public awareness campaigns and offer training for homeowners and businesses.",
+                "Encourage adoption of renewable energy technologies to promote long-term energy savings."
+            ],
+            "KeyPerformanceIndicators": [
+                "Installed capacity of distributed energy generation (MW).",
+                "Percentage of homes and businesses generating their own energy (%).",
+                "Reduction in CO\u2082 emissions through distributed generation (tCO\u2082e/year)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RNV",
+        "cityName": "Ribeir\u00e3o das Neves",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0136",
+        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0136",
+            "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Encourage the application of ecological taxes and incentives to promote environmental conservation.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Establish a clear regulatory framework with fair tax rates and incentives for sustainability.",
+                "Implement effective monitoring systems to track compliance and measure impact.",
+                "Promote public awareness and foster collaboration between governments, businesses, and communities."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of municipalities that have adopted environmental tax incentives.",
+                "Percentage of tax revenue spent on sustainable practices.",
+                "Acreage or number of properties benefiting from conservation practices as a result of incentives."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

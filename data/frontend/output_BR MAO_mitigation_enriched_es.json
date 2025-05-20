@@ -1,1266 +1,1439 @@
 [
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0139",
-    "actionName": "Implementation of urban toll.",
-    "actionPriority": 1,
-    "explanation": "La implementación de un peaje urbano en Manaos es una prioridad debido a las altas emisiones del sector transporte, que constituyen un aporte significativo a las emisiones totales de la ciudad. Al introducir un peaje, la ciudad puede fomentar el uso del transporte público y reducir la cantidad de vehículos en circulación, disminuyendo así las emisiones. Además, esta medida puede ayudar a aliviar la congestión del tráfico, mejorando la calidad del aire y la salud pública. Dada la vulnerabilidad de la ciudad ante riesgos climáticos, como olas de calor e inundaciones, la reducción de emisiones es fundamental para fortalecer la resiliencia y la sostenibilidad.",
-    "action": {
-      "ActionID": "icare_0139",
-      "ActionName": "Implementación de peaje urbano.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Establecimiento de un cargo por congestión y/o rotación de matrículas para vehículos ligeros en áreas saturadas y en horarios saturados",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": -1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Establecer un marco legal claro e invertir en tecnología para el monitoreo y la aplicación (por ejemplo, cámaras, sensores).",
-        "Lanzar campañas de concienciación y asegurar la disponibilidad de transporte público eficiente o soluciones de movilidad alternativas.",
-        "Colaborar con los gobiernos locales y las agencias de transporte, y establecer sistemas para monitorear y evaluar la efectividad de la política."
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción de emisiones de CO₂ del transporte por carretera urbano (tCO₂e/año).",
-        "Ingresos generados por la implementación del cargo por congestión urbana (R$)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0042",
+        "actionName": "Encourage renewable energy policies at the municipal level",
+        "actionPriority": 1,
+        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0042",
+            "ActionName": "Fomentar pol\u00edticas de energ\u00eda renovable a nivel municipal",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "non-specified_sources"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Abogar por e implementar pol\u00edticas que prioricen el desarrollo e integraci\u00f3n de sistemas de energ\u00eda renovable en las operaciones y planificaci\u00f3n del gobierno local.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 1,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Voluntad pol\u00edtica y liderazgo para priorizar la energ\u00eda renovable en las pol\u00edticas y procesos de planificaci\u00f3n del gobierno local",
+                "Desarrollo de pol\u00edticas claras y marcos regulatorios que faciliten la integraci\u00f3n de sistemas de energ\u00eda renovable en las operaciones gubernamentales",
+                "Disponibilidad de financiamiento o mecanismos financieros para apoyar la transici\u00f3n a la energ\u00eda renovable en la infraestructura y operaciones municipales"
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de proyectos de energ\u00eda renovable aprobados o iniciados anualmente a nivel municipal.",
+                "Porcentaje de la demanda energ\u00e9tica municipal cubierta por fuentes renovables (%).",
+                "Reducci\u00f3n de las emisiones de carbono municipales debido a la adopci\u00f3n de energ\u00eda renovable (toneladas de CO\u2082e/a\u00f1o)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0024",
+        "actionName": "Integrate renewables into municipal water systems",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0024",
+            "ActionName": "Integrar energ\u00edas renovables en los sistemas de agua municipales",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_generation_supplied_to_the_grid"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implementar fuentes de energ\u00eda renovable, como la solar o la e\u00f3lica, para impulsar los sistemas de tratamiento, bombeo y distribuci\u00f3n de agua, reduciendo los costos de energ\u00eda y las emisiones.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Disponibilidad de financiaci\u00f3n o incentivos financieros para integrar fuentes de energ\u00eda renovable como la solar o la e\u00f3lica en los sistemas de tratamiento y distribuci\u00f3n de agua",
+                "Experiencia t\u00e9cnica e infraestructura para adaptar los sistemas existentes con soluciones de energ\u00eda renovable o dise\u00f1ar nuevas instalaciones alimentadas por energ\u00edas renovables",
+                "Apoyo pol\u00edtico y regulatorio para fomentar el uso de energ\u00eda limpia en los sistemas de agua y asegurar su integraci\u00f3n en las redes energ\u00e9ticas municipales"
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de sistemas de agua municipales alimentados por energ\u00edas renovables.",
+                "Reducci\u00f3n en el consumo de energ\u00eda de fuentes no renovables (kWh/a\u00f1o).",
+                "Emisiones de GEI evitadas (toneladas de CO\u2082e)"
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0038",
+        "actionName": "Promote community solar farms",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0038",
+            "ActionName": "Promover granjas solares comunitarias",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_generation_supplied_to_the_grid"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Desarrollar y fomentar la adopci\u00f3n de proyectos solares compartidos, permitiendo que las comunidades se beneficien colectivamente de energ\u00eda limpia y renovable.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Desarrollo de pol\u00edticas y marcos regulatorios para apoyar proyectos de energ\u00eda solar compartida basados en la comunidad y garantizar el acceso equitativo a la energ\u00eda limpia",
+                "Disponibilidad de mecanismos financieros o incentivos para ayudar a las comunidades a invertir en y mantener sistemas de energ\u00eda solar compartida",
+                "Colaboraci\u00f3n entre gobiernos locales, proveedores de energ\u00eda y organizaciones comunitarias para dise\u00f1ar e implementar proyectos de energ\u00eda solar compartida de manera efectiva"
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de hogares atendidos por proyectos solares comunitarios.",
+                "Emisiones de GEI evitadas mediante la producci\u00f3n de energ\u00eda solar (toneladas de CO\u2082e)"
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0033",
+        "actionName": "Install biodigesters in rural properties",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0033",
+            "ActionName": "Instalar biodigestores en propiedades rurales",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Equipar granjas y propiedades rurales con biodigestores para convertir los desechos org\u00e1nicos en biog\u00e1s y fertilizantes ricos en nutrientes, proporcionando una fuente de energ\u00eda sostenible.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Disponibilidad de financiaci\u00f3n o subsidios para apoyar la instalaci\u00f3n de biodigestores en granjas y propiedades rurales",
+                "Acceso a experiencia t\u00e9cnica para el dise\u00f1o, instalaci\u00f3n y mantenimiento de biodigestores",
+                "Desarrollo de un marco regulatorio de apoyo que fomente el uso de biog\u00e1s y sistemas de gesti\u00f3n de residuos org\u00e1nicos en la agricultura rural"
+            ],
+            "KeyPerformanceIndicators": [
+                "Volumen de biog\u00e1s generado (m\u00b3/a\u00f1o).",
+                "Emisiones de GEI evitadas al reemplazar combustibles f\u00f3siles (toneladas de CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0105",
+        "actionName": "Reduce technical losses in energy distribution networks",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0105",
+            "ActionName": "Reducir las p\u00e9rdidas t\u00e9cnicas en las redes de distribuci\u00f3n de energ\u00eda",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_industries"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Actualizar y mantener la infraestructura el\u00e9ctrica para minimizar la energ\u00eda perdida durante la transmisi\u00f3n y distribuci\u00f3n, mejorando la eficiencia general de la red.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Disponibilidad de financiaci\u00f3n para invertir en la modernizaci\u00f3n de la infraestructura el\u00e9ctrica y la mejora de las redes de transmisi\u00f3n y distribuci\u00f3n",
+                "Acceso a experiencia t\u00e9cnica para implementar mejoras que reduzcan las p\u00e9rdidas de energ\u00eda y mejoren la eficiencia de la red",
+                "Marcos pol\u00edticos y regulatorios para garantizar el mantenimiento continuo y la integraci\u00f3n de tecnolog\u00edas energ\u00e9ticamente eficientes en la infraestructura de la red"
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de reducci\u00f3n en p\u00e9rdidas t\u00e9cnicas desde la l\u00ednea base (%).",
+                "Ahorro de energ\u00eda logrado anualmente (kWh).",
+                "Emisiones de GEI evitadas mediante la reducci\u00f3n de p\u00e9rdidas de energ\u00eda (toneladas de CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0011",
+        "actionName": "Provide tax incentives for renewable energy in residential projects",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0011",
+            "ActionName": "Proporcionar incentivos fiscales para la energ\u00eda renovable en proyectos residenciales",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "residential_buildings"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Animar a los propietarios de viviendas a adoptar energ\u00eda solar, e\u00f3lica y otras fuentes de energ\u00eda limpia.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 2,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Disponibilidad de incentivos financieros, subsidios o cr\u00e9ditos fiscales para alentar a los propietarios a instalar sistemas de energ\u00eda solar, e\u00f3lica y otras energ\u00edas limpias",
+                "Acceso a informaci\u00f3n y recursos educativos para ayudar a los propietarios a comprender los beneficios, costos y procesos de instalaci\u00f3n de sistemas de energ\u00eda limpia",
+                "Desarrollo de regulaciones y pol\u00edticas de apoyo que faciliten la instalaci\u00f3n de tecnolog\u00edas de energ\u00eda renovable en \u00e1reas residenciales"
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de hogares beneficiados por incentivos fiscales para la adopci\u00f3n de energ\u00eda renovable.",
+                "Aumento anual en las instalaciones de energ\u00eda renovable en proyectos residenciales.",
+                "Reducci\u00f3n estimada en emisiones equivalentes de CO\u2082 por la adopci\u00f3n de energ\u00eda renovable."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0040",
+        "actionName": "Adopt solar-powered street lighting in rural areas",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0040",
+            "ActionName": "Adoptar iluminaci\u00f3n de calles con energ\u00eda solar en \u00e1reas rurales",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "residential_buildings"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Instalar farolas solares para mejorar la seguridad y accesibilidad en comunidades rurales mientras se reducen los costos de energ\u00eda y el impacto ambiental.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Disponibilidad de financiaci\u00f3n o mecanismos financieros para apoyar la instalaci\u00f3n de farolas solares en comunidades rurales",
+                "Acceso a experiencia t\u00e9cnica para dise\u00f1ar, instalar y mantener sistemas de alumbrado p\u00fablico solar",
+                "Colaboraci\u00f3n con gobiernos locales y comunidades para asegurar la integraci\u00f3n de farolas solares en la infraestructura y planes energ\u00e9ticos existentes"
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de farolas alimentadas por energ\u00eda solar.",
+                "Reducci\u00f3n anual en el consumo de electricidad (kWh).",
+                "Emisiones de GEI evitadas (toneladas de CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0097",
+        "actionName": "Support Distributed Energy Generation in Residences and Businesses",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0097",
+            "ActionName": "Apoyar la Generaci\u00f3n de Energ\u00eda Distribuida en Residencias y Negocios",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "residential_buildings"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Facilitar el uso de paneles solares y otras tecnolog\u00edas de energ\u00eda renovable en hogares y edificios comerciales.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Proporcionar incentivos financieros, regulaciones claras de instalaci\u00f3n y acceso a tecnolog\u00edas asequibles para paneles solares.",
+                "Lanzar campa\u00f1as de concienciaci\u00f3n p\u00fablica y ofrecer capacitaci\u00f3n para propietarios de viviendas y empresas.",
+                "Fomentar la adopci\u00f3n de tecnolog\u00edas de energ\u00eda renovable para promover ahorros energ\u00e9ticos a largo plazo."
+            ],
+            "KeyPerformanceIndicators": [
+                "Capacidad instalada de generaci\u00f3n de energ\u00eda distribuida (MW).",
+                "Porcentaje de hogares y negocios que generan su propia energ\u00eda (%).",
+                "Reducci\u00f3n de emisiones de CO\u2082 a trav\u00e9s de la generaci\u00f3n distribuida (tCO\u2082e/a\u00f1o)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0008",
+        "actionName": "Develop Smart Grids and Energy Storage Systems",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0008",
+            "ActionName": "Desarrollar Redes Inteligentes y Sistemas de Almacenamiento de Energ\u00eda",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_industries"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esta acci\u00f3n se centra en el desarrollo de redes inteligentes y sistemas de almacenamiento de energ\u00eda para optimizar la gesti\u00f3n energ\u00e9tica y mejorar la integraci\u00f3n de fuentes de energ\u00eda renovable. Las redes inteligentes permiten una distribuci\u00f3n y uso m\u00e1s eficientes de la electricidad, mientras que los sistemas de almacenamiento de energ\u00eda ayudan a almacenar el exceso de energ\u00eda renovable para su uso posterior. Juntos, aseguran un suministro de energ\u00eda estable, confiable y sostenible, permitiendo a los municipios gestionar mejor la demanda de energ\u00eda, reducir la congesti\u00f3n de la red y apoyar la transici\u00f3n hacia la energ\u00eda limpia.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Inversi\u00f3n en el desarrollo y despliegue de redes inteligentes y tecnolog\u00edas de almacenamiento de energ\u00eda para mejorar la gesti\u00f3n energ\u00e9tica",
+                "Experiencia t\u00e9cnica e infraestructura para integrar fuentes de energ\u00eda renovable en la red inteligente y asegurar un almacenamiento de energ\u00eda efectivo",
+                "Marcos de pol\u00edticas y regulaciones para apoyar la adopci\u00f3n generalizada de redes inteligentes y sistemas de almacenamiento de energ\u00eda, incluyendo incentivos y est\u00e1ndares de integraci\u00f3n de la red"
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de la red cubierta por tecnolog\u00eda de red inteligente.",
+                "Capacidad instalada de sistemas de almacenamiento de energ\u00eda (MW o MWh).",
+                "Reducci\u00f3n de p\u00e9rdidas de energ\u00eda en toda la red (%)."
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0010",
+        "actionName": "Promote Net-Zero and Green Building Certifications",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0010",
+            "ActionName": "Promover Certificaciones de Edificios Verdes y de Cero Emisiones Netas",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "residential_buildings"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esta acci\u00f3n se centra en promover edificios sostenibles apoyando los objetivos de energ\u00eda neta cero y fomentando certificaciones de construcci\u00f3n ecol\u00f3gica como LEED. Su objetivo es incentivar la construcci\u00f3n y renovaci\u00f3n de edificios que produzcan tanta energ\u00eda como consumen, reduciendo su impacto ambiental. Esta iniciativa tambi\u00e9n fomenta la adopci\u00f3n de pr\u00e1cticas y tecnolog\u00edas sostenibles, asegurando la eficiencia energ\u00e9tica a largo plazo y la responsabilidad ambiental en infraestructuras residenciales, comerciales y p\u00fablicas.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Disponibilidad de incentivos financieros, subsidios o cr\u00e9ditos fiscales para alentar a los propietarios de viviendas a instalar sistemas de energ\u00eda solar, e\u00f3lica y otras energ\u00edas limpias",
+                "Acceso a informaci\u00f3n y recursos educativos para ayudar a los propietarios a comprender los beneficios, costos y procesos de instalaci\u00f3n de sistemas de energ\u00eda limpia",
+                "Desarrollo de regulaciones y pol\u00edticas de apoyo que faciliten la instalaci\u00f3n de tecnolog\u00edas de energ\u00eda renovable en \u00e1reas residenciales"
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de edificios certificados como edificios de cero neto o edificios verdes anualmente.",
+                "Reducci\u00f3n en el consumo de energ\u00eda y agua en edificios certificados (kWh/a\u00f1o, m\u00b3/a\u00f1o).",
+                "Reducci\u00f3n estimada en emisiones equivalentes de CO\u2082 por pr\u00e1cticas de construcci\u00f3n verde."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0027",
+        "actionName": "Create financing programs for local renewable energy projects",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0027",
+            "ActionName": "Crear programas de financiamiento para proyectos locales de energ\u00eda renovable",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_industries"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Establecer mecanismos de financiaci\u00f3n, como subvenciones y pr\u00e9stamos a bajo inter\u00e9s, para apoyar el desarrollo de iniciativas de energ\u00eda renovable a peque\u00f1a escala en las comunidades.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 2,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Desarrollo de mecanismos financieros accesibles, incluyendo subvenciones y pr\u00e9stamos a bajo inter\u00e9s, para apoyar proyectos de energ\u00eda renovable a peque\u00f1a escala en comunidades",
+                "Colaboraci\u00f3n con instituciones financieras y gobiernos locales para asegurar la distribuci\u00f3n y gesti\u00f3n efectiva de fondos para iniciativas de energ\u00eda renovable",
+                "Directrices claras y apoyo para que organizaciones comunitarias y negocios locales accedan a financiamiento e implementen con \u00e9xito proyectos de energ\u00eda renovable"
+            ],
+            "KeyPerformanceIndicators": [
+                "Fondos totales asignados para proyectos de energ\u00eda renovable (USD).",
+                "N\u00famero de proyectos financiados anualmente.",
+                "Aumento en la capacidad de energ\u00eda renovable instalada (MW)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0046",
+        "actionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0046",
+            "ActionName": "Hacer esfuerzos para promover el desarrollo socioecon\u00f3mico y mejorar la calidad de vida en la ciudad desde la perspectiva de una econom\u00eda circular y cero emisiones de carbono.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "commercial_and_institutional_buildings_and_facilities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "El gobierno de la ciudad deber\u00eda emprender acciones pol\u00edticas consistentes con su capacidad econ\u00f3mica y los desaf\u00edos que enfrenta para apoyar el desarrollo de una nueva econom\u00eda sostenible con cero emisiones de carbono, que proteja las condiciones laborales, el emprendimiento y la vitalidad econ\u00f3mica de la ciudad.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 1,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Voluntad pol\u00edtica y liderazgo: Un gobierno local comprometido dispuesto a priorizar el desarrollo sostenible y la neutralidad de carbono.",
+                "Capacidad econ\u00f3mica y recursos: Recursos financieros suficientes para invertir en iniciativas verdes e infraestructura sostenible.",
+                "Colaboraci\u00f3n con las partes interesadas: Involucrar a empresas, sindicatos y emprendedores para alinear estrategias y asegurar que la transici\u00f3n econ\u00f3mica sea inclusiva y equitativa."
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de reducci\u00f3n en las emisiones de carbono municipales per c\u00e1pita (%).",
+                "N\u00famero de iniciativas de econom\u00eda circular implementadas anualmente (por ejemplo, programas de reciclaje, proyectos de conversi\u00f3n de residuos en energ\u00eda).",
+                "Aumento en los empleos verdes creados a trav\u00e9s de iniciativas de econom\u00eda circular y cero carbono (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0006",
+        "actionName": "Expand rural electrification with renewable energy",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0006",
+            "ActionName": "Expandir la electrificaci\u00f3n rural con energ\u00eda renovable",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_generation_supplied_to_the_grid"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Extender el acceso a la electricidad en \u00e1reas rurales implementando soluciones de energ\u00eda renovable como paneles solares, turbinas e\u00f3licas y microredes, asegurando energ\u00eda confiable, limpia y sostenible para comunidades desatendidas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": ">10 years",
+            "Dependencies": [
+                "Disponibilidad de financiamiento y mecanismos financieros para apoyar la instalaci\u00f3n de sistemas de energ\u00eda renovable en \u00e1reas rurales",
+                "Desarrollo de infraestructura, como microrredes, para asegurar una distribuci\u00f3n confiable de electricidad en comunidades remotas",
+                "Colaboraci\u00f3n con gobiernos locales, proveedores de energ\u00eda y organizaciones comunitarias para facilitar la implementaci\u00f3n y el mantenimiento de soluciones de energ\u00eda renovable en regiones desatendidas"
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de \u00e1reas rurales electrificadas con energ\u00eda renovable.",
+                "Capacidad instalada de sistemas de energ\u00eda renovable en \u00e1reas rurales (MW).",
+                "Reducci\u00f3n anual de emisiones equivalentes de CO\u2082 de proyectos de electrificaci\u00f3n rural."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0026",
+        "actionName": "Offer time-of-use tariffs for electricity consumption",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0026",
+            "ActionName": "Ofrecer tarifas de tiempo de uso para el consumo de electricidad",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_industries"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Introducir estructuras de precios que incentiven el uso de energ\u00eda durante las horas valle, ayudando a equilibrar la demanda de la red y reducir los costos de energ\u00eda para los consumidores.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo de modelos de precios, como tarifas seg\u00fan el horario de uso, para fomentar el consumo de energ\u00eda durante las horas de menor demanda",
+                "Colaboraci\u00f3n con empresas de servicios p\u00fablicos para implementar y comunicar eficazmente las nuevas estructuras de precios a los consumidores",
+                "Apoyo regulatorio para garantizar que las estructuras de precios se alineen con los objetivos de gesti\u00f3n de la red e incentiven el uso de energ\u00eda sin perjudicar a las poblaciones vulnerables"
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de hogares inscritos en programas de tarifas seg\u00fan el tiempo de uso.",
+                "Reducci\u00f3n en la demanda m\u00e1xima de electricidad (%).",
+                "Reducci\u00f3n anual de emisiones de GEI debido al uso optimizado de energ\u00eda (toneladas de CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0022",
+        "actionName": "Set municipal energy efficiency targets",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0022",
+            "ActionName": "Establecer objetivos de eficiencia energ\u00e9tica municipal",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "non-specified_sources"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Definir objetivos medibles para el ahorro de energ\u00eda en las operaciones e infraestructuras municipales, promoviendo la responsabilidad y el progreso hacia los objetivos de sostenibilidad.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo de objetivos claros y medibles de ahorro de energ\u00eda para las operaciones e infraestructuras municipales",
+                "Acceso a datos y herramientas para rastrear y evaluar el consumo de energ\u00eda en diferentes sectores municipales",
+                "Compromiso de pol\u00edticas y liderazgo para integrar los objetivos de ahorro de energ\u00eda en la planificaci\u00f3n, presupuestaci\u00f3n y operaciones municipales"
+            ],
+            "KeyPerformanceIndicators": [
+                "Progreso anual hacia el logro de los objetivos de eficiencia energ\u00e9tica municipal (%).",
+                "Reducci\u00f3n en el consumo de energ\u00eda municipal (kWh/a\u00f1o).",
+                "Reducci\u00f3n estimada en las emisiones equivalentes de CO\u2082 por los esfuerzos de eficiencia energ\u00e9tica municipal."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0002",
+        "actionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0002",
+            "ActionName": "Fomentar el uso del Programa Brasile\u00f1o de Etiquetado para Edificios",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "residential_buildings"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promover el etiquetado de eficiencia energ\u00e9tica en edificios p\u00fablicos, comerciales y de servicios.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "60-79",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Establecer est\u00e1ndares y regulaciones claras para el etiquetado de eficiencia energ\u00e9tica.",
+                "Lanzar campa\u00f1as de concienciaci\u00f3n p\u00fablica y proporcionar incentivos para que los edificios obtengan etiquetas.",
+                "Ofrecer capacitaci\u00f3n a los administradores de edificios para mejorar el rendimiento energ\u00e9tico y la adopci\u00f3n de etiquetas."
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de nuevos edificios con una calificaci\u00f3n A en la etiqueta de eficiencia energ\u00e9tica.",
+                "Reducci\u00f3n estimada de emisiones (tCO\u2082e/a\u00f1o) debido a la eficiencia energ\u00e9tica de los edificios etiquetados."
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0116",
+        "actionName": "Mobilize efforts to promote the production and distribution of energy from renewable sources and distributed generation, as well as improve efficiency.",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0116",
+            "ActionName": "Movilizar esfuerzos para promover la producci\u00f3n y distribuci\u00f3n de energ\u00eda a partir de fuentes renovables y generaci\u00f3n distribuida, as\u00ed como mejorar la eficiencia.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_generation_supplied_to_the_grid"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Iniciar y coordinar acciones en los sectores p\u00fablico y privado para aumentar la adopci\u00f3n de tecnolog\u00edas de energ\u00eda renovable (como solar, e\u00f3lica y biomasa) y apoyar sistemas de energ\u00eda descentralizados. Esto implica crear incentivos financieros, agilizar las aprobaciones regulatorias, mejorar la conciencia p\u00fablica e invertir en infraestructura para mejorar las redes de distribuci\u00f3n de energ\u00eda y optimizar el rendimiento de los sistemas de energ\u00eda renovable.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Iniciar acciones coordinadas entre los sectores p\u00fablico y privado para aumentar la adopci\u00f3n de energ\u00edas renovables (solar, e\u00f3lica, biomasa).",
+                "Crear incentivos financieros, agilizar las aprobaciones regulatorias e invertir en infraestructura para apoyar los sistemas de energ\u00eda descentralizados.",
+                "Mejorar la conciencia p\u00fablica y optimizar las redes de distribuci\u00f3n de energ\u00eda para mejorar el rendimiento de los sistemas de energ\u00eda renovable."
+            ],
+            "KeyPerformanceIndicators": [
+                "Capacidad instalada de generaci\u00f3n de energ\u00eda renovable distribuida en el municipio (kW).",
+                "Incremento porcentual anual en el consumo de energ\u00eda renovable en el municipio.",
+                "Reducci\u00f3n estimada en emisiones equivalentes de CO\u2082 al reemplazar combustibles f\u00f3siles con renovables."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0041",
+        "actionName": "Support R&D in low-carbon technologies",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0041",
+            "ActionName": "Apoyar la I+D en tecnolog\u00edas de bajas emisiones de carbono",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "non-specified_sources"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Invertir en iniciativas de investigaci\u00f3n y desarrollo dirigidas a avanzar en soluciones innovadoras de bajo carbono, incluyendo el almacenamiento de energ\u00eda, la captura de carbono y sistemas avanzados de energ\u00eda renovable.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Disponibilidad de financiaci\u00f3n y recursos para apoyar la investigaci\u00f3n y el desarrollo en tecnolog\u00edas de bajo carbono, como el almacenamiento de energ\u00eda, la captura de carbono y los sistemas avanzados de energ\u00eda renovable",
+                "Colaboraci\u00f3n entre instituciones de investigaci\u00f3n, socios del sector privado y agencias gubernamentales para impulsar la innovaci\u00f3n en tecnolog\u00edas de energ\u00eda limpia",
+                "Apoyo pol\u00edtico y regulatorio para fomentar la inversi\u00f3n en I+D y facilitar la comercializaci\u00f3n de soluciones innovadoras de bajo carbono"
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de proyectos de I+D financiados por a\u00f1o.",
+                "Inversi\u00f3n anual en I+D de bajas emisiones de carbono (USD).",
+                "Reducci\u00f3n de emisiones de GEI (toneladas de CO\u2082e) atribuida a tecnolog\u00edas desarrolladas."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0094",
+        "actionName": "Adoption of biomethane in public fleets.",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0094",
+            "ActionName": "Adopci\u00f3n de biometano en flotas p\u00fablicas.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones p\u00fablicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo de infraestructura para la producci\u00f3n, procesamiento y distribuci\u00f3n de biometano a partir de residuos urbanos y agroindustriales.",
+                "Adaptaci\u00f3n o adquisici\u00f3n de autobuses y camiones p\u00fablicos capaces de utilizar biometano como fuente de combustible.",
+                "Establecimiento de pol\u00edticas e incentivos financieros para apoyar la producci\u00f3n de biometano y su integraci\u00f3n en las flotas municipales."
+            ],
+            "KeyPerformanceIndicators": [
+                "Ahorro de costos en la operaci\u00f3n de la flota debido al uso de biometano (USD/a\u00f1o).",
+                "Aumento en la capacidad de producci\u00f3n de biometano (%).",
+                "Porcentaje de biometano obtenido localmente versus importado."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MAO",
+        "cityName": "Manaus",
+        "region": "AM",
+        "regionName": "Amazonas",
+        "actionId": "icare_0012",
+        "actionName": "Expand Solar Energy in Public Facilities and Remote Areas",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0012",
+            "ActionName": "Expandir la energ\u00eda solar en instalaciones p\u00fablicas y \u00e1reas remotas",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_generation_supplied_to_the_grid"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esta acci\u00f3n tiene como objetivo expandir los sistemas de energ\u00eda solar en instalaciones p\u00fablicas y \u00e1reas remotas para aumentar el alcance de la energ\u00eda limpia y renovable. Al instalar paneles solares en regiones desatendidas y edificios municipales, esta iniciativa busca proporcionar energ\u00eda confiable y de bajo costo, reducir las emisiones de carbono y promover la independencia energ\u00e9tica, especialmente en \u00e1reas con acceso limitado a las redes el\u00e9ctricas tradicionales.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Disponibilidad de financiamiento y mecanismos financieros para apoyar la instalaci\u00f3n de sistemas de energ\u00eda solar en instalaciones p\u00fablicas y \u00e1reas remotas",
+                "Desarrollo de infraestructura para apoyar la integraci\u00f3n de sistemas de energ\u00eda solar en regiones desatendidas, incluyendo conexi\u00f3n a la red o soluciones fuera de la red",
+                "Colaboraci\u00f3n con gobiernos locales, proveedores de energ\u00eda y organizaciones comunitarias para asegurar la implementaci\u00f3n y mantenimiento efectivos de los sistemas de energ\u00eda solar en estas \u00e1reas"
+            ],
+            "KeyPerformanceIndicators": [
+                "Capacidad instalada (MW)",
+                "Porcentaje de \u00e1reas remotas alimentadas por sistemas de energ\u00eda solar",
+                "Reducci\u00f3n anual de emisiones de CO2 equivalente por la adopci\u00f3n de energ\u00eda solar"
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
     }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0044",
-    "actionName": "Expand the cycling infrastructure and build public walkways and accessible sidewalks, prioritizing measures resilient to climate threats",
-    "actionPriority": 2,
-    "explanation": "Ampliar la infraestructura para bicicletas y construir senderos públicos en Manaos es crucial debido a las altas emisiones del sector transporte en la ciudad, las cuales representan una parte significativa de sus emisiones totales. Al promover el uso de la bicicleta y el caminar, la ciudad puede reducir la dependencia de los vehículos motorizados, disminuyendo así las emisiones y mejorando la calidad del aire. Además, crear infraestructura resiliente frente a amenazas climáticas es vital, dado el alto riesgo de la ciudad ante peligros como inundaciones y olas de calor. Esta acción no solo aborda preocupaciones medioambientales, sino que también mejora la salud y la seguridad pública al ofrecer opciones de transporte más seguras y sostenibles.",
-    "action": {
-      "ActionID": "icare_0044",
-      "ActionName": "Expandir la infraestructura para bicicletas y construir paseos públicos y aceras accesibles, priorizando medidas resilientes a las amenazas climáticas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "El objetivo principal de esta acción es promover la movilidad activa, garantizando la seguridad, comodidad y prioridad del movimiento peatonal, de personas con discapacidades (o movilidad reducida), y de vehículos y equipos impulsados por humanos, como bicicletas y patinetes.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Inversiones en infraestructura para pasarelas peatonales seguras y accesibles, carriles para bicicletas e instalaciones para personas con discapacidades",
-        "Marcos de políticas y regulaciones para priorizar la movilidad activa y establecer estándares de seguridad para peatones y vehículos no motorizados",
-        "Campañas de concienciación pública para promover la movilidad activa y educar a los ciudadanos sobre los beneficios de caminar, andar en bicicleta y usar otros medios de transporte impulsados por humanos"
-      ],
-      "KeyPerformanceIndicators": [
-        "Kilómetros de nuevos carriles bici y senderos peatonales construidos anualmente.",
-        "Aumento en el uso diario de la infraestructura para ciclistas y peatones (%).",
-        "Reducción en las emisiones del transporte urbano (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0094",
-    "actionName": "Adoption of biomethane in public fleets.",
-    "actionPriority": 3,
-    "explanation": "La adopción de biometano en las flotas públicas de Manaos es una acción significativa debido a las altas emisiones del sector transporte en la ciudad, las cuales son un importante contribuyente a sus emisiones totales. Al cambiar al biometano, un combustible alternativo más limpio, la ciudad puede reducir su huella de carbono y mejorar la calidad del aire. Esta acción es especialmente importante dado el bioma de selva tropical de la ciudad, donde la preservación de la biodiversidad y la reducción de la contaminación son fundamentales. Además, el contexto socioeconómico de muy bajos ingresos en la región sugiere que soluciones sostenibles y rentables como el biometano pueden aportar beneficios económicos a largo plazo.",
-    "action": {
-      "ActionID": "icare_0094",
-      "ActionName": "Adopción de biometano en flotas públicas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones públicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollo de infraestructura para la producción, procesamiento y distribución de biometano a partir de residuos urbanos y agroindustriales.",
-        "Adaptación o adquisición de autobuses y camiones públicos capaces de utilizar biometano como fuente de combustible.",
-        "Establecimiento de políticas e incentivos financieros para apoyar la producción de biometano y su integración en las flotas municipales."
-      ],
-      "KeyPerformanceIndicators": [
-        "Ahorro de costos en la operación de la flota debido al uso de biometano (USD/año).",
-        "Aumento en la capacidad de producción de biometano (%).",
-        "Porcentaje de biometano obtenido localmente versus importado."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0121",
-    "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
-    "actionPriority": 4,
-    "explanation": "La acción de incentivar los programas de bicicletas compartidas, especialmente con bicicletas eléctricas, es crucial para Manaos debido a sus altas emisiones de transporte. Fomentar el uso de bicicletas puede reducir significativamente la dependencia de los vehículos motorizados, disminuyendo así las emisiones y mejorando la calidad del aire. Además, promover las bicicletas eléctricas puede hacer que el ciclismo sea más accesible en una ciudad con un clima de selva tropical, donde el calor y la humedad podrían, de otro modo, desalentar el uso de la bicicleta. Esta iniciativa también está alineada con la necesidad de mejorar la salud pública al ofrecer un modo de transporte sostenible y saludable.",
-    "action": {
-      "ActionID": "icare_0121",
-      "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Esta acción fomenta el establecimiento de sistemas de bicicletas compartidas en las ciudades, promoviendo específicamente el uso de bicicletas eléctricas. Estos sistemas permiten a los residentes alquilar bicicletas eléctricas para viajes cortos, reduciendo la dependencia de los automóviles para el transporte urbano. Al integrar bicicletas eléctricas, las ciudades pueden reducir aún más las emisiones de gases de efecto invernadero, aliviar la congestión del tráfico y promover un modo de transporte más saludable y sostenible tanto para áreas urbanas como rurales. Esta iniciativa también apoya la igualdad de movilidad, ya que hace que las bicicletas sean más accesibles para un rango más amplio de personas.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Establecimiento de sistemas de bicicletas compartidas con un enfoque en bicicletas eléctricas para reducir la dependencia del automóvil.",
-        "Integración de bicicletas eléctricas para reducir las emisiones de gases de efecto invernadero, aliviar la congestión del tráfico y promover el transporte sostenible.",
-        "Promoción de la igualdad de movilidad haciendo que las bicicletas eléctricas sean accesibles para una población más amplia."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de bicicletas eléctricas disponibles en programas de bicicletas compartidas.",
-        "Aumento anual en usuarios de bicicletas compartidas.",
-        "Reducción estimada en emisiones equivalentes de CO₂ por la adopción de bicicletas eléctricas compartidas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0088",
-    "actionName": "Implementation of free public transportation programs during peak hours to reduce the use of individual vehicles",
-    "actionPriority": 5,
-    "explanation": "La implementación de programas de transporte público gratuito durante las horas pico en Manaos es una acción crucial debido a las altas emisiones del sector transporte en la ciudad, las cuales constituyen un aporte significativo a sus emisiones totales. Al fomentar el uso del transporte público, esta iniciativa puede ayudar a reducir la dependencia de los vehículos particulares, disminuyendo así las emisiones y mejorando la calidad del aire. Además, esta medida puede aliviar la congestión vehicular durante las horas pico, mejorando la eficiencia general del sistema de transporte de la ciudad. Asimismo, ofrecer transporte gratuito puede ser especialmente beneficioso para los residentes de bajos ingresos, facilitando su acceso a servicios esenciales y oportunidades.",
-    "action": {
-      "ActionID": "icare_0088",
-      "ActionName": "Implementación de programas de transporte público gratuito durante las horas pico para reducir el uso de vehículos individuales",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Fomentar el uso del transporte público ofreciendo servicios gratuitos durante las horas pico para trabajadores y estudiantes. Esta medida reduce la congestión urbana, disminuye el número de vehículos individuales en la carretera y, en consecuencia, reduce las emisiones de gases de efecto invernadero asociadas con el transporte privado.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 2,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Asignación de fondos para subsidiar servicios de transporte público gratuito durante las horas pico.",
-        "Desarrollo de políticas para garantizar la sostenibilidad y eficiencia de los sistemas de transporte público ante el aumento de la demanda.",
-        "Coordinación con empleadores e instituciones educativas para optimizar los horarios de las horas pico y promover la iniciativa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción en los niveles de contaminación del aire durante las horas pico (concentración de PM2.5/PM10).",
-        "Número de vehículos privados retirados de las carreteras durante las horas pico.",
-        "Tasa de satisfacción pública con la iniciativa de transporte gratuito (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0068",
-    "actionName": "Deploy on-demand transport systems with 100% electric fleets.",
-    "actionPriority": 6,
-    "explanation": "El despliegue de sistemas de transporte bajo demanda con flotas 100% eléctricas en Manaos es crucial debido a las altas emisiones del sector transporte en la ciudad, que constituyen una parte significativa de sus emisiones totales. La transición a vehículos eléctricos puede reducir sustancialmente estas emisiones, ayudando a mitigar el impacto ambiental de la ciudad. Además, la implementación de sistemas de transporte bajo demanda puede mejorar la accesibilidad y la eficiencia del transporte público, abordando el problema moderado del acceso insuficiente al agua al reducir potencialmente la necesidad de uso de vehículos particulares. Esta acción está alineada con la necesidad de la ciudad de enfrentar riesgos climáticos, como olas de calor e inundaciones, al disminuir la dependencia de combustibles fósiles y aumentar la resiliencia.",
-    "action": {
-      "ActionID": "icare_0068",
-      "ActionName": "Desplegar sistemas de transporte bajo demanda con flotas 100% eléctricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Servicios de transporte colectivo bajo demanda, basados en aplicaciones, optimizan el uso de vehículos eléctricos, reduciendo las emisiones por pasajero.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desarrollo de plataformas digitales y aplicaciones para gestionar eficientemente servicios de transporte colectivo bajo demanda.",
-        "Expansión de flotas de vehículos eléctricos adaptadas para soluciones de transporte compartido.",
-        "Implementación de políticas e incentivos para fomentar la adopción y el uso de servicios de transporte eléctrico compartido."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de usuarios activos del sistema de flota eléctrica bajo demanda.",
-        "Porcentaje de demanda de transporte urbano satisfecho por sistemas bajo demanda.",
-        "Reducción en los niveles de contaminación acústica en áreas urbanas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0090",
-    "actionName": "Adoption of electric drones for last-mile deliveries.",
-    "actionPriority": 7,
-    "explanation": "La adopción de drones eléctricos para entregas de última milla en Manaos es una acción estratégica para reducir las emisiones del transporte, que constituyen una parte significativa de las emisiones totales de la ciudad. Dada la gran extensión y población de la ciudad, los métodos tradicionales de entrega pueden ser ineficientes y perjudiciales para el medio ambiente. Los drones eléctricos ofrecen una alternativa sostenible, con el potencial de reducir la congestión del tráfico y disminuir las emisiones de carbono. Además, esta medida está alineada con la necesidad de la ciudad de mejorar la seguridad energética y mitigar los impactos del cambio climático, como las olas de calor e inundaciones, mediante la promoción de tecnologías más limpias.",
-    "action": {
-      "ActionID": "icare_0090",
-      "ActionName": "Adopción de drones eléctricos para entregas de última milla.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "off-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Reemplazar los vehículos tradicionales con drones eléctricos para entregas de corta distancia en centros urbanos, reduciendo emisiones y congestión de tráfico.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollo de regulaciones del espacio aéreo urbano para garantizar la operación segura y eficiente de drones de entrega.",
-        "Inversión en infraestructura de carga y mantenimiento para apoyar una flota de drones eléctricos.",
-        "Colaboración con empresas de logística para integrar drones en redes de entrega de última milla."
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción del tiempo de entrega en comparación con los métodos tradicionales (minutos).",
-        "Aumento en la satisfacción del cliente con las entregas mediante drones (%).",
-        "Reducción de la congestión del tráfico causada por vehículos de entrega (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0042",
-    "actionName": "Encourage renewable energy policies at the municipal level",
-    "actionPriority": 8,
-    "explanation": "Fomentar políticas de energía renovable a nivel municipal en Manaos es crucial debido a las altas emisiones de energía estacionaria de la ciudad. La transición a fuentes de energía renovable puede reducir significativamente estas emisiones, contribuyendo a un entorno más limpio. Además, la energía renovable puede mejorar la seguridad energética, lo cual es vital dada la vulnerabilidad de la ciudad a las sequías que afectan los recursos energéticos. Implementar estas políticas también puede estimular el crecimiento económico local mediante la creación de empleos verdes y la reducción de la dependencia de fuentes de energía externas.",
-    "action": {
-      "ActionID": "icare_0042",
-      "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "non-specified_sources"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Abogar por e implementar políticas que prioricen el desarrollo e integración de sistemas de energía renovable en las operaciones y planificación del gobierno local.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 1,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Voluntad política y liderazgo para priorizar la energía renovable en las políticas y procesos de planificación del gobierno local",
-        "Desarrollo de políticas claras y marcos regulatorios que faciliten la integración de sistemas de energía renovable en las operaciones gubernamentales",
-        "Disponibilidad de financiamiento o mecanismos financieros para apoyar la transición a la energía renovable en la infraestructura y operaciones municipales"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de proyectos de energía renovable aprobados o iniciados anualmente a nivel municipal.",
-        "Porcentaje de la demanda energética municipal cubierta por fuentes renovables (%).",
-        "Reducción de las emisiones de carbono municipales debido a la adopción de energía renovable (toneladas de CO₂e/año)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0057",
-    "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
-    "actionPriority": 9,
-    "explanation": "La expansión de los sistemas de transporte masivo sobre rieles en Manaos es una acción crucial debido a las altas emisiones del sector transporte en la ciudad, las cuales contribuyen significativamente a sus emisiones totales. Al mejorar la infraestructura del transporte público, la ciudad puede reducir la dependencia del uso individual de automóviles, disminuyendo así las emisiones y mejorando la calidad del aire. Además, el fortalecimiento de los sistemas de transporte masivo puede ofrecer un acceso más equitativo al transporte para los residentes de bajos ingresos, abordando las disparidades socioeconómicas. Esta acción también apoya la resiliencia de la ciudad frente a los riesgos climáticos al reducir la congestión y mejorar la movilidad durante eventos climáticos extremos.",
-    "action": {
-      "ActionID": "icare_0057",
-      "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "railways"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Estos sistemas ofrecen alta capacidad y bajas emisiones, cruciales para ciudades con alta densidad de población.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 2,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "high",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Inversión en el desarrollo y expansión de infraestructuras de transporte público de alta capacidad, como autobuses eléctricos y sistemas de metro.",
-        "Implementación de políticas e incentivos para fomentar el uso del transporte público sobre los vehículos privados.",
-        "Integración de fuentes de energía renovable para alimentar estos sistemas, reduciendo aún más las emisiones."
-      ],
-      "KeyPerformanceIndicators": [
-        "Longitud de las nuevas líneas de tránsito construidas (km/año).",
-        "Reducción en la congestión del tráfico vial (%).",
-        "Reducción en el uso de vehículos privados (número de viajes evitados/año)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "c40_0026",
-    "actionName": "Vehicle Emissions",
-    "actionPriority": 10,
-    "explanation": "La acción para abordar las emisiones de vehículos en Manaos es una prioridad debido a la significativa contribución del transporte a las emisiones totales de la ciudad. Dado que las emisiones del transporte representan una gran parte de las emisiones generales de la ciudad, reducir las emisiones de los vehículos puede disminuir sustancialmente la huella de carbono de Manaos. Además, mejorar la calidad del aire mediante la reducción de las emisiones vehiculares puede tener impactos positivos en la salud pública, lo cual es crucial dada la vulnerabilidad de la ciudad a las olas de calor y enfermedades. Abordar las emisiones de vehículos está alineado con la necesidad de la ciudad de fortalecer la seguridad energética y mitigar los riesgos asociados al cambio climático.",
-    "action": {
-      "ActionID": "c40_0026",
-      "ActionName": "Emisiones de Vehículos",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Las estrategias de reducción de \"Vehicle Emissions\" se centran en minimizar el impacto ambiental de todo tipo de vehículos. La implementación de tecnologías más limpias y la promoción de combustibles alternativos contribuyen a reducir las emisiones, fomentando un transporte sostenible y ecológico.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": "Las estrategias de reducción de \"Emisiones de Vehículos\" promueven inherentemente la equidad y la inclusión al abordar los impactos ambientales que afectan desproporcionadamente a las comunidades vulnerables y desatendidas. Estas comunidades a menudo experimentan niveles más altos de contaminación del aire y problemas de salud relacionados debido a la proximidad a áreas de alto tráfico y zonas industriales. Al implementar tecnologías más limpias y promover combustibles alternativos, la acción beneficia directamente a estas poblaciones al mejorar la calidad del aire y reducir los riesgos para la salud.\n\nAdemás, el enfoque en el transporte sostenible y ecológico puede mejorar el acceso a opciones de transporte asequibles y eficientes para las comunidades desatendidas, que pueden carecer de un transporte público confiable. Esta inclusividad asegura que todos los miembros de la comunidad, independientemente de su estatus socioeconómico, puedan beneficiarse de un aire más limpio y mejores resultados de salud pública. En general, la acción reconoce y aborda las necesidades específicas de las poblaciones vulnerables, fomentando un enfoque más equitativo hacia la acción climática.",
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollo y disponibilidad de tecnologías de vehículos más limpias",
-        "Infraestructura para la distribución de combustibles alternativos",
-        "Políticas y regulaciones gubernamentales que apoyan la reducción de emisiones",
-        "Conciencia pública y aceptación de opciones de transporte ecológicas",
-        "Inversión en investigación y desarrollo para soluciones de transporte sostenible"
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción de emisiones de vehículos (CO2, NOx, PM)",
-        "Porcentaje de vehículos que utilizan combustibles alternativos",
-        "Número de vehículos eléctricos en circulación",
-        "Mejoras en la eficiencia del combustible (millas por galón)",
-        "Tasa de adopción de tecnologías más limpias",
-        "Reducción en el consumo de combustibles fósiles",
-        "Tasas de uso del transporte público",
-        "Mejoras en el índice de calidad del aire",
-        "Porcentaje de zonas de bajas emisiones establecidas",
-        "Inversión en infraestructura de transporte sostenible"
-      ],
-      "PowersAndMandates": null,
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0118",
-    "actionName": "Promote the use of bicycles as a regular mode of transport through the expansion of infrastructure and strategies for awareness and communication.",
-    "actionPriority": 11,
-    "explanation": "Promover el uso de bicicletas en Manaos es una acción crucial debido a las altas emisiones del sector transporte en la ciudad, las cuales representan una parte significativa de sus emisiones totales. Al expandir la infraestructura para bicicletas y aumentar la concienciación, la ciudad puede reducir su dependencia de los vehículos motorizados, disminuyendo así las emisiones y mejorando la calidad del aire. Además, esta iniciativa puede mejorar la salud pública al fomentar la actividad física y reducir el riesgo de enfermedades asociadas con estilos de vida sedentarios. Dado el clima tropical de la ciudad, el ciclismo puede ser un modo de transporte viable y sostenible, contribuyendo a un entorno urbano más resiliente.",
-    "action": {
-      "ActionID": "icare_0118",
-      "ActionName": "Promover el uso de bicicletas como un modo de transporte regular mediante la expansión de la infraestructura y estrategias de concienciación y comunicación.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Fomentar la adopción de bicicletas como un modo de transporte regular mediante la expansión de la infraestructura para ciclistas, como carriles bici dedicados, instalaciones de estacionamiento y estaciones de reparación. Además, implementar campañas de concienciación y estrategias de comunicación para resaltar los beneficios ambientales, de salud y económicos del ciclismo, con el objetivo de aumentar la participación pública y hacer del ciclismo una opción de transporte viable y sostenible para el desplazamiento diario.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Expandir la infraestructura para bicicletas, incluyendo carriles exclusivos para bicicletas, instalaciones de estacionamiento y estaciones de reparación.",
-        "Implementar campañas de concienciación para resaltar los beneficios ambientales, de salud y económicos del ciclismo.",
-        "Promover la participación pública a través de estrategias de comunicación, haciendo del ciclismo una opción viable y sostenible para el desplazamiento diario."
-      ],
-      "KeyPerformanceIndicators": [
-        "Longitud de los nuevos carriles bici añadidos a la red urbana (km).",
-        "Aumento anual en el número de usuarios de bicicletas en áreas urbanas.",
-        "Reducción estimada en las emisiones de CO₂ equivalente por el cambio al ciclismo."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0024",
-    "actionName": "Integrate renewables into municipal water systems",
-    "actionPriority": 12,
-    "explanation": "Integrar las energías renovables en los sistemas municipales de agua en Manaos es un paso crucial para mejorar la seguridad energética y reducir las emisiones. La ciudad enfrenta riesgos significativos debido a las sequías, que pueden afectar los recursos hídricos y el suministro de energía. Al utilizar fuentes de energía renovable, la ciudad puede garantizar un suministro de agua más confiable y sostenible, mitigando los efectos de los peligros relacionados con el clima. Además, esta acción está alineada con la necesidad de reducir las emisiones de energía estacionaria, contribuyendo a la sostenibilidad ambiental en general.",
-    "action": {
-      "ActionID": "icare_0024",
-      "ActionName": "Integrar energías renovables en los sistemas de agua municipales",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Implementar fuentes de energía renovable, como la solar o la eólica, para impulsar los sistemas de tratamiento, bombeo y distribución de agua, reduciendo los costos de energía y las emisiones.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Disponibilidad de financiación o incentivos financieros para integrar fuentes de energía renovable como la solar o la eólica en los sistemas de tratamiento y distribución de agua",
-        "Experiencia técnica e infraestructura para adaptar los sistemas existentes con soluciones de energía renovable o diseñar nuevas instalaciones alimentadas por energías renovables",
-        "Apoyo político y regulatorio para fomentar el uso de energía limpia en los sistemas de agua y asegurar su integración en las redes energéticas municipales"
-      ],
-      "KeyPerformanceIndicators": [
-        "Porcentaje de sistemas de agua municipales alimentados por energías renovables.",
-        "Reducción en el consumo de energía de fuentes no renovables (kWh/año).",
-        "Emisiones de GEI evitadas (toneladas de CO₂e)"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0126",
-    "actionName": "Implementation of green fuel supply infrastructure for aircraft, such as biofuels or green hydrogen.",
-    "actionPriority": 13,
-    "explanation": "La implementación de infraestructura para el suministro de combustibles verdes para aeronaves en Manaus es crucial debido a las significativas emisiones del sector transporte en la ciudad, las cuales son un importante contribuyente a su huella de carbono total. Al hacer la transición hacia biocombustibles o hidrógeno verde, la ciudad puede reducir su dependencia de los combustibles fósiles, disminuyendo así su impacto ambiental. Además, esta acción respalda la seguridad energética, que es una preocupación clave dada la alta probabilidad de riesgos relacionados con la energía en la región. Asimismo, promover combustibles sostenibles para la aviación está en línea con los esfuerzos globales para combatir el cambio climático y puede posicionar a Manaus como líder en tecnología de aviación ecológica.",
-    "action": {
-      "ActionID": "icare_0126",
-      "ActionName": "Implementación de infraestructura de suministro de combustibles verdes para aeronaves, como biocombustibles o hidrógeno verde.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "aviation"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Esta acción tiene como objetivo promover la sostenibilidad en los aeropuertos mediante la implementación de infraestructura para abastecer a las aeronaves con combustibles de bajo carbono. El uso de biocombustibles o hidrógeno verde puede reducir significativamente las emisiones de GEI en el sector de la aviación. Además, la transición a estas fuentes de energía más limpias contribuirá a alcanzar los objetivos de descarbonización en el sector del transporte, al tiempo que se mantiene la eficiencia operativa en los aeropuertos y se minimiza su impacto ambiental.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "high",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollar infraestructura para abastecer aviones con combustibles bajos en carbono como biocombustibles o hidrógeno verde.",
-        "Asegurar la disponibilidad de fuentes de combustible sostenibles y la tecnología necesaria para las operaciones de abastecimiento.",
-        "Monitorear y evaluar el impacto ambiental y la eficiencia operativa de la transición a combustibles bajos en carbono."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de aeropuertos con infraestructura de biocombustible o hidrógeno verde.",
-        "Cantidad de combustible verde consumido por el sector de la aviación (litros/año).",
-        "Reducción de emisiones de CO₂ de la aviación mediante el uso de combustibles alternativos (tCO₂e/año)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0117",
-    "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
-    "actionPriority": 14,
-    "explanation": "Aumentar la atractividad del sistema de autobuses municipales en Manaos es crucial debido a las altas emisiones del sector transporte, que constituyen un aporte significativo a las emisiones totales de la ciudad. Al promover el transporte público, la ciudad puede reducir su huella de carbono y aliviar la congestión vehicular, un problema común en las áreas urbanas densamente pobladas. Además, mejorar la accesibilidad al transporte público puede ofrecer una opción de viaje más asequible y eficiente para los residentes, beneficiando especialmente a las comunidades de bajos ingresos. Esta acción también está alineada con la necesidad de abordar los riesgos para la salud pública asociados con la contaminación del aire y las olas de calor, que se ven agravados por las altas emisiones de vehículos.",
-    "action": {
-      "ActionID": "icare_0117",
-      "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Aumentar la calidad de la prestación del servicio de transporte, con el objetivo de cambiar el modo de transporte de los pasajeros del transporte motorizado privado al transporte público, reduciendo así las emisiones generadas por coches y motocicletas.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Mejorar la calidad de los servicios de transporte público para atraer pasajeros del transporte motorizado privado.",
-        "Implementar políticas e infraestructuras que apoyen y mejoren la eficiencia de los sistemas de transporte público.",
-        "Promover la concienciación sobre los beneficios ambientales del transporte público para fomentar un cambio modal y reducir las emisiones."
-      ],
-      "KeyPerformanceIndicators": [
-        "Aumento anual en el número de pasajeros que utilizan el sistema de autobuses municipales.",
-        "Porcentaje de rutas de autobús con mejor fiabilidad en el tiempo de viaje.",
-        "Reducción estimada en las emisiones equivalentes de CO₂ debido al aumento del uso del transporte público."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0091",
-    "actionName": "Implementation of prioritized routes for sustainable vehicles.",
-    "actionPriority": 15,
-    "explanation": "La implementación de rutas prioritarias para vehículos sostenibles en Manaos es crucial debido a las altas emisiones del sector transporte en la ciudad, las cuales representan una contribución significativa a sus emisiones totales. Al promover el uso de vehículos sostenibles, esta acción puede ayudar a reducir la huella de carbono y mejorar la calidad del aire en la ciudad. Además, dado que Manaos es vulnerable a riesgos climáticos como olas de calor e inundaciones, la reducción de emisiones provenientes del transporte puede mitigar algunos de los impactos adversos en la salud pública y la infraestructura. Esta medida también está alineada con la necesidad de fortalecer la seguridad energética y la resiliencia frente a los riesgos climáticos.",
-    "action": {
-      "ActionID": "icare_0091",
-      "ActionName": "Implementación de rutas priorizadas para vehículos sostenibles.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Crear carriles prioritarios para vehículos eléctricos, híbridos y de bajas emisiones en los centros urbanos para fomentar su adopción y reducir la contaminación en áreas de alto tráfico.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Implementación de sistemas de gestión del tráfico para hacer cumplir y monitorear el uso de carriles prioritarios.",
-        "Desarrollo de señalización clara y campañas de concienciación pública para informar a los conductores sobre la elegibilidad y el uso de los carriles.",
-        "Establecimiento de marcos regulatorios que incentiven la adopción de vehículos de bajas emisiones para la elegibilidad en carriles prioritarios."
-      ],
-      "KeyPerformanceIndicators": [
-        "Porcentaje de vehículos sostenibles utilizando rutas prioritarias.",
-        "Aumento en la eficiencia de entrega de bienes transportados a través de rutas prioritarias (%).",
-        "Tasa de aceptación pública de rutas prioritarias para vehículos sostenibles (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0038",
-    "actionName": "Promote community solar farms",
-    "actionPriority": 16,
-    "explanation": "Promover las granjas solares comunitarias en Manaos es una acción estratégica debido a las altas emisiones de energía estacionaria de la ciudad, las cuales contribuyen significativamente a sus emisiones totales. Al aprovechar la energía solar, la ciudad puede reducir su dependencia de los combustibles fósiles, disminuyendo así su huella de carbono. Además, las granjas solares comunitarias pueden proporcionar soluciones energéticas asequibles y sostenibles a los residentes de bajos ingresos, abordando las disparidades socioeconómicas. Esta iniciativa también está alineada con la necesidad de mejorar la seguridad energética, una preocupación crítica dada la vulnerabilidad de la ciudad a riesgos climáticos como sequías y olas de calor.",
-    "action": {
-      "ActionID": "icare_0038",
-      "ActionName": "Promover granjas solares comunitarias",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Desarrollar y fomentar la adopción de proyectos solares compartidos, permitiendo que las comunidades se beneficien colectivamente de energía limpia y renovable.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desarrollo de políticas y marcos regulatorios para apoyar proyectos de energía solar compartida basados en la comunidad y garantizar el acceso equitativo a la energía limpia",
-        "Disponibilidad de mecanismos financieros o incentivos para ayudar a las comunidades a invertir en y mantener sistemas de energía solar compartida",
-        "Colaboración entre gobiernos locales, proveedores de energía y organizaciones comunitarias para diseñar e implementar proyectos de energía solar compartida de manera efectiva"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de hogares atendidos por proyectos solares comunitarios.",
-        "Emisiones de GEI evitadas mediante la producción de energía solar (toneladas de CO₂e)"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0033",
-    "actionName": "Install biodigesters in rural properties",
-    "actionPriority": 17,
-    "explanation": "La instalación de biodigestores en propiedades rurales de Manaos es una acción estratégica debido a las significativas emisiones de residuos de la ciudad. Los biodigestores pueden ayudar a gestionar los desechos orgánicos de manera más sostenible, reduciendo las emisiones de metano y contribuyendo a disminuir las emisiones totales de residuos. Además, esta acción apoya la seguridad energética al proporcionar una fuente de energía renovable, lo cual es crucial dado el alto riesgo de inseguridad energética debido a peligros climáticos como las sequías. Asimismo, los biodigestores pueden mejorar el saneamiento en las zonas rurales, abordando problemas moderados de acceso al agua y saneamiento, y, de este modo, fortaleciendo la resiliencia de la salud pública.",
-    "action": {
-      "ActionID": "icare_0033",
-      "ActionName": "Instalar biodigestores en propiedades rurales",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Equipar granjas y propiedades rurales con biodigestores para convertir los desechos orgánicos en biogás y fertilizantes ricos en nutrientes, proporcionando una fuente de energía sostenible.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Disponibilidad de financiación o subsidios para apoyar la instalación de biodigestores en granjas y propiedades rurales",
-        "Acceso a experiencia técnica para el diseño, instalación y mantenimiento de biodigestores",
-        "Desarrollo de un marco regulatorio de apoyo que fomente el uso de biogás y sistemas de gestión de residuos orgánicos en la agricultura rural"
-      ],
-      "KeyPerformanceIndicators": [
-        "Volumen de biogás generado (m³/año).",
-        "Emisiones de GEI evitadas al reemplazar combustibles fósiles (toneladas de CO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0056",
-    "actionName": "Implement continuous monitoring of GHG emissions and climate actions.",
-    "actionPriority": 18,
-    "explanation": "La implementación de un monitoreo continuo de las emisiones de gases de efecto invernadero (GEI) y de las acciones climáticas en Manaus es crucial debido a las importantes emisiones totales de la ciudad, que superan los 5 millones de toneladas métricas. Esta acción ayudará a rastrear y gestionar las emisiones provenientes de diversas fuentes, incluyendo el transporte y la energía estacionaria, que son los principales contribuyentes. Además, el monitoreo continuo puede proporcionar datos valiosos para abordar los altos riesgos asociados con peligros climáticos como sequías, olas de calor e inundaciones, que amenazan la salud pública y la infraestructura. Al mantener una vigilancia constante sobre las emisiones, Manaus podrá planificar mejor sus acciones climáticas para mitigar estos riesgos de manera efectiva.",
-    "action": {
-      "ActionID": "icare_0056",
-      "ActionName": "Implementar el monitoreo continuo de las emisiones de GEI y las acciones climáticas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "non-specified_sources"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "El inventario de emisiones de GEI municipales debe prepararse anualmente para permitir el monitoreo de los resultados de las acciones de mitigación. Se recomienda incluir las categorías de IPPU (Procesos Industriales) y AFOLU (Agricultura, Silvicultura y Uso de la Tierra).",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "20-39",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Preparación anual del inventario de emisiones de GEI municipales para monitorear los resultados de mitigación.",
-        "Inclusión de las categorías IPPU (Procesos Industriales) y AFOLU (Agricultura, Silvicultura y Uso de la Tierra) en el inventario.",
-        "Uso del inventario como herramienta para rastrear y mejorar el desempeño de las acciones climáticas."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de fuentes de emisión monitoreadas.",
-        "Frecuencia de actualizaciones de monitoreo (por ejemplo, mensual, trimestral).",
-        "Precisión de los informes de reducción de emisiones (% verificado)."
-      ],
-      "PowersAndMandates": [
-        "national"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0092",
-    "actionName": "Development of micro-logistics hubs to encourage the use of electric cargo bikes.",
-    "actionPriority": 19,
-    "explanation": "El desarrollo de microcentros logísticos para fomentar el uso de bicicletas de carga eléctricas en Manaos es una acción estratégica para abordar las altas emisiones del sector transporte en la ciudad. Dado que el transporte es un contribuyente significativo a las emisiones totales de la ciudad, esta iniciativa puede ayudar a reducir la huella de carbono al promover métodos de entrega más limpios y sostenibles. Además, el uso de bicicletas de carga eléctricas puede aliviar la congestión del tráfico y mejorar la calidad del aire, lo cual es crucial para la salud pública, especialmente considerando la vulnerabilidad de la ciudad a las olas de calor y enfermedades. Esta acción también apoya el desarrollo socioeconómico de la ciudad al potencialmente crear nuevas oportunidades de empleo en el sector logístico.",
-    "action": {
-      "ActionID": "icare_0092",
-      "ActionName": "Desarrollo de micro-centros logísticos para fomentar el uso de bicicletas de carga eléctricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Crear centros logísticos a pequeña escala en barrios urbanos para facilitar las entregas utilizando bicicletas de carga eléctricas, mientras se implementan incentivos fiscales o subsidios para que las empresas adopten estas bicicletas como modo de transporte, reduciendo las emisiones y mejorando la eficiencia de las entregas en áreas densamente pobladas.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "20-39",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Identificación y desarrollo de ubicaciones adecuadas para centros logísticos a pequeña escala dentro de los vecindarios urbanos.",
-        "Provisión de incentivos fiscales, subsidios o subvenciones para alentar a las empresas a hacer la transición a bicicletas de carga eléctricas.",
-        "Establecimiento de asociaciones con empresas de logística para garantizar la integración y eficiencia en las operaciones de entrega utilizando estos centros."
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción en la distancia recorrida por vehículos de entrega tradicionales (km/año).",
-        "Aumento en la eficiencia operativa de los centros logísticos (%).",
-        "Número de empresas que utilizan micro-centros logísticos para entregas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MAO",
-    "cityName": "Manaus",
-    "region": "AM",
-    "regionName": "Amazonas",
-    "actionId": "icare_0029",
-    "actionName": "Adopt policies for fossil fuel-free buildings",
-    "actionPriority": 20,
-    "explanation": "Adoptar políticas para edificios libres de combustibles fósiles en Manaus es crucial debido a las altas emisiones de energía estacionaria de la ciudad, que contribuyen significativamente a sus emisiones totales. La transición hacia edificios libres de combustibles fósiles puede ayudar a reducir estas emisiones, alineándose con los esfuerzos globales para combatir el cambio climático. Además, este tipo de políticas pueden mejorar la seguridad energética, una preocupación clave dada la vulnerabilidad de la ciudad a las sequías y olas de calor. Al priorizar esta acción, Manaus también puede mejorar la salud pública y la resiliencia de la infraestructura, abordando los riesgos que representan los peligros relacionados con el clima.",
-    "action": {
-      "ActionID": "icare_0029",
-      "ActionName": "Adoptar políticas para edificios libres de combustibles fósiles",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "residential_buildings"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Aplicar regulaciones que exijan que las nuevas construcciones utilicen sistemas de energía renovable, diseños energéticamente eficientes y tecnologías de cero emisiones.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desarrollo de códigos de construcción y marcos regulatorios que obliguen a la integración de sistemas de energía renovable y diseños energéticamente eficientes en nuevas construcciones",
-        "Disponibilidad de incentivos o apoyo para que los desarrolladores cumplan con las regulaciones y adopten tecnologías de cero emisiones",
-        "Experiencia técnica y recursos para garantizar la correcta implementación y monitoreo de sistemas de energía renovable y diseños energéticamente eficientes en proyectos de construcción"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de edificios que están transitando a fuentes de energía renovable.",
-        "Reducción total en el uso de combustibles fósiles para calefacción/refrigeración (m³ o litros).",
-        "Disminución en las emisiones de GEI relacionadas con los edificios (toneladas de CO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  }
 ]

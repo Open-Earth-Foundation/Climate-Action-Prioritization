@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Establishing a plan for preparation and emergency response measures in Corumb\u00e1 is crucial due to the high risk of extreme weather events such as droughts, heatwaves, and floods. The city faces significant threats to water resources, food security, and public health, with normalized risk scores reaching as high as 0.99 for several hazards. These risks necessitate a proactive approach to ensure the safety and resilience of the community. By prioritizing this action, Corumb\u00e1 can better protect its infrastructure and population from the adverse impacts of climate change.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -40,7 +40,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
@@ -60,148 +66,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "high",
                 "floods": "high",
-                "wildfires": "high",
                 "sea-level-rise": "low",
-                "storms": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CMG",
-        "cityName": "Corumb\u00e1",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0176",
-        "actionName": "Development of Climate Action Plan",
-        "actionPriority": 2,
-        "explanation": "The development of a Climate Action Plan is crucial for Corumb\u00e1 due to its high vulnerability to climate-related hazards such as droughts, heatwaves, and floods. These hazards pose significant risks to water resources, food security, public health, and infrastructure. By creating a comprehensive plan, the city can strategically address these risks and enhance its resilience. Additionally, the plan will help in coordinating efforts to reduce emissions and adapt to climate impacts, ensuring sustainable development for the region.",
-        "action": {
-            "ActionID": "icare_0176",
-            "ActionName": "Development of Climate Action Plan",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "storms",
-                "sea-level-rise",
-                "wildfires",
-                "floods",
-                "landslides",
-                "diseases",
-                "heatwaves",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "A comprehensive plan outlining a city's strategies and actions to mitigate greenhouse gas emissions and adapt to the impacts of climate change which typically includes an assessment of the city's climate risks and vulnerabilities, setting emission reduction targets, and implementation of actions across various sectors such as energy, transportation, waste management, and urban planning.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Political will and commitment from government",
-                "Stakeholder engagement and collaboration",
-                "Funding and resources for implementation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Greenhouse gas emission reduction targets.",
-                "Number of climate adaptation actions implemented.",
-                "Investment in climate mitigation and adaptation projects."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "storms": "medium",
-                "sea-level-rise": "medium",
-                "wildfires": "medium",
-                "floods": "medium",
-                "landslides": "medium",
-                "diseases": "medium",
-                "heatwaves": "medium",
-                "droughts": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CMG",
-        "cityName": "Corumb\u00e1",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0152",
-        "actionName": "Recovery of degraded areas",
-        "actionPriority": 3,
-        "explanation": "The action 'Recovery of degraded areas' is crucial for Corumb\u00e1 due to its significant land use emissions, which are the highest among all emission sources. Restoring degraded areas can help sequester carbon, thereby reducing these emissions. Additionally, the city's biome of grassland/savanna is susceptible to degradation, and recovery efforts can enhance biodiversity and ecosystem resilience. This action also aligns with addressing the high risk of droughts impacting water resources and food security, as healthy ecosystems can better withstand such hazards.",
-        "action": {
-            "ActionID": "icare_0152",
-            "ActionName": "Recovery of degraded areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Restoring ecosystems damaged by human activities by replanting native vegetation, restoring the soil, eliminating invasive species and implementing sustainable management techniques.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Develop a clear restoration plan and secure funding for long-term management.",
-                "Ensure access to native plant species and provide training in sustainable practices.",
-                "Remove invasive species and collaborate with local communities for successful ecosystem restoration."
-            ],
-            "KeyPerformanceIndicators": [
-                "Hectares of degraded land restored annually",
-                "Increase in vegetation cover (%) in restored areas",
-                "Number of local communities engaged in restoration projects"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "heatwaves": "high",
                 "landslides": "high",
-                "floods": "high"
+                "storms": "high",
+                "wildfires": "high",
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -211,8 +83,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
-        "actionPriority": 4,
-        "explanation": "Strengthening programs for control and conservation of protected areas is crucial for Corumb\u00e1 due to its significant land use emissions, which are the highest among all emission sources. The city's biome, primarily grassland and savanna, is vulnerable to environmental degradation, making conservation efforts vital for maintaining biodiversity and ecosystem services. Additionally, the city faces high risks from droughts and heatwaves, which can further threaten these protected areas. By enhancing conservation programs, Corumb\u00e1 can mitigate these risks and promote sustainable land management practices.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -241,7 +113,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -259,12 +137,16 @@
                 "state"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
-                "landslides": "high",
+                "droughts": null,
                 "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
                 "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -274,8 +156,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
-        "actionPriority": 5,
-        "explanation": "Developing diagnostics and restoring areas of Special Social Interest Zones (ZEIS) in Corumb\u00e1 is crucial due to the city's socio-economic context. With a low-income population, enhancing these areas can significantly improve living conditions and access to essential services. Additionally, restoring ZEIS can help mitigate the impacts of environmental hazards such as floods and landslides, which pose high risks to infrastructure and public health. This action aligns with the need to address vulnerabilities and enhance resilience in the face of climate-related challenges.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -305,7 +187,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -323,13 +211,167 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "sea-level-rise": "medium",
+                "droughts": null,
+                "heatwaves": "high",
                 "floods": "medium",
+                "sea-level-rise": "medium",
                 "landslides": "low",
-                "diseases": "medium",
-                "heatwaves": "high"
+                "storms": null,
+                "wildfires": null,
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CMG",
+        "cityName": "Corumb\u00e1",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "ipcc_0094",
+        "actionName": "Access to health care",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0094",
+            "ActionName": "Access to health care",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "floods",
+                "droughts"
+            ],
+            "Sector": [
+                "public_health",
+                "water_resources"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Enhancing access to health care services, including health and nutrition services, clean water, sanitation, and culturally appropriate mental health resources. Expanding telemedicine capabilities enables efficient health service delivery, particularly for remote and underserved populations. Strengthening basic public health systems and disaster preparedness can rapidly reduce vulnerability to climate-related health risks.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Promotes equitable access to health care for marginalized and vulnerable groups, including homeless populations, remote communities, and those affected by housing inequities.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in telemedicine technologies",
+                "Strengthened governance of public health systems",
+                "Capacity building for health workers",
+                "Infrastructure upgrades for health facilities"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in climate-related mortality",
+                "Increased access to telemedicine",
+                "Number of culturally tailored health programs implemented",
+                "Improved water and sanitation access metrics"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CMG",
+        "cityName": "Corumb\u00e1",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "icare_0145",
+        "actionName": "Strengthen the healthcare network to attend to climate victims",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0145",
+            "ActionName": "Strengthen the healthcare network to attend to climate victims",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "diseases",
+                "landslides",
+                "floods",
+                "storms",
+                "droughts"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Improve the infrastructure of healthcare units to assist people who require medical care due to impacts associated with climate risks (climate victims), such as those affected by heat waves or floods, especially in more vulnerable areas. Develop action plans to prepare the healthcare network for extreme climate-related situations.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": ">10 years",
+            "Dependencies": [
+                "Investment in the renovation and expansion of healthcare facilities, ensuring they are equipped to handle climate-related health impacts, particularly in vulnerable areas.",
+                "Development of action plans and training programs for healthcare professionals to respond to extreme climate events like heatwaves and floods.",
+                "Collaboration with local authorities, emergency response teams, and climate experts to create a comprehensive framework for preparing the healthcare network for climate risks."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of healthcare facilities upgraded for climate-related emergencies.",
+                "Increase in healthcare staff trained in climate emergency response (%).",
+                "Number of climate-related injuries treated successfully.",
+                "."
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
+                "storms": "high",
+                "wildfires": null,
+                "diseases": "medium"
+            },
+            "biome": null
         }
     },
     {
@@ -340,7 +382,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 6,
-        "explanation": "Improving food storage and distribution is crucial for Corumb\u00e1 due to its vulnerability to droughts and floods, which pose significant risks to food security. The city's low population density and large area make efficient distribution systems essential to ensure food reaches all residents, especially during extreme weather events. Enhancing these systems can help mitigate the impact of climate-related hazards on food availability and accessibility, thereby strengthening the city's resilience. Additionally, better food storage can reduce waste and improve the overall efficiency of the food supply chain in the region.",
+        "explanation": "Ranked #6 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -372,7 +414,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Supports equitable access to food for marginalized and vulnerable populations by prioritizing local food production and improving distribution systems that reach underserved areas.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -391,11 +439,15 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": "high",
                 "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
                 "storms": "high",
-                "heatwaves": "high"
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -403,63 +455,72 @@
         "cityName": "Corumb\u00e1",
         "region": "MS",
         "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0094",
-        "actionName": "Access to health care",
+        "actionId": "icare_0157",
+        "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 7,
-        "explanation": "Access to health care is a critical priority for Corumb\u00e1 due to the high risk of public health impacts from various hazards such as heatwaves, diseases, and floods. The city's vulnerability to these hazards, as indicated by the high normalized risk scores, underscores the need for robust health care systems to manage potential health crises. Improving access to health care can enhance the city's resilience by ensuring that residents receive timely medical attention during emergencies. Additionally, strengthening health care infrastructure can mitigate the adverse effects of climate-related health risks, contributing to overall community well-being.",
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0094",
-            "ActionName": "Access to health care",
+            "ActionID": "icare_0157",
+            "ActionName": "Maintenance and Revitalization of Riparian Forests",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "heatwaves",
+                "landslides",
                 "floods",
                 "droughts"
             ],
-            "Sector": [
-                "public_health",
-                "water_resources"
-            ],
+            "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Enhancing access to health care services, including health and nutrition services, clean water, sanitation, and culturally appropriate mental health resources. Expanding telemedicine capabilities enables efficient health service delivery, particularly for remote and underserved populations. Strengthening basic public health systems and disaster preparedness can rapidly reduce vulnerability to climate-related health risks.",
+            "Description": "Mapping and assessing degraded riparian forests, developing revitalization plans with the planting of native species, control of invasive species, erosion containment measures and periodic assessments of the impacts on environmental conditions.",
             "CoBenefits": {
                 "air_quality": 1,
                 "water_quality": 2,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 2
+                "stakeholder_engagement": 1
             },
-            "EquityAndInclusionConsiderations": "Promotes equitable access to health care for marginalized and vulnerable groups, including homeless populations, remote communities, and those affected by housing inequities.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
+            "CostInvestmentNeeded": "high",
             "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Investment in telemedicine technologies",
-                "Strengthened governance of public health systems",
-                "Capacity building for health workers",
-                "Infrastructure upgrades for health facilities"
+                "Ensure availability of geospatial data and prior mapping of degraded areas.",
+                "Form partnerships with local nurseries and provide equipment and skilled labor for invasive species control.",
+                "Secure financial resources and establish a monitoring system to assess environmental impacts."
             ],
             "KeyPerformanceIndicators": [
-                "Reduction in climate-related mortality",
-                "Increased access to telemedicine",
-                "Number of culturally tailored health programs implemented",
-                "Improved water and sanitation access metrics"
+                "Total area of riparian forests restored (ha).",
+                "Number of projects implemented.",
+                "Reduction of erosion and siltation of water bodies (tonnes/year)."
             ],
-            "PowersAndMandates": null,
+            "PowersAndMandates": [
+                "local"
+            ],
             "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
+                "droughts": "medium",
+                "heatwaves": "medium",
                 "floods": "high",
-                "droughts": "high"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -470,7 +531,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 8,
-        "explanation": "Encouraging sustainable land use practices in Corumb\u00e1 is crucial due to the city's significant land use emissions, which are the highest among all emission categories. The region's biome, primarily grassland and savanna, is susceptible to degradation if not managed sustainably, which can exacerbate emissions and environmental risks. Implementing sustainable practices can help mitigate these emissions and protect the local ecosystem, contributing to long-term environmental and economic stability. Additionally, sustainable land use can enhance resilience against climate-related hazards such as droughts and floods, which pose high risks to the city's infrastructure and food security.",
+        "explanation": "Ranked #8 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -500,7 +561,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "5-10 years",
@@ -520,11 +587,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "medium",
-                "landslides": "high",
                 "floods": "medium",
-                "wildfires": "medium"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": "medium",
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -535,7 +605,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 9,
-        "explanation": "Farm and fishery improvements are crucial for Corumb\u00e1 due to the high risk of droughts impacting water resources and food security. Enhancing agricultural practices can help mitigate these risks by increasing resilience to climate variability. Additionally, improving fisheries can support local economies and food supply, which are vital given the socio-economic context of the region. This action aligns with the need to address key vulnerabilities in the city's environmental and economic systems.",
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -569,7 +639,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Ensures access to resources for marginalized farmers and fishers, promotes diverse livelihood options, and builds resilience in underserved communities.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -589,141 +665,13 @@
                 "droughts": "high",
                 "heatwaves": "high",
                 "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
                 "wildfires": "low",
-                "storms": "medium"
+                "diseases": null
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CMG",
-        "cityName": "Corumb\u00e1",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0157",
-        "actionName": "Maintenance and Revitalization of Riparian Forests",
-        "actionPriority": 10,
-        "explanation": "The maintenance and revitalization of riparian forests in Corumb\u00e1 is crucial due to the city's significant land use emissions, which are the highest among all emission sources. Revitalizing these forests can help sequester carbon, thereby reducing overall emissions and mitigating climate change impacts. Additionally, healthy riparian forests can improve water quality and availability, which is vital given the high risk of droughts affecting water resources and food security in the region. This action also supports biodiversity, which is under threat from both droughts and heatwaves, by providing essential habitats and ecological corridors.",
-        "action": {
-            "ActionID": "icare_0157",
-            "ActionName": "Maintenance and Revitalization of Riparian Forests",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "landslides",
-                "floods",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Mapping and assessing degraded riparian forests, developing revitalization plans with the planting of native species, control of invasive species, erosion containment measures and periodic assessments of the impacts on environmental conditions.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Ensure availability of geospatial data and prior mapping of degraded areas.",
-                "Form partnerships with local nurseries and provide equipment and skilled labor for invasive species control.",
-                "Secure financial resources and establish a monitoring system to assess environmental impacts."
-            ],
-            "KeyPerformanceIndicators": [
-                "Total area of riparian forests restored (ha).",
-                "Number of projects implemented.",
-                "Reduction of erosion and siltation of water bodies (tonnes/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "medium",
-                "landslides": "high",
-                "floods": "high",
-                "droughts": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CMG",
-        "cityName": "Corumb\u00e1",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0145",
-        "actionName": "Strengthen the healthcare network to attend to climate victims",
-        "actionPriority": 11,
-        "explanation": "Strengthening the healthcare network in Corumb\u00e1 is crucial due to the high risk of climate-related health impacts. The city faces significant threats from heatwaves, droughts, and floods, all of which can severely affect public health. By enhancing healthcare services, the city can better manage and mitigate the health consequences of these climate hazards. This action is essential to ensure the well-being of the population, particularly in a region with low income and limited access to public services.",
-        "action": {
-            "ActionID": "icare_0145",
-            "ActionName": "Strengthen the healthcare network to attend to climate victims",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "diseases",
-                "landslides",
-                "floods",
-                "storms",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Improve the infrastructure of healthcare units to assist people who require medical care due to impacts associated with climate risks (climate victims), such as those affected by heat waves or floods, especially in more vulnerable areas. Develop action plans to prepare the healthcare network for extreme climate-related situations.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Investment in the renovation and expansion of healthcare facilities, ensuring they are equipped to handle climate-related health impacts, particularly in vulnerable areas.",
-                "Development of action plans and training programs for healthcare professionals to respond to extreme climate events like heatwaves and floods.",
-                "Collaboration with local authorities, emergency response teams, and climate experts to create a comprehensive framework for preparing the healthcare network for climate risks."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of healthcare facilities upgraded for climate-related emergencies.",
-                "Increase in healthcare staff trained in climate emergency response (%).",
-                "Number of climate-related injuries treated successfully.",
-                "."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "medium",
-                "floods": "high",
-                "storms": "high",
-                "droughts": "medium"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -733,8 +681,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
-        "actionPriority": 12,
-        "explanation": "The availability of health infrastructure is crucial for Corumb\u00e1, given the high risk of public health impacts from hazards such as heatwaves, diseases, and floods. These hazards have been identified as having significant risk scores, indicating a pressing need for robust health systems to manage potential crises. Improving health infrastructure can enhance the city's resilience against these threats, ensuring better preparedness and response capabilities. Additionally, strengthening health services can contribute to overall community well-being and reduce vulnerability to climate-related health risks.",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -766,7 +714,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Enhances access to critical health and water resources for vulnerable and underserved communities, mitigating inequities caused by climate impacts.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -783,11 +737,15 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
                 "sea-level-rise": "high",
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
                 "diseases": "high"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -795,70 +753,144 @@
         "cityName": "Corumb\u00e1",
         "region": "MS",
         "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0148",
-        "actionName": "Create the Municipal Climate Change Forum",
-        "actionPriority": 13,
-        "explanation": "Creating the Municipal Climate Change Forum in Corumb\u00e1 is a crucial step towards addressing the city's significant environmental challenges. The city faces high risks from climate-related hazards such as droughts, heatwaves, and floods, which impact water resources, food security, and public health. Establishing a dedicated forum will facilitate coordinated efforts among stakeholders to develop and implement effective climate adaptation and mitigation strategies. This initiative will also enhance community engagement and awareness, empowering residents to contribute to sustainable solutions.",
+        "actionId": "icare_0181",
+        "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0148",
-            "ActionName": "Create the Municipal Climate Change Forum",
+            "ActionID": "icare_0181",
+            "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
-                "droughts",
-                "diseases",
-                "heatwaves",
                 "landslides",
-                "floods",
-                "wildfires",
-                "sea-level-rise",
-                "storms"
+                "floods"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Creation of a Municipal Climate Change Forum with the participation of community leaders, scientists, collectives, research institutes, NGOs, and members of the municipal and state administration. The Forum will serve as a reference for actions related to Climate Change, aiming to monitor future policies on the subject in the municipality, stimulate dialogue, and create a network of discussions about the climate crisis.",
+            "Description": "A comprehensive project addressing the socio-environmental vulnerability of an informal settlement. It includes relocating residents from flood-prone areas, restoring the environment, and providing infrastructure and social services.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 2,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Adequate funding",
+                "Inter-agency coordination",
+                "Land tenure security"
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of households relocated.",
+                "Environmental restoration progress.",
+                "Flood risk reduction."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CMG",
+        "cityName": "Corumb\u00e1",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "ipcc_0092",
+        "actionName": "Social safety nets",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0092",
+            "ActionName": "Social safety nets",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "storms"
+            ],
+            "Sector": [
+                "food_security",
+                "public_health"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Social safety nets encompass adaptive social protection mechanisms to reduce food insecurity and malnutrition, especially for vulnerable populations. These include cash transfers, school feeding programs, public work initiatives, unemployment compensation, land reforms, credit and insurance schemes. Integrated approaches combine climate risk assessments with disaster risk reduction, education, and social equity to enhance resilience to climate stresses.",
             "CoBenefits": {
                 "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 2,
+                "housing": 1,
                 "mobility": 0,
                 "stakeholder_engagement": 2
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
+            "EquityAndInclusionConsiderations": "Enhances the social status and rights of marginalized groups, protects vulnerable populations, reduces inequalities, and promotes education and gender equity.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Engagement of diverse stakeholders, including community leaders, scientists, NGOs, and local authorities, to establish and sustain the Forum.",
-                "Allocation of resources to facilitate regular meetings, workshops, and events for the Forum to remain active and impactful.",
-                "Development of a clear framework and guidelines for the Forum to monitor and guide climate change policies and initiatives within the municipality."
+                "Integration of climate and disaster risk into social protection",
+                "education programs",
+                "coordination with sustainable livelihoods and financial inclusion initiatives"
             ],
             "KeyPerformanceIndicators": [
-                "Percentage of key stakeholders actively participating in the forum.",
-                "Number of climate-related policies or actions proposed through the forum.",
-                "Public engagement in forum initiatives (measured by event attendance or surveys)"
+                "Reduction in malnutrition rates",
+                "Increase in education access for vulnerable groups",
+                "Participation in social protection programs"
             ],
-            "PowersAndMandates": [
-                "local"
-            ],
+            "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
-                "droughts": "medium",
-                "diseases": "medium",
-                "heatwaves": "medium",
-                "landslides": "low",
+                "droughts": "high",
+                "heatwaves": "high",
                 "floods": "medium",
-                "wildfires": "medium",
-                "sea-level-rise": "medium",
-                "storms": "medium"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -868,8 +900,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
-        "actionPriority": 14,
-        "explanation": "The creation of a financial support program to address extreme weather events is crucial for Corumb\u00e1 due to its high vulnerability to climate-related hazards. The city faces significant risks from droughts, heatwaves, and floods, which can severely impact water resources, food security, and public health. Establishing a financial support program can help mitigate the economic impact of these events on the local population, particularly those with low income. Additionally, such a program can enhance the city's resilience by providing necessary resources for recovery and adaptation efforts.",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -902,7 +934,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -922,133 +960,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "medium",
-                "diseases": "medium",
-                "landslides": "medium",
-                "wildfires": "medium",
                 "floods": "medium",
                 "sea-level-rise": "medium",
-                "storms": "medium"
+                "landslides": "medium",
+                "storms": "medium",
+                "wildfires": "medium",
+                "diseases": "medium"
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CMG",
-        "cityName": "Corumb\u00e1",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0181",
-        "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
-        "actionPriority": 15,
-        "explanation": "The action 'Relocation and Environmental Restoration in Vulnerable Areas' is crucial for Corumb\u00e1 due to its high vulnerability to natural hazards such as floods and landslides. These hazards pose significant risks to infrastructure and public health, as indicated by the high normalized risk scores. By relocating communities from high-risk areas and restoring the environment, the city can mitigate these risks and enhance resilience. Additionally, environmental restoration can help reduce emissions from land use, which is a major contributor to the city's total emissions. This action aligns with the need to address both immediate safety concerns and long-term environmental sustainability.",
-        "action": {
-            "ActionID": "icare_0181",
-            "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "A comprehensive project addressing the socio-environmental vulnerability of an informal settlement. It includes relocating residents from flood-prone areas, restoring the environment, and providing infrastructure and social services.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 2,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Adequate funding",
-                "Inter-agency coordination",
-                "Land tenure security"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of households relocated.",
-                "Environmental restoration progress.",
-                "Flood risk reduction."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "landslides": "high",
-                "floods": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CMG",
-        "cityName": "Corumb\u00e1",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0175",
-        "actionName": "Recovery and preservation of green areas",
-        "actionPriority": 16,
-        "explanation": "The action of recovering and preserving green areas in Corumb\u00e1 is crucial due to the city's biome, which is primarily grassland and savanna. These ecosystems are vital for maintaining biodiversity and providing natural buffers against climate hazards such as droughts and heatwaves, which are significant risks for the city. Additionally, green areas can help mitigate the effects of urban heat islands, improving public health and infrastructure resilience. Given the high emissions from land use, enhancing green spaces can also contribute to carbon sequestration, aiding in the reduction of overall emissions.",
-        "action": {
-            "ActionID": "icare_0175",
-            "ActionName": "Recovery and preservation of green areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "floods",
-                "wildfires"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Rehabilitation and protection of existing green spaces, such as parks, forests, and wetlands, and expansion of green areas through planting of trees and vegetation in urban and peri-urban areas. These areas provide natural solutions for managing water resources, reducing heat stress, improving air quality, and enhancing biodiversity.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of suitable land for green spaces",
-                "Access to water resources for irrigation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Area of green spaces created or restored.",
-                "Biodiversity indices in green areas.",
-                "Community engagement in green space activities."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
-                "floods": "high",
-                "wildfires": "medium"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1058,8 +977,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
-        "actionPriority": 17,
-        "explanation": "Implementing a Hydrological Monitoring System with Telemetry Stations in Corumb\u00e1 is crucial due to the city's high risk of droughts and floods. These hazards pose significant threats to water resources and food security, both of which are vital for the city's sustainability. By establishing a monitoring system, the city can better predict and manage these risks, ensuring timely responses to mitigate potential impacts. Additionally, improved water management can enhance public health and infrastructure resilience, addressing some of the key vulnerabilities identified in the city's climate risk assessment.",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1087,7 +1006,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
@@ -1106,74 +1031,15 @@
             ],
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
-                "storms": "high"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CMG",
-        "cityName": "Corumb\u00e1",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0092",
-        "actionName": "Social safety nets",
-        "actionPriority": 18,
-        "explanation": "Implementing social safety nets in Corumb\u00e1 is crucial due to the high risk of climate-related hazards such as droughts, heatwaves, and floods, which significantly impact public health and food security. These safety nets can provide essential support to vulnerable populations, ensuring they have access to necessary resources during extreme weather events. Given the city's low-income socio-economic status, enhancing social safety nets can help mitigate the adverse effects of these hazards and improve overall community resilience. Additionally, by addressing these risks, the city can better protect its residents and infrastructure from the long-term impacts of climate change.",
-        "action": {
-            "ActionID": "ipcc_0092",
-            "ActionName": "Social safety nets",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "floods",
-                "storms"
-            ],
-            "Sector": [
-                "food_security",
-                "public_health"
-            ],
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Social safety nets encompass adaptive social protection mechanisms to reduce food insecurity and malnutrition, especially for vulnerable populations. These include cash transfers, school feeding programs, public work initiatives, unemployment compensation, land reforms, credit and insurance schemes. Integrated approaches combine climate risk assessments with disaster risk reduction, education, and social equity to enhance resilience to climate stresses.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 2,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": "Enhances the social status and rights of marginalized groups, protects vulnerable populations, reduces inequalities, and promotes education and gender equity.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Integration of climate and disaster risk into social protection",
-                "education programs",
-                "coordination with sustainable livelihoods and financial inclusion initiatives"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reduction in malnutrition rates",
-                "Increase in education access for vulnerable groups",
-                "Participation in social protection programs"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "heatwaves": "high",
-                "floods": "medium",
-                "storms": "medium"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1183,8 +1049,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
-        "actionPriority": 19,
-        "explanation": "The implementation of urban gardens in Corumb\u00e1 is a strategic action to enhance food security, which is a critical concern given the high risk of droughts and floods impacting the region. Urban gardens can provide a sustainable source of fresh produce, reducing dependency on external food supplies and increasing resilience against climate-related disruptions. Additionally, these gardens can contribute to community well-being by promoting green spaces and offering educational opportunities about sustainable practices. This action aligns with the city's need to address socio-economic challenges and improve local food systems.",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1212,7 +1078,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
@@ -1230,11 +1102,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
                 "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
                 "landslides": "low",
-                "floods": "medium"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1244,8 +1121,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
-        "actionPriority": 20,
-        "explanation": "Implementing permeable pavements and increasing green areas in roadways is crucial for Corumb\u00e1 due to its high risk of floods and landslides. These measures can significantly enhance the city's resilience by improving water absorption and reducing surface runoff, which are vital in managing flood risks. Additionally, increasing green areas can help mitigate the urban heat island effect, which is important given the high risk of heatwaves impacting public health and infrastructure. This action also supports biodiversity by providing more natural habitats within the urban environment.",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1273,7 +1150,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
@@ -1291,11 +1174,327 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
                 "floods": "high",
+                "sea-level-rise": null,
                 "landslides": "medium",
-                "heatwaves": "medium"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CMG",
+        "cityName": "Corumb\u00e1",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "ipcc_0098",
+        "actionName": "Behaviour change in diets and food waste",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0098",
+            "ActionName": "Behaviour change in diets and food waste",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "wildfires"
+            ],
+            "Sector": [
+                "food_security",
+                "biodiversity"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Reducing food loss and waste through improved food production, distribution, and consumption practices. Actions include enhancing agricultural techniques, adopting water-saving technologies, implementing low-cost storage solutions, and promoting plant-based diets. Policymakers can encourage these behaviors with appropriate pricing policies, sustainable agriculture initiatives, and support for disadvantaged groups. The action emphasizes shifting to healthier diets, reducing overconsumption, and supporting local food systems to mitigate greenhouse gas emissions and ensure food security under climate change.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Promotes access to affordable, healthy food for vulnerable communities, empowering women, youth, and socially disadvantaged groups. Encourages equitable participation in sustainable agricultural practices and local food networks.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Education and training for farmers",
+                "Access to sustainable agricultural inputs",
+                "Policy support for sustainable practices",
+                "Technological infrastructure for storage and processing"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in food loss and waste percentages",
+                "Increase in adoption of plant-based diets",
+                "Improved food security indicators",
+                "Reduction in GHG emissions from food systems"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "medium",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": "low",
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CMG",
+        "cityName": "Corumb\u00e1",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "ipcc_0099",
+        "actionName": "Water capture/storage",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0099",
+            "ActionName": "Water capture/storage",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "floods",
+                "storms"
+            ],
+            "Sector": [
+                "water_resources",
+                "food_security",
+                "energy_security",
+                "geo-hydrological_disasters"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Implementing water capture and storage solutions such as farm ponds, revival of water bodies, rain gardens, bioswales, retention ponds, and water storage tanks. These measures aim to mitigate climate-induced impacts by improving water management, reducing stormwater runoff, enhancing water quality, and supporting agriculture and energy production under changing climate scenarios. Multi-purpose water reservoirs and dams provide additional benefits by addressing water shortages and managing risks associated with natural hazards.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Ensures access to water for underserved communities, supports sustainable livelihoods in water-scarce regions, and promotes equitable resource distribution through inclusive decision-making processes.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in green infrastructure",
+                "community engagement",
+                "policy support for water resource management"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in stormwater runoff",
+                "increase in water storage capacity",
+                "improvement in water quality",
+                "stability in agricultural yields"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CMG",
+        "cityName": "Corumb\u00e1",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "ipcc_0086",
+        "actionName": "Ecosystem-based adaptation",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0086",
+            "ActionName": "Ecosystem-based adaptation",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "storms",
+                "sea-level-rise",
+                "heatwaves",
+                "floods"
+            ],
+            "Sector": [
+                "biodiversity",
+                "geo-hydrological_disasters",
+                "water_resources",
+                "public_health"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Restoring and sustainably managing marine, coastal, urban, riverine, and wetland ecosystems to protect against climate hazards such as storm surges, floods, and heatwaves. Efforts include agroecology, coastal and marine vegetation and reefs, vegetation corridors, mangrove habitat restoration, urban green space to reduce temperatures. These actions improve biodiversity, store carbon, enhance water quality, and provide socio-economic and cultural co-benefits.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 1,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": "Supports vulnerable communities by enhancing climate resilience, promoting equitable access to ecosystem services, and creating livelihood opportunities, especially for marginalized and underserved populations.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Community engagement",
+                "Regulatory support",
+                "Financial investment",
+                "Urban planning",
+                "Climate-resilient vegetation",
+                "Biodiversity assessments",
+                "Catchment management",
+                "Upstream planning",
+                "Sustainable funding"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in storm surge damage",
+                "Carbon sequestration rates",
+                "Increased biodiversity",
+                "Temperature reduction in urban areas",
+                "Improved water quality",
+                "Access to green spaces by underserved communities",
+                "Reduction in flood events",
+                "Enhanced ecosystem health"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": "high",
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CMG",
+        "cityName": "Corumb\u00e1",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "icare_0155",
+        "actionName": "Preservation and Recovery of Water Bodies",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0155",
+            "ActionName": "Preservation and Recovery of Water Bodies",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "floods",
+                "landslides"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Set goals for improving the quality of receiving bodies of water, develop programs for vegetation recovery (springs and riverbanks), and for dredging and cleaning water bodies by removing sediments and waste.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Define baseline water quality data and establish monitoring systems.",
+                "Identify priority areas for vegetation recovery and sediment removal with technical expertise.",
+                "Secure financial resources, specialized equipment, and build partnerships for effective program implementation and community engagement."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of water bodies maintained or restored.",
+                "Reduction of waste water pollution (tonnes/year).",
+                "Monitored water quality (IQA)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

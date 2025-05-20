@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Establishing a plan for preparation and emergency response measures in Goi\u00e2nia is crucial due to the high risk of extreme weather events such as droughts, heatwaves, and floods. The city faces significant threats to public health, infrastructure, and food security from these hazards, as indicated by the high normalized risk scores. By prioritizing this action, Goi\u00e2nia can enhance its resilience and reduce the potential impacts of these events on its population and economy. Additionally, a well-prepared emergency response plan can help mitigate the adverse effects on vulnerable communities, ensuring a more equitable and effective response.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -40,7 +40,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
@@ -60,213 +66,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "high",
                 "floods": "high",
-                "wildfires": "high",
                 "sea-level-rise": "low",
-                "storms": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0152",
-        "actionName": "Recovery of degraded areas",
-        "actionPriority": 2,
-        "explanation": "The action 'Recovery of degraded areas' is crucial for Goi\u00e2nia due to its biome of grassland/savanna, which is susceptible to degradation. Restoring these areas can enhance biodiversity and improve the resilience of local ecosystems against climate hazards such as droughts and heatwaves, which are significant risks for the city. Additionally, recovering degraded land can help reduce emissions from land use, contributing to the city's overall climate goals. This action supports sustainable development and can improve the quality of life for residents by ensuring healthier and more stable natural environments.",
-        "action": {
-            "ActionID": "icare_0152",
-            "ActionName": "Recovery of degraded areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Restoring ecosystems damaged by human activities by replanting native vegetation, restoring the soil, eliminating invasive species and implementing sustainable management techniques.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Develop a clear restoration plan and secure funding for long-term management.",
-                "Ensure access to native plant species and provide training in sustainable practices.",
-                "Remove invasive species and collaborate with local communities for successful ecosystem restoration."
-            ],
-            "KeyPerformanceIndicators": [
-                "Hectares of degraded land restored annually",
-                "Increase in vegetation cover (%) in restored areas",
-                "Number of local communities engaged in restoration projects"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "heatwaves": "high",
                 "landslides": "high",
-                "floods": "high"
+                "storms": "high",
+                "wildfires": "high",
+                "diseases": "medium"
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0176",
-        "actionName": "Development of Climate Action Plan",
-        "actionPriority": 3,
-        "explanation": "The development of a Climate Action Plan is crucial for Goi\u00e2nia due to its high vulnerability to climate-related hazards such as droughts, heatwaves, and floods. These hazards pose significant risks to water resources, food security, public health, and infrastructure, as indicated by the city's climate change risk assessment. By creating a comprehensive plan, the city can strategically address these risks, improve resilience, and ensure sustainable development. Additionally, with the city's growing population and high emissions, a Climate Action Plan will help in reducing emissions and promoting environmental sustainability.",
-        "action": {
-            "ActionID": "icare_0176",
-            "ActionName": "Development of Climate Action Plan",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "storms",
-                "sea-level-rise",
-                "wildfires",
-                "floods",
-                "landslides",
-                "diseases",
-                "heatwaves",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "A comprehensive plan outlining a city's strategies and actions to mitigate greenhouse gas emissions and adapt to the impacts of climate change which typically includes an assessment of the city's climate risks and vulnerabilities, setting emission reduction targets, and implementation of actions across various sectors such as energy, transportation, waste management, and urban planning.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Political will and commitment from government",
-                "Stakeholder engagement and collaboration",
-                "Funding and resources for implementation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Greenhouse gas emission reduction targets.",
-                "Number of climate adaptation actions implemented.",
-                "Investment in climate mitigation and adaptation projects."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "storms": "medium",
-                "sea-level-rise": "medium",
-                "wildfires": "medium",
-                "floods": "medium",
-                "landslides": "medium",
-                "diseases": "medium",
-                "heatwaves": "medium",
-                "droughts": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0151",
-        "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
-        "actionPriority": 4,
-        "explanation": "Developing diagnostics and restoring areas of Special Social Interest Zones (ZEIS) in Goi\u00e2nia is crucial due to the city's socio-economic challenges. With a very low-income population, enhancing these areas can significantly improve living conditions and access to essential services. Additionally, addressing these zones can help mitigate the impacts of environmental hazards such as floods and landslides, which pose high risks to infrastructure and public health. By focusing on ZEIS, the city can promote equitable development and resilience against climate-related threats.",
-        "action": {
-            "ActionID": "icare_0151",
-            "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "sea-level-rise",
-                "floods",
-                "landslides",
-                "diseases",
-                "heatwaves"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Priority to ZEIS areas in housing improvement actions and the application of resources from the Urbanization Fund, with the implementation of urban infrastructure that considers climate adaptation in these spaces. Use of Nature-based Solutions (NbS) in the adaptation of environmental sanitation and green and blue infrastructures that enhance leisure, culture, urban agriculture, and activities to strengthen community associations.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 2,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of funding from the Urbanization Fund and other financial mechanisms to support housing improvements and urban infrastructure in ZEIS areas",
-                "Collaboration between urban planners, environmental experts, and local communities to design and implement nature-based solutions (NbS) for urban infrastructure",
-                "Policy and regulatory frameworks that integrate climate adaptation measures into urban planning, ensuring that investments prioritize environmental sustainability and community"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of ZEIS areas diagnosed and restored.",
-                "Percentage of residents benefiting from restored areas (%).",
-                "Public investments allocated to ZEIS areas (currency amount)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "sea-level-rise": "medium",
-                "floods": "medium",
-                "landslides": "low",
-                "diseases": "medium",
-                "heatwaves": "high"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -276,8 +83,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
-        "actionPriority": 5,
-        "explanation": "Strengthening programs for control and conservation of protected areas in Goi\u00e2nia is crucial due to the city's vulnerability to environmental hazards such as droughts and heatwaves. These hazards pose significant risks to water resources, food security, and biodiversity, which are vital for the city's sustainability. By enhancing conservation efforts, Goi\u00e2nia can better protect its natural ecosystems, which play a critical role in mitigating the impacts of climate change. Additionally, preserving these areas supports biodiversity, which is essential for maintaining ecological balance and resilience against environmental threats.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -306,7 +113,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -324,80 +137,16 @@
                 "state"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
-                "landslides": "high",
+                "droughts": null,
                 "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
                 "diseases": "medium"
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0145",
-        "actionName": "Strengthen the healthcare network to attend to climate victims",
-        "actionPriority": 6,
-        "explanation": "Strengthening the healthcare network in Goi\u00e2nia is crucial due to the high risk of climate-related health impacts. The city faces significant threats from heatwaves, floods, and landslides, all of which can severely affect public health. By enhancing healthcare services, the city can better manage the increased demand for medical attention during such events. This action will also help mitigate the long-term health consequences of climate change, ensuring the well-being of its residents.",
-        "action": {
-            "ActionID": "icare_0145",
-            "ActionName": "Strengthen the healthcare network to attend to climate victims",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "diseases",
-                "landslides",
-                "floods",
-                "storms",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Improve the infrastructure of healthcare units to assist people who require medical care due to impacts associated with climate risks (climate victims), such as those affected by heat waves or floods, especially in more vulnerable areas. Develop action plans to prepare the healthcare network for extreme climate-related situations.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Investment in the renovation and expansion of healthcare facilities, ensuring they are equipped to handle climate-related health impacts, particularly in vulnerable areas.",
-                "Development of action plans and training programs for healthcare professionals to respond to extreme climate events like heatwaves and floods.",
-                "Collaboration with local authorities, emergency response teams, and climate experts to create a comprehensive framework for preparing the healthcare network for climate risks."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of healthcare facilities upgraded for climate-related emergencies.",
-                "Increase in healthcare staff trained in climate emergency response (%).",
-                "Number of climate-related injuries treated successfully.",
-                "."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "medium",
-                "floods": "high",
-                "storms": "high",
-                "droughts": "medium"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -407,8 +156,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
-        "actionPriority": 7,
-        "explanation": "Improving access to health care in Goi\u00e2nia is crucial due to the high risk of public health impacts from various climate hazards such as heatwaves, diseases, and floods. The city's vulnerability to these hazards, as indicated by the high normalized risk scores, underscores the need for robust health care systems to manage potential health crises. Additionally, enhancing health care access can mitigate the effects of these hazards on the population, particularly in a city with very low socio-economic factors. Prioritizing health care access will help build resilience against climate-related health challenges and improve overall community well-being.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -439,7 +188,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Promotes equitable access to health care for marginalized and vulnerable groups, including homeless populations, remote communities, and those affected by housing inequities.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -457,11 +212,90 @@
             ],
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
                 "heatwaves": "high",
                 "floods": "high",
-                "droughts": "high"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0151",
+        "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0151",
+            "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "sea-level-rise",
+                "floods",
+                "landslides",
+                "diseases",
+                "heatwaves"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Priority to ZEIS areas in housing improvement actions and the application of resources from the Urbanization Fund, with the implementation of urban infrastructure that considers climate adaptation in these spaces. Use of Nature-based Solutions (NbS) in the adaptation of environmental sanitation and green and blue infrastructures that enhance leisure, culture, urban agriculture, and activities to strengthen community associations.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 2,
+                "mobility": 1,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Availability of funding from the Urbanization Fund and other financial mechanisms to support housing improvements and urban infrastructure in ZEIS areas",
+                "Collaboration between urban planners, environmental experts, and local communities to design and implement nature-based solutions (NbS) for urban infrastructure",
+                "Policy and regulatory frameworks that integrate climate adaptation measures into urban planning, ensuring that investments prioritize environmental sustainability and community"
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of ZEIS areas diagnosed and restored.",
+                "Percentage of residents benefiting from restored areas (%).",
+                "Public investments allocated to ZEIS areas (currency amount)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": "medium",
+                "landslides": "low",
+                "storms": null,
+                "wildfires": null,
+                "diseases": "medium"
+            },
+            "biome": null
         }
     },
     {
@@ -471,8 +305,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
-        "actionPriority": 8,
-        "explanation": "Improving food storage and distribution is crucial for Goi\u00e2nia due to its vulnerability to droughts, which pose a significant risk to food security. With a high population density and a very low-income level, ensuring efficient food distribution can help mitigate the impact of food shortages on the most vulnerable populations. Additionally, enhancing food storage capabilities can reduce waste emissions, which are a significant contributor to the city's total emissions. This action supports resilience against climate-related hazards, ensuring a stable food supply during extreme weather events.",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -504,7 +338,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Supports equitable access to food for marginalized and vulnerable populations by prioritizing local food production and improving distribution systems that reach underserved areas.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -523,203 +363,15 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
-                "floods": "high",
-                "storms": "high",
-                "heatwaves": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0149",
-        "actionName": "Encourage sustainable land use practices",
-        "actionPriority": 9,
-        "explanation": "Encouraging sustainable land use practices in Goi\u00e2nia is crucial due to the city's significant land use emissions, which contribute to its overall carbon footprint. The region's vulnerability to droughts and floods further emphasizes the need for sustainable land management to mitigate these risks. By adopting sustainable practices, Goi\u00e2nia can enhance its resilience against climate-related hazards, protect biodiversity, and improve food security. Additionally, sustainable land use can help maintain the ecological balance in the grassland/savanna biome, supporting long-term environmental health and sustainability.",
-        "action": {
-            "ActionID": "icare_0149",
-            "ActionName": "Encourage sustainable land use practices",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "landslides",
-                "floods",
-                "wildfires"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Promoting methods that guarantee the conservation and health of the soil, preserving biodiversity, reducing erosion and minimizing environmental impacts.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Provide access to technical knowledge and training on sustainable soil management practices.",
-                "Offer financial incentives and form partnerships with research institutions and local farmers.",
-                "Develop monitoring systems for soil health and biodiversity, and implement policies for erosion control."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of land area managed under sustainable land use practices (%)",
-                "Reduction in deforestation or land degradation rates (%)",
-                "Increase in biodiversity indicators on managed lands (e.g., species count, habitat quality)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "medium",
-                "heatwaves": "medium",
-                "landslides": "high",
-                "floods": "medium",
-                "wildfires": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0157",
-        "actionName": "Maintenance and Revitalization of Riparian Forests",
-        "actionPriority": 10,
-        "explanation": "The maintenance and revitalization of riparian forests in Goi\u00e2nia is crucial due to the city's vulnerability to droughts and floods. Riparian forests play a significant role in maintaining water quality and preventing soil erosion, which can mitigate the impacts of these hazards. Additionally, these forests contribute to biodiversity conservation, which is essential given the city's grassland/savanna biome. By enhancing these natural buffers, Goi\u00e2nia can improve its resilience against climate-related risks, particularly those affecting water resources and public health.",
-        "action": {
-            "ActionID": "icare_0157",
-            "ActionName": "Maintenance and Revitalization of Riparian Forests",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "landslides",
-                "floods",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Mapping and assessing degraded riparian forests, developing revitalization plans with the planting of native species, control of invasive species, erosion containment measures and periodic assessments of the impacts on environmental conditions.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Ensure availability of geospatial data and prior mapping of degraded areas.",
-                "Form partnerships with local nurseries and provide equipment and skilled labor for invasive species control.",
-                "Secure financial resources and establish a monitoring system to assess environmental impacts."
-            ],
-            "KeyPerformanceIndicators": [
-                "Total area of riparian forests restored (ha).",
-                "Number of projects implemented.",
-                "Reduction of erosion and siltation of water bodies (tonnes/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "medium",
-                "landslides": "high",
-                "floods": "high",
-                "droughts": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "ipcc_0092",
-        "actionName": "Social safety nets",
-        "actionPriority": 11,
-        "explanation": "Implementing social safety nets in Goi\u00e2nia is crucial due to the city's vulnerability to climate-related hazards such as droughts, heatwaves, and floods. These events pose significant risks to public health, food security, and infrastructure, which can disproportionately affect low-income populations. By establishing robust social safety nets, the city can enhance its resilience, ensuring that vulnerable communities receive the necessary support during and after such events. This action is particularly important given the very low income levels in the city, which can exacerbate the impacts of these hazards on affected populations.",
-        "action": {
-            "ActionID": "ipcc_0092",
-            "ActionName": "Social safety nets",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "floods",
-                "storms"
-            ],
-            "Sector": [
-                "food_security",
-                "public_health"
-            ],
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Social safety nets encompass adaptive social protection mechanisms to reduce food insecurity and malnutrition, especially for vulnerable populations. These include cash transfers, school feeding programs, public work initiatives, unemployment compensation, land reforms, credit and insurance schemes. Integrated approaches combine climate risk assessments with disaster risk reduction, education, and social equity to enhance resilience to climate stresses.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 2,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": "Enhances the social status and rights of marginalized groups, protects vulnerable populations, reduces inequalities, and promotes education and gender equity.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Integration of climate and disaster risk into social protection",
-                "education programs",
-                "coordination with sustainable livelihoods and financial inclusion initiatives"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reduction in malnutrition rates",
-                "Increase in education access for vulnerable groups",
-                "Participation in social protection programs"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
                 "heatwaves": "high",
-                "floods": "medium",
-                "storms": "medium"
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -729,8 +381,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
-        "actionPriority": 12,
-        "explanation": "Farm and fishery improvements are crucial for Goi\u00e2nia due to the high risk of droughts impacting water and food security. Enhancing agricultural practices can help mitigate these risks by increasing resilience to climate variability. Additionally, improving fisheries can support local food supply and economic stability, especially in a region with very low-income levels. These improvements can also contribute to reducing emissions from land use, aligning with the city's environmental goals.",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -764,7 +416,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Ensures access to resources for marginalized farmers and fishers, promotes diverse livelihood options, and builds resilience in underserved communities.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -784,10 +442,13 @@
                 "droughts": "high",
                 "heatwaves": "high",
                 "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
                 "wildfires": "low",
-                "storms": "medium"
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -795,129 +456,146 @@
         "cityName": "Goi\u00e2nia",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "icare_0181",
-        "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
-        "actionPriority": 13,
-        "explanation": "The action of relocating and restoring vulnerable areas in Goi\u00e2nia is crucial due to the city's high risk of natural hazards such as floods and landslides. These hazards pose significant threats to public health and infrastructure, as indicated by the high normalized risk scores. By focusing on environmental restoration, the city can enhance its resilience against these risks, protecting both its population and its infrastructure. Additionally, addressing these vulnerabilities can improve the overall quality of life for residents, particularly in areas with inadequate access to public services.",
+        "actionId": "icare_0149",
+        "actionName": "Encourage sustainable land use practices",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0181",
-            "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "A comprehensive project addressing the socio-environmental vulnerability of an informal settlement. It includes relocating residents from flood-prone areas, restoring the environment, and providing infrastructure and social services.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 2,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Adequate funding",
-                "Inter-agency coordination",
-                "Land tenure security"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of households relocated.",
-                "Environmental restoration progress.",
-                "Flood risk reduction."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "landslides": "high",
-                "floods": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR GYN",
-        "cityName": "Goi\u00e2nia",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0148",
-        "actionName": "Create the Municipal Climate Change Forum",
-        "actionPriority": 14,
-        "explanation": "Creating the Municipal Climate Change Forum in Goi\u00e2nia is a crucial step towards addressing the city's significant environmental challenges. With high risks from droughts, heatwaves, and floods impacting water resources, food security, and public health, a dedicated forum can facilitate coordinated responses and policy development. The forum would serve as a platform for stakeholders to collaborate on sustainable solutions, ensuring that the city's climate action plans are comprehensive and inclusive. Additionally, it can help raise awareness and engage the community in climate resilience efforts, which is essential given the city's vulnerability to climate hazards.",
-        "action": {
-            "ActionID": "icare_0148",
-            "ActionName": "Create the Municipal Climate Change Forum",
+            "ActionID": "icare_0149",
+            "ActionName": "Encourage sustainable land use practices",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "droughts",
-                "diseases",
                 "heatwaves",
                 "landslides",
                 "floods",
-                "wildfires",
-                "sea-level-rise",
-                "storms"
+                "wildfires"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Creation of a Municipal Climate Change Forum with the participation of community leaders, scientists, collectives, research institutes, NGOs, and members of the municipal and state administration. The Forum will serve as a reference for actions related to Climate Change, aiming to monitor future policies on the subject in the municipality, stimulate dialogue, and create a network of discussions about the climate crisis.",
+            "Description": "Promoting methods that guarantee the conservation and health of the soil, preserving biodiversity, reducing erosion and minimizing environmental impacts.",
             "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 2
+                "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Engagement of diverse stakeholders, including community leaders, scientists, NGOs, and local authorities, to establish and sustain the Forum.",
-                "Allocation of resources to facilitate regular meetings, workshops, and events for the Forum to remain active and impactful.",
-                "Development of a clear framework and guidelines for the Forum to monitor and guide climate change policies and initiatives within the municipality."
+                "Provide access to technical knowledge and training on sustainable soil management practices.",
+                "Offer financial incentives and form partnerships with research institutions and local farmers.",
+                "Develop monitoring systems for soil health and biodiversity, and implement policies for erosion control."
             ],
             "KeyPerformanceIndicators": [
-                "Percentage of key stakeholders actively participating in the forum.",
-                "Number of climate-related policies or actions proposed through the forum.",
-                "Public engagement in forum initiatives (measured by event attendance or surveys)"
+                "Percentage of land area managed under sustainable land use practices (%)",
+                "Reduction in deforestation or land degradation rates (%)",
+                "Increase in biodiversity indicators on managed lands (e.g., species count, habitat quality)"
             ],
             "PowersAndMandates": [
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
-                "diseases": "medium",
                 "heatwaves": "medium",
-                "landslides": "low",
                 "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
                 "wildfires": "medium",
-                "sea-level-rise": "medium",
-                "storms": "medium"
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0157",
+        "actionName": "Maintenance and Revitalization of Riparian Forests",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0157",
+            "ActionName": "Maintenance and Revitalization of Riparian Forests",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "landslides",
+                "floods",
+                "droughts"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Mapping and assessing degraded riparian forests, developing revitalization plans with the planting of native species, control of invasive species, erosion containment measures and periodic assessments of the impacts on environmental conditions.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Ensure availability of geospatial data and prior mapping of degraded areas.",
+                "Form partnerships with local nurseries and provide equipment and skilled labor for invasive species control.",
+                "Secure financial resources and establish a monitoring system to assess environmental impacts."
+            ],
+            "KeyPerformanceIndicators": [
+                "Total area of riparian forests restored (ha).",
+                "Number of projects implemented.",
+                "Reduction of erosion and siltation of water bodies (tonnes/year)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
+                "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -927,8 +605,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
-        "actionPriority": 15,
-        "explanation": "The availability of health infrastructure in Goi\u00e2nia is crucial due to the high risk of public health impacts from heatwaves, diseases, and floods. These hazards have been identified as having a significant risk to the city's population, necessitating robust health infrastructure to manage potential health crises. Additionally, the city's large population size further underscores the need for adequate health facilities to ensure the well-being of its residents. Improving health infrastructure can also enhance the city's resilience against climate-related health challenges, making it a vital area for development.",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -960,7 +638,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Enhances access to critical health and water resources for vulnerable and underserved communities, mitigating inequities caused by climate impacts.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -977,11 +661,15 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
                 "sea-level-rise": "high",
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
                 "diseases": "high"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -991,8 +679,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
-        "actionPriority": 16,
-        "explanation": "The creation of a financial support program to address extreme weather events is crucial for Goi\u00e2nia due to its high vulnerability to climate-related hazards. The city faces significant risks from droughts, heatwaves, and floods, all of which have been identified as having a high impact on public health, infrastructure, and food security. Establishing a financial support program can help mitigate the economic and social impacts of these events, providing necessary resources for recovery and adaptation. This action is particularly important given the city's very low-income levels, which may limit the ability of residents to cope with and recover from extreme weather events.",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1025,7 +713,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -1045,14 +739,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "medium",
-                "diseases": "medium",
-                "landslides": "medium",
-                "wildfires": "medium",
                 "floods": "medium",
                 "sea-level-rise": "medium",
-                "storms": "medium"
+                "landslides": "medium",
+                "storms": "medium",
+                "wildfires": "medium",
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1060,60 +754,75 @@
         "cityName": "Goi\u00e2nia",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "icare_0156",
-        "actionName": "Implementation of urban gardens",
-        "actionPriority": 17,
-        "explanation": "The implementation of urban gardens in Goi\u00e2nia is a strategic action to enhance food security, especially given the high risk of droughts impacting this area. Urban gardens can provide a sustainable source of fresh produce, reducing dependency on external food supplies and mitigating the effects of food scarcity during extreme weather events. Additionally, these gardens can improve local biodiversity and contribute to the city's green spaces, which are crucial for maintaining ecological balance in a densely populated urban environment. Furthermore, urban gardens can serve as community hubs, fostering social cohesion and providing educational opportunities about sustainable practices.",
+        "actionId": "icare_0145",
+        "actionName": "Strengthen the healthcare network to attend to climate victims",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0156",
-            "ActionName": "Implementation of urban gardens",
+            "ActionID": "icare_0145",
+            "ActionName": "Strengthen the healthcare network to attend to climate victims",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "heatwaves",
+                "diseases",
                 "landslides",
-                "floods"
+                "floods",
+                "storms",
+                "droughts"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Identify and assess the feasibility of suitable areas for the installation of urban gardens and ensure that the sites chosen meet the expectations of the community.",
+            "Description": "Improve the infrastructure of healthcare units to assist people who require medical care due to impacts associated with climate risks (climate victims), such as those affected by heat waves or floods, especially in more vulnerable areas. Develop action plans to prepare the healthcare network for extreme climate-related situations.",
             "CoBenefits": {
-                "air_quality": 1,
+                "air_quality": 0,
                 "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
                 "mobility": 0,
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": ">10 years",
             "Dependencies": [
-                "Ensure availability of detailed land-use maps and urban planning data.",
-                "Engage with local communities to understand their needs and expectations.",
-                "Evaluate soil quality, water availability, and form partnerships to support the establishment and maintenance of gardens."
+                "Investment in the renovation and expansion of healthcare facilities, ensuring they are equipped to handle climate-related health impacts, particularly in vulnerable areas.",
+                "Development of action plans and training programs for healthcare professionals to respond to extreme climate events like heatwaves and floods.",
+                "Collaboration with local authorities, emergency response teams, and climate experts to create a comprehensive framework for preparing the healthcare network for climate risks."
             ],
             "KeyPerformanceIndicators": [
-                "Number of urban gardens created.",
-                "Amount of locally produced food (kg/year).",
-                "Number of direct beneficiaries."
+                "Number of healthcare facilities upgraded for climate-related emergencies.",
+                "Increase in healthcare staff trained in climate emergency response (%).",
+                "Number of climate-related injuries treated successfully.",
+                "."
             ],
             "PowersAndMandates": [
-                "local"
+                "national"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
                 "heatwaves": "high",
-                "landslides": "low",
-                "floods": "medium"
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
+                "storms": "high",
+                "wildfires": null,
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1123,8 +832,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
-        "actionPriority": 18,
-        "explanation": "Implementing a Hydrological Monitoring System with Telemetry Stations in Goi\u00e2nia is crucial due to the city's high risk of droughts and floods. These hazards pose significant threats to water resources, food security, and public health, as indicated by the city's climate change risk assessment. By establishing a robust monitoring system, the city can better predict and manage water-related hazards, ensuring timely responses to mitigate their impacts. This action is essential for enhancing the city's resilience against climate-induced water challenges.",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1152,7 +861,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
@@ -1171,10 +886,232 @@
             ],
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
-                "storms": "high"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "ipcc_0092",
+        "actionName": "Social safety nets",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0092",
+            "ActionName": "Social safety nets",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "storms"
+            ],
+            "Sector": [
+                "food_security",
+                "public_health"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Social safety nets encompass adaptive social protection mechanisms to reduce food insecurity and malnutrition, especially for vulnerable populations. These include cash transfers, school feeding programs, public work initiatives, unemployment compensation, land reforms, credit and insurance schemes. Integrated approaches combine climate risk assessments with disaster risk reduction, education, and social equity to enhance resilience to climate stresses.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 2,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Enhances the social status and rights of marginalized groups, protects vulnerable populations, reduces inequalities, and promotes education and gender equity.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Integration of climate and disaster risk into social protection",
+                "education programs",
+                "coordination with sustainable livelihoods and financial inclusion initiatives"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in malnutrition rates",
+                "Increase in education access for vulnerable groups",
+                "Participation in social protection programs"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0181",
+        "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0181",
+            "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "landslides",
+                "floods"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "A comprehensive project addressing the socio-environmental vulnerability of an informal settlement. It includes relocating residents from flood-prone areas, restoring the environment, and providing infrastructure and social services.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 2,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Adequate funding",
+                "Inter-agency coordination",
+                "Land tenure security"
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of households relocated.",
+                "Environmental restoration progress.",
+                "Flood risk reduction."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0156",
+        "actionName": "Implementation of urban gardens",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0156",
+            "ActionName": "Implementation of urban gardens",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "landslides",
+                "floods"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Identify and assess the feasibility of suitable areas for the installation of urban gardens and ensure that the sites chosen meet the expectations of the community.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Ensure availability of detailed land-use maps and urban planning data.",
+                "Engage with local communities to understand their needs and expectations.",
+                "Evaluate soil quality, water availability, and form partnerships to support the establishment and maintenance of gardens."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of urban gardens created.",
+                "Amount of locally produced food (kg/year).",
+                "Number of direct beneficiaries."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": "low",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1184,8 +1121,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
-        "actionPriority": 19,
-        "explanation": "Implementing permeable pavements and increasing green areas in roadways is crucial for Goi\u00e2nia due to its high risk of floods and landslides. The city's infrastructure is highly vulnerable to these hazards, as indicated by the high normalised risk scores. By enhancing the permeability of surfaces and expanding green spaces, the city can improve water absorption and reduce surface runoff, mitigating the impact of heavy rainfall. Additionally, these measures can contribute to urban cooling, which is important given the high risk of heatwaves affecting public health and infrastructure.",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1213,7 +1150,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
@@ -1231,11 +1174,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
                 "floods": "high",
+                "sea-level-rise": null,
                 "landslides": "medium",
-                "heatwaves": "medium"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1243,64 +1191,310 @@
         "cityName": "Goi\u00e2nia",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "icare_0160",
-        "actionName": "Consolidate spaces for intersectoral coordination and public participation in climate policy",
-        "actionPriority": 20,
-        "explanation": "Consolidating spaces for intersectoral coordination and public participation in climate policy is crucial for Goi\u00e2nia due to its high vulnerability to climate hazards such as droughts, heatwaves, and floods. These hazards pose significant risks to water resources, food security, public health, and infrastructure. By fostering collaboration and public engagement, the city can develop more comprehensive and effective climate strategies. This approach ensures that diverse perspectives are considered, leading to more resilient and adaptive policies that address the specific needs and challenges of the community.",
+        "actionId": "ipcc_0098",
+        "actionName": "Behaviour change in diets and food waste",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0160",
-            "ActionName": "Consolidate spaces for intersectoral coordination and public participation in climate policy",
+            "ActionID": "ipcc_0098",
+            "ActionName": "Behaviour change in diets and food waste",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "wildfires"
+            ],
+            "Sector": [
+                "food_security",
+                "biodiversity"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Reducing food loss and waste through improved food production, distribution, and consumption practices. Actions include enhancing agricultural techniques, adopting water-saving technologies, implementing low-cost storage solutions, and promoting plant-based diets. Policymakers can encourage these behaviors with appropriate pricing policies, sustainable agriculture initiatives, and support for disadvantaged groups. The action emphasizes shifting to healthier diets, reducing overconsumption, and supporting local food systems to mitigate greenhouse gas emissions and ensure food security under climate change.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Promotes access to affordable, healthy food for vulnerable communities, empowering women, youth, and socially disadvantaged groups. Encourages equitable participation in sustainable agricultural practices and local food networks.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Education and training for farmers",
+                "Access to sustainable agricultural inputs",
+                "Policy support for sustainable practices",
+                "Technological infrastructure for storage and processing"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in food loss and waste percentages",
+                "Increase in adoption of plant-based diets",
+                "Improved food security indicators",
+                "Reduction in GHG emissions from food systems"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "medium",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": "low",
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "ipcc_0086",
+        "actionName": "Ecosystem-based adaptation",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0086",
+            "ActionName": "Ecosystem-based adaptation",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "storms",
                 "sea-level-rise",
-                "wildfires",
-                "floods",
-                "landslides",
-                "diseases",
                 "heatwaves",
-                "droughts"
+                "floods"
+            ],
+            "Sector": [
+                "biodiversity",
+                "geo-hydrological_disasters",
+                "water_resources",
+                "public_health"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Restoring and sustainably managing marine, coastal, urban, riverine, and wetland ecosystems to protect against climate hazards such as storm surges, floods, and heatwaves. Efforts include agroecology, coastal and marine vegetation and reefs, vegetation corridors, mangrove habitat restoration, urban green space to reduce temperatures. These actions improve biodiversity, store carbon, enhance water quality, and provide socio-economic and cultural co-benefits.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 1,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": "Supports vulnerable communities by enhancing climate resilience, promoting equitable access to ecosystem services, and creating livelihood opportunities, especially for marginalized and underserved populations.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Community engagement",
+                "Regulatory support",
+                "Financial investment",
+                "Urban planning",
+                "Climate-resilient vegetation",
+                "Biodiversity assessments",
+                "Catchment management",
+                "Upstream planning",
+                "Sustainable funding"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in storm surge damage",
+                "Carbon sequestration rates",
+                "Increased biodiversity",
+                "Temperature reduction in urban areas",
+                "Improved water quality",
+                "Access to green spaces by underserved communities",
+                "Reduction in flood events",
+                "Enhanced ecosystem health"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": "high",
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "ipcc_0099",
+        "actionName": "Water capture/storage",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0099",
+            "ActionName": "Water capture/storage",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "floods",
+                "storms"
+            ],
+            "Sector": [
+                "water_resources",
+                "food_security",
+                "energy_security",
+                "geo-hydrological_disasters"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Implementing water capture and storage solutions such as farm ponds, revival of water bodies, rain gardens, bioswales, retention ponds, and water storage tanks. These measures aim to mitigate climate-induced impacts by improving water management, reducing stormwater runoff, enhancing water quality, and supporting agriculture and energy production under changing climate scenarios. Multi-purpose water reservoirs and dams provide additional benefits by addressing water shortages and managing risks associated with natural hazards.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Ensures access to water for underserved communities, supports sustainable livelihoods in water-scarce regions, and promotes equitable resource distribution through inclusive decision-making processes.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in green infrastructure",
+                "community engagement",
+                "policy support for water resource management"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in stormwater runoff",
+                "increase in water storage capacity",
+                "improvement in water quality",
+                "stability in agricultural yields"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR GYN",
+        "cityName": "Goi\u00e2nia",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0155",
+        "actionName": "Preservation and Recovery of Water Bodies",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0155",
+            "ActionName": "Preservation and Recovery of Water Bodies",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "floods",
+                "landslides"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Consolidate spaces for intersectoral coordination and public participation in climate policy, and create working groups with neighboring municipalities to discuss a common climate agenda.",
+            "Description": "Set goals for improving the quality of receiving bodies of water, develop programs for vegetation recovery (springs and riverbanks), and for dredging and cleaning water bodies by removing sediments and waste.",
             "CoBenefits": {
                 "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 0
+                "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": null,
-            "KeyPerformanceIndicators": [
-                "Number of intersectoral meetings held per year.",
-                "Percentage of population participating in climate forums (%).",
-                "Number of proposals accepted and implemented through public consultations."
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "storms": "low",
-                "sea-level-rise": "low",
-                "wildfires": "low",
-                "floods": "low",
-                "landslides": "low",
-                "diseases": "medium",
-                "heatwaves": "medium",
-                "droughts": "medium"
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
             },
-            "biome": "none"
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Define baseline water quality data and establish monitoring systems.",
+                "Identify priority areas for vegetation recovery and sediment removal with technical expertise.",
+                "Secure financial resources, specialized equipment, and build partnerships for effective program implementation and community engagement."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of water bodies maintained or restored.",
+                "Reduction of waste water pollution (tonnes/year).",
+                "Monitored water quality (IQA)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

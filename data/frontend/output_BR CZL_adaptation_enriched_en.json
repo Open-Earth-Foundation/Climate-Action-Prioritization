@@ -4,81 +4,10 @@
         "cityName": "Cruzeiro do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0176",
-        "actionName": "Development of Climate Action Plan",
-        "actionPriority": 1,
-        "explanation": "The development of a Climate Action Plan is crucial for Cruzeiro do Sul due to its significant environmental challenges. The city faces high emissions, particularly from land use and transportation, which contribute to its total emissions of over 87,000 tons. Additionally, the city is at risk from various climate hazards, including floods and landslides, which pose a threat to public health and infrastructure. Implementing a comprehensive Climate Action Plan will help mitigate these risks and guide the city towards sustainable development.",
-        "action": {
-            "ActionID": "icare_0176",
-            "ActionName": "Development of Climate Action Plan",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "storms",
-                "sea-level-rise",
-                "wildfires",
-                "floods",
-                "landslides",
-                "diseases",
-                "heatwaves",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "A comprehensive plan outlining a city's strategies and actions to mitigate greenhouse gas emissions and adapt to the impacts of climate change which typically includes an assessment of the city's climate risks and vulnerabilities, setting emission reduction targets, and implementation of actions across various sectors such as energy, transportation, waste management, and urban planning.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Political will and commitment from government",
-                "Stakeholder engagement and collaboration",
-                "Funding and resources for implementation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Greenhouse gas emission reduction targets.",
-                "Number of climate adaptation actions implemented.",
-                "Investment in climate mitigation and adaptation projects."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "storms": "medium",
-                "sea-level-rise": "medium",
-                "wildfires": "medium",
-                "floods": "medium",
-                "landslides": "medium",
-                "diseases": "medium",
-                "heatwaves": "medium",
-                "droughts": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CZL",
-        "cityName": "Cruzeiro do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
-        "actionPriority": 2,
-        "explanation": "The action of relocating and restoring vulnerable areas in Cruzeiro do Sul is crucial due to the high risk of landslides and floods, which pose significant threats to public health and infrastructure. The city's tropical rainforest biome and low elevation make it particularly susceptible to these hazards, necessitating proactive measures to protect its population. Additionally, addressing these vulnerabilities can help mitigate the impact of climate change on the local environment and improve the overall resilience of the community. By prioritizing this action, Cruzeiro do Sul can enhance its capacity to withstand and recover from environmental challenges.",
+        "actionPriority": 1,
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -105,7 +34,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -123,10 +58,16 @@
                 "state"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
                 "landslides": "high",
-                "floods": "high"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -136,8 +77,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
-        "actionPriority": 3,
-        "explanation": "Strengthening programs for control and conservation of protected areas is crucial for Cruzeiro do Sul due to its location in a tropical rainforest biome. This region is rich in biodiversity, and protecting these areas helps preserve the unique flora and fauna. Additionally, conservation efforts can mitigate the impacts of climate change, such as droughts and heatwaves, which pose significant risks to biodiversity and public health. By prioritizing this action, the city can ensure sustainable management of its natural resources, contributing to long-term ecological balance and resilience.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -166,7 +107,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -184,12 +131,16 @@
                 "state"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
-                "landslides": "high",
+                "droughts": null,
                 "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
                 "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -197,58 +148,71 @@
         "cityName": "Cruzeiro do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "ipcc_0088",
-        "actionName": "Building codes",
-        "actionPriority": 4,
-        "explanation": "Implementing building codes in Cruzeiro do Sul is crucial due to the city's vulnerability to natural hazards such as landslides and floods. These hazards pose significant risks to public health and infrastructure, as indicated by the high risk scores associated with these impacts. By enforcing stringent building codes, the city can enhance the resilience of its infrastructure, ensuring that buildings are better equipped to withstand such events. This action is particularly important given the city's tropical rainforest biome, which can exacerbate the impact of heavy rainfall and flooding.",
+        "actionId": "icare_0180",
+        "actionName": "Implement permeable pavements and increase green areas in roadways",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0088",
-            "ActionName": "Building codes",
+            "ActionID": "icare_0180",
+            "ActionName": "Implement permeable pavements and increase green areas in roadways",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "floods",
-                "landslides"
+                "landslides",
+                "heatwaves"
             ],
-            "Sector": [
-                "road_infrastructure",
-                "geo-hydrological_disasters"
-            ],
+            "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "The development and implementation of building codes and architectural design regulations aimed at integrating climate adaptation parameters. These codes are focused on reducing risks from climate-induced hazards like floods and landslides. They also support climate-resilient urban development by guiding land use, construction practices, and infrastructure standards. The initiative fosters strategic long-term urban planning to coordinate public and private investments in adaptation, including the creation of safe zones and the transformation of precarious settlements. It ensures that new infrastructure is resilient to climate risks and that urban spaces are safe and sustainable for current and future populations.",
+            "Description": "Increase the permeable and semi-permeable areas in buildings and public spaces under the administration of the City, with the adoption of nature-based solutions (NbS). In areas with space limitations, the action includes feasibility analyses for implementing permeable pavements and increasing green areas in roadways. Among traditional construction solutions, there are features such as curbs and gutters with stormwater drains, as well as larger-scale solutions like retention ponds. Nature-based solutions include urban tree planting, green roofs, rainwater cisterns, bio-swales, and more.",
             "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
+                "air_quality": 1,
+                "water_quality": 1,
                 "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 2,
-                "mobility": 1,
+                "cost_of_living": 0,
+                "housing": 1,
+                "mobility": 0,
                 "stakeholder_engagement": 1
             },
-            "EquityAndInclusionConsiderations": "Promotes inclusive urban planning by addressing risks in informal and precarious settlements and integrating eco-parks and eco-gardens for vulnerable populations.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Integration with local climate risk assessments",
-                "Strategic collaboration between urban planners and municipal authorities"
+                "Expansion of permeable and semi-permeable areas in City-administered buildings and public spaces.",
+                "Adoption of nature-based solutions (NbS) such as urban tree planting, green roofs, rainwater cisterns, and bio-swales.",
+                "Feasibility analyses for permeable pavements and increased green areas in roadways, alongside traditional stormwater management solutions like curbs, gutters, and retention ponds."
             ],
             "KeyPerformanceIndicators": [
-                "Reduction in urban flood incidents",
-                "Increased availability of safe housing in risk areas",
-                "Implementation rate of eco-parks and eco-gardens in vulnerable areas"
+                "Reduction in surface water runoff during rainfall events (%).",
+                "Decrease in flooding occurrences in modified areas.",
+                "Percentage of public spaces complying with new permeable surface regulations."
             ],
-            "PowersAndMandates": null,
+            "PowersAndMandates": [
+                "local"
+            ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
                 "floods": "high",
-                "landslides": "high"
+                "sea-level-rise": null,
+                "landslides": "medium",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -258,8 +222,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
-        "actionPriority": 5,
-        "explanation": "The maintenance and revitalization of riparian forests in Cruzeiro do Sul is crucial due to the city's tropical rainforest biome, which plays a significant role in maintaining biodiversity and ecological balance. Riparian forests help in reducing the risk of floods, which is a significant hazard for public health in the area, as indicated by the high risk score. Additionally, these forests can aid in mitigating the effects of droughts by improving water retention and quality, which is vital for the city's water resources. Overall, this action supports the city's resilience against climate-related hazards and enhances the sustainability of its natural resources.",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -288,7 +252,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "high",
             "TimelineForImplementation": "5-10 years",
@@ -306,12 +276,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
                 "heatwaves": "medium",
-                "landslides": "high",
                 "floods": "high",
-                "droughts": "medium"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -319,60 +293,71 @@
         "cityName": "Cruzeiro do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0180",
-        "actionName": "Implement permeable pavements and increase green areas in roadways",
-        "actionPriority": 6,
-        "explanation": "Implementing permeable pavements and increasing green areas in roadways is crucial for Cruzeiro do Sul due to its vulnerability to floods and landslides. The city faces significant risks from these hazards, which can severely impact public health and infrastructure. By enhancing the permeability of surfaces and expanding green spaces, the city can improve stormwater management, reduce surface runoff, and mitigate the effects of heavy rainfall. This action not only addresses immediate environmental challenges but also contributes to the long-term resilience of the urban infrastructure.",
+        "actionId": "icare_0164",
+        "actionName": "Hydrological Monitoring System with Telemetry Stations",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0180",
-            "ActionName": "Implement permeable pavements and increase green areas in roadways",
+            "ActionID": "icare_0164",
+            "ActionName": "Hydrological Monitoring System with Telemetry Stations",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
+                "droughts",
                 "floods",
-                "landslides",
-                "heatwaves"
+                "storms"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Increase the permeable and semi-permeable areas in buildings and public spaces under the administration of the City, with the adoption of nature-based solutions (NbS). In areas with space limitations, the action includes feasibility analyses for implementing permeable pavements and increasing green areas in roadways. Among traditional construction solutions, there are features such as curbs and gutters with stormwater drains, as well as larger-scale solutions like retention ponds. Nature-based solutions include urban tree planting, green roofs, rainwater cisterns, bio-swales, and more.",
+            "Description": "Implementation of a hydrological monitoring system with telemetry stations to monitor rainfall, water levels, and meteorological variables in real-time.",
             "CoBenefits": {
-                "air_quality": 1,
+                "air_quality": 0,
                 "water_quality": 1,
                 "habitat": 1,
-                "cost_of_living": 0,
+                "cost_of_living": 1,
                 "housing": 1,
-                "mobility": 0,
+                "mobility": 1,
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "medium",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Expansion of permeable and semi-permeable areas in City-administered buildings and public spaces.",
-                "Adoption of nature-based solutions (NbS) such as urban tree planting, green roofs, rainwater cisterns, and bio-swales.",
-                "Feasibility analyses for permeable pavements and increased green areas in roadways, alongside traditional stormwater management solutions like curbs, gutters, and retention ponds."
+                "Equipment and infrastructure",
+                "Robust data management system",
+                "Institutional coordination"
             ],
             "KeyPerformanceIndicators": [
-                "Reduction in surface water runoff during rainfall events (%).",
-                "Decrease in flooding occurrences in modified areas.",
-                "Percentage of public spaces complying with new permeable surface regulations."
+                "Timeliness of data",
+                "Cost-effectiveness",
+                "Mitigation effectiveness"
             ],
             "PowersAndMandates": [
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
-                "landslides": "medium",
-                "heatwaves": "medium"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -382,8 +367,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
-        "actionPriority": 7,
-        "explanation": "Encouraging sustainable land use practices in Cruzeiro do Sul is crucial due to the significant land use emissions, which are the largest contributor to the city's total emissions. By adopting sustainable practices, the city can effectively reduce its carbon footprint and mitigate environmental impacts. Additionally, sustainable land use can help preserve the tropical rainforest biome, which is vital for maintaining biodiversity and ecological balance. This action also aligns with addressing the high risk of landslides and floods, which are exacerbated by poor land management.",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -413,7 +398,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "5-10 years",
@@ -433,11 +424,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "medium",
-                "landslides": "high",
                 "floods": "medium",
-                "wildfires": "medium"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": "medium",
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -447,8 +441,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0154",
         "actionName": "Cleaning and Unclogging of Channels with Installation of Eco-barriers",
-        "actionPriority": 8,
-        "explanation": "The action of cleaning and unclogging channels with the installation of eco-barriers is crucial for Cruzeiro do Sul due to its vulnerability to floods, which pose a significant risk to public health and infrastructure. By ensuring that water channels are clear and eco-barriers are in place, the city can mitigate the impact of floods, which have a high normalized risk score. This action not only helps in managing flood risks but also contributes to maintaining the ecological balance in the tropical rainforest biome of the region. Additionally, it supports the city's efforts to improve public health and infrastructure resilience against climate-related hazards.",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0154",
             "ActionName": "Cleaning and Unclogging of Channels with Installation of Eco-barriers",
@@ -474,7 +468,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
@@ -491,70 +491,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "floods": "medium"
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CZL",
-        "cityName": "Cruzeiro do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0164",
-        "actionName": "Hydrological Monitoring System with Telemetry Stations",
-        "actionPriority": 9,
-        "explanation": "Implementing a Hydrological Monitoring System with Telemetry Stations in Cruzeiro do Sul is crucial due to the city's vulnerability to floods and landslides. The city faces significant risks from these hazards, which can severely impact public health and infrastructure. By establishing a monitoring system, the city can better predict and manage water-related disasters, thereby reducing potential damage and enhancing community resilience. This action is particularly important given the tropical rainforest biome, which can experience heavy rainfall and rapid changes in water levels.",
-        "action": {
-            "ActionID": "icare_0164",
-            "ActionName": "Hydrological Monitoring System with Telemetry Stations",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "floods",
-                "storms"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Implementation of a hydrological monitoring system with telemetry stations to monitor rainfall, water levels, and meteorological variables in real-time.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Equipment and infrastructure",
-                "Robust data management system",
-                "Institutional coordination"
-            ],
-            "KeyPerformanceIndicators": [
-                "Timeliness of data",
-                "Cost-effectiveness",
-                "Mitigation effectiveness"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "floods": "high",
-                "storms": "high"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -564,8 +510,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
-        "actionPriority": 10,
-        "explanation": "The implementation of urban gardens in Cruzeiro do Sul is a strategic action to enhance food security and promote sustainable urban development. Given the city's tropical rainforest biome, urban gardens can thrive and provide fresh produce, reducing dependency on external food sources. This initiative also supports biodiversity and can mitigate some of the impacts of climate change by increasing green spaces, which help in cooling urban areas and managing stormwater. Additionally, urban gardens can foster community engagement and provide educational opportunities about sustainable practices.",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -593,7 +539,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
@@ -611,136 +563,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
                 "heatwaves": "high",
-                "landslides": "low",
-                "floods": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CZL",
-        "cityName": "Cruzeiro do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0175",
-        "actionName": "Recovery and preservation of green areas",
-        "actionPriority": 11,
-        "explanation": "The action of recovering and preserving green areas in Cruzeiro do Sul is crucial due to the city's location in a tropical rainforest biome, which is vital for maintaining biodiversity and ecological balance. Given the high emissions from land use, enhancing green spaces can help sequester carbon and mitigate climate change impacts. Additionally, green areas can improve public health by providing cleaner air and reducing the urban heat island effect, which is particularly important in a region facing risks from heatwaves. This action also supports the city's resilience against natural hazards like floods and landslides by improving soil stability and water absorption.",
-        "action": {
-            "ActionID": "icare_0175",
-            "ActionName": "Recovery and preservation of green areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "floods",
-                "wildfires"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Rehabilitation and protection of existing green spaces, such as parks, forests, and wetlands, and expansion of green areas through planting of trees and vegetation in urban and peri-urban areas. These areas provide natural solutions for managing water resources, reducing heat stress, improving air quality, and enhancing biodiversity.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of suitable land for green spaces",
-                "Access to water resources for irrigation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Area of green spaces created or restored.",
-                "Biodiversity indices in green areas.",
-                "Community engagement in green space activities."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
-                "floods": "high",
-                "wildfires": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CZL",
-        "cityName": "Cruzeiro do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0151",
-        "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
-        "actionPriority": 12,
-        "explanation": "Developing diagnostics and restoring areas of Special Social Interest Zones (ZEIS) in Cruzeiro do Sul is crucial due to the city's socio-economic challenges. With a very low-income population, improving these areas can significantly enhance living conditions and access to essential services. Additionally, addressing these zones can help mitigate the impacts of environmental hazards such as floods and landslides, which pose significant risks to public health and infrastructure. This action aligns with the need to build resilience in vulnerable communities, ensuring sustainable development and improved quality of life for residents.",
-        "action": {
-            "ActionID": "icare_0151",
-            "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "sea-level-rise",
-                "floods",
-                "landslides",
-                "diseases",
-                "heatwaves"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Priority to ZEIS areas in housing improvement actions and the application of resources from the Urbanization Fund, with the implementation of urban infrastructure that considers climate adaptation in these spaces. Use of Nature-based Solutions (NbS) in the adaptation of environmental sanitation and green and blue infrastructures that enhance leisure, culture, urban agriculture, and activities to strengthen community associations.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 2,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of funding from the Urbanization Fund and other financial mechanisms to support housing improvements and urban infrastructure in ZEIS areas",
-                "Collaboration between urban planners, environmental experts, and local communities to design and implement nature-based solutions (NbS) for urban infrastructure",
-                "Policy and regulatory frameworks that integrate climate adaptation measures into urban planning, ensuring that investments prioritize environmental sustainability and community"
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of ZEIS areas diagnosed and restored.",
-                "Percentage of residents benefiting from restored areas (%).",
-                "Public investments allocated to ZEIS areas (currency amount)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "sea-level-rise": "medium",
                 "floods": "medium",
+                "sea-level-rise": null,
                 "landslides": "low",
-                "diseases": "medium",
-                "heatwaves": "high"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -750,8 +582,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
-        "actionPriority": 13,
-        "explanation": "Improving access to health care in Cruzeiro do Sul is crucial due to the high risk of public health impacts from natural hazards such as landslides and floods. The city faces significant challenges with public health risks, particularly from floods, which have a high normalized risk score. Enhancing health care access can help mitigate these risks by ensuring timely medical response and support for affected populations. Additionally, better health care infrastructure can improve overall community resilience against climate-related health threats.",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -782,7 +614,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Promotes equitable access to health care for marginalized and vulnerable groups, including homeless populations, remote communities, and those affected by housing inequities.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -800,135 +638,16 @@
             ],
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
-                "floods": "high",
-                "droughts": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CZL",
-        "cityName": "Cruzeiro do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0152",
-        "actionName": "Recovery of degraded areas",
-        "actionPriority": 14,
-        "explanation": "The action 'Recovery of degraded areas' is crucial for Cruzeiro do Sul due to its significant land use emissions, which are the highest among all emission sources in the city. Restoring degraded areas can help sequester carbon, thereby reducing these emissions and contributing to climate change mitigation. Additionally, improving land conditions can enhance biodiversity and resilience against climate hazards such as landslides and floods, which pose a high risk to public health and infrastructure. This action aligns with the city's need to address environmental degradation and improve ecological stability.",
-        "action": {
-            "ActionID": "icare_0152",
-            "ActionName": "Recovery of degraded areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Restoring ecosystems damaged by human activities by replanting native vegetation, restoring the soil, eliminating invasive species and implementing sustainable management techniques.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Develop a clear restoration plan and secure funding for long-term management.",
-                "Ensure access to native plant species and provide training in sustainable practices.",
-                "Remove invasive species and collaborate with local communities for successful ecosystem restoration."
-            ],
-            "KeyPerformanceIndicators": [
-                "Hectares of degraded land restored annually",
-                "Increase in vegetation cover (%) in restored areas",
-                "Number of local communities engaged in restoration projects"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
                 "heatwaves": "high",
-                "landslides": "high",
-                "floods": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CZL",
-        "cityName": "Cruzeiro do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0172",
-        "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
-        "actionPriority": 15,
-        "explanation": "Developing and implementing the Municipal Risk Reduction Plan (PMRR) is crucial for Cruzeiro do Sul due to its vulnerability to climate-related hazards such as floods and landslides. The city faces significant risks to public health and infrastructure from these hazards, making it essential to identify and protect vulnerable population groups. By prioritizing this action, the city can enhance its resilience against climate impacts and safeguard its residents. Additionally, a well-structured risk reduction plan can help allocate resources effectively and improve emergency response strategies.",
-        "action": {
-            "ActionID": "icare_0172",
-            "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "landslides",
-                "floods",
-                "storms"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "This action aims to strengthen the development of the Municipal Risk Reduction Plan (PMRR) in the municipality, as it is a highly relevant tool for managing climate risks, especially river floods and landslides.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Availability of technical expertise and resources to develop and implement the Municipal Risk Reduction Plan (PMRR)",
-                "Data collection and analysis to accurately assess climate risks, especially related to river floods and landslides",
-                "Political commitment and coordination between various government agencies to integrate the PMRR into broader urban planning and disaster management strategies"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of vulnerable population covered by MRRP (%).",
-                "Number of risk reduction measures implemented annually.",
-                "Reduction in the number of people affected by climate-related disasters annually."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "landslides": "high",
                 "floods": "high",
-                "storms": "medium"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -938,8 +657,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
-        "actionPriority": 16,
-        "explanation": "The action of water capture and storage is crucial for Cruzeiro do Sul due to its vulnerability to droughts, which pose a significant risk to water resources. Implementing this action can help mitigate the impact of water scarcity, ensuring a more reliable water supply for the city's residents. Additionally, improving water management can enhance resilience against climate change impacts, supporting both public health and food security. Given the city's tropical rainforest biome, efficient water storage systems can also help manage excess rainfall, reducing the risk of floods.",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -972,7 +691,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Ensures access to water for underserved communities, supports sustainable livelihoods in water-scarce regions, and promotes equitable resource distribution through inclusive decision-making processes.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -990,10 +715,15 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
-                "storms": "high"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1001,136 +731,69 @@
         "cityName": "Cruzeiro do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0169",
-        "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
-        "actionPriority": 17,
-        "explanation": "Establishing a plan for preparation and emergency response measures in the event of extreme weather events is crucial for Cruzeiro do Sul due to its vulnerability to hazards such as floods and landslides. The city faces significant risks to public health and infrastructure from these events, as indicated by the high risk scores. By implementing this action, the city can enhance its resilience and reduce the potential impact of these hazards on its population and infrastructure. This proactive approach is essential to safeguard the community and ensure a swift and effective response during emergencies.",
+        "actionId": "icare_0142",
+        "actionName": "Improvement of Water Supply and Sanitation Systems",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0169",
-            "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
+            "ActionID": "icare_0142",
+            "ActionName": "Improvement of Water Supply and Sanitation Systems",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
-                "droughts",
-                "heatwaves",
-                "diseases",
-                "landslides",
-                "floods",
-                "wildfires",
-                "sea-level-rise",
-                "storms"
+                "floods"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "This action focuses on preparing the municipality to respond to extreme events, aiming to provide a rapid response that minimizes the impacts on the population.",
+            "Description": "This action involves implementing artesian wells, cisterns, and water supply systems, as well as improving water quality and expanding sanitation services in the city.",
             "CoBenefits": {
                 "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 1,
                 "mobility": 0,
-                "stakeholder_engagement": 2
+                "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Development of a comprehensive emergency response plan that includes coordination between local authorities, emergency services, and community organizations",
-                "Investment in early warning systems and infrastructure to ensure timely and effective responses to extreme events",
-                "Training and capacity-building for local responders and communities to enhance preparedness and resilience to extreme events"
+                "Infrastructure development",
+                "Financial resources",
+                "Technical expertise"
             ],
             "KeyPerformanceIndicators": [
-                "Number of emergency response partnerships established.",
-                "Average response time during extreme weather events (hours).",
-                "Percentage reduction in casualties and damages during extreme weather events annually (%)."
+                "Access to safe water",
+                "Water quality",
+                "Sanitation coverage"
             ],
             "PowersAndMandates": [
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "droughts": "medium",
-                "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "high",
+                "droughts": null,
+                "heatwaves": null,
                 "floods": "high",
-                "wildfires": "high",
-                "sea-level-rise": "low",
-                "storms": "high"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CZL",
-        "cityName": "Cruzeiro do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "ipcc_0097",
-        "actionName": "Food storage/distribution improvements",
-        "actionPriority": 18,
-        "explanation": "Improving food storage and distribution is crucial for Cruzeiro do Sul due to its vulnerability to floods, which pose a significant risk to food security. The city's tropical rainforest biome and low-income status make it essential to ensure that food supplies are resilient to climate impacts. Enhancing these systems can help mitigate the effects of natural hazards, ensuring that the population has reliable access to food even during adverse conditions. This action supports the city's overall resilience strategy by addressing a key area of vulnerability.",
-        "action": {
-            "ActionID": "ipcc_0097",
-            "ActionName": "Food storage/distribution improvements",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "floods",
-                "storms",
-                "heatwaves"
-            ],
-            "Sector": [
-                "food_security",
-                "road_infrastructure"
-            ],
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Enhancing food storage and distribution systems by improving transportation infrastructure, optimizing trade networks, and shortening supply chains to ensure local food availability and resilience to climate impacts. This action also includes increasing the capacity of local food storage facilities to reduce post-harvest losses, addressing inefficiencies in logistics, and bolstering infrastructure for perishable goods. It aims to improve food security and reduce vulnerability to extreme events, disruptions, and cascading impacts, especially during pandemics and other crises.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 2,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": "Supports equitable access to food for marginalized and vulnerable populations by prioritizing local food production and improving distribution systems that reach underserved areas.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Investment in infrastructure",
-                "Policy incentives for local food production",
-                "Collaboration with logistics and trade sectors",
-                "Technology for supply chain optimization"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reduction in post-harvest losses",
-                "Increased local food availability",
-                "Improved transportation efficiency for food distribution",
-                "Shortened supply chains"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "floods": "high",
-                "storms": "high",
-                "heatwaves": "high"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1140,8 +803,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
-        "actionPriority": 19,
-        "explanation": "Ecosystem-based adaptation is crucial for Cruzeiro do Sul due to its location in a tropical rainforest biome, which is highly sensitive to climate change impacts. The city faces significant risks from droughts and floods, which can severely affect water resources, food security, and public health. Implementing ecosystem-based strategies can enhance the resilience of natural systems, providing essential services such as water regulation and flood control. Additionally, these strategies can help preserve biodiversity, which is vital for maintaining ecological balance and supporting local livelihoods.",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1175,7 +838,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": "Supports vulnerable communities by enhancing climate resilience, promoting equitable access to ecosystem services, and creating livelihood opportunities, especially for marginalized and underserved populations.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -1202,12 +871,16 @@
             ],
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
-                "storms": "high",
-                "sea-level-rise": "high",
+                "droughts": null,
                 "heatwaves": "high",
-                "floods": "high"
+                "floods": "high",
+                "sea-level-rise": "high",
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1215,56 +888,597 @@
         "cityName": "Cruzeiro do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0142",
-        "actionName": "Improvement of Water Supply and Sanitation Systems",
-        "actionPriority": 20,
-        "explanation": "Improving water supply and sanitation systems in Cruzeiro do Sul is crucial due to the city's very low access to these public services. Despite the low income levels in the area, enhancing these systems can significantly improve public health and quality of life. Additionally, better water management can mitigate risks associated with droughts, which are a key impact in the region. Addressing these issues can also help reduce the vulnerability of the population to climate-related hazards, such as floods and landslides, which pose significant risks to public health.",
+        "actionId": "icare_0151",
+        "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0142",
-            "ActionName": "Improvement of Water Supply and Sanitation Systems",
+            "ActionID": "icare_0151",
+            "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
-                "floods"
+                "sea-level-rise",
+                "floods",
+                "landslides",
+                "diseases",
+                "heatwaves"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "This action involves implementing artesian wells, cisterns, and water supply systems, as well as improving water quality and expanding sanitation services in the city.",
+            "Description": "Priority to ZEIS areas in housing improvement actions and the application of resources from the Urbanization Fund, with the implementation of urban infrastructure that considers climate adaptation in these spaces. Use of Nature-based Solutions (NbS) in the adaptation of environmental sanitation and green and blue infrastructures that enhance leisure, culture, urban agriculture, and activities to strengthen community associations.",
             "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 2,
+                "air_quality": 1,
+                "water_quality": 1,
                 "habitat": 1,
                 "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
+                "housing": 2,
+                "mobility": 1,
+                "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Infrastructure development",
-                "Financial resources",
-                "Technical expertise"
+                "Availability of funding from the Urbanization Fund and other financial mechanisms to support housing improvements and urban infrastructure in ZEIS areas",
+                "Collaboration between urban planners, environmental experts, and local communities to design and implement nature-based solutions (NbS) for urban infrastructure",
+                "Policy and regulatory frameworks that integrate climate adaptation measures into urban planning, ensuring that investments prioritize environmental sustainability and community"
             ],
             "KeyPerformanceIndicators": [
-                "Access to safe water",
-                "Water quality",
-                "Sanitation coverage"
+                "Number of ZEIS areas diagnosed and restored.",
+                "Percentage of residents benefiting from restored areas (%).",
+                "Public investments allocated to ZEIS areas (currency amount)."
             ],
             "PowersAndMandates": [
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "floods": "high"
+                "droughts": null,
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": "medium",
+                "landslides": "low",
+                "storms": null,
+                "wildfires": null,
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CZL",
+        "cityName": "Cruzeiro do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0096",
+        "actionName": "Farm/fishery improvements",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0096",
+            "ActionName": "Farm/fishery improvements",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "wildfires",
+                "storms"
+            ],
+            "Sector": [
+                "food_security",
+                "biodiversity",
+                "water_resources"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Implementing a range of strategies to adapt farms and fisheries to climate impacts. This includes changing fishing gear or vessel power, adopting new crop varieties or adjusting planting schedules, improving irrigation schemes, integrating crop and livestock systems, relocating livestock with improved pasture management, and adopting agroecological and agroforestry systems. Technological innovations like smart farming and financial measures such as subsidies support these adaptations.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Ensures access to resources for marginalized farmers and fishers, promotes diverse livelihood options, and builds resilience in underserved communities.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Policy support for climate-resilient agriculture and fisheries",
+                "Access to finance and subsidies",
+                "Training for adopting new practices",
+                "Improved market infrastructure"
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in agricultural and fishery productivity",
+                "Adoption rate of integrated systems",
+                "Reduction in climate-related yield losses"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
+                "wildfires": "low",
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CZL",
+        "cityName": "Cruzeiro do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0172",
+        "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0172",
+            "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "landslides",
+                "floods",
+                "storms"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "This action aims to strengthen the development of the Municipal Risk Reduction Plan (PMRR) in the municipality, as it is a highly relevant tool for managing climate risks, especially river floods and landslides.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Availability of technical expertise and resources to develop and implement the Municipal Risk Reduction Plan (PMRR)",
+                "Data collection and analysis to accurately assess climate risks, especially related to river floods and landslides",
+                "Political commitment and coordination between various government agencies to integrate the PMRR into broader urban planning and disaster management strategies"
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of vulnerable population covered by MRRP (%).",
+                "Number of risk reduction measures implemented annually.",
+                "Reduction in the number of people affected by climate-related disasters annually."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": "medium",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CZL",
+        "cityName": "Cruzeiro do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0097",
+        "actionName": "Food storage/distribution improvements",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0097",
+            "ActionName": "Food storage/distribution improvements",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "floods",
+                "storms",
+                "heatwaves"
+            ],
+            "Sector": [
+                "food_security",
+                "road_infrastructure"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Enhancing food storage and distribution systems by improving transportation infrastructure, optimizing trade networks, and shortening supply chains to ensure local food availability and resilience to climate impacts. This action also includes increasing the capacity of local food storage facilities to reduce post-harvest losses, addressing inefficiencies in logistics, and bolstering infrastructure for perishable goods. It aims to improve food security and reduce vulnerability to extreme events, disruptions, and cascading impacts, especially during pandemics and other crises.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Supports equitable access to food for marginalized and vulnerable populations by prioritizing local food production and improving distribution systems that reach underserved areas.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in infrastructure",
+                "Policy incentives for local food production",
+                "Collaboration with logistics and trade sectors",
+                "Technology for supply chain optimization"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in post-harvest losses",
+                "Increased local food availability",
+                "Improved transportation efficiency for food distribution",
+                "Shortened supply chains"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CZL",
+        "cityName": "Cruzeiro do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0155",
+        "actionName": "Preservation and Recovery of Water Bodies",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0155",
+            "ActionName": "Preservation and Recovery of Water Bodies",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "floods",
+                "landslides"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Set goals for improving the quality of receiving bodies of water, develop programs for vegetation recovery (springs and riverbanks), and for dredging and cleaning water bodies by removing sediments and waste.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Define baseline water quality data and establish monitoring systems.",
+                "Identify priority areas for vegetation recovery and sediment removal with technical expertise.",
+                "Secure financial resources, specialized equipment, and build partnerships for effective program implementation and community engagement."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of water bodies maintained or restored.",
+                "Reduction of waste water pollution (tonnes/year).",
+                "Monitored water quality (IQA)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CZL",
+        "cityName": "Cruzeiro do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0093",
+        "actionName": "Availability of health infrastructure",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0093",
+            "ActionName": "Availability of health infrastructure",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "floods",
+                "sea-level-rise",
+                "diseases"
+            ],
+            "Sector": [
+                "public_health",
+                "water_resources"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Ensuring access to safe drinking water infrastructure, protecting health services, and improving sanitation systems to mitigate climate impacts. This includes developing adaptive measures for water security against droughts, floods, and sea-level rise. Strengthening infrastructure resilience ensures equitable access to health services, reduces contamination risks, and addresses the impacts of climate-induced hazards.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Enhances access to critical health and water resources for vulnerable and underserved communities, mitigating inequities caused by climate impacts.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Adequate funding",
+                "technological investments in health and water infrastructure",
+                "effective governance and cross-sector coordination"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in waterborne diseases",
+                "improved access to potable water",
+                "number of resilient health facilities developed"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": "high",
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": "high"
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CZL",
+        "cityName": "Cruzeiro do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0169",
+        "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0169",
+            "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "diseases",
+                "landslides",
+                "floods",
+                "wildfires",
+                "sea-level-rise",
+                "storms"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "This action focuses on preparing the municipality to respond to extreme events, aiming to provide a rapid response that minimizes the impacts on the population.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development of a comprehensive emergency response plan that includes coordination between local authorities, emergency services, and community organizations",
+                "Investment in early warning systems and infrastructure to ensure timely and effective responses to extreme events",
+                "Training and capacity-building for local responders and communities to enhance preparedness and resilience to extreme events"
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of emergency response partnerships established.",
+                "Average response time during extreme weather events (hours).",
+                "Percentage reduction in casualties and damages during extreme weather events annually (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": "low",
+                "landslides": "high",
+                "storms": "high",
+                "wildfires": "high",
+                "diseases": "medium"
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CZL",
+        "cityName": "Cruzeiro do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0098",
+        "actionName": "Behaviour change in diets and food waste",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0098",
+            "ActionName": "Behaviour change in diets and food waste",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "wildfires"
+            ],
+            "Sector": [
+                "food_security",
+                "biodiversity"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Reducing food loss and waste through improved food production, distribution, and consumption practices. Actions include enhancing agricultural techniques, adopting water-saving technologies, implementing low-cost storage solutions, and promoting plant-based diets. Policymakers can encourage these behaviors with appropriate pricing policies, sustainable agriculture initiatives, and support for disadvantaged groups. The action emphasizes shifting to healthier diets, reducing overconsumption, and supporting local food systems to mitigate greenhouse gas emissions and ensure food security under climate change.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Promotes access to affordable, healthy food for vulnerable communities, empowering women, youth, and socially disadvantaged groups. Encourages equitable participation in sustainable agricultural practices and local food networks.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Education and training for farmers",
+                "Access to sustainable agricultural inputs",
+                "Policy support for sustainable practices",
+                "Technological infrastructure for storage and processing"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in food loss and waste percentages",
+                "Increase in adoption of plant-based diets",
+                "Improved food security indicators",
+                "Reduction in GHG emissions from food systems"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "medium",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": "low",
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

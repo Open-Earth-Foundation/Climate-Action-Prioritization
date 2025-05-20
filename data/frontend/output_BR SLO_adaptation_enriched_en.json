@@ -4,10 +4,83 @@
         "cityName": "S\u00e3o Leopoldo",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0162",
+        "actionName": "Strengthen programs for control and conservation of protected areas",
+        "actionPriority": 1,
+        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0162",
+            "ActionName": "Strengthen programs for control and conservation of protected areas",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "floods",
+                "landslides",
+                "heatwaves",
+                "diseases"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "This action focuses on implementing a series of integrated strategies to enhance environmental conservation and maximize its benefits, such as expanding protected areas, developing management plans for conservation units, and training ecotourism guides to strengthen sustainable tourism.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Expansion of protected areas to enhance environmental conservation.",
+                "Development of management plans for conservation units.",
+                "Training of ecotourism guides to promote sustainable tourism."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage increase in area of protected regions (%).",
+                "Reduction in deforestation rates in protected areas annually (%).",
+                "Number of conservation programs strengthened annually."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": "medium"
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
-        "actionPriority": 1,
-        "explanation": "Establishing a plan for preparation and emergency response measures in S\u00e3o Leopoldo is crucial due to the city's vulnerability to extreme weather events. The city faces significant risks from hazards such as floods, landslides, and heatwaves, which can severely impact public health and infrastructure. With a high population density and very low-income levels, the community may struggle to recover from such events without a robust emergency response plan. Implementing this action will help mitigate the impacts of these hazards, ensuring the safety and resilience of the city's residents.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -40,7 +113,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
@@ -60,211 +139,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "high",
                 "floods": "high",
-                "wildfires": "high",
                 "sea-level-rise": "low",
-                "storms": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0176",
-        "actionName": "Development of Climate Action Plan",
-        "actionPriority": 2,
-        "explanation": "The development of a Climate Action Plan is crucial for S\u00e3o Leopoldo due to its significant environmental challenges. The city faces high risks from natural hazards such as floods and landslides, which pose threats to public health and infrastructure. By creating a comprehensive plan, the city can strategically address these risks and enhance its resilience. Additionally, the plan will help in reducing emissions and promoting sustainable development, aligning with the city's need to manage its substantial stationary energy and transportation emissions.",
-        "action": {
-            "ActionID": "icare_0176",
-            "ActionName": "Development of Climate Action Plan",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "storms",
-                "sea-level-rise",
-                "wildfires",
-                "floods",
-                "landslides",
-                "diseases",
-                "heatwaves",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "A comprehensive plan outlining a city's strategies and actions to mitigate greenhouse gas emissions and adapt to the impacts of climate change which typically includes an assessment of the city's climate risks and vulnerabilities, setting emission reduction targets, and implementation of actions across various sectors such as energy, transportation, waste management, and urban planning.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Political will and commitment from government",
-                "Stakeholder engagement and collaboration",
-                "Funding and resources for implementation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Greenhouse gas emission reduction targets.",
-                "Number of climate adaptation actions implemented.",
-                "Investment in climate mitigation and adaptation projects."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "storms": "medium",
-                "sea-level-rise": "medium",
-                "wildfires": "medium",
-                "floods": "medium",
-                "landslides": "medium",
-                "diseases": "medium",
-                "heatwaves": "medium",
-                "droughts": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0162",
-        "actionName": "Strengthen programs for control and conservation of protected areas",
-        "actionPriority": 3,
-        "explanation": "Strengthening programs for control and conservation of protected areas in S\u00e3o Leopoldo is crucial due to the city's tropical rainforest biome, which is rich in biodiversity. The city faces significant risks from climate hazards such as droughts and heatwaves, which can severely impact biodiversity. By enhancing conservation efforts, S\u00e3o Leopoldo can mitigate these risks and preserve its natural ecosystems. Additionally, protecting these areas can contribute to the city's resilience against climate change impacts, ensuring the sustainability of its natural resources.",
-        "action": {
-            "ActionID": "icare_0162",
-            "ActionName": "Strengthen programs for control and conservation of protected areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "floods",
-                "landslides",
-                "heatwaves",
-                "diseases"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "This action focuses on implementing a series of integrated strategies to enhance environmental conservation and maximize its benefits, such as expanding protected areas, developing management plans for conservation units, and training ecotourism guides to strengthen sustainable tourism.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Expansion of protected areas to enhance environmental conservation.",
-                "Development of management plans for conservation units.",
-                "Training of ecotourism guides to promote sustainable tourism."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage increase in area of protected regions (%).",
-                "Reduction in deforestation rates in protected areas annually (%).",
-                "Number of conservation programs strengthened annually."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
                 "landslides": "high",
-                "heatwaves": "medium",
+                "storms": "high",
+                "wildfires": "high",
                 "diseases": "medium"
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0152",
-        "actionName": "Recovery of degraded areas",
-        "actionPriority": 4,
-        "explanation": "The action 'Recovery of degraded areas' is crucial for S\u00e3o Leopoldo due to its tropical rainforest biome, which is sensitive to environmental degradation. Restoring these areas can enhance biodiversity, which is currently at risk from droughts and heatwaves. Additionally, recovery efforts can mitigate the impact of landslides and floods, which pose significant risks to public health and infrastructure. By prioritizing this action, the city can improve its resilience against climate-related hazards and promote sustainable development.",
-        "action": {
-            "ActionID": "icare_0152",
-            "ActionName": "Recovery of degraded areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Restoring ecosystems damaged by human activities by replanting native vegetation, restoring the soil, eliminating invasive species and implementing sustainable management techniques.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Develop a clear restoration plan and secure funding for long-term management.",
-                "Ensure access to native plant species and provide training in sustainable practices.",
-                "Remove invasive species and collaborate with local communities for successful ecosystem restoration."
-            ],
-            "KeyPerformanceIndicators": [
-                "Hectares of degraded land restored annually",
-                "Increase in vegetation cover (%) in restored areas",
-                "Number of local communities engaged in restoration projects"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "heatwaves": "high",
-                "landslides": "high",
-                "floods": "high"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -274,8 +156,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
-        "actionPriority": 5,
-        "explanation": "The action 'Relocation and Environmental Restoration in Vulnerable Areas' is crucial for S\u00e3o Leopoldo due to its high risk of landslides and floods, which pose significant threats to public health and infrastructure. The city's low elevation and tropical rainforest biome make it particularly susceptible to these hazards, necessitating proactive measures to protect vulnerable populations. By relocating residents from high-risk areas and restoring the environment, the city can mitigate the impacts of these natural disasters. This action not only enhances safety but also contributes to the long-term sustainability and resilience of the community.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -302,7 +184,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -320,265 +208,16 @@
                 "state"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "landslides": "high",
-                "floods": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0149",
-        "actionName": "Encourage sustainable land use practices",
-        "actionPriority": 6,
-        "explanation": "Encouraging sustainable land use practices in S\u00e3o Leopoldo is crucial due to the city's vulnerability to environmental hazards such as landslides and floods. These hazards pose significant risks to public health and infrastructure, as indicated by the high risk scores. Implementing sustainable land use can help mitigate these risks by improving soil stability and reducing runoff, thereby enhancing the city's resilience to climate impacts. Additionally, sustainable practices can contribute to preserving the tropical rainforest biome, which is vital for maintaining biodiversity and ecological balance in the region.",
-        "action": {
-            "ActionID": "icare_0149",
-            "ActionName": "Encourage sustainable land use practices",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "landslides",
-                "floods",
-                "wildfires"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Promoting methods that guarantee the conservation and health of the soil, preserving biodiversity, reducing erosion and minimizing environmental impacts.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Provide access to technical knowledge and training on sustainable soil management practices.",
-                "Offer financial incentives and form partnerships with research institutions and local farmers.",
-                "Develop monitoring systems for soil health and biodiversity, and implement policies for erosion control."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of land area managed under sustainable land use practices (%)",
-                "Reduction in deforestation or land degradation rates (%)",
-                "Increase in biodiversity indicators on managed lands (e.g., species count, habitat quality)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "medium",
-                "heatwaves": "medium",
-                "landslides": "high",
-                "floods": "medium",
-                "wildfires": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0157",
-        "actionName": "Maintenance and Revitalization of Riparian Forests",
-        "actionPriority": 7,
-        "explanation": "The maintenance and revitalization of riparian forests in S\u00e3o Leopoldo is crucial due to the city's vulnerability to floods and landslides. Riparian forests play a significant role in stabilizing soil and reducing the impact of heavy rains, which can lead to these hazards. Additionally, these forests contribute to biodiversity and help in maintaining water quality, which is essential for the city's water resources. Given the city's tropical rainforest biome, preserving these natural buffers is vital for ecological balance and mitigating climate risks.",
-        "action": {
-            "ActionID": "icare_0157",
-            "ActionName": "Maintenance and Revitalization of Riparian Forests",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "landslides",
-                "floods",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Mapping and assessing degraded riparian forests, developing revitalization plans with the planting of native species, control of invasive species, erosion containment measures and periodic assessments of the impacts on environmental conditions.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Ensure availability of geospatial data and prior mapping of degraded areas.",
-                "Form partnerships with local nurseries and provide equipment and skilled labor for invasive species control.",
-                "Secure financial resources and establish a monitoring system to assess environmental impacts."
-            ],
-            "KeyPerformanceIndicators": [
-                "Total area of riparian forests restored (ha).",
-                "Number of projects implemented.",
-                "Reduction of erosion and siltation of water bodies (tonnes/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "medium",
-                "landslides": "high",
+                "droughts": null,
+                "heatwaves": null,
                 "floods": "high",
-                "droughts": "medium"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0164",
-        "actionName": "Hydrological Monitoring System with Telemetry Stations",
-        "actionPriority": 8,
-        "explanation": "Implementing a Hydrological Monitoring System with Telemetry Stations in S\u00e3o Leopoldo is crucial due to the city's vulnerability to floods and landslides. The city faces significant risks from these hazards, which can severely impact public health and infrastructure. By establishing a robust monitoring system, the city can better predict and manage water-related disasters, thereby reducing potential damage and enhancing public safety. Additionally, this system can provide valuable data to support long-term planning and resilience-building efforts against climate change impacts.",
-        "action": {
-            "ActionID": "icare_0164",
-            "ActionName": "Hydrological Monitoring System with Telemetry Stations",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "floods",
-                "storms"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Implementation of a hydrological monitoring system with telemetry stations to monitor rainfall, water levels, and meteorological variables in real-time.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Equipment and infrastructure",
-                "Robust data management system",
-                "Institutional coordination"
-            ],
-            "KeyPerformanceIndicators": [
-                "Timeliness of data",
-                "Cost-effectiveness",
-                "Mitigation effectiveness"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "floods": "high",
-                "storms": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "ipcc_0097",
-        "actionName": "Food storage/distribution improvements",
-        "actionPriority": 9,
-        "explanation": "Improving food storage and distribution is crucial for S\u00e3o Leopoldo due to its vulnerability to floods, which pose a significant risk to food security. The city's tropical rainforest biome and high population density increase the likelihood of food supply disruptions during extreme weather events. Enhancing these systems can help ensure a stable food supply, even in adverse conditions, thereby supporting the city's resilience. Additionally, better food distribution can mitigate the impact of potential droughts, which also threaten food security in the region.",
-        "action": {
-            "ActionID": "ipcc_0097",
-            "ActionName": "Food storage/distribution improvements",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "floods",
-                "storms",
-                "heatwaves"
-            ],
-            "Sector": [
-                "food_security",
-                "road_infrastructure"
-            ],
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Enhancing food storage and distribution systems by improving transportation infrastructure, optimizing trade networks, and shortening supply chains to ensure local food availability and resilience to climate impacts. This action also includes increasing the capacity of local food storage facilities to reduce post-harvest losses, addressing inefficiencies in logistics, and bolstering infrastructure for perishable goods. It aims to improve food security and reduce vulnerability to extreme events, disruptions, and cascading impacts, especially during pandemics and other crises.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 2,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": "Supports equitable access to food for marginalized and vulnerable populations by prioritizing local food production and improving distribution systems that reach underserved areas.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Investment in infrastructure",
-                "Policy incentives for local food production",
-                "Collaboration with logistics and trade sectors",
-                "Technology for supply chain optimization"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reduction in post-harvest losses",
-                "Increased local food availability",
-                "Improved transportation efficiency for food distribution",
-                "Shortened supply chains"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "floods": "high",
-                "storms": "high",
-                "heatwaves": "high"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -588,8 +227,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
-        "actionPriority": 10,
-        "explanation": "Developing diagnostics and restoring areas of Special Social Interest Zones (ZEIS) in S\u00e3o Leopoldo is crucial due to the city's socio-economic context. With a very low-income population, enhancing these areas can significantly improve living conditions and access to essential services. Additionally, addressing these zones can help mitigate risks associated with public health hazards, such as diseases and floods, which are prevalent in the city. By focusing on ZEIS, S\u00e3o Leopoldo can foster more resilient and sustainable communities, ultimately contributing to the overall well-being of its residents.",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -619,7 +258,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -637,13 +282,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "sea-level-rise": "medium",
+                "droughts": null,
+                "heatwaves": "high",
                 "floods": "medium",
+                "sea-level-rise": "medium",
                 "landslides": "low",
-                "diseases": "medium",
-                "heatwaves": "high"
+                "storms": null,
+                "wildfires": null,
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -651,58 +299,73 @@
         "cityName": "S\u00e3o Leopoldo",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "ipcc_0088",
-        "actionName": "Building codes",
-        "actionPriority": 11,
-        "explanation": "Implementing stringent building codes in S\u00e3o Leopoldo is crucial due to the city's vulnerability to natural hazards such as landslides and floods. The high risk of landslides and floods poses significant threats to infrastructure and public health, making it essential to ensure that buildings are constructed to withstand these events. By enforcing robust building codes, the city can enhance the resilience of its infrastructure, protect its residents, and reduce potential economic losses. This action is particularly important given the city's low elevation and tropical rainforest biome, which can exacerbate the impacts of these hazards.",
+        "actionId": "icare_0149",
+        "actionName": "Encourage sustainable land use practices",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0088",
-            "ActionName": "Building codes",
+            "ActionID": "icare_0149",
+            "ActionName": "Encourage sustainable land use practices",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
+                "droughts",
+                "heatwaves",
+                "landslides",
                 "floods",
-                "landslides"
+                "wildfires"
             ],
-            "Sector": [
-                "road_infrastructure",
-                "geo-hydrological_disasters"
-            ],
+            "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "The development and implementation of building codes and architectural design regulations aimed at integrating climate adaptation parameters. These codes are focused on reducing risks from climate-induced hazards like floods and landslides. They also support climate-resilient urban development by guiding land use, construction practices, and infrastructure standards. The initiative fosters strategic long-term urban planning to coordinate public and private investments in adaptation, including the creation of safe zones and the transformation of precarious settlements. It ensures that new infrastructure is resilient to climate risks and that urban spaces are safe and sustainable for current and future populations.",
+            "Description": "Promoting methods that guarantee the conservation and health of the soil, preserving biodiversity, reducing erosion and minimizing environmental impacts.",
             "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
+                "air_quality": 1,
+                "water_quality": 2,
                 "habitat": 1,
                 "cost_of_living": 1,
-                "housing": 2,
-                "mobility": 1,
+                "housing": 0,
+                "mobility": 0,
                 "stakeholder_engagement": 1
             },
-            "EquityAndInclusionConsiderations": "Promotes inclusive urban planning by addressing risks in informal and precarious settlements and integrating eco-parks and eco-gardens for vulnerable populations.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
+            "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Integration with local climate risk assessments",
-                "Strategic collaboration between urban planners and municipal authorities"
+                "Provide access to technical knowledge and training on sustainable soil management practices.",
+                "Offer financial incentives and form partnerships with research institutions and local farmers.",
+                "Develop monitoring systems for soil health and biodiversity, and implement policies for erosion control."
             ],
             "KeyPerformanceIndicators": [
-                "Reduction in urban flood incidents",
-                "Increased availability of safe housing in risk areas",
-                "Implementation rate of eco-parks and eco-gardens in vulnerable areas"
+                "Percentage of land area managed under sustainable land use practices (%)",
+                "Reduction in deforestation or land degradation rates (%)",
+                "Increase in biodiversity indicators on managed lands (e.g., species count, habitat quality)"
             ],
-            "PowersAndMandates": null,
+            "PowersAndMandates": [
+                "local"
+            ],
             "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
-                "landslides": "high"
+                "droughts": "medium",
+                "heatwaves": "medium",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": "medium",
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -710,63 +373,144 @@
         "cityName": "S\u00e3o Leopoldo",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "ipcc_0094",
-        "actionName": "Access to health care",
-        "actionPriority": 12,
-        "explanation": "Access to health care is a critical priority for S\u00e3o Leopoldo due to the high risk of public health impacts from hazards such as landslides and floods. The city faces significant challenges with public health risks, as indicated by the high normalized risk scores for diseases and floods. Improving access to health care can help mitigate these risks by ensuring that the population has the necessary resources and support during health emergencies. Additionally, enhancing health care infrastructure can improve overall community resilience against climate-related health threats.",
+        "actionId": "icare_0157",
+        "actionName": "Maintenance and Revitalization of Riparian Forests",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0094",
-            "ActionName": "Access to health care",
+            "ActionID": "icare_0157",
+            "ActionName": "Maintenance and Revitalization of Riparian Forests",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "heatwaves",
+                "landslides",
                 "floods",
                 "droughts"
             ],
-            "Sector": [
-                "public_health",
-                "water_resources"
-            ],
+            "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Enhancing access to health care services, including health and nutrition services, clean water, sanitation, and culturally appropriate mental health resources. Expanding telemedicine capabilities enables efficient health service delivery, particularly for remote and underserved populations. Strengthening basic public health systems and disaster preparedness can rapidly reduce vulnerability to climate-related health risks.",
+            "Description": "Mapping and assessing degraded riparian forests, developing revitalization plans with the planting of native species, control of invasive species, erosion containment measures and periodic assessments of the impacts on environmental conditions.",
             "CoBenefits": {
                 "air_quality": 1,
                 "water_quality": 2,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 2
+                "stakeholder_engagement": 1
             },
-            "EquityAndInclusionConsiderations": "Promotes equitable access to health care for marginalized and vulnerable groups, including homeless populations, remote communities, and those affected by housing inequities.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
+            "CostInvestmentNeeded": "high",
             "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Investment in telemedicine technologies",
-                "Strengthened governance of public health systems",
-                "Capacity building for health workers",
-                "Infrastructure upgrades for health facilities"
+                "Ensure availability of geospatial data and prior mapping of degraded areas.",
+                "Form partnerships with local nurseries and provide equipment and skilled labor for invasive species control.",
+                "Secure financial resources and establish a monitoring system to assess environmental impacts."
             ],
             "KeyPerformanceIndicators": [
-                "Reduction in climate-related mortality",
-                "Increased access to telemedicine",
-                "Number of culturally tailored health programs implemented",
-                "Improved water and sanitation access metrics"
+                "Total area of riparian forests restored (ha).",
+                "Number of projects implemented.",
+                "Reduction of erosion and siltation of water bodies (tonnes/year)."
             ],
-            "PowersAndMandates": null,
+            "PowersAndMandates": [
+                "local"
+            ],
             "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
+                "droughts": "medium",
+                "heatwaves": "medium",
                 "floods": "high",
-                "droughts": "high"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0164",
+        "actionName": "Hydrological Monitoring System with Telemetry Stations",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0164",
+            "ActionName": "Hydrological Monitoring System with Telemetry Stations",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "floods",
+                "storms"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Implementation of a hydrological monitoring system with telemetry stations to monitor rainfall, water levels, and meteorological variables in real-time.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Equipment and infrastructure",
+                "Robust data management system",
+                "Institutional coordination"
+            ],
+            "KeyPerformanceIndicators": [
+                "Timeliness of data",
+                "Cost-effectiveness",
+                "Mitigation effectiveness"
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -776,8 +520,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
-        "actionPriority": 13,
-        "explanation": "Improving the availability of health infrastructure in S\u00e3o Leopoldo is crucial due to the high risk of public health impacts from hazards such as landslides and floods. The city faces significant challenges with these hazards, which can severely affect the health and safety of its residents. Enhancing health infrastructure will ensure better preparedness and response to these risks, ultimately safeguarding the community's well-being. Additionally, with a population density of over 2,000 people per square kilometer, efficient health services are essential to manage potential health crises effectively.",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -809,7 +553,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Enhances access to critical health and water resources for vulnerable and underserved communities, mitigating inequities caused by climate impacts.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -826,11 +576,15 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
                 "sea-level-rise": "high",
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
                 "diseases": "high"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -838,70 +592,222 @@
         "cityName": "S\u00e3o Leopoldo",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0148",
-        "actionName": "Create the Municipal Climate Change Forum",
-        "actionPriority": 14,
-        "explanation": "Creating the Municipal Climate Change Forum in S\u00e3o Leopoldo is a crucial step towards addressing the city's environmental challenges. The city faces significant risks from climate-related hazards such as floods, landslides, and heatwaves, which impact public health and infrastructure. Establishing a dedicated forum will facilitate collaboration among stakeholders, enabling the development of effective strategies to mitigate these risks. Additionally, the forum can serve as a platform for raising awareness and engaging the community in climate action initiatives, fostering a more resilient and sustainable urban environment.",
+        "actionId": "ipcc_0097",
+        "actionName": "Food storage/distribution improvements",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0148",
-            "ActionName": "Create the Municipal Climate Change Forum",
+            "ActionID": "ipcc_0097",
+            "ActionName": "Food storage/distribution improvements",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "droughts",
-                "diseases",
-                "heatwaves",
-                "landslides",
                 "floods",
-                "wildfires",
-                "sea-level-rise",
-                "storms"
+                "storms",
+                "heatwaves"
+            ],
+            "Sector": [
+                "food_security",
+                "road_infrastructure"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Enhancing food storage and distribution systems by improving transportation infrastructure, optimizing trade networks, and shortening supply chains to ensure local food availability and resilience to climate impacts. This action also includes increasing the capacity of local food storage facilities to reduce post-harvest losses, addressing inefficiencies in logistics, and bolstering infrastructure for perishable goods. It aims to improve food security and reduce vulnerability to extreme events, disruptions, and cascading impacts, especially during pandemics and other crises.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Supports equitable access to food for marginalized and vulnerable populations by prioritizing local food production and improving distribution systems that reach underserved areas.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in infrastructure",
+                "Policy incentives for local food production",
+                "Collaboration with logistics and trade sectors",
+                "Technology for supply chain optimization"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in post-harvest losses",
+                "Increased local food availability",
+                "Improved transportation efficiency for food distribution",
+                "Shortened supply chains"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0094",
+        "actionName": "Access to health care",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0094",
+            "ActionName": "Access to health care",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "floods",
+                "droughts"
+            ],
+            "Sector": [
+                "public_health",
+                "water_resources"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Enhancing access to health care services, including health and nutrition services, clean water, sanitation, and culturally appropriate mental health resources. Expanding telemedicine capabilities enables efficient health service delivery, particularly for remote and underserved populations. Strengthening basic public health systems and disaster preparedness can rapidly reduce vulnerability to climate-related health risks.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Promotes equitable access to health care for marginalized and vulnerable groups, including homeless populations, remote communities, and those affected by housing inequities.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in telemedicine technologies",
+                "Strengthened governance of public health systems",
+                "Capacity building for health workers",
+                "Infrastructure upgrades for health facilities"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in climate-related mortality",
+                "Increased access to telemedicine",
+                "Number of culturally tailored health programs implemented",
+                "Improved water and sanitation access metrics"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0180",
+        "actionName": "Implement permeable pavements and increase green areas in roadways",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0180",
+            "ActionName": "Implement permeable pavements and increase green areas in roadways",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "floods",
+                "landslides",
+                "heatwaves"
             ],
             "Sector": null,
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Creation of a Municipal Climate Change Forum with the participation of community leaders, scientists, collectives, research institutes, NGOs, and members of the municipal and state administration. The Forum will serve as a reference for actions related to Climate Change, aiming to monitor future policies on the subject in the municipality, stimulate dialogue, and create a network of discussions about the climate crisis.",
+            "Description": "Increase the permeable and semi-permeable areas in buildings and public spaces under the administration of the City, with the adoption of nature-based solutions (NbS). In areas with space limitations, the action includes feasibility analyses for implementing permeable pavements and increasing green areas in roadways. Among traditional construction solutions, there are features such as curbs and gutters with stormwater drains, as well as larger-scale solutions like retention ponds. Nature-based solutions include urban tree planting, green roofs, rainwater cisterns, bio-swales, and more.",
             "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 1,
                 "cost_of_living": 0,
-                "housing": 0,
+                "housing": 1,
                 "mobility": 0,
-                "stakeholder_engagement": 2
+                "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
+            "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Engagement of diverse stakeholders, including community leaders, scientists, NGOs, and local authorities, to establish and sustain the Forum.",
-                "Allocation of resources to facilitate regular meetings, workshops, and events for the Forum to remain active and impactful.",
-                "Development of a clear framework and guidelines for the Forum to monitor and guide climate change policies and initiatives within the municipality."
+                "Expansion of permeable and semi-permeable areas in City-administered buildings and public spaces.",
+                "Adoption of nature-based solutions (NbS) such as urban tree planting, green roofs, rainwater cisterns, and bio-swales.",
+                "Feasibility analyses for permeable pavements and increased green areas in roadways, alongside traditional stormwater management solutions like curbs, gutters, and retention ponds."
             ],
             "KeyPerformanceIndicators": [
-                "Percentage of key stakeholders actively participating in the forum.",
-                "Number of climate-related policies or actions proposed through the forum.",
-                "Public engagement in forum initiatives (measured by event attendance or surveys)"
+                "Reduction in surface water runoff during rainfall events (%).",
+                "Decrease in flooding occurrences in modified areas.",
+                "Percentage of public spaces complying with new permeable surface regulations."
             ],
             "PowersAndMandates": [
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "droughts": "medium",
-                "diseases": "medium",
+                "droughts": null,
                 "heatwaves": "medium",
-                "landslides": "low",
-                "floods": "medium",
-                "wildfires": "medium",
-                "sea-level-rise": "medium",
-                "storms": "medium"
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -911,8 +817,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
-        "actionPriority": 15,
-        "explanation": "Strengthening the healthcare network in S\u00e3o Leopoldo is crucial due to the high risk of public health impacts from climate-related hazards. The city faces significant threats from diseases, heatwaves, and floods, all of which can severely strain existing healthcare resources. By enhancing the healthcare infrastructure, the city can better manage and mitigate the health impacts on its population, ensuring timely and effective responses to climate-induced health emergencies. This action is vital for protecting the well-being of residents and maintaining public health resilience in the face of increasing climate risks.",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -943,7 +849,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "high",
             "TimelineForImplementation": ">10 years",
@@ -962,75 +874,16 @@
                 "national"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
                 "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "medium",
                 "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
                 "storms": "high",
-                "droughts": "medium"
+                "wildfires": null,
+                "diseases": "medium"
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0180",
-        "actionName": "Implement permeable pavements and increase green areas in roadways",
-        "actionPriority": 16,
-        "explanation": "Implementing permeable pavements and increasing green areas in roadways is crucial for S\u00e3o Leopoldo due to its vulnerability to floods and landslides. The city faces significant risks from these hazards, which can severely impact public health and infrastructure. By enhancing the permeability of surfaces and expanding green spaces, the city can improve stormwater management, reduce surface runoff, and mitigate the effects of heavy rainfall. This action not only addresses immediate environmental challenges but also contributes to the long-term resilience of the urban infrastructure.",
-        "action": {
-            "ActionID": "icare_0180",
-            "ActionName": "Implement permeable pavements and increase green areas in roadways",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "floods",
-                "landslides",
-                "heatwaves"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Increase the permeable and semi-permeable areas in buildings and public spaces under the administration of the City, with the adoption of nature-based solutions (NbS). In areas with space limitations, the action includes feasibility analyses for implementing permeable pavements and increasing green areas in roadways. Among traditional construction solutions, there are features such as curbs and gutters with stormwater drains, as well as larger-scale solutions like retention ponds. Nature-based solutions include urban tree planting, green roofs, rainwater cisterns, bio-swales, and more.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Expansion of permeable and semi-permeable areas in City-administered buildings and public spaces.",
-                "Adoption of nature-based solutions (NbS) such as urban tree planting, green roofs, rainwater cisterns, and bio-swales.",
-                "Feasibility analyses for permeable pavements and increased green areas in roadways, alongside traditional stormwater management solutions like curbs, gutters, and retention ponds."
-            ],
-            "KeyPerformanceIndicators": [
-                "Reduction in surface water runoff during rainfall events (%).",
-                "Decrease in flooding occurrences in modified areas.",
-                "Percentage of public spaces complying with new permeable surface regulations."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
-                "landslides": "medium",
-                "heatwaves": "medium"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1040,8 +893,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
-        "actionPriority": 17,
-        "explanation": "The implementation of urban gardens in S\u00e3o Leopoldo is a strategic action to enhance food security and promote sustainable urban development. Given the city's tropical rainforest biome, urban gardens can thrive and provide fresh produce to local communities, reducing dependency on external food sources. This initiative also supports biodiversity and can mitigate some of the impacts of climate change by increasing green spaces, which help in cooling urban areas and managing stormwater. Additionally, urban gardens can serve as educational platforms for residents, fostering community engagement and awareness about sustainable practices.",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1069,7 +922,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
@@ -1087,11 +946,478 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
                 "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
                 "landslides": "low",
-                "floods": "medium"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0096",
+        "actionName": "Farm/fishery improvements",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0096",
+            "ActionName": "Farm/fishery improvements",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "wildfires",
+                "storms"
+            ],
+            "Sector": [
+                "food_security",
+                "biodiversity",
+                "water_resources"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Implementing a range of strategies to adapt farms and fisheries to climate impacts. This includes changing fishing gear or vessel power, adopting new crop varieties or adjusting planting schedules, improving irrigation schemes, integrating crop and livestock systems, relocating livestock with improved pasture management, and adopting agroecological and agroforestry systems. Technological innovations like smart farming and financial measures such as subsidies support these adaptations.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Ensures access to resources for marginalized farmers and fishers, promotes diverse livelihood options, and builds resilience in underserved communities.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Policy support for climate-resilient agriculture and fisheries",
+                "Access to finance and subsidies",
+                "Training for adopting new practices",
+                "Improved market infrastructure"
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in agricultural and fishery productivity",
+                "Adoption rate of integrated systems",
+                "Reduction in climate-related yield losses"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
+                "wildfires": "low",
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0099",
+        "actionName": "Water capture/storage",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0099",
+            "ActionName": "Water capture/storage",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "floods",
+                "storms"
+            ],
+            "Sector": [
+                "water_resources",
+                "food_security",
+                "energy_security",
+                "geo-hydrological_disasters"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Implementing water capture and storage solutions such as farm ponds, revival of water bodies, rain gardens, bioswales, retention ponds, and water storage tanks. These measures aim to mitigate climate-induced impacts by improving water management, reducing stormwater runoff, enhancing water quality, and supporting agriculture and energy production under changing climate scenarios. Multi-purpose water reservoirs and dams provide additional benefits by addressing water shortages and managing risks associated with natural hazards.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Ensures access to water for underserved communities, supports sustainable livelihoods in water-scarce regions, and promotes equitable resource distribution through inclusive decision-making processes.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in green infrastructure",
+                "community engagement",
+                "policy support for water resource management"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in stormwater runoff",
+                "increase in water storage capacity",
+                "improvement in water quality",
+                "stability in agricultural yields"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0172",
+        "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0172",
+            "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "landslides",
+                "floods",
+                "storms"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "This action aims to strengthen the development of the Municipal Risk Reduction Plan (PMRR) in the municipality, as it is a highly relevant tool for managing climate risks, especially river floods and landslides.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Availability of technical expertise and resources to develop and implement the Municipal Risk Reduction Plan (PMRR)",
+                "Data collection and analysis to accurately assess climate risks, especially related to river floods and landslides",
+                "Political commitment and coordination between various government agencies to integrate the PMRR into broader urban planning and disaster management strategies"
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of vulnerable population covered by MRRP (%).",
+                "Number of risk reduction measures implemented annually.",
+                "Reduction in the number of people affected by climate-related disasters annually."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": "medium",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0086",
+        "actionName": "Ecosystem-based adaptation",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0086",
+            "ActionName": "Ecosystem-based adaptation",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "storms",
+                "sea-level-rise",
+                "heatwaves",
+                "floods"
+            ],
+            "Sector": [
+                "biodiversity",
+                "geo-hydrological_disasters",
+                "water_resources",
+                "public_health"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Restoring and sustainably managing marine, coastal, urban, riverine, and wetland ecosystems to protect against climate hazards such as storm surges, floods, and heatwaves. Efforts include agroecology, coastal and marine vegetation and reefs, vegetation corridors, mangrove habitat restoration, urban green space to reduce temperatures. These actions improve biodiversity, store carbon, enhance water quality, and provide socio-economic and cultural co-benefits.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 1,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": "Supports vulnerable communities by enhancing climate resilience, promoting equitable access to ecosystem services, and creating livelihood opportunities, especially for marginalized and underserved populations.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Community engagement",
+                "Regulatory support",
+                "Financial investment",
+                "Urban planning",
+                "Climate-resilient vegetation",
+                "Biodiversity assessments",
+                "Catchment management",
+                "Upstream planning",
+                "Sustainable funding"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in storm surge damage",
+                "Carbon sequestration rates",
+                "Increased biodiversity",
+                "Temperature reduction in urban areas",
+                "Improved water quality",
+                "Access to green spaces by underserved communities",
+                "Reduction in flood events",
+                "Enhanced ecosystem health"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": "high",
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0098",
+        "actionName": "Behaviour change in diets and food waste",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0098",
+            "ActionName": "Behaviour change in diets and food waste",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "wildfires"
+            ],
+            "Sector": [
+                "food_security",
+                "biodiversity"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Reducing food loss and waste through improved food production, distribution, and consumption practices. Actions include enhancing agricultural techniques, adopting water-saving technologies, implementing low-cost storage solutions, and promoting plant-based diets. Policymakers can encourage these behaviors with appropriate pricing policies, sustainable agriculture initiatives, and support for disadvantaged groups. The action emphasizes shifting to healthier diets, reducing overconsumption, and supporting local food systems to mitigate greenhouse gas emissions and ensure food security under climate change.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Promotes access to affordable, healthy food for vulnerable communities, empowering women, youth, and socially disadvantaged groups. Encourages equitable participation in sustainable agricultural practices and local food networks.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Education and training for farmers",
+                "Access to sustainable agricultural inputs",
+                "Policy support for sustainable practices",
+                "Technological infrastructure for storage and processing"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in food loss and waste percentages",
+                "Increase in adoption of plant-based diets",
+                "Improved food security indicators",
+                "Reduction in GHG emissions from food systems"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "medium",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": "low",
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SLO",
+        "cityName": "S\u00e3o Leopoldo",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0092",
+        "actionName": "Social safety nets",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0092",
+            "ActionName": "Social safety nets",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "storms"
+            ],
+            "Sector": [
+                "food_security",
+                "public_health"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Social safety nets encompass adaptive social protection mechanisms to reduce food insecurity and malnutrition, especially for vulnerable populations. These include cash transfers, school feeding programs, public work initiatives, unemployment compensation, land reforms, credit and insurance schemes. Integrated approaches combine climate risk assessments with disaster risk reduction, education, and social equity to enhance resilience to climate stresses.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 2,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Enhances the social status and rights of marginalized groups, protects vulnerable populations, reduces inequalities, and promotes education and gender equity.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Integration of climate and disaster risk into social protection",
+                "education programs",
+                "coordination with sustainable livelihoods and financial inclusion initiatives"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in malnutrition rates",
+                "Increase in education access for vulnerable groups",
+                "Participation in social protection programs"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1101,8 +1427,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
-        "actionPriority": 18,
-        "explanation": "The creation of a financial support program to address extreme weather events is crucial for S\u00e3o Leopoldo due to its vulnerability to hazards such as floods and landslides. These events pose significant risks to public health and infrastructure, as indicated by the high risk scores. Implementing financial support can help mitigate the economic impact on affected communities, ensuring quicker recovery and resilience. Additionally, such a program can provide necessary resources for preventive measures, reducing future risks and enhancing the city's overall preparedness.",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1135,7 +1461,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -1155,135 +1487,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "medium",
-                "diseases": "medium",
-                "landslides": "medium",
-                "wildfires": "medium",
                 "floods": "medium",
                 "sea-level-rise": "medium",
-                "storms": "medium"
+                "landslides": "medium",
+                "storms": "medium",
+                "wildfires": "medium",
+                "diseases": "medium"
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0172",
-        "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
-        "actionPriority": 19,
-        "explanation": "Developing and implementing the Municipal Risk Reduction Plan (PMRR) is crucial for S\u00e3o Leopoldo due to its high vulnerability to climate-related hazards such as floods, landslides, and heatwaves. The city faces significant risks to public health and infrastructure, with some hazards posing extreme threats. By identifying vulnerable population groups, the city can tailor its risk reduction strategies to protect those most at risk, enhancing community resilience. This action is essential to mitigate the impacts of climate change and safeguard the well-being of S\u00e3o Leopoldo's residents.",
-        "action": {
-            "ActionID": "icare_0172",
-            "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "landslides",
-                "floods",
-                "storms"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "This action aims to strengthen the development of the Municipal Risk Reduction Plan (PMRR) in the municipality, as it is a highly relevant tool for managing climate risks, especially river floods and landslides.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Availability of technical expertise and resources to develop and implement the Municipal Risk Reduction Plan (PMRR)",
-                "Data collection and analysis to accurately assess climate risks, especially related to river floods and landslides",
-                "Political commitment and coordination between various government agencies to integrate the PMRR into broader urban planning and disaster management strategies"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of vulnerable population covered by MRRP (%).",
-                "Number of risk reduction measures implemented annually.",
-                "Reduction in the number of people affected by climate-related disasters annually."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "landslides": "high",
-                "floods": "high",
-                "storms": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR SLO",
-        "cityName": "S\u00e3o Leopoldo",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0175",
-        "actionName": "Recovery and preservation of green areas",
-        "actionPriority": 20,
-        "explanation": "The recovery and preservation of green areas in S\u00e3o Leopoldo is crucial due to the city's high population density and its location within a tropical rainforest biome. Green areas can help mitigate the effects of urban heat islands, which is particularly important given the city's vulnerability to heatwaves. Additionally, preserving green spaces can enhance biodiversity and provide natural buffers against flooding, a significant risk for the city. This action also supports public health by improving air quality and offering recreational spaces for residents.",
-        "action": {
-            "ActionID": "icare_0175",
-            "ActionName": "Recovery and preservation of green areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "floods",
-                "wildfires"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Rehabilitation and protection of existing green spaces, such as parks, forests, and wetlands, and expansion of green areas through planting of trees and vegetation in urban and peri-urban areas. These areas provide natural solutions for managing water resources, reducing heat stress, improving air quality, and enhancing biodiversity.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Availability of suitable land for green spaces",
-                "Access to water resources for irrigation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Area of green spaces created or restored.",
-                "Biodiversity indices in green areas.",
-                "Community engagement in green space activities."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
-                "floods": "high",
-                "wildfires": "medium"
-            },
-            "biome": "none"
+            "biome": null
         }
     }
 ]

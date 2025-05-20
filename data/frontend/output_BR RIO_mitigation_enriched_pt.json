@@ -1,1270 +1,1462 @@
 [
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0042",
-    "actionName": "Encourage renewable energy policies at the municipal level",
-    "actionPriority": 1,
-    "explanation": "Incentivar políticas de energia renovável em nível municipal no Rio de Janeiro é uma ação fundamental devido às altas emissões de energia estacionária da cidade, que contribuem significativamente para suas emissões totais. Ao promover a energia renovável, a cidade pode reduzir sua dependência de combustíveis fósseis, diminuindo assim as emissões de gases de efeito estufa e mitigando os impactos das mudanças climáticas. Além disso, políticas de energia renovável podem aumentar a segurança e a resiliência energética, o que é particularmente importante diante da vulnerabilidade da cidade a riscos climáticos, como ondas de calor e inundações. A implementação dessas políticas também pode estimular o crescimento econômico local e gerar empregos, alinhando-se às necessidades socioeconômicas da cidade.",
-    "action": {
-      "ActionID": "icare_0042",
-      "ActionName": "Incentivar políticas de energia renovável a nível municipal",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "non-specified_sources"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Defender e implementar políticas que priorizem o desenvolvimento e a integração de sistemas de energia renovável nas operações e no planejamento do governo local.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 1,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Vontade política e liderança para priorizar a energia renovável nas políticas e processos de planejamento do governo local",
-        "Desenvolvimento de políticas claras e estruturas regulatórias que facilitem a integração de sistemas de energia renovável nas operações governamentais",
-        "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transição para a energia renovável na infraestrutura e operações municipais"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de projetos de energia renovável aprovados ou iniciados anualmente a nível municipal.",
-        "Percentagem da demanda de energia municipal atendida por fontes renováveis (%).",
-        "Redução nas emissões de carbono municipais devido à adoção de energia renovável (toneladas de CO₂e/ano)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0139",
+        "actionName": "Implementation of urban toll.",
+        "actionPriority": 1,
+        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0139",
+            "ActionName": "Implementa\u00e7\u00e3o de ped\u00e1gio urbano.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Estabelecimento de uma taxa de congestionamento e/ou rod\u00edzio de placas para ve\u00edculos leves em \u00e1reas saturadas e em hor\u00e1rios saturados",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Estabelecer um quadro legal claro e investir em tecnologia para monitoramento e fiscaliza\u00e7\u00e3o (por exemplo, c\u00e2meras, sensores).",
+                "Lan\u00e7ar campanhas de conscientiza\u00e7\u00e3o e garantir a disponibilidade de transporte p\u00fablico eficiente ou solu\u00e7\u00f5es alternativas de mobilidade.",
+                "Colaborar com governos locais e ag\u00eancias de transporte, e estabelecer sistemas para monitorar e avaliar a efic\u00e1cia da pol\u00edtica."
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o das emiss\u00f5es de CO\u2082 do transporte rodovi\u00e1rio urbano (tCO\u2082e/ano).",
+                "Receita gerada pela implementa\u00e7\u00e3o da taxa de congestionamento urbano (R$)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0121",
+        "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0121",
+            "ActionName": "Incentivo \u00e0 cria\u00e7\u00e3o de programas de compartilhamento de bicicletas em \u00e1reas urbanas, com foco em bicicletas el\u00e9tricas.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esta a\u00e7\u00e3o incentiva o estabelecimento de sistemas de compartilhamento de bicicletas nas cidades, promovendo especificamente o uso de bicicletas el\u00e9tricas. Esses sistemas permitem que os residentes aluguem bicicletas el\u00e9tricas para viagens curtas, reduzindo a depend\u00eancia de carros para o transporte urbano. Ao integrar bicicletas el\u00e9tricas, as cidades podem reduzir ainda mais as emiss\u00f5es de gases de efeito estufa, aliviar a congest\u00e3o do tr\u00e1fego e promover um modo de transporte mais saud\u00e1vel e sustent\u00e1vel tanto para \u00e1reas urbanas quanto rurais. Esta iniciativa tamb\u00e9m apoia a igualdade de mobilidade, pois torna as bicicletas mais acess\u00edveis a uma gama mais ampla de pessoas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Estabelecimento de sistemas de compartilhamento de bicicletas com foco em bicicletas el\u00e9tricas para reduzir a depend\u00eancia de carros.",
+                "Integra\u00e7\u00e3o de bicicletas el\u00e9tricas para reduzir as emiss\u00f5es de gases de efeito estufa, aliviar o congestionamento do tr\u00e1fego e promover o transporte sustent\u00e1vel.",
+                "Promo\u00e7\u00e3o da igualdade de mobilidade tornando as bicicletas el\u00e9tricas acess\u00edveis a uma popula\u00e7\u00e3o mais ampla."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de bicicletas el\u00e9tricas dispon\u00edveis em programas de compartilhamento de bicicletas.",
+                "Aumento anual no n\u00famero de usu\u00e1rios de compartilhamento de bicicletas.",
+                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es de CO\u2082 equivalente com a ado\u00e7\u00e3o do compartilhamento de bicicletas el\u00e9tricas."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0094",
+        "actionName": "Adoption of biomethane in public fleets.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0094",
+            "ActionName": "Ado\u00e7\u00e3o de biometano em frotas p\u00fablicas.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Utilizar biometano produzido a partir de res\u00edduos urbanos e agroindustriais para abastecer \u00f4nibus e caminh\u00f5es p\u00fablicos, reduzindo as emiss\u00f5es de gases de efeito estufa nas frotas municipais",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de infraestrutura para a produ\u00e7\u00e3o, processamento e distribui\u00e7\u00e3o de biometano a partir de res\u00edduos urbanos e agroindustriais.",
+                "Retrofit ou aquisi\u00e7\u00e3o de \u00f4nibus e caminh\u00f5es p\u00fablicos capazes de usar biometano como fonte de combust\u00edvel.",
+                "Estabelecimento de pol\u00edticas e incentivos financeiros para apoiar a produ\u00e7\u00e3o de biometano e sua integra\u00e7\u00e3o nas frotas municipais."
+            ],
+            "KeyPerformanceIndicators": [
+                "Economia de custos na opera\u00e7\u00e3o da frota devido ao uso de biometano (USD/ano).",
+                "Aumento na capacidade de produ\u00e7\u00e3o de biometano (%).",
+                "Percentagem de biometano obtido localmente versus importado."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "c40_0035",
+        "actionName": "Waste Efficiency",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0035",
+            "ActionName": "Efici\u00eancia de Res\u00edduos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "all"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "As iniciativas de \"Efici\u00eancia de Res\u00edduos\" visam melhorar a efici\u00eancia dos processos de coleta de res\u00edduos, reduzindo o consumo de recursos e minimizando o impacto ambiental. Isso inclui a otimiza\u00e7\u00e3o dos sistemas de gest\u00e3o de res\u00edduos para aumentar a efici\u00eancia energ\u00e9tica e promover pr\u00e1ticas sustent\u00e1veis de descarte de res\u00edduos.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "As iniciativas de \"Efici\u00eancia de Res\u00edduos\" promovem equidade e inclus\u00e3o ao focar em comunidades carentes que muitas vezes sofrem com sistemas de gest\u00e3o de res\u00edduos ineficientes. Ao otimizar os processos de coleta de res\u00edduos, essas iniciativas podem reduzir o fardo ambiental sobre popula\u00e7\u00f5es vulner\u00e1veis, que podem viver em \u00e1reas desproporcionalmente afetadas por res\u00edduos e polui\u00e7\u00e3o.\n\nAl\u00e9m disso, melhorar a efici\u00eancia energ\u00e9tica na gest\u00e3o de res\u00edduos pode levar a economias de custos, que podem ser reinvestidas em servi\u00e7os comunit\u00e1rios ou infraestrutura que beneficiem bairros de baixa renda. A promo\u00e7\u00e3o de pr\u00e1ticas sustent\u00e1veis de descarte de res\u00edduos tamb\u00e9m garante que todos os membros da comunidade, independentemente do status socioecon\u00f4mico, tenham acesso a op\u00e7\u00f5es ambientalmente respons\u00e1veis, promovendo um senso de responsabilidade compartilhada e inclus\u00e3o nos esfor\u00e7os de a\u00e7\u00e3o clim\u00e1tica.\n\nNo geral, essas iniciativas reconhecem os desafios \u00fanicos enfrentados por comunidades carentes e visam criar um sistema de gest\u00e3o de res\u00edduos mais equitativo que beneficie todos os residentes.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "80-100",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Infraestrutura e tecnologia eficazes de gest\u00e3o de res\u00edduos",
+                "Colabora\u00e7\u00e3o com governos locais e autoridades de gest\u00e3o de res\u00edduos",
+                "Conscientiza\u00e7\u00e3o p\u00fablica e educa\u00e7\u00e3o sobre pr\u00e1ticas de descarte de res\u00edduos",
+                "Acesso a dados para monitorar e otimizar processos de coleta de res\u00edduos",
+                "Investimento em instala\u00e7\u00f5es sustent\u00e1veis de processamento de res\u00edduos"
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o nos custos de coleta de res\u00edduos",
+                "Percentual de redu\u00e7\u00e3o de res\u00edduos enviados para aterros sanit\u00e1rios",
+                "Aumento nas taxas de reciclagem",
+                "Consumo de energia por tonelada de res\u00edduos coletados",
+                "Redu\u00e7\u00e3o de emiss\u00f5es de carbono na gest\u00e3o de res\u00edduos",
+                "Satisfa\u00e7\u00e3o do cliente com os servi\u00e7os de coleta de res\u00edduos",
+                "Volume de res\u00edduos processados por m\u00e9todos sustent\u00e1veis",
+                "Efici\u00eancia operacional das rotas de coleta de res\u00edduos"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "c40_0036",
+        "actionName": "Landfill Management",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0036",
+            "ActionName": "Gest\u00e3o de Aterros Sanit\u00e1rios",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "all"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Estrat\u00e9gias de \"Gest\u00e3o de Aterros Sanit\u00e1rios\" focam em pr\u00e1ticas respons\u00e1veis e sustent\u00e1veis de aterros para minimizar a degrada\u00e7\u00e3o ambiental. Ao adotar t\u00e9cnicas de gest\u00e3o eficazes, as cidades visam reduzir a pegada ecol\u00f3gica associada aos locais de aterro e incentivar a redu\u00e7\u00e3o de res\u00edduos.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "As estrat\u00e9gias de \"Gest\u00e3o de Aterros Sanit\u00e1rios\" promovem equidade e inclus\u00e3o ao abordar os impactos ambientais dos locais de aterro, que muitas vezes afetam desproporcionalmente comunidades vulner\u00e1veis e carentes. Essas comunidades frequentemente residem perto de aterros e s\u00e3o mais suscet\u00edveis a riscos de sa\u00fade associados \u00e0 polui\u00e7\u00e3o e \u00e0 degrada\u00e7\u00e3o ambiental. Ao implementar pr\u00e1ticas de aterro respons\u00e1veis e sustent\u00e1veis, a a\u00e7\u00e3o visa reduzir esses impactos negativos, melhorando assim a qualidade de vida dos residentes nessas \u00e1reas.\n\nAl\u00e9m disso, t\u00e9cnicas eficazes de redu\u00e7\u00e3o de res\u00edduos podem criar oportunidades para o engajamento e a participa\u00e7\u00e3o da comunidade, permitindo que popula\u00e7\u00f5es carentes tenham voz nas decis\u00f5es ambientais locais. Essa inclus\u00e3o promove um senso de pertencimento e empoderamento entre os membros da comunidade, garantindo que suas necessidades e preocupa\u00e7\u00f5es sejam consideradas na gest\u00e3o dos locais de aterro. No geral, a a\u00e7\u00e3o reconhece e busca mitigar as desigualdades enfrentadas por comunidades marginalizadas em rela\u00e7\u00e3o \u00e0 gest\u00e3o de res\u00edduos e \u00e0 sa\u00fade ambiental.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "60-79",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Pr\u00e1ticas eficazes de segrega\u00e7\u00e3o de res\u00edduos para garantir o descarte e reciclagem adequados",
+                "Investimento em tecnologia para tratamento de res\u00edduos e monitoramento de aterros sanit\u00e1rios",
+                "Envolvimento e educa\u00e7\u00e3o da comunidade sobre redu\u00e7\u00e3o de res\u00edduos e reciclagem",
+                "Estruturas regulat\u00f3rias e pol\u00edticas que apoiam pr\u00e1ticas sustent\u00e1veis de aterros sanit\u00e1rios",
+                "Colabora\u00e7\u00e3o com governos locais e organiza\u00e7\u00f5es para compartilhamento de recursos e melhores pr\u00e1ticas"
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o do volume de res\u00edduos em aterros",
+                "Percentagem de res\u00edduos desviados de aterros",
+                "Taxa de captura de g\u00e1s de aterro",
+                "Qualidade do solo e da \u00e1gua ao redor dos locais de aterro",
+                "Frequ\u00eancia das inspe\u00e7\u00f5es de aterros",
+                "N\u00edveis de conscientiza\u00e7\u00e3o e engajamento p\u00fablico",
+                "Economia de custos com pr\u00e1ticas aprimoradas de gest\u00e3o de aterros",
+                "Conformidade com as regulamenta\u00e7\u00f5es ambientais"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0053",
+        "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0053",
+            "ActionName": "Implementar um projeto para apoiar cooperativas de coletores de materiais recicl\u00e1veis",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "disposal_of_solid_waste_generated_in_the_city"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Medidas para melhorar as condi\u00e7\u00f5es de trabalho e a renda nos processos de triagem de res\u00edduos recicl\u00e1veis. Inclui treinamento cont\u00ednuo para coletores em tecnologia, economia, gest\u00e3o de neg\u00f3cios e planejamento conceitual para a opera\u00e7\u00e3o e administra\u00e7\u00e3o da Unidade de Triagem.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 1,
+                "cost_of_living": 2,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "20-39",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Implementa\u00e7\u00e3o de medidas para melhorar as condi\u00e7\u00f5es de trabalho e a renda para a triagem de res\u00edduos recicl\u00e1veis.",
+                "Treinamento cont\u00ednuo para coletores em tecnologia, economia, gest\u00e3o de neg\u00f3cios e planejamento operacional.",
+                "Desenvolvimento de capacidades administrativas e operacionais para a Unidade de Triagem."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de cooperativas apoiadas anualmente.",
+                "Aumento na renda dos coletores (%).",
+                "Volume de materiais recicl\u00e1veis coletados por cooperativas (toneladas/ano)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0122",
+        "actionName": "Establish eco-parks.",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0122",
+            "ActionName": "Estabelecer eco-parques.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Um eco-parque \u00e9 uma instala\u00e7\u00e3o para o tratamento mec\u00e2nico e biol\u00f3gico de res\u00edduos s\u00f3lidos urbanos, integrando diferentes tecnologias para a segrega\u00e7\u00e3o e tratamento de v\u00e1rias fra\u00e7\u00f5es dentro dos res\u00edduos. Este tratamento visa maximizar a recupera\u00e7\u00e3o de res\u00edduos secos e org\u00e2nicos e reduzir o volume de res\u00edduos a serem enviados para disposi\u00e7\u00e3o final em aterros sanit\u00e1rios, utilizando tecnologias como gera\u00e7\u00e3o de energia, compostagem, recupera\u00e7\u00e3o de reciclagem, disposi\u00e7\u00e3o adequada de res\u00edduos residuais e outros m\u00e9todos de tratamento existentes dispon\u00edveis no mercado.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "20-39",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Implementa\u00e7\u00e3o de eco-parques para tratamento mec\u00e2nico e biol\u00f3gico de res\u00edduos s\u00f3lidos urbanos.",
+                "Integra\u00e7\u00e3o de tecnologias como gera\u00e7\u00e3o de energia, compostagem, recupera\u00e7\u00e3o de reciclagem e disposi\u00e7\u00e3o adequada de res\u00edduos residuais.",
+                "Maximiza\u00e7\u00e3o da recupera\u00e7\u00e3o de res\u00edduos secos e org\u00e2nicos para reduzir os volumes de disposi\u00e7\u00e3o em aterros."
+            ],
+            "KeyPerformanceIndicators": [
+                "\u00c1rea total coberta por eco-parques na cidade (hectares).",
+                "Aumento no n\u00famero de visitantes aos eco-parques anualmente.",
+                "Melhoria nos \u00edndices de biodiversidade local dentro das \u00e1reas dos eco-parques."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0057",
+        "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0057",
+            "ActionName": "Expans\u00e3o dos sistemas de transporte p\u00fablico em massa sobre trilhos (metr\u00f4s, VLTs e monotrilhos).",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "railways"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esses sistemas oferecem alta capacidade e baixas emiss\u00f5es, cruciais para cidades com alta densidade populacional.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investimento no desenvolvimento e expans\u00e3o da infraestrutura de transporte p\u00fablico de alta capacidade, como \u00f4nibus el\u00e9tricos e sistemas de metr\u00f4.",
+                "Implementa\u00e7\u00e3o de pol\u00edticas e incentivos para encorajar o uso de transporte p\u00fablico em vez de ve\u00edculos particulares.",
+                "Integra\u00e7\u00e3o de fontes de energia renov\u00e1vel para alimentar esses sistemas, reduzindo ainda mais as emiss\u00f5es."
+            ],
+            "KeyPerformanceIndicators": [
+                "Comprimento das novas linhas de tr\u00e2nsito constru\u00eddas (km/ano).",
+                "Redu\u00e7\u00e3o na congest\u00e3o do tr\u00e1fego rodovi\u00e1rio (%).",
+                "Redu\u00e7\u00e3o no uso de ve\u00edculos privados (n\u00famero de viagens evitadas/ano)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "c40_0026",
+        "actionName": "Vehicle Emissions",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0026",
+            "ActionName": "Emiss\u00f5es de Ve\u00edculos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "As estrat\u00e9gias de redu\u00e7\u00e3o de \"Vehicle Emissions\" concentram-se em minimizar o impacto ambiental de todos os tipos de ve\u00edculos. A implementa\u00e7\u00e3o de tecnologias mais limpas e a promo\u00e7\u00e3o de combust\u00edveis alternativos contribuem para a redu\u00e7\u00e3o das emiss\u00f5es, promovendo um transporte sustent\u00e1vel e ecol\u00f3gico.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "As estrat\u00e9gias de redu\u00e7\u00e3o de \"Emiss\u00f5es de Ve\u00edculos\" promovem inerentemente a equidade e a inclus\u00e3o ao abordar os impactos ambientais que afetam desproporcionalmente comunidades vulner\u00e1veis e carentes. Essas comunidades frequentemente enfrentam n\u00edveis mais altos de polui\u00e7\u00e3o do ar e problemas de sa\u00fade relacionados devido \u00e0 proximidade com \u00e1reas de tr\u00e1fego intenso e zonas industriais. Ao implementar tecnologias mais limpas e promover combust\u00edveis alternativos, a a\u00e7\u00e3o beneficia diretamente essas popula\u00e7\u00f5es ao melhorar a qualidade do ar e reduzir os riscos \u00e0 sa\u00fade.\n\nAl\u00e9m disso, o foco em transporte sustent\u00e1vel e ecol\u00f3gico pode melhorar o acesso a op\u00e7\u00f5es de transporte acess\u00edveis e eficientes para comunidades carentes, que podem n\u00e3o ter transporte p\u00fablico confi\u00e1vel. Essa inclus\u00e3o garante que todos os membros da comunidade, independentemente do status socioecon\u00f4mico, possam se beneficiar de um ar mais limpo e melhores resultados de sa\u00fade p\u00fablica. No geral, a a\u00e7\u00e3o reconhece e aborda as necessidades espec\u00edficas das popula\u00e7\u00f5es vulner\u00e1veis, promovendo uma abordagem mais equitativa para a a\u00e7\u00e3o clim\u00e1tica.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento e disponibilidade de tecnologias de ve\u00edculos mais limpos",
+                "Infraestrutura para distribui\u00e7\u00e3o de combust\u00edveis alternativos",
+                "Pol\u00edticas e regulamenta\u00e7\u00f5es governamentais que apoiam a redu\u00e7\u00e3o de emiss\u00f5es",
+                "Conscientiza\u00e7\u00e3o p\u00fablica e aceita\u00e7\u00e3o de op\u00e7\u00f5es de transporte ecol\u00f3gicas",
+                "Investimento em pesquisa e desenvolvimento de solu\u00e7\u00f5es de transporte sustent\u00e1vel"
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o nas emiss\u00f5es de ve\u00edculos (CO2, NOx, PM)",
+                "Percentagem de ve\u00edculos utilizando combust\u00edveis alternativos",
+                "N\u00famero de ve\u00edculos el\u00e9tricos nas estradas",
+                "Melhorias na efici\u00eancia de combust\u00edvel (milhas por gal\u00e3o)",
+                "Taxa de ado\u00e7\u00e3o de tecnologias mais limpas",
+                "Redu\u00e7\u00e3o no consumo de combust\u00edveis f\u00f3sseis",
+                "Taxas de uso de transporte p\u00fablico",
+                "Melhorias no \u00edndice de qualidade do ar",
+                "Percentagem de zonas de baixa emiss\u00e3o estabelecidas",
+                "Investimento em infraestrutura de transporte sustent\u00e1vel"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0042",
+        "actionName": "Encourage renewable energy policies at the municipal level",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0042",
+            "ActionName": "Incentivar pol\u00edticas de energia renov\u00e1vel a n\u00edvel municipal",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "non-specified_sources"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Defender e implementar pol\u00edticas que priorizem o desenvolvimento e a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es e no planejamento do governo local.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 1,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Vontade pol\u00edtica e lideran\u00e7a para priorizar a energia renov\u00e1vel nas pol\u00edticas e processos de planejamento do governo local",
+                "Desenvolvimento de pol\u00edticas claras e estruturas regulat\u00f3rias que facilitem a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es governamentais",
+                "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transi\u00e7\u00e3o para a energia renov\u00e1vel na infraestrutura e opera\u00e7\u00f5es municipais"
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de projetos de energia renov\u00e1vel aprovados ou iniciados anualmente a n\u00edvel municipal.",
+                "Percentagem da demanda de energia municipal atendida por fontes renov\u00e1veis (%).",
+                "Redu\u00e7\u00e3o nas emiss\u00f5es de carbono municipais devido \u00e0 ado\u00e7\u00e3o de energia renov\u00e1vel (toneladas de CO\u2082e/ano)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0079",
+        "actionName": "Implement energy audits in industrial plants",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0079",
+            "ActionName": "Implementar auditorias energ\u00e9ticas em plantas industriais",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "ippu"
+            ],
+            "Subsector": [
+                "industrial_processes"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Realizar auditorias energ\u00e9ticas regulares para identificar oportunidades de economia de energia e redu\u00e7\u00e3o de emiss\u00f5es.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": "20-39",
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Disponibilidade de profissionais qualificados ou auditores de energia para realizar avalia\u00e7\u00f5es completas em ind\u00fastrias e edif\u00edcios.",
+                "Desenvolvimento de uma estrutura padronizada para auditorias de energia, garantindo consist\u00eancia e precis\u00e3o nos resultados.",
+                "Implementa\u00e7\u00e3o de incentivos governamentais ou corporativos para encorajar as organiza\u00e7\u00f5es a agirem com base nas recomenda\u00e7\u00f5es das auditorias, como reembolsos para atualiza\u00e7\u00f5es de efici\u00eancia energ\u00e9tica."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de plantas industriais realizando auditorias energ\u00e9ticas anualmente.",
+                "Economia de custos alcan\u00e7ada atrav\u00e9s de melhorias recomendadas pela auditoria (%).",
+                "Tempo m\u00e9dio para implementar medidas de efici\u00eancia energ\u00e9tica ap\u00f3s a auditoria (meses)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0091",
+        "actionName": "Implementation of prioritized routes for sustainable vehicles.",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0091",
+            "ActionName": "Implementa\u00e7\u00e3o de rotas priorit\u00e1rias para ve\u00edculos sustent\u00e1veis.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Criar faixas priorit\u00e1rias para ve\u00edculos el\u00e9tricos, h\u00edbridos e de baixa emiss\u00e3o em centros urbanos para incentivar sua ado\u00e7\u00e3o e reduzir a polui\u00e7\u00e3o em \u00e1reas de alto tr\u00e1fego.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Implementa\u00e7\u00e3o de sistemas de gest\u00e3o de tr\u00e1fego para aplicar e monitorar o uso de faixas priorit\u00e1rias.",
+                "Desenvolvimento de sinaliza\u00e7\u00e3o clara e campanhas de conscientiza\u00e7\u00e3o p\u00fablica para informar os motoristas sobre a elegibilidade e o uso das faixas.",
+                "Estabelecimento de estruturas regulat\u00f3rias que incentivem a ado\u00e7\u00e3o de ve\u00edculos de baixa emiss\u00e3o para elegibilidade nas faixas priorit\u00e1rias."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentagem de ve\u00edculos sustent\u00e1veis utilizando rotas priorit\u00e1rias.",
+                "Aumento na efici\u00eancia de entrega de mercadorias transportadas por rotas priorit\u00e1rias (%).",
+                "Taxa de aceita\u00e7\u00e3o p\u00fablica das rotas priorit\u00e1rias para ve\u00edculos sustent\u00e1veis (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0131",
+        "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0131",
+            "ActionName": "Priorizar a Aquisi\u00e7\u00e3o de Produtos Agroecol\u00f3gicos Produzidos Localmente em Compras P\u00fablicas",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Concentre-se em comprar alimentos sustent\u00e1veis e produzidos localmente para institui\u00e7\u00f5es p\u00fablicas.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de pol\u00edticas de aquisi\u00e7\u00e3o e identifica\u00e7\u00e3o de fornecedores locais confi\u00e1veis.",
+                "Parcerias com produtores e aloca\u00e7\u00e3o de financiamento para programas de aquisi\u00e7\u00e3o sustent\u00e1vel.",
+                "Estabelecimento de sistemas de monitoramento para garantir a conformidade com os crit\u00e9rios de sustentabilidade."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentagem do volume total de compras p\u00fablicas provenientes de produtores agroecol\u00f3gicos locais.",
+                "Quantidade de emiss\u00f5es de CO\u2082 evitadas devido \u00e0 redu\u00e7\u00e3o da dist\u00e2ncia de transporte (tCO\u2082e).",
+                "N\u00famero de produtores agroecol\u00f3gicos beneficiados pelas compras p\u00fablicas."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0128",
+        "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0128",
+            "ActionName": "Estabelecer Programas Municipais de Pagamento por Servi\u00e7os Ambientais (PSA)",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implementar programas que paguem aos propriet\u00e1rios de terras por manterem ou melhorarem as condi\u00e7\u00f5es ambientais em suas propriedades.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Cria\u00e7\u00e3o de mecanismos de financiamento e crit\u00e9rios de elegibilidade claros com indicadores de desempenho.",
+                "Parcerias com organiza\u00e7\u00f5es ambientais e campanhas de conscientiza\u00e7\u00e3o para incentivar a participa\u00e7\u00e3o.",
+                "Integra\u00e7\u00e3o com estruturas legais para garantir a sustentabilidade do programa."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de contratos ativos de Pagamento por Servi\u00e7os Ambientais (PSA) assinados.",
+                "\u00c1rea total sob pr\u00e1ticas de conserva\u00e7\u00e3o ou restaura\u00e7\u00e3o incentivadas (hectares).",
+                "Quantidade de carbono sequestrado ou emiss\u00f5es evitadas por meio de a\u00e7\u00f5es de PSA (tCO\u2082e/ano)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0117",
+        "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0117",
+            "ActionName": "Aumentar a atratividade do sistema de \u00f4nibus municipal para promover este modo de transporte.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Aumentar a qualidade da presta\u00e7\u00e3o de servi\u00e7os de transporte, visando a mudan\u00e7a modal de passageiros do transporte motorizado privado para o transporte p\u00fablico, reduzindo assim as emiss\u00f5es geradas por carros e motocicletas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Melhorar a qualidade dos servi\u00e7os de transporte p\u00fablico para atrair passageiros do transporte motorizado privado.",
+                "Implementar pol\u00edticas e infraestruturas que apoiem e aumentem a efici\u00eancia dos sistemas de transporte p\u00fablico.",
+                "Promover a conscientiza\u00e7\u00e3o sobre os benef\u00edcios ambientais do transporte p\u00fablico para incentivar uma mudan\u00e7a modal e reduzir as emiss\u00f5es."
+            ],
+            "KeyPerformanceIndicators": [
+                "Aumento anual no n\u00famero de passageiros utilizando o sistema de \u00f4nibus municipal.",
+                "Percentual de rotas de \u00f4nibus com confiabilidade melhorada no tempo de viagem.",
+                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es equivalentes de CO\u2082 devido ao aumento do uso de transporte p\u00fablico."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0075",
+        "actionName": "Set carbon emissions reduction targets for industrial sectors",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0075",
+            "ActionName": "Definir metas de redu\u00e7\u00e3o de emiss\u00f5es de carbono para setores industriais",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "ippu"
+            ],
+            "Subsector": [
+                "industrial_processes"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Estabelecer metas claras e alcan\u00e7\u00e1veis de redu\u00e7\u00e3o de emiss\u00f5es de carbono para as ind\u00fastrias e exigir relat\u00f3rios peri\u00f3dicos para garantir o progresso.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": "80-100",
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Desenvolvimento de um sistema padronizado de medi\u00e7\u00e3o e relat\u00f3rio de emiss\u00f5es de carbono.",
+                "Cria\u00e7\u00e3o de estruturas regulat\u00f3rias para impor metas de redu\u00e7\u00e3o de emiss\u00f5es.",
+                "Capacita\u00e7\u00e3o para ind\u00fastrias monitorarem e relatarem emiss\u00f5es de forma eficaz."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentagem de ind\u00fastrias com metas estabelecidas de redu\u00e7\u00e3o de carbono (%).",
+                "Redu\u00e7\u00e3o nas emiss\u00f5es totais de GEE setoriais em compara\u00e7\u00e3o com a linha de base (toneladas de CO\u2082e).",
+                "Aumento na ado\u00e7\u00e3o de fontes de energia renov\u00e1vel pelas ind\u00fastrias (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "c40_0040",
+        "actionName": "Volume-Based Collection",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0040",
+            "ActionName": "Coleta Baseada em Volume",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "all"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "As pol\u00edticas de \"Coleta Baseada em Volume\" incentivam a redu\u00e7\u00e3o de res\u00edduos ao implementar taxas ou incentivos com base na quantidade de res\u00edduos gerados. Essa abordagem encoraja os residentes a minimizar a produ\u00e7\u00e3o de res\u00edduos, contribuindo para as metas gerais de redu\u00e7\u00e3o de res\u00edduos.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "As pol\u00edticas de \"Coleta Baseada em Volume\" promovem equidade e inclus\u00e3o ao:\n\n1. **Incentivar a Participa\u00e7\u00e3o**: Ao vincular taxas ou incentivos \u00e0 quantidade de res\u00edduos gerados, a pol\u00edtica encoraja todos os residentes, incluindo aqueles de comunidades vulner\u00e1veis ou carentes, a participarem ativamente nos esfor\u00e7os de redu\u00e7\u00e3o de res\u00edduos. Isso pode capacitar essas comunidades a assumirem a responsabilidade por suas pr\u00e1ticas de gest\u00e3o de res\u00edduos.\n\n2. **Al\u00edvio Financeiro para Geradores de Baixo Volume**: Fam\u00edlias que produzem menos res\u00edduos, frequentemente encontradas em comunidades carentes, podem se beneficiar de taxas mais baixas, proporcionando-lhes al\u00edvio financeiro e incentivando pr\u00e1ticas sustent\u00e1veis sem impor um fardo desproporcional.\n\n3. **Conscientiza\u00e7\u00e3o e Educa\u00e7\u00e3o**: A implementa\u00e7\u00e3o de pol\u00edticas baseadas em volume frequentemente inclui componentes educacionais que informam os residentes sobre estrat\u00e9gias de redu\u00e7\u00e3o de res\u00edduos. Isso pode beneficiar particularmente as comunidades carentes, fornecendo-lhes conhecimento e recursos para reduzir efetivamente os res\u00edduos.\n\n4. **Engajamento Comunit\u00e1rio**: A pol\u00edtica pode fomentar o engajamento comunit\u00e1rio ao envolver os residentes em discuss\u00f5es sobre gest\u00e3o e estrat\u00e9gias de redu\u00e7\u00e3o de res\u00edduos, garantindo que as vozes das popula\u00e7\u00f5es vulner\u00e1veis sejam ouvidas e consideradas no processo de tomada de decis\u00e3o.\n\n5. **Aloca\u00e7\u00e3o Equitativa de Recursos**: Ao focar na redu\u00e7\u00e3o de res\u00edduos, a pol\u00edtica pode levar a uma aloca\u00e7\u00e3o mais equitativa de recursos para servi\u00e7os de gest\u00e3o de res\u00edduos, garantindo que as comunidades carentes recebam suporte e infraestrutura adequados para gerenciar seus res\u00edduos de forma eficaz.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "80-100",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Programas eficazes de comunica\u00e7\u00e3o e educa\u00e7\u00e3o para informar os residentes sobre os benef\u00edcios da redu\u00e7\u00e3o de res\u00edduos",
+                "Um sistema confi\u00e1vel de medi\u00e7\u00e3o de res\u00edduos para rastrear com precis\u00e3o o volume de res\u00edduos gerados",
+                "Apoio do governo local e dos formuladores de pol\u00edticas para implementar e fazer cumprir as pol\u00edticas de coleta baseadas em volume",
+                "Disponibilidade de op\u00e7\u00f5es alternativas de gest\u00e3o de res\u00edduos, como instala\u00e7\u00f5es de reciclagem e compostagem",
+                "Envolvimento e participa\u00e7\u00e3o da comunidade para fomentar uma cultura de sustentabilidade e redu\u00e7\u00e3o de res\u00edduos"
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o no total de res\u00edduos gerados",
+                "Aumento nas taxas de reciclagem",
+                "Taxa de participa\u00e7\u00e3o no programa de coleta baseado em volume",
+                "M\u00e9dia de res\u00edduos por domic\u00edlio",
+                "Economia de custos com a redu\u00e7\u00e3o do descarte de res\u00edduos",
+                "N\u00edveis de conscientiza\u00e7\u00e3o e engajamento p\u00fablico",
+                "Mudan\u00e7a nas taxas de compostagem"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0136",
+        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0136",
+            "ActionName": "Apoiar a Implementa\u00e7\u00e3o de Incentivos Fiscais Ecol\u00f3gicos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Incentivar a aplica\u00e7\u00e3o de impostos ecol\u00f3gicos e incentivos para promover a conserva\u00e7\u00e3o ambiental.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Estabelecer um quadro regulat\u00f3rio claro com taxas de impostos justas e incentivos para a sustentabilidade.",
+                "Implementar sistemas de monitoramento eficazes para rastrear a conformidade e medir o impacto.",
+                "Promover a conscientiza\u00e7\u00e3o p\u00fablica e fomentar a colabora\u00e7\u00e3o entre governos, empresas e comunidades."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de munic\u00edpios que adotaram incentivos fiscais ambientais.",
+                "Percentual da receita tribut\u00e1ria gasta em pr\u00e1ticas sustent\u00e1veis.",
+                "\u00c1rea ou n\u00famero de propriedades beneficiadas por pr\u00e1ticas de conserva\u00e7\u00e3o como resultado de incentivos."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0099",
+        "actionName": "Support Agroecological Certification Programs",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0099",
+            "ActionName": "Apoiar Programas de Certifica\u00e7\u00e3o Agroecol\u00f3gica",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Incentivar a certifica\u00e7\u00e3o de produtos agroecol\u00f3gicos que atendam a crit\u00e9rios de sustentabilidade e tenham baixo impacto ambiental.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de padr\u00f5es de certifica\u00e7\u00e3o claros e acess\u00edveis para produtos agroecol\u00f3gicos que enfatizem a sustentabilidade e o baixo impacto ambiental.",
+                "Apoio a agricultores e produtores para atender aos requisitos de certifica\u00e7\u00e3o por meio de treinamento, assist\u00eancia financeira ou orienta\u00e7\u00e3o t\u00e9cnica.",
+                "Cria\u00e7\u00e3o de estrat\u00e9gias de marketing e parcerias para aumentar a visibilidade e a demanda por produtos agroecol\u00f3gicos certificados nos mercados locais e globais."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de agricultores ou produtores obtendo certifica\u00e7\u00f5es agroecol\u00f3gicas.",
+                "Percentual de produtos agr\u00edcolas certificados no mercado (%).",
+                "Redu\u00e7\u00e3o no uso de insumos sint\u00e9ticos (por exemplo, fertilizantes, pesticidas)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR RIO",
+        "cityName": "Rio de Janeiro",
+        "region": "RJ",
+        "regionName": "Rio de Janeiro",
+        "actionId": "icare_0085",
+        "actionName": "Promote the Adoption of Agroecological Pest Control",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0085",
+            "ActionName": "Promover a Ado\u00e7\u00e3o do Controle de Pragas Agroecol\u00f3gico",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Incentivar m\u00e9todos de controle de pragas que sejam agroecol\u00f3gicos, como o uso de predadores naturais e plantas repelentes, para reduzir a depend\u00eancia de pesticidas qu\u00edmicos.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de programas educacionais para informar os agricultores sobre m\u00e9todos de controle de pragas agroecol\u00f3gicos e seus benef\u00edcios.",
+                "Fornecimento de acesso a recursos ou materiais para implementar m\u00e9todos de controle de pragas naturais, como a introdu\u00e7\u00e3o de insetos ben\u00e9ficos ou o cultivo de plantas repelentes.",
+                "Cria\u00e7\u00e3o de incentivos ou redes de apoio para encorajar a transi\u00e7\u00e3o do uso de pesticidas qu\u00edmicos em favor de alternativas sustent\u00e1veis."
+            ],
+            "KeyPerformanceIndicators": [
+                "Aumento nas taxas de produtividade em \u00e1reas que adotam controle agroecol\u00f3gico de pragas (%).",
+                "N\u00famero de campanhas educativas realizadas sobre controle sustent\u00e1vel de pragas.",
+                "Impacto nos custos totais de produ\u00e7\u00e3o devido \u00e0 ado\u00e7\u00e3o de pr\u00e1ticas agroecol\u00f3gicas (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
     }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "c40_0035",
-    "actionName": "Waste Efficiency",
-    "actionPriority": 2,
-    "explanation": "A ação de ‘Eficiência no Gerenciamento de Resíduos’ é uma prioridade para o Rio de Janeiro devido às significativas emissões provenientes de resíduos na cidade, que são um dos principais contribuintes para o total de emissões de gases de efeito estufa. A melhoria das práticas de gestão de resíduos pode reduzir substancialmente essas emissões, ajudando a mitigar os impactos das mudanças climáticas. Além disso, uma gestão eficiente dos resíduos pode melhorar a saúde pública e a saneamento, aspectos cruciais considerando a alta densidade populacional da cidade. Ao priorizar a eficiência na gestão de resíduos, o Rio de Janeiro também pode aumentar sua resiliência a riscos ambientais, como enchentes, que são agravadas por práticas inadequadas de descarte de resíduos.",
-    "action": {
-      "ActionID": "c40_0035",
-      "ActionName": "Eficiência de Resíduos",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "waste"
-      ],
-      "Subsector": [
-        "all"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "As iniciativas de \"Eficiência de Resíduos\" visam melhorar a eficiência dos processos de coleta de resíduos, reduzindo o consumo de recursos e minimizando o impacto ambiental. Isso inclui a otimização dos sistemas de gestão de resíduos para aumentar a eficiência energética e promover práticas sustentáveis de descarte de resíduos.",
-      "CoBenefits": {
-        "air_quality": 0,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": "As iniciativas de \"Eficiência de Resíduos\" promovem equidade e inclusão ao focar em comunidades carentes que muitas vezes sofrem com sistemas de gestão de resíduos ineficientes. Ao otimizar os processos de coleta de resíduos, essas iniciativas podem reduzir o fardo ambiental sobre populações vulneráveis, que podem viver em áreas desproporcionalmente afetadas por resíduos e poluição.\n\nAlém disso, melhorar a eficiência energética na gestão de resíduos pode levar a economias de custos, que podem ser reinvestidas em serviços comunitários ou infraestrutura que beneficiem bairros de baixa renda. A promoção de práticas sustentáveis de descarte de resíduos também garante que todos os membros da comunidade, independentemente do status socioeconômico, tenham acesso a opções ambientalmente responsáveis, promovendo um senso de responsabilidade compartilhada e inclusão nos esforços de ação climática.\n\nNo geral, essas iniciativas reconhecem os desafios únicos enfrentados por comunidades carentes e visam criar um sistema de gestão de resíduos mais equitativo que beneficie todos os residentes.",
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": "80-100",
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Infraestrutura e tecnologia eficazes de gestão de resíduos",
-        "Colaboração com governos locais e autoridades de gestão de resíduos",
-        "Conscientização pública e educação sobre práticas de descarte de resíduos",
-        "Acesso a dados para monitorar e otimizar processos de coleta de resíduos",
-        "Investimento em instalações sustentáveis de processamento de resíduos"
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução nos custos de coleta de resíduos",
-        "Percentual de redução de resíduos enviados para aterros sanitários",
-        "Aumento nas taxas de reciclagem",
-        "Consumo de energia por tonelada de resíduos coletados",
-        "Redução de emissões de carbono na gestão de resíduos",
-        "Satisfação do cliente com os serviços de coleta de resíduos",
-        "Volume de resíduos processados por métodos sustentáveis",
-        "Eficiência operacional das rotas de coleta de resíduos"
-      ],
-      "PowersAndMandates": null,
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0024",
-    "actionName": "Integrate renewables into municipal water systems",
-    "actionPriority": 3,
-    "explanation": "Integrar fontes de energia renovável aos sistemas municipais de água no Rio de Janeiro é um passo crucial para reduzir as emissões totais da cidade. Dada a alta emissão de energia estacionária do município, a transição para fontes renováveis pode diminuir significativamente a pegada de carbono de serviços essenciais, como o abastecimento de água. Além disso, essa medida pode aumentar a resiliência dos sistemas de água contra riscos relacionados ao clima, como as secas, que representam uma ameaça significativa aos recursos hídricos. Ao priorizar essa ação, o Rio de Janeiro pode melhorar sua sustentabilidade e garantir um abastecimento de água mais confiável para seus habitantes.",
-    "action": {
-      "ActionID": "icare_0024",
-      "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Implementar fontes de energia renovável, como energia solar ou eólica, para impulsionar sistemas de tratamento, bombeamento e distribuição de água, reduzindo custos de energia e emissões.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Disponibilidade de financiamento ou incentivos financeiros para integrar fontes de energia renovável, como energia solar ou eólica, em sistemas de tratamento e distribuição de água",
-        "Expertise técnica e infraestrutura para adaptar sistemas existentes com soluções de energia renovável ou projetar novas instalações alimentadas por energias renováveis",
-        "Apoio político e regulatório para incentivar o uso de energia limpa em sistemas de água e garantir sua integração nas redes de energia municipais"
-      ],
-      "KeyPerformanceIndicators": [
-        "Percentagem de sistemas municipais de água alimentados por energias renováveis.",
-        "Redução no consumo de energia de fontes não renováveis (kWh/ano).",
-        "Emissões de GEE evitadas (toneladas de CO₂e)"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0052",
-    "actionName": "Develop projects for renewable energy and waste reuse",
-    "actionPriority": 4,
-    "explanation": "Desenvolver projetos de energia renovável e reutilização de resíduos no Rio de Janeiro é fundamental devido às altas emissões estacionárias de energia e resíduos da cidade. Com um total de emissões que ultrapassa 14 milhões, o foco em energia renovável pode reduzir significativamente a pegada de carbono. Além disso, projetos de reutilização de resíduos podem mitigar o impacto das emissões provenientes dos resíduos, que estão entre os maiores contribuintes para as emissões totais da cidade. A implementação desses projetos está alinhada com a necessidade do município de enfrentar desafios ambientais, ao mesmo tempo em que promove o desenvolvimento sustentável.",
-    "action": {
-      "ActionID": "icare_0052",
-      "ActionName": "Desenvolver projetos para energia renovável e reutilização de resíduos",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "waste"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Esta ação visa desenvolver e implementar projetos de energia renovável, incluindo: um biodigestor para tratamento de resíduos orgânicos e uma usina de energia solar.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 1,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": "60-79",
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento e implementação de projetos de energia renovável.",
-        "Instalação de um biodigestor para tratamento de resíduos orgânicos.",
-        "Estabelecimento de uma usina solar para gerar energia limpa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de projetos de energia renovável e reutilização de resíduos implementados.",
-        "Quantidade de resíduos reutilizados ou reciclados (toneladas/ano).",
-        "Redução nos custos de energia para os municípios participantes (USD)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0097",
-    "actionName": "Support Distributed Energy Generation in Residences and Businesses",
-    "actionPriority": 5,
-    "explanation": "Apoiar a geração distribuída de energia em residências e empresas é fundamental para o Rio de Janeiro devido às suas altas emissões de energia estacionária. Ao promover a produção local de energia, a cidade pode reduzir sua dependência de fontes centralizadas de eletricidade, que frequentemente contribuem de forma significativa para as emissões de gases de efeito estufa. Essa ação não só ajuda a mitigar os impactos das mudanças climáticas, como também aumenta a segurança energética, tornando a cidade mais resiliente a possíveis faltas de energia. Além disso, os sistemas de energia distribuída podem proporcionar benefícios econômicos ao reduzir os custos de energia para moradores e empresas, apoiando assim a economia local.",
-    "action": {
-      "ActionID": "icare_0097",
-      "ActionName": "Apoiar a Geração de Energia Distribuída em Residências e Negócios",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "residential_buildings"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Facilitar o uso de painéis solares e outras tecnologias de energia renovável em residências e edifícios comerciais.",
-      "CoBenefits": {
-        "air_quality": 0,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "60-79",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Fornecer incentivos financeiros, regulamentações claras de instalação e acesso a tecnologias acessíveis para painéis solares.",
-        "Lançar campanhas de conscientização pública e oferecer treinamento para proprietários de residências e empresas.",
-        "Incentivar a adoção de tecnologias de energia renovável para promover economias de energia a longo prazo."
-      ],
-      "KeyPerformanceIndicators": [
-        "Capacidade instalada de geração de energia distribuída (MW).",
-        "Percentual de residências e empresas gerando sua própria energia (%).",
-        "Redução nas emissões de CO₂ através da geração distribuída (tCO₂e/ano)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0088",
-    "actionName": "Implementation of free public transportation programs during peak hours to reduce the use of individual vehicles",
-    "actionPriority": 6,
-    "explanation": "A implementação de programas de transporte público gratuito durante os horários de pico no Rio de Janeiro é uma ação crucial para enfrentar as altas emissões de transporte da cidade. Com uma população de mais de 6 milhões de habitantes e um ambiente urbano denso, reduzir a dependência de veículos individuais pode diminuir significativamente as emissões e melhorar a qualidade do ar. Além disso, essa iniciativa pode aliviar a congestão do trânsito, tornando a cidade mais habitável e acessível. Ao incentivar o uso do transporte público, a cidade também pode promover a equidade social, oferecendo melhores opções de mobilidade para os moradores de baixa renda que podem ter dificuldades com os custos de transporte.",
-    "action": {
-      "ActionID": "icare_0088",
-      "ActionName": "Implementação de programas de transporte público gratuito durante os horários de pico para reduzir o uso de veículos individuais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Incentivar o uso do transporte público oferecendo serviços gratuitos durante os horários de pico para trabalhadores e estudantes. Esta medida reduz a congestão urbana, diminui o número de veículos individuais nas estradas e, consequentemente, reduz as emissões de gases de efeito estufa associadas ao transporte privado.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 2,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Alocação de financiamento para subsidiar serviços de transporte público gratuito durante as horas de pico.",
-        "Desenvolvimento de políticas para garantir a sustentabilidade e eficiência dos sistemas de transporte público diante do aumento da demanda.",
-        "Coordenação com empregadores e instituições educacionais para otimizar os horários de pico e promover a iniciativa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução nos níveis de poluição do ar durante as horas de pico (concentração de PM2.5/PM10).",
-        "Número de veículos particulares removidos das estradas durante as horas de pico.",
-        "Taxa de satisfação pública com a iniciativa de transporte gratuito (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0131",
-    "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-    "actionPriority": 7,
-    "explanation": "Priorizar a aquisição de produtos agroecológicos produzidos localmente nas compras públicas é fundamental para o Rio de Janeiro devido ao seu impacto significativo na segurança alimentar. A cidade enfrenta altos riscos de secas e inundações, que podem interromper as cadeias de abastecimento de alimentos. Ao apoiar produtos agroecológicos locais, o município pode aumentar sua resiliência a esses riscos climáticos e garantir um fornecimento de alimentos mais estável. Além disso, essa ação apoia os agricultores locais e promove práticas agrícolas sustentáveis, contribuindo para o desenvolvimento socioeconômico da região como um todo.",
-    "action": {
-      "ActionID": "icare_0131",
-      "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Concentre-se em comprar alimentos sustentáveis e produzidos localmente para instituições públicas.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de políticas de aquisição e identificação de fornecedores locais confiáveis.",
-        "Parcerias com produtores e alocação de financiamento para programas de aquisição sustentável.",
-        "Estabelecimento de sistemas de monitoramento para garantir a conformidade com os critérios de sustentabilidade."
-      ],
-      "KeyPerformanceIndicators": [
-        "Percentagem do volume total de compras públicas provenientes de produtores agroecológicos locais.",
-        "Quantidade de emissões de CO₂ evitadas devido à redução da distância de transporte (tCO₂e).",
-        "Número de produtores agroecológicos beneficiados pelas compras públicas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0121",
-    "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
-    "actionPriority": 8,
-    "explanation": "A ação de incentivar programas de compartilhamento de bicicletas, especialmente com bicicletas elétricas, é crucial para o Rio de Janeiro devido à sua alta densidade populacional e às significativas emissões do setor de transporte. Estimular o uso de bicicletas pode ajudar a reduzir a dependência da cidade em relação aos veículos motorizados, diminuindo assim as emissões do transporte e melhorando a qualidade do ar. Além disso, as bicicletas elétricas podem tornar o ciclismo mais acessível para um público mais amplo, incluindo aqueles que podem considerar o uso de bicicletas tradicionais desafiador devido ao relevo acidentado da cidade. Essa iniciativa também está alinhada com a necessidade da cidade de enfrentar questões de saúde pública relacionadas à poluição do ar e promover uma mobilidade urbana sustentável.",
-    "action": {
-      "ActionID": "icare_0121",
-      "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Esta ação incentiva o estabelecimento de sistemas de compartilhamento de bicicletas nas cidades, promovendo especificamente o uso de bicicletas elétricas. Esses sistemas permitem que os residentes aluguem bicicletas elétricas para viagens curtas, reduzindo a dependência de carros para o transporte urbano. Ao integrar bicicletas elétricas, as cidades podem reduzir ainda mais as emissões de gases de efeito estufa, aliviar a congestão do tráfego e promover um modo de transporte mais saudável e sustentável tanto para áreas urbanas quanto rurais. Esta iniciativa também apoia a igualdade de mobilidade, pois torna as bicicletas mais acessíveis a uma gama mais ampla de pessoas.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Estabelecimento de sistemas de compartilhamento de bicicletas com foco em bicicletas elétricas para reduzir a dependência de carros.",
-        "Integração de bicicletas elétricas para reduzir as emissões de gases de efeito estufa, aliviar o congestionamento do tráfego e promover o transporte sustentável.",
-        "Promoção da igualdade de mobilidade tornando as bicicletas elétricas acessíveis a uma população mais ampla."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de bicicletas elétricas disponíveis em programas de compartilhamento de bicicletas.",
-        "Aumento anual no número de usuários de compartilhamento de bicicletas.",
-        "Redução estimada nas emissões de CO₂ equivalente com a adoção do compartilhamento de bicicletas elétricas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0094",
-    "actionName": "Adoption of biomethane in public fleets.",
-    "actionPriority": 9,
-    "explanation": "A adoção do biometano nas frotas públicas do Rio de Janeiro é um passo crucial para a redução das emissões do setor de transporte, que são um dos principais contribuintes para as emissões totais de gases de efeito estufa da cidade. Dada a alta densidade populacional do município e a consequente forte dependência do transporte público, a transição para fontes de combustível mais limpas pode reduzir substancialmente a pegada de carbono. Além disso, essa iniciativa está alinhada com a necessidade da cidade de enfrentar questões relacionadas à qualidade do ar e à saúde pública, já que a redução das emissões das frotas públicas pode levar à melhoria da qualidade do ar e dos indicadores de saúde dos moradores. Ademais, o uso do biometano, uma fonte de energia renovável, apoia práticas energéticas sustentáveis e pode ajudar a mitigar os impactos das mudanças climáticas.",
-    "action": {
-      "ActionID": "icare_0094",
-      "ActionName": "Adoção de biometano em frotas públicas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Utilizar biometano produzido a partir de resíduos urbanos e agroindustriais para abastecer ônibus e caminhões públicos, reduzindo as emissões de gases de efeito estufa nas frotas municipais",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de infraestrutura para a produção, processamento e distribuição de biometano a partir de resíduos urbanos e agroindustriais.",
-        "Retrofit ou aquisição de ônibus e caminhões públicos capazes de usar biometano como fonte de combustível.",
-        "Estabelecimento de políticas e incentivos financeiros para apoiar a produção de biometano e sua integração nas frotas municipais."
-      ],
-      "KeyPerformanceIndicators": [
-        "Economia de custos na operação da frota devido ao uso de biometano (USD/ano).",
-        "Aumento na capacidade de produção de biometano (%).",
-        "Percentagem de biometano obtido localmente versus importado."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0033",
-    "actionName": "Install biodigesters in rural properties",
-    "actionPriority": 10,
-    "explanation": "A instalação de biodigestores em propriedades rurais no Rio de Janeiro é uma ação estratégica devido às significativas emissões de resíduos da cidade. Os biodigestores podem ajudar a reduzir essas emissões ao converter resíduos orgânicos em biogás e fertilizante, abordando assim tanto a gestão de resíduos quanto a produção de energia. Essa ação é especialmente relevante considerando o bioma de floresta tropical da cidade, onde o resíduo orgânico é abundante. Além disso, ela apoia práticas agrícolas sustentáveis em áreas rurais, contribuindo para a segurança alimentar e reduzindo o impacto ambiental dos métodos tradicionais de descarte de resíduos.",
-    "action": {
-      "ActionID": "icare_0033",
-      "ActionName": "Instalar biodigestores em propriedades rurais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Equipar fazendas e propriedades rurais com biodigestores para converter resíduos orgânicos em biogás e fertilizantes ricos em nutrientes, fornecendo uma fonte de energia sustentável.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Disponibilidade de financiamento ou subsídios para apoiar a instalação de biodigestores em fazendas e propriedades rurais",
-        "Acesso a expertise técnica para o design, instalação e manutenção de biodigestores",
-        "Desenvolvimento de um quadro regulatório de apoio que incentive o uso de biogás e sistemas de gestão de resíduos orgânicos na agricultura rural"
-      ],
-      "KeyPerformanceIndicators": [
-        "Volume de biogás gerado (m³/ano).",
-        "Emissões de GEE evitadas pela substituição de combustíveis fósseis (toneladas de CO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0038",
-    "actionName": "Promote community solar farms",
-    "actionPriority": 11,
-    "explanation": "Promover fazendas solares comunitárias no Rio de Janeiro é uma ação crucial devido às altas emissões de energia estacionária da cidade. Ao aproveitar a energia solar, a cidade pode reduzir significativamente sua dependência de combustíveis fósseis, diminuindo assim sua pegada de carbono. Além disso, as fazendas solares comunitárias podem fornecer soluções energéticas acessíveis e sustentáveis para áreas de baixa renda, enfrentando disparidades socioeconômicas. Essa iniciativa também está alinhada com a necessidade da cidade de aumentar a segurança energética, especialmente diante de riscos climáticos como secas e ondas de calor. De modo geral, essa ação apoia tanto a sustentabilidade ambiental quanto a equidade social no Rio de Janeiro.",
-    "action": {
-      "ActionID": "icare_0038",
-      "ActionName": "Promover fazendas solares comunitárias",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Desenvolver e incentivar a adoção de projetos de energia solar compartilhada, permitindo que as comunidades se beneficiem coletivamente de energia limpa e renovável.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desenvolvimento de políticas e estruturas regulatórias para apoiar projetos de energia solar compartilhada baseados na comunidade e garantir o acesso equitativo à energia limpa",
-        "Disponibilidade de mecanismos financeiros ou incentivos para ajudar as comunidades a investir e manter sistemas de energia solar compartilhada",
-        "Colaboração entre governos locais, fornecedores de energia e organizações comunitárias para projetar e implementar projetos de energia solar compartilhada de forma eficaz"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de residências atendidas por projetos solares comunitários.",
-        "Emissões de GEE evitadas através da produção de energia solar (toneladas de CO₂e)"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0132",
-    "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
-    "actionPriority": 12,
-    "explanation": "Incentivar a produção agroecológica local e cadeias curtas de abastecimento é fundamental para o Rio de Janeiro devido ao seu alto risco de insegurança alimentar, especialmente por causa de secas e enchentes. Ao promover a agricultura local, a cidade pode aumentar sua resiliência diante desses riscos climáticos, garantindo um abastecimento alimentar mais estável. Além disso, essa ação apoia a economia local e reduz as emissões de transporte, contribuindo para os objetivos gerais de sustentabilidade. Diante dos níveis de renda muito baixos da cidade, essa iniciativa também pode oferecer opções de alimentos acessíveis e melhorar o bem-estar da comunidade.",
-    "action": {
-      "ActionID": "icare_0132",
-      "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Apoiar práticas agrícolas locais e sustentáveis e reduzir as emissões associadas ao transporte de alimentos.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 1,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Incentivos para práticas agrícolas sustentáveis e desenvolvimento de redes locais de distribuição de alimentos.",
-        "Parcerias com produtores e investimento em infraestrutura para apoiar mercados locais.",
-        "Políticas para priorizar métodos de transporte de baixa emissão."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de produtores aderindo a práticas agroecológicas locais.",
-        "Percentual de alimentos consumidos na cidade provenientes de cadeias curtas.",
-        "Redução nas emissões associadas ao transporte de alimentos (tCO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0136",
-    "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-    "actionPriority": 13,
-    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos no Rio de Janeiro é fundamental devido aos significativos desafios ambientais enfrentados pela cidade. Com altas emissões provenientes de energia estacionária, transporte e resíduos, esses incentivos podem estimular práticas sustentáveis e reduzir a pegada de carbono total. Além disso, a cidade enfrenta graves riscos relacionados a perigos climáticos, como enchentes e deslizamentos de terra, que podem ser mitigados por meio da promoção da conservação ecológica e do uso sustentável do solo. Ao priorizar essa ação, o Rio de Janeiro pode aumentar sua resiliência aos impactos climáticos, ao mesmo tempo em que promove o crescimento econômico por meio de iniciativas verdes.",
-    "action": {
-      "ActionID": "icare_0136",
-      "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "land"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Incentivar a aplicação de impostos ecológicos e incentivos para promover a conservação ambiental.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Estabelecer um quadro regulatório claro com taxas de impostos justas e incentivos para a sustentabilidade.",
-        "Implementar sistemas de monitoramento eficazes para rastrear a conformidade e medir o impacto.",
-        "Promover a conscientização pública e fomentar a colaboração entre governos, empresas e comunidades."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de municípios que adotaram incentivos fiscais ambientais.",
-        "Percentual da receita tributária gasta em práticas sustentáveis.",
-        "Área ou número de propriedades beneficiadas por práticas de conservação como resultado de incentivos."
-      ],
-      "PowersAndMandates": [
-        "state"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0085",
-    "actionName": "Promote the Adoption of Agroecological Pest Control",
-    "actionPriority": 14,
-    "explanation": "Promover a adoção do controle agroecológico de pragas no Rio de Janeiro é fundamental devido à vulnerabilidade da cidade a riscos climáticos, como secas e inundações, que podem impactar severamente a segurança alimentar. Ao implementar métodos sustentáveis de controle de pragas, a cidade pode aumentar sua resiliência agrícola, garantindo um fornecimento estável de alimentos mesmo em condições adversas. Além disso, as práticas agroecológicas podem ajudar a reduzir o impacto ambiental da agricultura, contribuindo para a diminuição das emissões e para uma melhor conservação da biodiversidade. Essa ação está alinhada com a necessidade de enfrentar desafios socioeconômicos, pois pode apoiar agricultores e comunidades locais ao reduzir a dependência de insumos químicos caros.",
-    "action": {
-      "ActionID": "icare_0085",
-      "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Incentivar métodos de controle de pragas que sejam agroecológicos, como o uso de predadores naturais e plantas repelentes, para reduzir a dependência de pesticidas químicos.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de programas educacionais para informar os agricultores sobre métodos de controle de pragas agroecológicos e seus benefícios.",
-        "Fornecimento de acesso a recursos ou materiais para implementar métodos de controle de pragas naturais, como a introdução de insetos benéficos ou o cultivo de plantas repelentes.",
-        "Criação de incentivos ou redes de apoio para encorajar a transição do uso de pesticidas químicos em favor de alternativas sustentáveis."
-      ],
-      "KeyPerformanceIndicators": [
-        "Aumento nas taxas de produtividade em áreas que adotam controle agroecológico de pragas (%).",
-        "Número de campanhas educativas realizadas sobre controle sustentável de pragas.",
-        "Impacto nos custos totais de produção devido à adoção de práticas agroecológicas (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0099",
-    "actionName": "Support Agroecological Certification Programs",
-    "actionPriority": 15,
-    "explanation": "Apoiar programas de certificação agroecológica no Rio de Janeiro é fundamental devido à vulnerabilidade da cidade a riscos climáticos, como secas e inundações, que impactam diretamente a segurança alimentar. Ao promover práticas agrícolas sustentáveis, esses programas podem aumentar a resiliência diante desses riscos, garantindo um abastecimento alimentar estável. Além disso, as práticas agroecológicas podem ajudar a reduzir as emissões provenientes do uso da terra, contribuindo para os esforços gerais da cidade em diminuir sua pegada de carbono. Essa ação está alinhada com a necessidade de enfrentar desafios socioeconômicos, pois pode proporcionar oportunidades econômicas para comunidades de baixa renda por meio da agricultura sustentável.",
-    "action": {
-      "ActionID": "icare_0099",
-      "ActionName": "Apoiar Programas de Certificação Agroecológica",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Incentivar a certificação de produtos agroecológicos que atendam a critérios de sustentabilidade e tenham baixo impacto ambiental.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de padrões de certificação claros e acessíveis para produtos agroecológicos que enfatizem a sustentabilidade e o baixo impacto ambiental.",
-        "Apoio a agricultores e produtores para atender aos requisitos de certificação por meio de treinamento, assistência financeira ou orientação técnica.",
-        "Criação de estratégias de marketing e parcerias para aumentar a visibilidade e a demanda por produtos agroecológicos certificados nos mercados locais e globais."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de agricultores ou produtores obtendo certificações agroecológicas.",
-        "Percentual de produtos agrícolas certificados no mercado (%).",
-        "Redução no uso de insumos sintéticos (por exemplo, fertilizantes, pesticidas)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0029",
-    "actionName": "Adopt policies for fossil fuel-free buildings",
-    "actionPriority": 16,
-    "explanation": "A adoção de políticas para edifícios livres de combustíveis fósseis no Rio de Janeiro é crucial devido às altas emissões de energia estacionária da cidade, que contribuem significativamente para suas emissões totais. A transição para edifícios livres de combustíveis fósseis pode ajudar a reduzir essas emissões, alinhando-se aos esforços globais para combater as mudanças climáticas. Além disso, tais políticas podem melhorar a qualidade do ar e a saúde pública, enfrentando a vulnerabilidade da cidade a ondas de calor e riscos de saúde relacionados. A implementação dessas políticas também pode estimular o crescimento econômico, criando empregos no setor de construção sustentável e beneficiando o panorama socioeconômico da cidade.",
-    "action": {
-      "ActionID": "icare_0029",
-      "ActionName": "Adotar políticas para edifícios sem combustíveis fósseis",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "residential_buildings"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Impor regulamentos que exijam que novas construções utilizem sistemas de energia renovável, designs eficientes em termos de energia e tecnologias de emissão zero.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desenvolvimento de códigos de construção e estruturas regulatórias que exijam a integração de sistemas de energia renovável e designs energeticamente eficientes em novas construções",
-        "Disponibilidade de incentivos ou apoio para que os desenvolvedores cumpram as regulamentações e adotem tecnologias de emissão zero",
-        "Expertise técnica e recursos para garantir a implementação adequada e o monitoramento de sistemas de energia renovável e designs energeticamente eficientes em projetos de construção"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de edifícios em transição para fontes de energia renovável.",
-        "Redução total no uso de combustíveis fósseis para aquecimento/resfriamento (m³ ou litros).",
-        "Diminuição nas emissões de GEE relacionadas a edifícios (toneladas de CO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "c40_0036",
-    "actionName": "Landfill Management",
-    "actionPriority": 17,
-    "explanation": "A gestão de aterros sanitários é uma ação fundamental para o Rio de Janeiro devido às significativas emissões de resíduos da cidade, que estão entre os maiores contribuintes para o total de suas emissões. A gestão eficaz dos aterros pode ajudar a reduzir essas emissões, contribuindo assim para os objetivos gerais de sustentabilidade ambiental da cidade. Além disso, a melhoria na gestão dos aterros pode mitigar os riscos à saúde associados aos resíduos, o que é crucial, considerando a vulnerabilidade da cidade a perigos de saúde pública. Ao priorizar essa ação, o Rio de Janeiro pode enfrentar tanto os desafios ambientais quanto os de saúde pública, melhorando a qualidade de vida de seus habitantes.",
-    "action": {
-      "ActionID": "c40_0036",
-      "ActionName": "Gestão de Aterros Sanitários",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "waste"
-      ],
-      "Subsector": [
-        "all"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Estratégias de \"Gestão de Aterros Sanitários\" focam em práticas responsáveis e sustentáveis de aterros para minimizar a degradação ambiental. Ao adotar técnicas de gestão eficazes, as cidades visam reduzir a pegada ecológica associada aos locais de aterro e incentivar a redução de resíduos.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": "As estratégias de \"Gestão de Aterros Sanitários\" promovem equidade e inclusão ao abordar os impactos ambientais dos locais de aterro, que muitas vezes afetam desproporcionalmente comunidades vulneráveis e carentes. Essas comunidades frequentemente residem perto de aterros e são mais suscetíveis a riscos de saúde associados à poluição e à degradação ambiental. Ao implementar práticas de aterro responsáveis e sustentáveis, a ação visa reduzir esses impactos negativos, melhorando assim a qualidade de vida dos residentes nessas áreas.\n\nAlém disso, técnicas eficazes de redução de resíduos podem criar oportunidades para o engajamento e a participação da comunidade, permitindo que populações carentes tenham voz nas decisões ambientais locais. Essa inclusão promove um senso de pertencimento e empoderamento entre os membros da comunidade, garantindo que suas necessidades e preocupações sejam consideradas na gestão dos locais de aterro. No geral, a ação reconhece e busca mitigar as desigualdades enfrentadas por comunidades marginalizadas em relação à gestão de resíduos e à saúde ambiental.",
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": "60-79",
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Práticas eficazes de segregação de resíduos para garantir o descarte e reciclagem adequados",
-        "Investimento em tecnologia para tratamento de resíduos e monitoramento de aterros sanitários",
-        "Envolvimento e educação da comunidade sobre redução de resíduos e reciclagem",
-        "Estruturas regulatórias e políticas que apoiam práticas sustentáveis de aterros sanitários",
-        "Colaboração com governos locais e organizações para compartilhamento de recursos e melhores práticas"
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução do volume de resíduos em aterros",
-        "Percentagem de resíduos desviados de aterros",
-        "Taxa de captura de gás de aterro",
-        "Qualidade do solo e da água ao redor dos locais de aterro",
-        "Frequência das inspeções de aterros",
-        "Níveis de conscientização e engajamento público",
-        "Economia de custos com práticas aprimoradas de gestão de aterros",
-        "Conformidade com as regulamentações ambientais"
-      ],
-      "PowersAndMandates": null,
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0090",
-    "actionName": "Adoption of electric drones for last-mile deliveries.",
-    "actionPriority": 18,
-    "explanation": "A adoção de drones elétricos para entregas de última milha no Rio de Janeiro é uma medida estratégica para reduzir as emissões do transporte, que são um dos principais contribuintes para as emissões totais da cidade. Considerando a alta densidade populacional e a expansão urbana do Rio, os métodos tradicionais de entrega podem ser ineficientes e contribuir para o congestionamento e a poluição. Os drones elétricos oferecem uma alternativa sustentável, com potencial para reduzir o tráfego e as emissões, além de melhorar a eficiência das entregas. Além disso, essa iniciativa está alinhada com a necessidade da cidade de enfrentar desafios ambientais e melhorar a qualidade do ar, tornando-se uma solução inovadora para a logística urbana.",
-    "action": {
-      "ActionID": "icare_0090",
-      "ActionName": "Adoção de drones elétricos para entregas de última milha.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "off-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Substituir veículos tradicionais por drones elétricos para entregas de curta distância em centros urbanos, reduzindo emissões e congestionamento de tráfego.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de regulamentos para o espaço aéreo urbano para garantir a operação segura e eficiente de drones de entrega.",
-        "Investimento em infraestrutura de carregamento e manutenção para apoiar uma frota de drones elétricos.",
-        "Colaboração com empresas de logística para integrar drones em redes de entrega de última milha."
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução do tempo de entrega em comparação com métodos tradicionais (minutos).",
-        "Aumento na satisfação do cliente com entregas por drones (%).",
-        "Redução do congestionamento de tráfego causado por veículos de entrega (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0005",
-    "actionName": "Create credit lines for residential and community wind energy projects",
-    "actionPriority": 19,
-    "explanation": "Criar linhas de crédito para projetos de energia eólica residenciais e comunitários no Rio de Janeiro é uma ação estratégica para enfrentar as altas emissões de energia estacionária da cidade. Com uma população de mais de seis milhões de habitantes, a demanda por energia é substancial, e a transição para fontes renováveis, como a energia eólica, pode reduzir significativamente as emissões de carbono. Além disso, essa iniciativa pode empoderar as comunidades locais, proporcionando meios para que gerem sua própria energia limpa, promovendo independência e resiliência energética. Considerando o bioma de floresta tropical da cidade, o aproveitamento da energia eólica pode complementar outras fontes renováveis, contribuindo para uma matriz energética mais sustentável.",
-    "action": {
-      "ActionID": "icare_0005",
-      "ActionName": "Criar linhas de crédito para projetos de energia eólica residencial e comunitária",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Estabelecer programas de financiamento acessíveis para apoiar o desenvolvimento e a adoção de sistemas de energia eólica em residências e projetos comunitários, possibilitando uma transição para fontes de energia mais limpas.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 2,
-        "housing": 2,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "60-79",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Disponibilidade de programas financeiros, subsídios ou subvenções para tornar os sistemas de energia eólica acessíveis para residências e projetos comunitários",
-        "Acesso a expertise técnica e recursos para orientar a instalação e manutenção de sistemas de energia eólica em ambientes residenciais e comunitários",
-        "Apoio político e regulatório para incentivar a adoção de energia eólica, incluindo processos de licenciamento simplificados e incentivos para projetos de energia limpa"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de projetos de energia eólica financiados anualmente.",
-        "Capacidade instalada de sistemas de energia eólica de projetos apoiados por crédito (MW).",
-        "Redução estimada nas emissões equivalentes de CO₂ pela adoção de energia eólica."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR RIO",
-    "cityName": "Rio de Janeiro",
-    "region": "RJ",
-    "regionName": "Rio de Janeiro",
-    "actionId": "icare_0011",
-    "actionName": "Provide tax incentives for renewable energy in residential projects",
-    "actionPriority": 20,
-    "explanation": "Conceder incentivos fiscais para energias renováveis em projetos residenciais no Rio de Janeiro é fundamental devido às altas emissões de energia estacionária da cidade. Incentivar a adoção de energia renovável pode reduzir significativamente essas emissões, contribuindo para um ambiente mais limpo. Além disso, essa ação está alinhada com a necessidade da cidade de enfrentar os impactos das mudanças climáticas, como ondas de calor e enchentes, promovendo soluções energéticas sustentáveis. Ao tornar a energia renovável mais acessível e econômica, a cidade pode aumentar sua resiliência diante dos riscos climáticos e melhorar a qualidade de vida de seus habitantes.",
-    "action": {
-      "ActionID": "icare_0011",
-      "ActionName": "Fornecer incentivos fiscais para energia renovável em projetos residenciais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "residential_buildings"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Incentivar os proprietários de imóveis a adotarem energia solar, eólica e outras fontes de energia limpa.",
-      "CoBenefits": {
-        "air_quality": 0,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 2,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "60-79",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Disponibilidade de incentivos financeiros, subsídios ou créditos fiscais para incentivar os proprietários a instalar sistemas de energia solar, eólica e outras energias limpas",
-        "Acesso a informações e recursos educacionais para ajudar os proprietários a entender os benefícios, custos e processos de instalação de sistemas de energia limpa",
-        "Desenvolvimento de regulamentos e políticas de apoio que facilitem a instalação de tecnologias de energia renovável em áreas residenciais"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de residências beneficiadas por incentivos fiscais para a adoção de energia renovável.",
-        "Aumento anual nas instalações de energia renovável em projetos residenciais.",
-        "Redução estimada nas emissões de CO₂ equivalente devido à adoção de energia renovável."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  }
 ]

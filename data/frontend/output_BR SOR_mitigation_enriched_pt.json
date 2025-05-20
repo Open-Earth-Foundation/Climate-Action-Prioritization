@@ -1,1259 +1,1458 @@
 [
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0075",
-    "actionName": "Set carbon emissions reduction targets for industrial sectors",
-    "actionPriority": 1,
-    "explanation": "Estabelecer metas de redução de emissões de carbono para os setores industriais em Sorocaba é uma prioridade crítica devido à significativa contribuição dos processos industriais para o total de emissões da cidade. Com as emissões provenientes dos processos industriais representando uma parcela substancial da pegada de carbono do município, reduções direcionadas nesse setor podem resultar em avanços significativos na diminuição das emissões totais. Além disso, abordar as emissões industriais está alinhado com objetivos ambientais mais amplos e pode ajudar a mitigar os impactos das mudanças climáticas, o que é fundamental considerando a vulnerabilidade da cidade a riscos como secas e ondas de calor. A implementação dessas metas também pode impulsionar a inovação e a eficiência dentro do setor industrial, potencialmente gerando benefícios econômicos e promovendo a sustentabilidade.",
-    "action": {
-      "ActionID": "icare_0075",
-      "ActionName": "Definir metas de redução de emissões de carbono para setores industriais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "ippu"
-      ],
-      "Subsector": [
-        "industrial_processes"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Estabelecer metas claras e alcançáveis de redução de emissões de carbono para as indústrias e exigir relatórios periódicos para garantir o progresso.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 1,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": "80-100",
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desenvolvimento de um sistema padronizado de medição e relatório de emissões de carbono.",
-        "Criação de estruturas regulatórias para impor metas de redução de emissões.",
-        "Capacitação para indústrias monitorarem e relatarem emissões de forma eficaz."
-      ],
-      "KeyPerformanceIndicators": [
-        "Percentagem de indústrias com metas estabelecidas de redução de carbono (%).",
-        "Redução nas emissões totais de GEE setoriais em comparação com a linha de base (toneladas de CO₂e).",
-        "Aumento na adoção de fontes de energia renovável pelas indústrias (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0139",
+        "actionName": "Implementation of urban toll.",
+        "actionPriority": 1,
+        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0139",
+            "ActionName": "Implementa\u00e7\u00e3o de ped\u00e1gio urbano.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Estabelecimento de uma taxa de congestionamento e/ou rod\u00edzio de placas para ve\u00edculos leves em \u00e1reas saturadas e em hor\u00e1rios saturados",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Estabelecer um quadro legal claro e investir em tecnologia para monitoramento e fiscaliza\u00e7\u00e3o (por exemplo, c\u00e2meras, sensores).",
+                "Lan\u00e7ar campanhas de conscientiza\u00e7\u00e3o e garantir a disponibilidade de transporte p\u00fablico eficiente ou solu\u00e7\u00f5es alternativas de mobilidade.",
+                "Colaborar com governos locais e ag\u00eancias de transporte, e estabelecer sistemas para monitorar e avaliar a efic\u00e1cia da pol\u00edtica."
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o das emiss\u00f5es de CO\u2082 do transporte rodovi\u00e1rio urbano (tCO\u2082e/ano).",
+                "Receita gerada pela implementa\u00e7\u00e3o da taxa de congestionamento urbano (R$)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0121",
+        "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0121",
+            "ActionName": "Incentivo \u00e0 cria\u00e7\u00e3o de programas de compartilhamento de bicicletas em \u00e1reas urbanas, com foco em bicicletas el\u00e9tricas.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esta a\u00e7\u00e3o incentiva o estabelecimento de sistemas de compartilhamento de bicicletas nas cidades, promovendo especificamente o uso de bicicletas el\u00e9tricas. Esses sistemas permitem que os residentes aluguem bicicletas el\u00e9tricas para viagens curtas, reduzindo a depend\u00eancia de carros para o transporte urbano. Ao integrar bicicletas el\u00e9tricas, as cidades podem reduzir ainda mais as emiss\u00f5es de gases de efeito estufa, aliviar a congest\u00e3o do tr\u00e1fego e promover um modo de transporte mais saud\u00e1vel e sustent\u00e1vel tanto para \u00e1reas urbanas quanto rurais. Esta iniciativa tamb\u00e9m apoia a igualdade de mobilidade, pois torna as bicicletas mais acess\u00edveis a uma gama mais ampla de pessoas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Estabelecimento de sistemas de compartilhamento de bicicletas com foco em bicicletas el\u00e9tricas para reduzir a depend\u00eancia de carros.",
+                "Integra\u00e7\u00e3o de bicicletas el\u00e9tricas para reduzir as emiss\u00f5es de gases de efeito estufa, aliviar o congestionamento do tr\u00e1fego e promover o transporte sustent\u00e1vel.",
+                "Promo\u00e7\u00e3o da igualdade de mobilidade tornando as bicicletas el\u00e9tricas acess\u00edveis a uma popula\u00e7\u00e3o mais ampla."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de bicicletas el\u00e9tricas dispon\u00edveis em programas de compartilhamento de bicicletas.",
+                "Aumento anual no n\u00famero de usu\u00e1rios de compartilhamento de bicicletas.",
+                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es de CO\u2082 equivalente com a ado\u00e7\u00e3o do compartilhamento de bicicletas el\u00e9tricas."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0094",
+        "actionName": "Adoption of biomethane in public fleets.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0094",
+            "ActionName": "Ado\u00e7\u00e3o de biometano em frotas p\u00fablicas.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Utilizar biometano produzido a partir de res\u00edduos urbanos e agroindustriais para abastecer \u00f4nibus e caminh\u00f5es p\u00fablicos, reduzindo as emiss\u00f5es de gases de efeito estufa nas frotas municipais",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de infraestrutura para a produ\u00e7\u00e3o, processamento e distribui\u00e7\u00e3o de biometano a partir de res\u00edduos urbanos e agroindustriais.",
+                "Retrofit ou aquisi\u00e7\u00e3o de \u00f4nibus e caminh\u00f5es p\u00fablicos capazes de usar biometano como fonte de combust\u00edvel.",
+                "Estabelecimento de pol\u00edticas e incentivos financeiros para apoiar a produ\u00e7\u00e3o de biometano e sua integra\u00e7\u00e3o nas frotas municipais."
+            ],
+            "KeyPerformanceIndicators": [
+                "Economia de custos na opera\u00e7\u00e3o da frota devido ao uso de biometano (USD/ano).",
+                "Aumento na capacidade de produ\u00e7\u00e3o de biometano (%).",
+                "Percentagem de biometano obtido localmente versus importado."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0057",
+        "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0057",
+            "ActionName": "Expans\u00e3o dos sistemas de transporte p\u00fablico em massa sobre trilhos (metr\u00f4s, VLTs e monotrilhos).",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "railways"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esses sistemas oferecem alta capacidade e baixas emiss\u00f5es, cruciais para cidades com alta densidade populacional.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investimento no desenvolvimento e expans\u00e3o da infraestrutura de transporte p\u00fablico de alta capacidade, como \u00f4nibus el\u00e9tricos e sistemas de metr\u00f4.",
+                "Implementa\u00e7\u00e3o de pol\u00edticas e incentivos para encorajar o uso de transporte p\u00fablico em vez de ve\u00edculos particulares.",
+                "Integra\u00e7\u00e3o de fontes de energia renov\u00e1vel para alimentar esses sistemas, reduzindo ainda mais as emiss\u00f5es."
+            ],
+            "KeyPerformanceIndicators": [
+                "Comprimento das novas linhas de tr\u00e2nsito constru\u00eddas (km/ano).",
+                "Redu\u00e7\u00e3o na congest\u00e3o do tr\u00e1fego rodovi\u00e1rio (%).",
+                "Redu\u00e7\u00e3o no uso de ve\u00edculos privados (n\u00famero de viagens evitadas/ano)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "c40_0026",
+        "actionName": "Vehicle Emissions",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0026",
+            "ActionName": "Emiss\u00f5es de Ve\u00edculos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "As estrat\u00e9gias de redu\u00e7\u00e3o de \"Vehicle Emissions\" concentram-se em minimizar o impacto ambiental de todos os tipos de ve\u00edculos. A implementa\u00e7\u00e3o de tecnologias mais limpas e a promo\u00e7\u00e3o de combust\u00edveis alternativos contribuem para a redu\u00e7\u00e3o das emiss\u00f5es, promovendo um transporte sustent\u00e1vel e ecol\u00f3gico.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "As estrat\u00e9gias de redu\u00e7\u00e3o de \"Emiss\u00f5es de Ve\u00edculos\" promovem inerentemente a equidade e a inclus\u00e3o ao abordar os impactos ambientais que afetam desproporcionalmente comunidades vulner\u00e1veis e carentes. Essas comunidades frequentemente enfrentam n\u00edveis mais altos de polui\u00e7\u00e3o do ar e problemas de sa\u00fade relacionados devido \u00e0 proximidade com \u00e1reas de tr\u00e1fego intenso e zonas industriais. Ao implementar tecnologias mais limpas e promover combust\u00edveis alternativos, a a\u00e7\u00e3o beneficia diretamente essas popula\u00e7\u00f5es ao melhorar a qualidade do ar e reduzir os riscos \u00e0 sa\u00fade.\n\nAl\u00e9m disso, o foco em transporte sustent\u00e1vel e ecol\u00f3gico pode melhorar o acesso a op\u00e7\u00f5es de transporte acess\u00edveis e eficientes para comunidades carentes, que podem n\u00e3o ter transporte p\u00fablico confi\u00e1vel. Essa inclus\u00e3o garante que todos os membros da comunidade, independentemente do status socioecon\u00f4mico, possam se beneficiar de um ar mais limpo e melhores resultados de sa\u00fade p\u00fablica. No geral, a a\u00e7\u00e3o reconhece e aborda as necessidades espec\u00edficas das popula\u00e7\u00f5es vulner\u00e1veis, promovendo uma abordagem mais equitativa para a a\u00e7\u00e3o clim\u00e1tica.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento e disponibilidade de tecnologias de ve\u00edculos mais limpos",
+                "Infraestrutura para distribui\u00e7\u00e3o de combust\u00edveis alternativos",
+                "Pol\u00edticas e regulamenta\u00e7\u00f5es governamentais que apoiam a redu\u00e7\u00e3o de emiss\u00f5es",
+                "Conscientiza\u00e7\u00e3o p\u00fablica e aceita\u00e7\u00e3o de op\u00e7\u00f5es de transporte ecol\u00f3gicas",
+                "Investimento em pesquisa e desenvolvimento de solu\u00e7\u00f5es de transporte sustent\u00e1vel"
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o nas emiss\u00f5es de ve\u00edculos (CO2, NOx, PM)",
+                "Percentagem de ve\u00edculos utilizando combust\u00edveis alternativos",
+                "N\u00famero de ve\u00edculos el\u00e9tricos nas estradas",
+                "Melhorias na efici\u00eancia de combust\u00edvel (milhas por gal\u00e3o)",
+                "Taxa de ado\u00e7\u00e3o de tecnologias mais limpas",
+                "Redu\u00e7\u00e3o no consumo de combust\u00edveis f\u00f3sseis",
+                "Taxas de uso de transporte p\u00fablico",
+                "Melhorias no \u00edndice de qualidade do ar",
+                "Percentagem de zonas de baixa emiss\u00e3o estabelecidas",
+                "Investimento em infraestrutura de transporte sustent\u00e1vel"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0059",
+        "actionName": "Modernization of ports and airports with zero-emission technologies",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0059",
+            "ActionName": "Moderniza\u00e7\u00e3o de portos e aeroportos com tecnologias de emiss\u00e3o zero",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "aviation"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Portos e aeroportos podem substituir m\u00e1quinas pesadas e ve\u00edculos por vers\u00f5es el\u00e9tricas ou movidas a hidrog\u00eanio, reduzindo as emiss\u00f5es de GEE nas principais infraestruturas de transporte.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": ">10 years",
+            "Dependencies": [
+                "Investimento no desenvolvimento e implementa\u00e7\u00e3o de m\u00e1quinas e ve\u00edculos movidos a eletricidade e hidrog\u00eanio para portos e aeroportos.",
+                "Constru\u00e7\u00e3o de infraestrutura de reabastecimento e carregamento para equipamentos movidos a eletricidade e hidrog\u00eanio dentro desses centros de transporte.",
+                "Colabora\u00e7\u00e3o com \u00f3rg\u00e3os reguladores para garantir que novas tecnologias cumpram os padr\u00f5es ambientais e regulamentos de seguran\u00e7a."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentagem de opera\u00e7\u00f5es alimentadas por tecnologias de emiss\u00e3o zero.",
+                "Redu\u00e7\u00e3o anual no uso de combust\u00edveis f\u00f3sseis em portos e aeroportos (litros/ano).",
+                "Redu\u00e7\u00e3o de emiss\u00f5es de GEE pela moderniza\u00e7\u00e3o de portos e aeroportos (toneladas de CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0042",
+        "actionName": "Encourage renewable energy policies at the municipal level",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0042",
+            "ActionName": "Incentivar pol\u00edticas de energia renov\u00e1vel a n\u00edvel municipal",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "non-specified_sources"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Defender e implementar pol\u00edticas que priorizem o desenvolvimento e a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es e no planejamento do governo local.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 1,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Vontade pol\u00edtica e lideran\u00e7a para priorizar a energia renov\u00e1vel nas pol\u00edticas e processos de planejamento do governo local",
+                "Desenvolvimento de pol\u00edticas claras e estruturas regulat\u00f3rias que facilitem a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es governamentais",
+                "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transi\u00e7\u00e3o para a energia renov\u00e1vel na infraestrutura e opera\u00e7\u00f5es municipais"
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de projetos de energia renov\u00e1vel aprovados ou iniciados anualmente a n\u00edvel municipal.",
+                "Percentagem da demanda de energia municipal atendida por fontes renov\u00e1veis (%).",
+                "Redu\u00e7\u00e3o nas emiss\u00f5es de carbono municipais devido \u00e0 ado\u00e7\u00e3o de energia renov\u00e1vel (toneladas de CO\u2082e/ano)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0117",
+        "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0117",
+            "ActionName": "Aumentar a atratividade do sistema de \u00f4nibus municipal para promover este modo de transporte.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Aumentar a qualidade da presta\u00e7\u00e3o de servi\u00e7os de transporte, visando a mudan\u00e7a modal de passageiros do transporte motorizado privado para o transporte p\u00fablico, reduzindo assim as emiss\u00f5es geradas por carros e motocicletas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Melhorar a qualidade dos servi\u00e7os de transporte p\u00fablico para atrair passageiros do transporte motorizado privado.",
+                "Implementar pol\u00edticas e infraestruturas que apoiem e aumentem a efici\u00eancia dos sistemas de transporte p\u00fablico.",
+                "Promover a conscientiza\u00e7\u00e3o sobre os benef\u00edcios ambientais do transporte p\u00fablico para incentivar uma mudan\u00e7a modal e reduzir as emiss\u00f5es."
+            ],
+            "KeyPerformanceIndicators": [
+                "Aumento anual no n\u00famero de passageiros utilizando o sistema de \u00f4nibus municipal.",
+                "Percentual de rotas de \u00f4nibus com confiabilidade melhorada no tempo de viagem.",
+                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es equivalentes de CO\u2082 devido ao aumento do uso de transporte p\u00fablico."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0131",
+        "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0131",
+            "ActionName": "Priorizar a Aquisi\u00e7\u00e3o de Produtos Agroecol\u00f3gicos Produzidos Localmente em Compras P\u00fablicas",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Concentre-se em comprar alimentos sustent\u00e1veis e produzidos localmente para institui\u00e7\u00f5es p\u00fablicas.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de pol\u00edticas de aquisi\u00e7\u00e3o e identifica\u00e7\u00e3o de fornecedores locais confi\u00e1veis.",
+                "Parcerias com produtores e aloca\u00e7\u00e3o de financiamento para programas de aquisi\u00e7\u00e3o sustent\u00e1vel.",
+                "Estabelecimento de sistemas de monitoramento para garantir a conformidade com os crit\u00e9rios de sustentabilidade."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentagem do volume total de compras p\u00fablicas provenientes de produtores agroecol\u00f3gicos locais.",
+                "Quantidade de emiss\u00f5es de CO\u2082 evitadas devido \u00e0 redu\u00e7\u00e3o da dist\u00e2ncia de transporte (tCO\u2082e).",
+                "N\u00famero de produtores agroecol\u00f3gicos beneficiados pelas compras p\u00fablicas."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0091",
+        "actionName": "Implementation of prioritized routes for sustainable vehicles.",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0091",
+            "ActionName": "Implementa\u00e7\u00e3o de rotas priorit\u00e1rias para ve\u00edculos sustent\u00e1veis.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Criar faixas priorit\u00e1rias para ve\u00edculos el\u00e9tricos, h\u00edbridos e de baixa emiss\u00e3o em centros urbanos para incentivar sua ado\u00e7\u00e3o e reduzir a polui\u00e7\u00e3o em \u00e1reas de alto tr\u00e1fego.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Implementa\u00e7\u00e3o de sistemas de gest\u00e3o de tr\u00e1fego para aplicar e monitorar o uso de faixas priorit\u00e1rias.",
+                "Desenvolvimento de sinaliza\u00e7\u00e3o clara e campanhas de conscientiza\u00e7\u00e3o p\u00fablica para informar os motoristas sobre a elegibilidade e o uso das faixas.",
+                "Estabelecimento de estruturas regulat\u00f3rias que incentivem a ado\u00e7\u00e3o de ve\u00edculos de baixa emiss\u00e3o para elegibilidade nas faixas priorit\u00e1rias."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentagem de ve\u00edculos sustent\u00e1veis utilizando rotas priorit\u00e1rias.",
+                "Aumento na efici\u00eancia de entrega de mercadorias transportadas por rotas priorit\u00e1rias (%).",
+                "Taxa de aceita\u00e7\u00e3o p\u00fablica das rotas priorit\u00e1rias para ve\u00edculos sustent\u00e1veis (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0122",
+        "actionName": "Establish eco-parks.",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0122",
+            "ActionName": "Estabelecer eco-parques.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Um eco-parque \u00e9 uma instala\u00e7\u00e3o para o tratamento mec\u00e2nico e biol\u00f3gico de res\u00edduos s\u00f3lidos urbanos, integrando diferentes tecnologias para a segrega\u00e7\u00e3o e tratamento de v\u00e1rias fra\u00e7\u00f5es dentro dos res\u00edduos. Este tratamento visa maximizar a recupera\u00e7\u00e3o de res\u00edduos secos e org\u00e2nicos e reduzir o volume de res\u00edduos a serem enviados para disposi\u00e7\u00e3o final em aterros sanit\u00e1rios, utilizando tecnologias como gera\u00e7\u00e3o de energia, compostagem, recupera\u00e7\u00e3o de reciclagem, disposi\u00e7\u00e3o adequada de res\u00edduos residuais e outros m\u00e9todos de tratamento existentes dispon\u00edveis no mercado.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "20-39",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Implementa\u00e7\u00e3o de eco-parques para tratamento mec\u00e2nico e biol\u00f3gico de res\u00edduos s\u00f3lidos urbanos.",
+                "Integra\u00e7\u00e3o de tecnologias como gera\u00e7\u00e3o de energia, compostagem, recupera\u00e7\u00e3o de reciclagem e disposi\u00e7\u00e3o adequada de res\u00edduos residuais.",
+                "Maximiza\u00e7\u00e3o da recupera\u00e7\u00e3o de res\u00edduos secos e org\u00e2nicos para reduzir os volumes de disposi\u00e7\u00e3o em aterros."
+            ],
+            "KeyPerformanceIndicators": [
+                "\u00c1rea total coberta por eco-parques na cidade (hectares).",
+                "Aumento no n\u00famero de visitantes aos eco-parques anualmente.",
+                "Melhoria nos \u00edndices de biodiversidade local dentro das \u00e1reas dos eco-parques."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0136",
+        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0136",
+            "ActionName": "Apoiar a Implementa\u00e7\u00e3o de Incentivos Fiscais Ecol\u00f3gicos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Incentivar a aplica\u00e7\u00e3o de impostos ecol\u00f3gicos e incentivos para promover a conserva\u00e7\u00e3o ambiental.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Estabelecer um quadro regulat\u00f3rio claro com taxas de impostos justas e incentivos para a sustentabilidade.",
+                "Implementar sistemas de monitoramento eficazes para rastrear a conformidade e medir o impacto.",
+                "Promover a conscientiza\u00e7\u00e3o p\u00fablica e fomentar a colabora\u00e7\u00e3o entre governos, empresas e comunidades."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de munic\u00edpios que adotaram incentivos fiscais ambientais.",
+                "Percentual da receita tribut\u00e1ria gasta em pr\u00e1ticas sustent\u00e1veis.",
+                "\u00c1rea ou n\u00famero de propriedades beneficiadas por pr\u00e1ticas de conserva\u00e7\u00e3o como resultado de incentivos."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "c40_0035",
+        "actionName": "Waste Efficiency",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0035",
+            "ActionName": "Efici\u00eancia de Res\u00edduos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "all"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "As iniciativas de \"Efici\u00eancia de Res\u00edduos\" visam melhorar a efici\u00eancia dos processos de coleta de res\u00edduos, reduzindo o consumo de recursos e minimizando o impacto ambiental. Isso inclui a otimiza\u00e7\u00e3o dos sistemas de gest\u00e3o de res\u00edduos para aumentar a efici\u00eancia energ\u00e9tica e promover pr\u00e1ticas sustent\u00e1veis de descarte de res\u00edduos.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "As iniciativas de \"Efici\u00eancia de Res\u00edduos\" promovem equidade e inclus\u00e3o ao focar em comunidades carentes que muitas vezes sofrem com sistemas de gest\u00e3o de res\u00edduos ineficientes. Ao otimizar os processos de coleta de res\u00edduos, essas iniciativas podem reduzir o fardo ambiental sobre popula\u00e7\u00f5es vulner\u00e1veis, que podem viver em \u00e1reas desproporcionalmente afetadas por res\u00edduos e polui\u00e7\u00e3o.\n\nAl\u00e9m disso, melhorar a efici\u00eancia energ\u00e9tica na gest\u00e3o de res\u00edduos pode levar a economias de custos, que podem ser reinvestidas em servi\u00e7os comunit\u00e1rios ou infraestrutura que beneficiem bairros de baixa renda. A promo\u00e7\u00e3o de pr\u00e1ticas sustent\u00e1veis de descarte de res\u00edduos tamb\u00e9m garante que todos os membros da comunidade, independentemente do status socioecon\u00f4mico, tenham acesso a op\u00e7\u00f5es ambientalmente respons\u00e1veis, promovendo um senso de responsabilidade compartilhada e inclus\u00e3o nos esfor\u00e7os de a\u00e7\u00e3o clim\u00e1tica.\n\nNo geral, essas iniciativas reconhecem os desafios \u00fanicos enfrentados por comunidades carentes e visam criar um sistema de gest\u00e3o de res\u00edduos mais equitativo que beneficie todos os residentes.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "80-100",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Infraestrutura e tecnologia eficazes de gest\u00e3o de res\u00edduos",
+                "Colabora\u00e7\u00e3o com governos locais e autoridades de gest\u00e3o de res\u00edduos",
+                "Conscientiza\u00e7\u00e3o p\u00fablica e educa\u00e7\u00e3o sobre pr\u00e1ticas de descarte de res\u00edduos",
+                "Acesso a dados para monitorar e otimizar processos de coleta de res\u00edduos",
+                "Investimento em instala\u00e7\u00f5es sustent\u00e1veis de processamento de res\u00edduos"
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o nos custos de coleta de res\u00edduos",
+                "Percentual de redu\u00e7\u00e3o de res\u00edduos enviados para aterros sanit\u00e1rios",
+                "Aumento nas taxas de reciclagem",
+                "Consumo de energia por tonelada de res\u00edduos coletados",
+                "Redu\u00e7\u00e3o de emiss\u00f5es de carbono na gest\u00e3o de res\u00edduos",
+                "Satisfa\u00e7\u00e3o do cliente com os servi\u00e7os de coleta de res\u00edduos",
+                "Volume de res\u00edduos processados por m\u00e9todos sustent\u00e1veis",
+                "Efici\u00eancia operacional das rotas de coleta de res\u00edduos"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0021",
+        "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0021",
+            "ActionName": "Incentivar e promover medidas para o uso sustent\u00e1vel e racional do transporte motorizado individual",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "O objetivo desta a\u00e7\u00e3o \u00e9 racionalizar o uso do transporte motorizado individual, reduzindo sua participa\u00e7\u00e3o na matriz de mobilidade. Tamb\u00e9m \u00e9 importante regulamentar os servi\u00e7os de transporte privado baseados em aplicativos, visando fornecer um servi\u00e7o de qualidade integrado \u00e0 mobilidade geral da cidade.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Desenvolvimento de pol\u00edticas e regulamentos para reduzir o uso de transporte motorizado individual e incentivar modos de transporte alternativos",
+                "Integra\u00e7\u00e3o de servi\u00e7os de transporte privado baseados em aplicativos com o sistema de transporte p\u00fablico da cidade para mobilidade sem interrup\u00e7\u00f5es",
+                "Investimento em infraestrutura de transporte p\u00fablico para fornecer alternativas acess\u00edveis, confi\u00e1veis e de alta qualidade ao uso de carros particulares"
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentual de redu\u00e7\u00e3o no uso de ve\u00edculos particulares na cidade (%).",
+                "Aumento anual no uso de transporte p\u00fablico (%).",
+                "Redu\u00e7\u00e3o nas emiss\u00f5es de CO\u2082 equivalente devido \u00e0 diminui\u00e7\u00e3o do transporte motorizado (toneladas/ano)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0099",
+        "actionName": "Support Agroecological Certification Programs",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0099",
+            "ActionName": "Apoiar Programas de Certifica\u00e7\u00e3o Agroecol\u00f3gica",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Incentivar a certifica\u00e7\u00e3o de produtos agroecol\u00f3gicos que atendam a crit\u00e9rios de sustentabilidade e tenham baixo impacto ambiental.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de padr\u00f5es de certifica\u00e7\u00e3o claros e acess\u00edveis para produtos agroecol\u00f3gicos que enfatizem a sustentabilidade e o baixo impacto ambiental.",
+                "Apoio a agricultores e produtores para atender aos requisitos de certifica\u00e7\u00e3o por meio de treinamento, assist\u00eancia financeira ou orienta\u00e7\u00e3o t\u00e9cnica.",
+                "Cria\u00e7\u00e3o de estrat\u00e9gias de marketing e parcerias para aumentar a visibilidade e a demanda por produtos agroecol\u00f3gicos certificados nos mercados locais e globais."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de agricultores ou produtores obtendo certifica\u00e7\u00f5es agroecol\u00f3gicas.",
+                "Percentual de produtos agr\u00edcolas certificados no mercado (%).",
+                "Redu\u00e7\u00e3o no uso de insumos sint\u00e9ticos (por exemplo, fertilizantes, pesticidas)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0132",
+        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0132",
+            "ActionName": "Incentivar a Produ\u00e7\u00e3o Agroecol\u00f3gica Local e Cadeias Curtas de Abastecimento",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Apoiar pr\u00e1ticas agr\u00edcolas locais e sustent\u00e1veis e reduzir as emiss\u00f5es associadas ao transporte de alimentos.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Incentivos para pr\u00e1ticas agr\u00edcolas sustent\u00e1veis e desenvolvimento de redes locais de distribui\u00e7\u00e3o de alimentos.",
+                "Parcerias com produtores e investimento em infraestrutura para apoiar mercados locais.",
+                "Pol\u00edticas para priorizar m\u00e9todos de transporte de baixa emiss\u00e3o."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de produtores aderindo a pr\u00e1ticas agroecol\u00f3gicas locais.",
+                "Percentual de alimentos consumidos na cidade provenientes de cadeias curtas.",
+                "Redu\u00e7\u00e3o nas emiss\u00f5es associadas ao transporte de alimentos (tCO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0024",
+        "actionName": "Integrate renewables into municipal water systems",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0024",
+            "ActionName": "Integrar energias renov\u00e1veis nos sistemas municipais de \u00e1gua",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "stationary_energy"
+            ],
+            "Subsector": [
+                "energy_generation_supplied_to_the_grid"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implementar fontes de energia renov\u00e1vel, como energia solar ou e\u00f3lica, para impulsionar sistemas de tratamento, bombeamento e distribui\u00e7\u00e3o de \u00e1gua, reduzindo custos de energia e emiss\u00f5es.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": "80-100",
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Disponibilidade de financiamento ou incentivos financeiros para integrar fontes de energia renov\u00e1vel, como energia solar ou e\u00f3lica, em sistemas de tratamento e distribui\u00e7\u00e3o de \u00e1gua",
+                "Expertise t\u00e9cnica e infraestrutura para adaptar sistemas existentes com solu\u00e7\u00f5es de energia renov\u00e1vel ou projetar novas instala\u00e7\u00f5es alimentadas por energias renov\u00e1veis",
+                "Apoio pol\u00edtico e regulat\u00f3rio para incentivar o uso de energia limpa em sistemas de \u00e1gua e garantir sua integra\u00e7\u00e3o nas redes de energia municipais"
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentagem de sistemas municipais de \u00e1gua alimentados por energias renov\u00e1veis.",
+                "Redu\u00e7\u00e3o no consumo de energia de fontes n\u00e3o renov\u00e1veis (kWh/ano).",
+                "Emiss\u00f5es de GEE evitadas (toneladas de CO\u2082e)"
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "c40_0036",
+        "actionName": "Landfill Management",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0036",
+            "ActionName": "Gest\u00e3o de Aterros Sanit\u00e1rios",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "waste"
+            ],
+            "Subsector": [
+                "all"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Estrat\u00e9gias de \"Gest\u00e3o de Aterros Sanit\u00e1rios\" focam em pr\u00e1ticas respons\u00e1veis e sustent\u00e1veis de aterros para minimizar a degrada\u00e7\u00e3o ambiental. Ao adotar t\u00e9cnicas de gest\u00e3o eficazes, as cidades visam reduzir a pegada ecol\u00f3gica associada aos locais de aterro e incentivar a redu\u00e7\u00e3o de res\u00edduos.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "As estrat\u00e9gias de \"Gest\u00e3o de Aterros Sanit\u00e1rios\" promovem equidade e inclus\u00e3o ao abordar os impactos ambientais dos locais de aterro, que muitas vezes afetam desproporcionalmente comunidades vulner\u00e1veis e carentes. Essas comunidades frequentemente residem perto de aterros e s\u00e3o mais suscet\u00edveis a riscos de sa\u00fade associados \u00e0 polui\u00e7\u00e3o e \u00e0 degrada\u00e7\u00e3o ambiental. Ao implementar pr\u00e1ticas de aterro respons\u00e1veis e sustent\u00e1veis, a a\u00e7\u00e3o visa reduzir esses impactos negativos, melhorando assim a qualidade de vida dos residentes nessas \u00e1reas.\n\nAl\u00e9m disso, t\u00e9cnicas eficazes de redu\u00e7\u00e3o de res\u00edduos podem criar oportunidades para o engajamento e a participa\u00e7\u00e3o da comunidade, permitindo que popula\u00e7\u00f5es carentes tenham voz nas decis\u00f5es ambientais locais. Essa inclus\u00e3o promove um senso de pertencimento e empoderamento entre os membros da comunidade, garantindo que suas necessidades e preocupa\u00e7\u00f5es sejam consideradas na gest\u00e3o dos locais de aterro. No geral, a a\u00e7\u00e3o reconhece e busca mitigar as desigualdades enfrentadas por comunidades marginalizadas em rela\u00e7\u00e3o \u00e0 gest\u00e3o de res\u00edduos e \u00e0 sa\u00fade ambiental.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": "60-79",
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Pr\u00e1ticas eficazes de segrega\u00e7\u00e3o de res\u00edduos para garantir o descarte e reciclagem adequados",
+                "Investimento em tecnologia para tratamento de res\u00edduos e monitoramento de aterros sanit\u00e1rios",
+                "Envolvimento e educa\u00e7\u00e3o da comunidade sobre redu\u00e7\u00e3o de res\u00edduos e reciclagem",
+                "Estruturas regulat\u00f3rias e pol\u00edticas que apoiam pr\u00e1ticas sustent\u00e1veis de aterros sanit\u00e1rios",
+                "Colabora\u00e7\u00e3o com governos locais e organiza\u00e7\u00f5es para compartilhamento de recursos e melhores pr\u00e1ticas"
+            ],
+            "KeyPerformanceIndicators": [
+                "Redu\u00e7\u00e3o do volume de res\u00edduos em aterros",
+                "Percentagem de res\u00edduos desviados de aterros",
+                "Taxa de captura de g\u00e1s de aterro",
+                "Qualidade do solo e da \u00e1gua ao redor dos locais de aterro",
+                "Frequ\u00eancia das inspe\u00e7\u00f5es de aterros",
+                "N\u00edveis de conscientiza\u00e7\u00e3o e engajamento p\u00fablico",
+                "Economia de custos com pr\u00e1ticas aprimoradas de gest\u00e3o de aterros",
+                "Conformidade com as regulamenta\u00e7\u00f5es ambientais"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0085",
+        "actionName": "Promote the Adoption of Agroecological Pest Control",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0085",
+            "ActionName": "Promover a Ado\u00e7\u00e3o do Controle de Pragas Agroecol\u00f3gico",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Incentivar m\u00e9todos de controle de pragas que sejam agroecol\u00f3gicos, como o uso de predadores naturais e plantas repelentes, para reduzir a depend\u00eancia de pesticidas qu\u00edmicos.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desenvolvimento de programas educacionais para informar os agricultores sobre m\u00e9todos de controle de pragas agroecol\u00f3gicos e seus benef\u00edcios.",
+                "Fornecimento de acesso a recursos ou materiais para implementar m\u00e9todos de controle de pragas naturais, como a introdu\u00e7\u00e3o de insetos ben\u00e9ficos ou o cultivo de plantas repelentes.",
+                "Cria\u00e7\u00e3o de incentivos ou redes de apoio para encorajar a transi\u00e7\u00e3o do uso de pesticidas qu\u00edmicos em favor de alternativas sustent\u00e1veis."
+            ],
+            "KeyPerformanceIndicators": [
+                "Aumento nas taxas de produtividade em \u00e1reas que adotam controle agroecol\u00f3gico de pragas (%).",
+                "N\u00famero de campanhas educativas realizadas sobre controle sustent\u00e1vel de pragas.",
+                "Impacto nos custos totais de produ\u00e7\u00e3o devido \u00e0 ado\u00e7\u00e3o de pr\u00e1ticas agroecol\u00f3gicas (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR SOR",
+        "cityName": "Sorocaba",
+        "region": "SP",
+        "regionName": "S\u00e3o Paulo",
+        "actionId": "icare_0065",
+        "actionName": "Implementation of green hydrogen infrastructure for heavy vehicles.",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0065",
+            "ActionName": "Implementa\u00e7\u00e3o de infraestrutura de hidrog\u00eanio verde para ve\u00edculos pesados.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "O hidrog\u00eanio verde pode substituir os combust\u00edveis f\u00f3sseis em ve\u00edculos pesados, oferecendo emiss\u00f5es quase zero como uma alternativa vi\u00e1vel.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Desenvolvimento de instala\u00e7\u00f5es de produ\u00e7\u00e3o de hidrog\u00eanio verde utilizando fontes de energia renov\u00e1veis para garantir um fornecimento sustent\u00e1vel.",
+                "Cria\u00e7\u00e3o de infraestrutura de reabastecimento para ve\u00edculos pesados, como esta\u00e7\u00f5es de abastecimento de hidrog\u00eanio ao longo de rotas de transporte chave.",
+                "Colabora\u00e7\u00e3o com fabricantes para desenvolver e implantar ve\u00edculos pesados movidos a hidrog\u00eanio adaptados para v\u00e1rias ind\u00fastrias e terrenos."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de esta\u00e7\u00f5es de abastecimento de hidrog\u00eanio verde instaladas.",
+                "Quantidade de hidrog\u00eanio produzido e utilizado (kg/ano).",
+                "Emiss\u00f5es de GEE evitadas pela ado\u00e7\u00e3o de hidrog\u00eanio (toneladas de CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
     }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0042",
-    "actionName": "Encourage renewable energy policies at the municipal level",
-    "actionPriority": 2,
-    "explanation": "Incentivar políticas de energia renovável em nível municipal em Sorocaba é fundamental devido às significativas emissões de energia estacionária da cidade, que contribuem para seu alto total de emissões. Ao promover a energia renovável, Sorocaba pode reduzir sua dependência de combustíveis fósseis, diminuindo assim sua pegada de carbono e mitigando os impactos das mudanças climáticas. Além disso, iniciativas de energia renovável podem aumentar a segurança energética, o que é particularmente importante considerando a vulnerabilidade da cidade a secas que podem afetar o fornecimento de energia. A implementação dessas políticas também pode estimular o crescimento econômico local e gerar empregos, alinhando-se aos objetivos de desenvolvimento socioeconômico do município.",
-    "action": {
-      "ActionID": "icare_0042",
-      "ActionName": "Incentivar políticas de energia renovável a nível municipal",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "non-specified_sources"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Defender e implementar políticas que priorizem o desenvolvimento e a integração de sistemas de energia renovável nas operações e no planejamento do governo local.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 1,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Vontade política e liderança para priorizar a energia renovável nas políticas e processos de planejamento do governo local",
-        "Desenvolvimento de políticas claras e estruturas regulatórias que facilitem a integração de sistemas de energia renovável nas operações governamentais",
-        "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transição para a energia renovável na infraestrutura e operações municipais"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de projetos de energia renovável aprovados ou iniciados anualmente a nível municipal.",
-        "Percentagem da demanda de energia municipal atendida por fontes renováveis (%).",
-        "Redução nas emissões de carbono municipais devido à adoção de energia renovável (toneladas de CO₂e/ano)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0024",
-    "actionName": "Integrate renewables into municipal water systems",
-    "actionPriority": 3,
-    "explanation": "Integrar fontes de energia renovável aos sistemas municipais de água em Sorocaba é uma ação estratégica devido às altas emissões de energia estacionária da cidade. Ao utilizar fontes de energia renovável, o município pode reduzir significativamente sua pegada de carbono, contribuindo para um ambiente mais sustentável. Além disso, essa iniciativa está alinhada com a necessidade da cidade de aumentar a segurança energética, especialmente diante de riscos climáticos como secas e ondas de calor. A implementação de soluções de energia renovável nos sistemas de água também pode gerar economia de custos e maior resiliência contra interrupções no fornecimento de energia.",
-    "action": {
-      "ActionID": "icare_0024",
-      "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Implementar fontes de energia renovável, como energia solar ou eólica, para impulsionar sistemas de tratamento, bombeamento e distribuição de água, reduzindo custos de energia e emissões.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Disponibilidade de financiamento ou incentivos financeiros para integrar fontes de energia renovável, como energia solar ou eólica, em sistemas de tratamento e distribuição de água",
-        "Expertise técnica e infraestrutura para adaptar sistemas existentes com soluções de energia renovável ou projetar novas instalações alimentadas por energias renováveis",
-        "Apoio político e regulatório para incentivar o uso de energia limpa em sistemas de água e garantir sua integração nas redes de energia municipais"
-      ],
-      "KeyPerformanceIndicators": [
-        "Percentagem de sistemas municipais de água alimentados por energias renováveis.",
-        "Redução no consumo de energia de fontes não renováveis (kWh/ano).",
-        "Emissões de GEE evitadas (toneladas de CO₂e)"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0088",
-    "actionName": "Implementation of free public transportation programs during peak hours to reduce the use of individual vehicles",
-    "actionPriority": 4,
-    "explanation": "A implementação de programas de transporte público gratuito durante os horários de pico em Sorocaba é uma ação estratégica para enfrentar as altas emissões do setor de transporte na cidade, que contribuem significativamente para o total de emissões. Ao incentivar o uso do transporte público, essa iniciativa visa reduzir a dependência de veículos individuais, diminuindo assim o congestionamento do tráfego e a poluição do ar. Além disso, essa ação apoia os objetivos socioeconômicos da cidade ao oferecer opções de transporte acessíveis, beneficiando especialmente os moradores de baixa renda. Diante dos desafios da cidade com riscos de infraestrutura devido a perigos climáticos, a melhoria do transporte público também pode aumentar a resiliência ao reduzir a pressão sobre a infraestrutura existente.",
-    "action": {
-      "ActionID": "icare_0088",
-      "ActionName": "Implementação de programas de transporte público gratuito durante os horários de pico para reduzir o uso de veículos individuais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Incentivar o uso do transporte público oferecendo serviços gratuitos durante os horários de pico para trabalhadores e estudantes. Esta medida reduz a congestão urbana, diminui o número de veículos individuais nas estradas e, consequentemente, reduz as emissões de gases de efeito estufa associadas ao transporte privado.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 2,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Alocação de financiamento para subsidiar serviços de transporte público gratuito durante as horas de pico.",
-        "Desenvolvimento de políticas para garantir a sustentabilidade e eficiência dos sistemas de transporte público diante do aumento da demanda.",
-        "Coordenação com empregadores e instituições educacionais para otimizar os horários de pico e promover a iniciativa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução nos níveis de poluição do ar durante as horas de pico (concentração de PM2.5/PM10).",
-        "Número de veículos particulares removidos das estradas durante as horas de pico.",
-        "Taxa de satisfação pública com a iniciativa de transporte gratuito (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0094",
-    "actionName": "Adoption of biomethane in public fleets.",
-    "actionPriority": 5,
-    "explanation": "A adoção do biometano nas frotas públicas de Sorocaba é um passo crucial para a redução das emissões do setor de transporte da cidade, que representam uma contribuição significativa para a sua pegada de carbono total. Diante do alto volume de emissões do município, a transição para fontes de energia mais limpas no transporte público pode reduzir substancialmente as emissões de gases de efeito estufa. Além disso, essa iniciativa apoia os esforços da cidade para melhorar a qualidade do ar e a saúde pública, ao diminuir a dependência de combustíveis fósseis. A implementação do biometano nas frotas públicas também está alinhada com os objetivos de desenvolvimento sustentável, promovendo a eficiência energética e a responsabilidade ambiental.",
-    "action": {
-      "ActionID": "icare_0094",
-      "ActionName": "Adoção de biometano em frotas públicas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Utilizar biometano produzido a partir de resíduos urbanos e agroindustriais para abastecer ônibus e caminhões públicos, reduzindo as emissões de gases de efeito estufa nas frotas municipais",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de infraestrutura para a produção, processamento e distribuição de biometano a partir de resíduos urbanos e agroindustriais.",
-        "Retrofit ou aquisição de ônibus e caminhões públicos capazes de usar biometano como fonte de combustível.",
-        "Estabelecimento de políticas e incentivos financeiros para apoiar a produção de biometano e sua integração nas frotas municipais."
-      ],
-      "KeyPerformanceIndicators": [
-        "Economia de custos na operação da frota devido ao uso de biometano (USD/ano).",
-        "Aumento na capacidade de produção de biometano (%).",
-        "Percentagem de biometano obtido localmente versus importado."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0139",
-    "actionName": "Implementation of urban toll.",
-    "actionPriority": 6,
-    "explanation": "A implementação de um pedágio urbano em Sorocaba é uma ação estratégica voltada para a redução das emissões do setor de transporte, que representam uma contribuição significativa para o total de emissões da cidade. Ao desencorajar o uso de veículos particulares, o pedágio pode ajudar a diminuir a congestão do tráfego e promover o uso do transporte público, levando à redução da poluição do ar e das emissões de gases de efeito estufa. Além disso, essa medida pode gerar receitas que podem ser reinvestidas em infraestrutura urbana sustentável e em melhorias no transporte público, promovendo ainda mais a sustentabilidade ambiental da cidade. Dada a alta densidade populacional de Sorocaba, gerenciar o transporte de forma eficaz é fundamental para melhorar a qualidade do ar e a saúde pública.",
-    "action": {
-      "ActionID": "icare_0139",
-      "ActionName": "Implementação de pedágio urbano.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Estabelecimento de uma taxa de congestionamento e/ou rodízio de placas para veículos leves em áreas saturadas e em horários saturados",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": -1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Estabelecer um quadro legal claro e investir em tecnologia para monitoramento e fiscalização (por exemplo, câmeras, sensores).",
-        "Lançar campanhas de conscientização e garantir a disponibilidade de transporte público eficiente ou soluções alternativas de mobilidade.",
-        "Colaborar com governos locais e agências de transporte, e estabelecer sistemas para monitorar e avaliar a eficácia da política."
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução das emissões de CO₂ do transporte rodoviário urbano (tCO₂e/ano).",
-        "Receita gerada pela implementação da taxa de congestionamento urbano (R$)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0074",
-    "actionName": "Support research into carbon-neutral manufacturing technologies",
-    "actionPriority": 7,
-    "explanation": "Apoiar pesquisas em tecnologias de manufatura neutras em carbono é fundamental para Sorocaba devido às suas significativas emissões provenientes de processos industriais. Como as emissões industriais são um dos maiores contribuintes para o total de emissões da cidade, a transição para tecnologias neutras em carbono pode reduzir substancialmente o impacto ambiental. Essa ação está alinhada com a necessidade da cidade de enfrentar as mudanças climáticas e melhorar a qualidade do ar, beneficiando tanto o meio ambiente quanto a saúde pública. Além disso, investir nesse tipo de pesquisa pode posicionar Sorocaba como líder em práticas industriais sustentáveis, potencialmente atraindo investimentos verdes e impulsionando a economia local.",
-    "action": {
-      "ActionID": "icare_0074",
-      "ActionName": "Apoiar a pesquisa em tecnologias de fabricação neutras em carbono",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "ippu"
-      ],
-      "Subsector": [
-        "industrial_processes"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Investir em pesquisa e desenvolvimento de tecnologias neutras em carbono e incentivar sua adoção na produção industrial.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 1,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": "60-79",
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Financiamento para pesquisa e desenvolvimento de tecnologias neutras em carbono.",
-        "Parcerias entre governo, academia e indústria para fomentar a inovação.",
-        "Programas de incentivo para indústrias adotarem novas tecnologias."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de projetos de pesquisa financiados ou iniciados.",
-        "Percentual de indústrias locais adotando tecnologias neutras em carbono (%).",
-        "Redução nas emissões de carbono em indústrias participantes de projetos de pesquisa (toneladas de CO₂/ano)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0121",
-    "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
-    "actionPriority": 8,
-    "explanation": "A ação de incentivar programas de compartilhamento de bicicletas, especialmente com bicicletas elétricas, é crucial para Sorocaba devido à sua alta densidade populacional e ambiente urbano. Estimular o uso de bicicletas elétricas pode reduzir significativamente as emissões do transporte, que são um dos principais contribuintes para as emissões totais da cidade. Além disso, promover o compartilhamento de bicicletas pode aliviar a congestão do trânsito e melhorar a qualidade do ar, beneficiando a saúde pública. Essa iniciativa também está alinhada com a necessidade da cidade de enfrentar desafios de infraestrutura causados por riscos climáticos, como enchentes e ondas de calor, ao oferecer um meio de transporte sustentável e resiliente.",
-    "action": {
-      "ActionID": "icare_0121",
-      "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Esta ação incentiva o estabelecimento de sistemas de compartilhamento de bicicletas nas cidades, promovendo especificamente o uso de bicicletas elétricas. Esses sistemas permitem que os residentes aluguem bicicletas elétricas para viagens curtas, reduzindo a dependência de carros para o transporte urbano. Ao integrar bicicletas elétricas, as cidades podem reduzir ainda mais as emissões de gases de efeito estufa, aliviar a congestão do tráfego e promover um modo de transporte mais saudável e sustentável tanto para áreas urbanas quanto rurais. Esta iniciativa também apoia a igualdade de mobilidade, pois torna as bicicletas mais acessíveis a uma gama mais ampla de pessoas.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Estabelecimento de sistemas de compartilhamento de bicicletas com foco em bicicletas elétricas para reduzir a dependência de carros.",
-        "Integração de bicicletas elétricas para reduzir as emissões de gases de efeito estufa, aliviar o congestionamento do tráfego e promover o transporte sustentável.",
-        "Promoção da igualdade de mobilidade tornando as bicicletas elétricas acessíveis a uma população mais ampla."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de bicicletas elétricas disponíveis em programas de compartilhamento de bicicletas.",
-        "Aumento anual no número de usuários de compartilhamento de bicicletas.",
-        "Redução estimada nas emissões de CO₂ equivalente com a adoção do compartilhamento de bicicletas elétricas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0038",
-    "actionName": "Promote community solar farms",
-    "actionPriority": 9,
-    "explanation": "Promover fazendas solares comunitárias em Sorocaba é um passo crucial para reduzir as emissões de energia estacionária da cidade, que são um contribuinte significativo para suas emissões totais. Considerando o bioma de floresta tropical da cidade, há abundância de luz solar que pode ser aproveitada para a geração de energia solar, tornando essa uma solução energética viável e sustentável. Além disso, as fazendas solares comunitárias podem aumentar a segurança energética ao diversificar as fontes de energia e reduzir a dependência de combustíveis fósseis tradicionais. Essa ação também está alinhada com o contexto socioeconômico da cidade, pois pode oferecer opções de energia acessível para comunidades de baixa renda, melhorando assim o acesso delas à energia limpa.",
-    "action": {
-      "ActionID": "icare_0038",
-      "ActionName": "Promover fazendas solares comunitárias",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "energy_generation_supplied_to_the_grid"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Desenvolver e incentivar a adoção de projetos de energia solar compartilhada, permitindo que as comunidades se beneficiem coletivamente de energia limpa e renovável.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desenvolvimento de políticas e estruturas regulatórias para apoiar projetos de energia solar compartilhada baseados na comunidade e garantir o acesso equitativo à energia limpa",
-        "Disponibilidade de mecanismos financeiros ou incentivos para ajudar as comunidades a investir e manter sistemas de energia solar compartilhada",
-        "Colaboração entre governos locais, fornecedores de energia e organizações comunitárias para projetar e implementar projetos de energia solar compartilhada de forma eficaz"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de residências atendidas por projetos solares comunitários.",
-        "Emissões de GEE evitadas através da produção de energia solar (toneladas de CO₂e)"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0079",
-    "actionName": "Implement energy audits in industrial plants",
-    "actionPriority": 10,
-    "explanation": "A implementação de auditorias energéticas em plantas industriais em Sorocaba é um passo crucial para reduzir as significativas emissões dos processos industriais da cidade, que são um dos principais contribuintes para suas emissões totais. Ao identificar ineficiências e áreas para melhorias, essas auditorias podem levar a um uso de energia mais sustentável e a menores emissões. Essa ação é particularmente importante, considerando as altas emissões de energia estacionária da cidade, que contribuem para seu impacto ambiental geral. Além disso, melhorar a eficiência energética nas plantas industriais pode aumentar a segurança energética, que é uma preocupação fundamental para a cidade. De modo geral, essa ação apoia os esforços de Sorocaba para mitigar os impactos das mudanças climáticas e promover práticas industriais sustentáveis.",
-    "action": {
-      "ActionID": "icare_0079",
-      "ActionName": "Implementar auditorias energéticas em plantas industriais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "ippu"
-      ],
-      "Subsector": [
-        "industrial_processes"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Realizar auditorias energéticas regulares para identificar oportunidades de economia de energia e redução de emissões.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": "20-39",
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Disponibilidade de profissionais qualificados ou auditores de energia para realizar avaliações completas em indústrias e edifícios.",
-        "Desenvolvimento de uma estrutura padronizada para auditorias de energia, garantindo consistência e precisão nos resultados.",
-        "Implementação de incentivos governamentais ou corporativos para encorajar as organizações a agirem com base nas recomendações das auditorias, como reembolsos para atualizações de eficiência energética."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de plantas industriais realizando auditorias energéticas anualmente.",
-        "Economia de custos alcançada através de melhorias recomendadas pela auditoria (%).",
-        "Tempo médio para implementar medidas de eficiência energética após a auditoria (meses)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0040",
-    "actionName": "Adopt solar-powered street lighting in rural areas",
-    "actionPriority": 11,
-    "explanation": "A adoção de iluminação pública alimentada por energia solar em áreas rurais de Sorocaba é uma medida estratégica para aumentar a eficiência energética e reduzir as emissões. Diante das altas emissões de energia estacionária da cidade, a transição para fontes renováveis como a solar pode diminuir significativamente a pegada de carbono. Além disso, a iluminação movida a energia solar pode melhorar a segurança e a acessibilidade em áreas rurais, que podem atualmente carecer de infraestrutura adequada. Essa ação está alinhada com a necessidade da cidade de promover a segurança energética e a sustentabilidade, contribuindo para benefícios ambientais e econômicos a longo prazo.",
-    "action": {
-      "ActionID": "icare_0040",
-      "ActionName": "Adotar iluminação pública solar em áreas rurais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "residential_buildings"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Instalar postes de iluminação pública movidos a energia solar para melhorar a segurança e acessibilidade em comunidades rurais, ao mesmo tempo que reduz os custos de energia e o impacto ambiental.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a instalação de postes de iluminação pública solar em comunidades rurais",
-        "Acesso a expertise técnica para projetar, instalar e manter sistemas de iluminação pública solar",
-        "Colaboração com governos locais e comunidades para garantir a integração de postes de iluminação solar na infraestrutura existente e nos planos de energia"
-      ],
-      "KeyPerformanceIndicators": [
-        "Percentagem de postes de iluminação pública alimentados por energia solar.",
-        "Redução anual no consumo de eletricidade (kWh).",
-        "Emissões de GEE evitadas (toneladas de CO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0044",
-    "actionName": "Expand the cycling infrastructure and build public walkways and accessible sidewalks, prioritizing measures resilient to climate threats",
-    "actionPriority": 12,
-    "explanation": "Expandir a infraestrutura cicloviária e construir passarelas públicas em Sorocaba é fundamental devido à alta densidade populacional da cidade e à necessidade de opções de transporte sustentável. Essa ação ajudará a reduzir as emissões do setor de transporte, que são um dos principais contribuintes para o total de emissões da cidade. Além disso, criar calçadas e passarelas acessíveis e resilientes a ameaças climáticas aumentará a segurança pública e a mobilidade, especialmente considerando a vulnerabilidade da cidade a riscos como enchentes e ondas de calor. Ao priorizar essa ação, Sorocaba pode melhorar a qualidade de vida urbana e reduzir sua pegada de carbono, alinhando-se com objetivos ambientais mais amplos.",
-    "action": {
-      "ActionID": "icare_0044",
-      "ActionName": "Expandir a infraestrutura cicloviária e construir passarelas públicas e calçadas acessíveis, priorizando medidas resilientes às ameaças climáticas",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "O principal objetivo desta ação é promover a mobilidade ativa, garantindo a segurança, o conforto e a prioridade do movimento de pedestres, pessoas com deficiência (ou mobilidade reduzida) e veículos e equipamentos movidos por força humana, como bicicletas e patinetes.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Investimentos em infraestrutura em calçadas seguras e acessíveis, ciclovias e instalações para pessoas com deficiência",
-        "Estruturas de políticas e regulamentos para priorizar a mobilidade ativa e estabelecer padrões de segurança para pedestres e veículos não motorizados",
-        "Campanhas de conscientização pública para promover a mobilidade ativa e educar os cidadãos sobre os benefícios de caminhar, andar de bicicleta e usar outros meios de transporte movidos a energia humana"
-      ],
-      "KeyPerformanceIndicators": [
-        "Quilômetros de novas ciclovias e passarelas construídas anualmente.",
-        "Aumento no uso diário de infraestrutura cicloviária e pedonal (%).",
-        "Redução nas emissões do transporte urbano (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0033",
-    "actionName": "Install biodigesters in rural properties",
-    "actionPriority": 13,
-    "explanation": "Instalar biodigestores em propriedades rurais de Sorocaba é uma ação estratégica para reduzir as emissões de resíduos, que atualmente contribuem de forma significativa para o total de emissões da cidade. Os biodigestores podem converter resíduos orgânicos em biogás, fornecendo uma fonte de energia renovável e reduzindo a dependência de combustíveis fósseis. Essa ação também apoia práticas agrícolas sustentáveis ao produzir digestato rico em nutrientes, que pode ser utilizado como fertilizante, melhorando a saúde do solo. Considerando o bioma de floresta tropical de Sorocaba, essa iniciativa está alinhada com os esforços de conservação ambiental ao minimizar resíduos e promover a eficiência energética. Além disso, pode contribuir para a resiliência da cidade frente aos impactos das mudanças climáticas, ao reduzir as emissões de gases de efeito estufa.",
-    "action": {
-      "ActionID": "icare_0033",
-      "ActionName": "Instalar biodigestores em propriedades rurais",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Equipar fazendas e propriedades rurais com biodigestores para converter resíduos orgânicos em biogás e fertilizantes ricos em nutrientes, fornecendo uma fonte de energia sustentável.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Disponibilidade de financiamento ou subsídios para apoiar a instalação de biodigestores em fazendas e propriedades rurais",
-        "Acesso a expertise técnica para o design, instalação e manutenção de biodigestores",
-        "Desenvolvimento de um quadro regulatório de apoio que incentive o uso de biogás e sistemas de gestão de resíduos orgânicos na agricultura rural"
-      ],
-      "KeyPerformanceIndicators": [
-        "Volume de biogás gerado (m³/ano).",
-        "Emissões de GEE evitadas pela substituição de combustíveis fósseis (toneladas de CO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0131",
-    "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-    "actionPriority": 14,
-    "explanation": "Priorizar a aquisição de produtos agroecológicos produzidos localmente nas compras públicas é fundamental para Sorocaba devido ao seu potencial de fortalecer a segurança alimentar e apoiar as economias locais. Essa ação pode ajudar a mitigar os impactos das secas sobre a segurança alimentar, conforme identificado na avaliação de risco climático do município. Ao apoiar práticas agroecológicas locais, a cidade pode reduzir sua pegada de carbono associada às emissões do transporte e promover o uso sustentável do solo. Além disso, essa iniciativa está alinhada com o contexto socioeconômico do município, onde o incentivo à agricultura local pode gerar oportunidades econômicas e aumentar a resiliência diante de perturbações relacionadas ao clima.",
-    "action": {
-      "ActionID": "icare_0131",
-      "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Concentre-se em comprar alimentos sustentáveis e produzidos localmente para instituições públicas.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de políticas de aquisição e identificação de fornecedores locais confiáveis.",
-        "Parcerias com produtores e alocação de financiamento para programas de aquisição sustentável.",
-        "Estabelecimento de sistemas de monitoramento para garantir a conformidade com os critérios de sustentabilidade."
-      ],
-      "KeyPerformanceIndicators": [
-        "Percentagem do volume total de compras públicas provenientes de produtores agroecológicos locais.",
-        "Quantidade de emissões de CO₂ evitadas devido à redução da distância de transporte (tCO₂e).",
-        "Número de produtores agroecológicos beneficiados pelas compras públicas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0090",
-    "actionName": "Adoption of electric drones for last-mile deliveries.",
-    "actionPriority": 15,
-    "explanation": "A adoção de drones elétricos para entregas de última milha em Sorocaba é uma medida estratégica para reduzir as emissões do transporte, que atualmente contribuem de forma significativa para o total de emissões da cidade. Ao utilizar drones elétricos, a cidade pode diminuir a dependência de veículos de entrega tradicionais, reduzindo assim o consumo de combustíveis fósseis e a poluição do ar. Essa ação também está alinhada com a necessidade da cidade de enfrentar desafios de infraestrutura causados por riscos climáticos, como enchentes e deslizamentos de terra, já que os drones podem operar em condições nas quais o transporte terrestre pode ser interrompido. Além disso, essa iniciativa apoia os esforços da cidade para aumentar a eficiência energética e a sustentabilidade na logística urbana.",
-    "action": {
-      "ActionID": "icare_0090",
-      "ActionName": "Adoção de drones elétricos para entregas de última milha.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "off-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Substituir veículos tradicionais por drones elétricos para entregas de curta distância em centros urbanos, reduzindo emissões e congestionamento de tráfego.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de regulamentos para o espaço aéreo urbano para garantir a operação segura e eficiente de drones de entrega.",
-        "Investimento em infraestrutura de carregamento e manutenção para apoiar uma frota de drones elétricos.",
-        "Colaboração com empresas de logística para integrar drones em redes de entrega de última milha."
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução do tempo de entrega em comparação com métodos tradicionais (minutos).",
-        "Aumento na satisfação do cliente com entregas por drones (%).",
-        "Redução do congestionamento de tráfego causado por veículos de entrega (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0092",
-    "actionName": "Development of micro-logistics hubs to encourage the use of electric cargo bikes.",
-    "actionPriority": 16,
-    "explanation": "O desenvolvimento de micro-hubs logísticos para incentivar o uso de bicicletas de carga elétricas em Sorocaba é uma ação estratégica para reduzir as emissões do transporte, que são um dos principais contribuintes para o total de emissões da cidade. Ao promover o uso de bicicletas de carga elétricas, a cidade pode diminuir a dependência de veículos tradicionais movidos a combustíveis fósseis, reduzindo assim a poluição do ar e melhorando a qualidade do ar urbano. Além disso, essa iniciativa apoia a mobilidade urbana sustentável, o que é fundamental, considerando a alta densidade populacional da cidade. A implementação desses hubs também pode aumentar a eficiência das entregas locais, contribuindo para o crescimento econômico e a redução da congestão do tráfego.",
-    "action": {
-      "ActionID": "icare_0092",
-      "ActionName": "Desenvolvimento de micro-hubs logísticos para incentivar o uso de bicicletas de carga elétricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Criar centros logísticos de pequena escala em bairros urbanos para facilitar entregas usando bicicletas de carga elétricas, enquanto implementa incentivos fiscais ou subsídios para que as empresas adotem essas bicicletas como modo de transporte, reduzindo emissões e melhorando a eficiência das entregas em áreas densamente povoadas.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "20-39",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Identificação e desenvolvimento de locais adequados para centros logísticos de pequena escala dentro de bairros urbanos.",
-        "Concessão de incentivos fiscais, subsídios ou subvenções para encorajar as empresas a fazerem a transição para bicicletas de carga elétricas.",
-        "Estabelecimento de parcerias com empresas de logística para garantir a integração e eficiência nas operações de entrega utilizando esses centros."
-      ],
-      "KeyPerformanceIndicators": [
-        "Redução na distância percorrida por veículos de entrega tradicionais (km/ano).",
-        "Aumento na eficiência operacional dos centros logísticos (%).",
-        "Número de empresas utilizando micro-centros logísticos para entregas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0029",
-    "actionName": "Adopt policies for fossil fuel-free buildings",
-    "actionPriority": 17,
-    "explanation": "A adoção de políticas para edifícios livres de combustíveis fósseis em Sorocaba é crucial devido às significativas emissões de energia estacionária da cidade, que contribuem para o seu elevado total de emissões. A transição para edifícios livres de combustíveis fósseis pode reduzir substancialmente essas emissões, alinhando-se com os objetivos globais de sustentabilidade e melhorando a qualidade do ar. Além disso, essa ação apoia a segurança energética ao reduzir a dependência de combustíveis fósseis, o que é particularmente importante, considerando a vulnerabilidade da cidade a riscos climáticos como ondas de calor e secas. A implementação dessas políticas também pode estimular o crescimento econômico local, promovendo a inovação e criando empregos verdes nos setores de construção e energia.",
-    "action": {
-      "ActionID": "icare_0029",
-      "ActionName": "Adotar políticas para edifícios sem combustíveis fósseis",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "stationary_energy"
-      ],
-      "Subsector": [
-        "residential_buildings"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Impor regulamentos que exijam que novas construções utilizem sistemas de energia renovável, designs eficientes em termos de energia e tecnologias de emissão zero.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 0,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": "80-100",
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desenvolvimento de códigos de construção e estruturas regulatórias que exijam a integração de sistemas de energia renovável e designs energeticamente eficientes em novas construções",
-        "Disponibilidade de incentivos ou apoio para que os desenvolvedores cumpram as regulamentações e adotem tecnologias de emissão zero",
-        "Expertise técnica e recursos para garantir a implementação adequada e o monitoramento de sistemas de energia renovável e designs energeticamente eficientes em projetos de construção"
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de edifícios em transição para fontes de energia renovável.",
-        "Redução total no uso de combustíveis fósseis para aquecimento/resfriamento (m³ ou litros).",
-        "Diminuição nas emissões de GEE relacionadas a edifícios (toneladas de CO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0068",
-    "actionName": "Deploy on-demand transport systems with 100% electric fleets.",
-    "actionPriority": 18,
-    "explanation": "Implantar sistemas de transporte sob demanda com frotas 100% elétricas em Sorocaba é uma medida estratégica para enfrentar as emissões do setor de transporte da cidade, que são um dos principais contribuintes para as emissões totais. Essa ação está alinhada com a necessidade do município de reduzir sua pegada de carbono e melhorar a qualidade do ar, beneficiando a saúde pública. Além disso, frotas elétricas podem ajudar a mitigar o impacto de ondas de calor e outros riscos relacionados ao clima, ao reduzir a dependência de combustíveis fósseis. A implementação desse sistema também pode aprimorar a mobilidade e a acessibilidade para os moradores, especialmente em áreas com opções inadequadas de transporte público.",
-    "action": {
-      "ActionID": "icare_0068",
-      "ActionName": "Implantar sistemas de transporte sob demanda com frotas 100% elétricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Serviços de transporte coletivo sob demanda, baseados em aplicativos, otimizam o uso de veículos elétricos, reduzindo as emissões por passageiro.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desenvolvimento de plataformas digitais e aplicativos para gerenciar eficientemente serviços de transporte coletivo sob demanda.",
-        "Expansão de frotas de veículos elétricos adaptadas para soluções de transporte compartilhado.",
-        "Implementação de políticas e incentivos para incentivar a adoção e o uso de serviços de transporte elétrico compartilhado."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de usuários ativos do sistema de frota elétrica sob demanda.",
-        "Percentual da demanda de transporte urbano atendida por sistemas sob demanda.",
-        "Redução nos níveis de poluição sonora em áreas urbanas"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0057",
-    "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
-    "actionPriority": 19,
-    "explanation": "A expansão dos sistemas de transporte coletivo sobre trilhos em Sorocaba é uma ação crucial devido à alta densidade populacional da cidade e às significativas emissões provenientes do transporte. Ao aprimorar a infraestrutura de transporte público, a cidade pode reduzir a dependência de veículos particulares, diminuindo assim as emissões e melhorando a qualidade do ar. Além disso, a melhoria do transporte coletivo pode aliviar a congestão do tráfego, tornando a cidade mais acessível e habitável para seus moradores. Essa ação também apoia o desenvolvimento urbano sustentável, alinhando-se aos esforços globais de combate às mudanças climáticas.",
-    "action": {
-      "ActionID": "icare_0057",
-      "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "railways"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Esses sistemas oferecem alta capacidade e baixas emissões, cruciais para cidades com alta densidade populacional.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 2,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "high",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Investimento no desenvolvimento e expansão da infraestrutura de transporte público de alta capacidade, como ônibus elétricos e sistemas de metrô.",
-        "Implementação de políticas e incentivos para encorajar o uso de transporte público em vez de veículos particulares.",
-        "Integração de fontes de energia renovável para alimentar esses sistemas, reduzindo ainda mais as emissões."
-      ],
-      "KeyPerformanceIndicators": [
-        "Comprimento das novas linhas de trânsito construídas (km/ano).",
-        "Redução na congestão do tráfego rodoviário (%).",
-        "Redução no uso de veículos privados (número de viagens evitadas/ano)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR SOR",
-    "cityName": "Sorocaba",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "actionId": "icare_0099",
-    "actionName": "Support Agroecological Certification Programs",
-    "actionPriority": 20,
-    "explanation": "Apoiar programas de certificação agroecológica em Sorocaba é fundamental devido à vulnerabilidade da cidade a riscos climáticos, como secas e inundações, que impactam a segurança alimentar. Ao promover práticas agrícolas sustentáveis, esses programas podem aumentar a resiliência diante desses riscos, garantindo um abastecimento alimentar estável. Além disso, as práticas agroecológicas podem ajudar a reduzir as emissões provenientes do uso da terra, contribuindo para as metas gerais de redução de emissões da cidade. Essa ação está alinhada com a necessidade de abordar fatores socioeconômicos, ao potencialmente oferecer oportunidades econômicas para os agricultores locais.",
-    "action": {
-      "ActionID": "icare_0099",
-      "ActionName": "Apoiar Programas de Certificação Agroecológica",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Incentivar a certificação de produtos agroecológicos que atendam a critérios de sustentabilidade e tenham baixo impacto ambiental.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desenvolvimento de padrões de certificação claros e acessíveis para produtos agroecológicos que enfatizem a sustentabilidade e o baixo impacto ambiental.",
-        "Apoio a agricultores e produtores para atender aos requisitos de certificação por meio de treinamento, assistência financeira ou orientação técnica.",
-        "Criação de estratégias de marketing e parcerias para aumentar a visibilidade e a demanda por produtos agroecológicos certificados nos mercados locais e globais."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de agricultores ou produtores obtendo certificações agroecológicas.",
-        "Percentual de produtos agrícolas certificados no mercado (%).",
-        "Redução no uso de insumos sintéticos (por exemplo, fertilizantes, pesticidas)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  }
 ]

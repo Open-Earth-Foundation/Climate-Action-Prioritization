@@ -4,81 +4,10 @@
         "cityName": "Caxias do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0176",
-        "actionName": "Development of Climate Action Plan",
-        "actionPriority": 1,
-        "explanation": "The development of a Climate Action Plan is crucial for Caxias do Sul due to its significant environmental challenges, including high emissions from transportation and stationary energy. The city faces substantial risks from climate hazards such as floods and landslides, which threaten public health and infrastructure. By prioritizing this action, the city can strategically address these vulnerabilities and work towards reducing its total emissions. Additionally, a comprehensive plan will help in coordinating efforts across sectors to enhance resilience against climate impacts.",
-        "action": {
-            "ActionID": "icare_0176",
-            "ActionName": "Development of Climate Action Plan",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "storms",
-                "sea-level-rise",
-                "wildfires",
-                "floods",
-                "landslides",
-                "diseases",
-                "heatwaves",
-                "droughts"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "A comprehensive plan outlining a city's strategies and actions to mitigate greenhouse gas emissions and adapt to the impacts of climate change which typically includes an assessment of the city's climate risks and vulnerabilities, setting emission reduction targets, and implementation of actions across various sectors such as energy, transportation, waste management, and urban planning.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Political will and commitment from government",
-                "Stakeholder engagement and collaboration",
-                "Funding and resources for implementation"
-            ],
-            "KeyPerformanceIndicators": [
-                "Greenhouse gas emission reduction targets.",
-                "Number of climate adaptation actions implemented.",
-                "Investment in climate mitigation and adaptation projects."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "storms": "medium",
-                "sea-level-rise": "medium",
-                "wildfires": "medium",
-                "floods": "medium",
-                "landslides": "medium",
-                "diseases": "medium",
-                "heatwaves": "medium",
-                "droughts": "medium"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CXL",
-        "cityName": "Caxias do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
-        "actionPriority": 2,
-        "explanation": "Strengthening programs for control and conservation of protected areas is crucial for Caxias do Sul due to its tropical rainforest biome, which is rich in biodiversity. The city faces significant risks from climate hazards such as landslides and floods, which can severely impact these ecosystems. By enhancing conservation efforts, the city can mitigate the adverse effects of these hazards on biodiversity and maintain ecological balance. Additionally, protecting these areas can contribute to the city's resilience against climate change impacts, ensuring the sustainability of natural resources and the well-being of its population.",
+        "actionPriority": 1,
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -107,7 +36,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -125,12 +60,16 @@
                 "state"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
-                "landslides": "high",
+                "droughts": null,
                 "heatwaves": "medium",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
                 "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -140,8 +79,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
-        "actionPriority": 3,
-        "explanation": "Establishing a plan for preparation and emergency response measures in the event of extreme weather events is crucial for Caxias do Sul due to its high vulnerability to natural hazards such as landslides and floods. The city faces significant risks to public health and infrastructure from these events, as indicated by the high normalized risk scores. Implementing this action will help mitigate the impacts of these hazards, ensuring the safety and resilience of the community. Additionally, a well-prepared emergency response plan can enhance the city's ability to manage and recover from such events efficiently.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -174,7 +113,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
@@ -194,77 +139,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "high",
                 "floods": "high",
-                "wildfires": "high",
                 "sea-level-rise": "low",
-                "storms": "high"
-            },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CXL",
-        "cityName": "Caxias do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0152",
-        "actionName": "Recovery of degraded areas",
-        "actionPriority": 4,
-        "explanation": "The action 'Recovery of degraded areas' is crucial for Caxias do Sul due to its significant land use emissions, which contribute to the city's overall environmental impact. Restoring degraded areas can help sequester carbon, reduce emissions, and improve local biodiversity, which is essential given the city's tropical rainforest biome. Additionally, this action can mitigate risks associated with landslides and floods, which are high-priority hazards for the city. By focusing on land recovery, Caxias do Sul can enhance its resilience to climate change impacts and improve the quality of life for its residents.",
-        "action": {
-            "ActionID": "icare_0152",
-            "ActionName": "Recovery of degraded areas",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "heatwaves",
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Restoring ecosystems damaged by human activities by replanting native vegetation, restoring the soil, eliminating invasive species and implementing sustainable management techniques.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Develop a clear restoration plan and secure funding for long-term management.",
-                "Ensure access to native plant species and provide training in sustainable practices.",
-                "Remove invasive species and collaborate with local communities for successful ecosystem restoration."
-            ],
-            "KeyPerformanceIndicators": [
-                "Hectares of degraded land restored annually",
-                "Increase in vegetation cover (%) in restored areas",
-                "Number of local communities engaged in restoration projects"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "heatwaves": "high",
                 "landslides": "high",
-                "floods": "high"
+                "storms": "high",
+                "wildfires": "high",
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -274,8 +156,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
-        "actionPriority": 5,
-        "explanation": "The action of relocating and restoring vulnerable areas in Caxias do Sul is crucial due to the high risk of landslides and floods, which pose significant threats to public health and infrastructure. The city faces a high normalized risk score for these hazards, indicating an urgent need to address these vulnerabilities. By focusing on relocation and environmental restoration, the city can mitigate the impacts of these natural disasters, ensuring the safety and well-being of its residents. Additionally, this action supports long-term sustainability by preserving the environment and reducing future risks.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -302,7 +184,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -320,10 +208,16 @@
                 "state"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
                 "landslides": "high",
-                "floods": "high"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -333,8 +227,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
-        "actionPriority": 6,
-        "explanation": "The maintenance and revitalization of riparian forests in Caxias do Sul is crucial due to the city's vulnerability to floods and landslides, as indicated by high risk scores for these hazards. Riparian forests play a significant role in stabilizing soil and reducing the impact of heavy rainfall, which can mitigate the risk of landslides and flooding. Additionally, these forests contribute to biodiversity and water quality, which are essential for the city's ecological health and resilience. Given the tropical rainforest biome of the region, preserving and enhancing these natural buffers is vital for maintaining the balance of local ecosystems.",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -363,7 +257,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "high",
             "TimelineForImplementation": "5-10 years",
@@ -381,12 +281,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
                 "heatwaves": "medium",
-                "landslides": "high",
                 "floods": "high",
-                "droughts": "medium"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -396,8 +300,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
-        "actionPriority": 7,
-        "explanation": "Encouraging sustainable land use practices in Caxias do Sul is crucial due to the significant land use emissions contributing to the city's total emissions. With a tropical rainforest biome, maintaining biodiversity and preventing deforestation are essential to mitigate climate change impacts. Additionally, sustainable land use can help reduce the risk of landslides and floods, which are high-risk hazards for the city. Implementing these practices can also support food security by ensuring that agricultural activities are conducted in an environmentally friendly manner. Overall, this action aligns with the city's need to address environmental challenges while promoting economic and social well-being.",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -427,7 +331,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "5-10 years",
@@ -447,70 +357,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "medium",
-                "landslides": "high",
                 "floods": "medium",
-                "wildfires": "medium"
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": null,
+                "wildfires": "medium",
+                "diseases": null
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CXL",
-        "cityName": "Caxias do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "ipcc_0088",
-        "actionName": "Building codes",
-        "actionPriority": 8,
-        "explanation": "Implementing stringent building codes in Caxias do Sul is crucial due to the high risk of landslides and floods, which pose significant threats to infrastructure and public health. The city's tropical rainforest biome and elevation contribute to these hazards, making it essential to ensure that buildings are constructed to withstand such events. By prioritizing building codes, the city can enhance resilience against climate-related disasters, protecting both lives and property. Additionally, improved building standards can contribute to reducing emissions from stationary energy by promoting energy-efficient designs.",
-        "action": {
-            "ActionID": "ipcc_0088",
-            "ActionName": "Building codes",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "floods",
-                "landslides"
-            ],
-            "Sector": [
-                "road_infrastructure",
-                "geo-hydrological_disasters"
-            ],
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "The development and implementation of building codes and architectural design regulations aimed at integrating climate adaptation parameters. These codes are focused on reducing risks from climate-induced hazards like floods and landslides. They also support climate-resilient urban development by guiding land use, construction practices, and infrastructure standards. The initiative fosters strategic long-term urban planning to coordinate public and private investments in adaptation, including the creation of safe zones and the transformation of precarious settlements. It ensures that new infrastructure is resilient to climate risks and that urban spaces are safe and sustainable for current and future populations.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 2,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": "Promotes inclusive urban planning by addressing risks in informal and precarious settlements and integrating eco-parks and eco-gardens for vulnerable populations.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Integration with local climate risk assessments",
-                "Strategic collaboration between urban planners and municipal authorities"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reduction in urban flood incidents",
-                "Increased availability of safe housing in risk areas",
-                "Implementation rate of eco-parks and eco-gardens in vulnerable areas"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "floods": "high",
-                "landslides": "high"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -520,8 +374,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
-        "actionPriority": 9,
-        "explanation": "Implementing a Hydrological Monitoring System with Telemetry Stations in Caxias do Sul is crucial due to the city's vulnerability to floods and landslides. The city faces significant risks from these hazards, which can severely impact public health and infrastructure. By establishing a robust monitoring system, the city can better predict and manage water-related disasters, thereby reducing potential damage and enhancing public safety. Additionally, this system can provide valuable data to support long-term water resource management and planning, which is essential given the city's tropical rainforest biome and associated environmental challenges.",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -549,7 +403,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "low",
             "TimelineForImplementation": "<5 years",
@@ -568,71 +428,15 @@
             ],
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
-                "storms": "high"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CXL",
-        "cityName": "Caxias do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0156",
-        "actionName": "Implementation of urban gardens",
-        "actionPriority": 10,
-        "explanation": "The implementation of urban gardens in Caxias do Sul is a significant action due to its potential to enhance food security, which is a key concern given the city's vulnerability to floods. Urban gardens can provide a sustainable source of fresh produce, reducing dependency on external food supplies and mitigating the impact of food shortages during extreme weather events. Additionally, these gardens can contribute to biodiversity and improve the urban environment, offering green spaces that can help manage urban heat and improve public health. By promoting local food production, urban gardens also support community resilience and social cohesion, which are crucial in addressing socio-economic challenges.",
-        "action": {
-            "ActionID": "icare_0156",
-            "ActionName": "Implementation of urban gardens",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "heatwaves",
-                "landslides",
-                "floods"
-            ],
-            "Sector": null,
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Identify and assess the feasibility of suitable areas for the installation of urban gardens and ensure that the sites chosen meet the expectations of the community.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Ensure availability of detailed land-use maps and urban planning data.",
-                "Engage with local communities to understand their needs and expectations.",
-                "Evaluate soil quality, water availability, and form partnerships to support the establishment and maintenance of gardens."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of urban gardens created.",
-                "Amount of locally produced food (kg/year).",
-                "Number of direct beneficiaries."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "heatwaves": "high",
-                "landslides": "low",
-                "floods": "medium"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -642,8 +446,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
-        "actionPriority": 11,
-        "explanation": "Developing diagnostics and restoring areas of Special Social Interest Zones (ZEIS) in Caxias do Sul is crucial due to the city's socio-economic context. With a very low-income population, enhancing these areas can significantly improve living conditions and access to essential services. Additionally, addressing these zones can help mitigate the impacts of environmental hazards such as floods and landslides, which pose high risks to public health and infrastructure. By focusing on ZEIS, the city can foster more resilient and sustainable communities, ultimately contributing to a better quality of life for its residents.",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -673,7 +477,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -691,77 +501,16 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
-                "sea-level-rise": "medium",
+                "droughts": null,
+                "heatwaves": "high",
                 "floods": "medium",
+                "sea-level-rise": "medium",
                 "landslides": "low",
-                "diseases": "medium",
-                "heatwaves": "high"
+                "storms": null,
+                "wildfires": null,
+                "diseases": "medium"
             },
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR CXL",
-        "cityName": "Caxias do Sul",
-        "region": "RS",
-        "regionName": "Rio Grande do Sul",
-        "actionId": "ipcc_0093",
-        "actionName": "Availability of health infrastructure",
-        "actionPriority": 12,
-        "explanation": "The availability of health infrastructure is crucial for Caxias do Sul, especially given the high risk of public health impacts from landslides and floods. These hazards pose significant threats to the well-being of the population, necessitating robust health services to manage potential emergencies. Additionally, the city's tropical rainforest biome and elevation may contribute to unique health challenges that require specialized infrastructure. Ensuring adequate health facilities can help mitigate the effects of climate-related health risks and improve overall resilience.",
-        "action": {
-            "ActionID": "ipcc_0093",
-            "ActionName": "Availability of health infrastructure",
-            "ActionType": [
-                "adaptation"
-            ],
-            "Hazard": [
-                "droughts",
-                "floods",
-                "sea-level-rise",
-                "diseases"
-            ],
-            "Sector": [
-                "public_health",
-                "water_resources"
-            ],
-            "Subsector": null,
-            "PrimaryPurpose": [
-                "climate_resilience"
-            ],
-            "Description": "Ensuring access to safe drinking water infrastructure, protecting health services, and improving sanitation systems to mitigate climate impacts. This includes developing adaptive measures for water security against droughts, floods, and sea-level rise. Strengthening infrastructure resilience ensures equitable access to health services, reduces contamination risks, and addresses the impacts of climate-induced hazards.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": "Enhances access to critical health and water resources for vulnerable and underserved communities, mitigating inequities caused by climate impacts.",
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Adequate funding",
-                "technological investments in health and water infrastructure",
-                "effective governance and cross-sector coordination"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reduction in waterborne diseases",
-                "improved access to potable water",
-                "number of resilient health facilities developed"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": "high",
-                "floods": "high",
-                "sea-level-rise": "high",
-                "diseases": "high"
-            },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -771,8 +520,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
-        "actionPriority": 13,
-        "explanation": "Implementing permeable pavements and increasing green areas in roadways is crucial for Caxias do Sul due to its high risk of floods and landslides. These measures can significantly enhance water absorption and reduce surface runoff, mitigating the impact of heavy rainfall. Additionally, increasing green areas contributes to urban cooling, which is beneficial in addressing the heatwave risks that affect public health and infrastructure. This action also supports biodiversity by providing more natural habitats within the urban environment.",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -800,7 +549,13 @@
                 "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "<5 years",
@@ -818,11 +573,160 @@
                 "local"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "medium",
                 "floods": "high",
+                "sea-level-rise": null,
                 "landslides": "medium",
-                "heatwaves": "medium"
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CXL",
+        "cityName": "Caxias do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0156",
+        "actionName": "Implementation of urban gardens",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0156",
+            "ActionName": "Implementation of urban gardens",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "landslides",
+                "floods"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Identify and assess the feasibility of suitable areas for the installation of urban gardens and ensure that the sites chosen meet the expectations of the community.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "medium",
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Ensure availability of detailed land-use maps and urban planning data.",
+                "Engage with local communities to understand their needs and expectations.",
+                "Evaluate soil quality, water availability, and form partnerships to support the establishment and maintenance of gardens."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of urban gardens created.",
+                "Amount of locally produced food (kg/year).",
+                "Number of direct beneficiaries."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": "low",
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CXL",
+        "cityName": "Caxias do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "icare_0172",
+        "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0172",
+            "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "landslides",
+                "floods",
+                "storms"
+            ],
+            "Sector": null,
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "This action aims to strengthen the development of the Municipal Risk Reduction Plan (PMRR) in the municipality, as it is a highly relevant tool for managing climate risks, especially river floods and landslides.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Availability of technical expertise and resources to develop and implement the Municipal Risk Reduction Plan (PMRR)",
+                "Data collection and analysis to accurately assess climate risks, especially related to river floods and landslides",
+                "Political commitment and coordination between various government agencies to integrate the PMRR into broader urban planning and disaster management strategies"
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of vulnerable population covered by MRRP (%).",
+                "Number of risk reduction measures implemented annually.",
+                "Reduction in the number of people affected by climate-related disasters annually."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "high",
+                "storms": "medium",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -832,8 +736,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
-        "actionPriority": 14,
-        "explanation": "Strengthening the healthcare network in Caxias do Sul is crucial due to the high risk of climate-related health impacts. The city faces significant threats from landslides and floods, both of which pose severe risks to public health. Additionally, the potential for disease outbreaks exacerbated by climate change further underscores the need for a robust healthcare system. By enhancing healthcare services, the city can better manage and mitigate the health impacts of these climate hazards, ensuring the well-being of its residents.",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -864,7 +768,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "high",
             "TimelineForImplementation": ">10 years",
@@ -883,14 +793,16 @@
                 "national"
             ],
             "AdaptationEffectivenessPerHazard": {
+                "droughts": "medium",
                 "heatwaves": "high",
-                "diseases": "medium",
-                "landslides": "medium",
                 "floods": "high",
+                "sea-level-rise": null,
+                "landslides": "medium",
                 "storms": "high",
-                "droughts": "medium"
+                "wildfires": null,
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -900,8 +812,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
-        "actionPriority": 15,
-        "explanation": "Farm and fishery improvements are crucial for Caxias do Sul due to the significant risk of droughts impacting water resources and food security. Enhancing agricultural practices can help mitigate these risks by improving water efficiency and crop resilience. Additionally, with the city's low-income socio-economic status, boosting local food production can enhance food security and provide economic benefits to the community. These improvements can also contribute to reducing emissions from land use, aligning with the city's environmental goals.",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -935,7 +847,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Ensures access to resources for marginalized farmers and fishers, promotes diverse livelihood options, and builds resilience in underserved communities.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -955,10 +873,88 @@
                 "droughts": "high",
                 "heatwaves": "high",
                 "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
                 "wildfires": "low",
-                "storms": "medium"
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CXL",
+        "cityName": "Caxias do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0094",
+        "actionName": "Access to health care",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0094",
+            "ActionName": "Access to health care",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "heatwaves",
+                "floods",
+                "droughts"
+            ],
+            "Sector": [
+                "public_health",
+                "water_resources"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Enhancing access to health care services, including health and nutrition services, clean water, sanitation, and culturally appropriate mental health resources. Expanding telemedicine capabilities enables efficient health service delivery, particularly for remote and underserved populations. Strengthening basic public health systems and disaster preparedness can rapidly reduce vulnerability to climate-related health risks.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Promotes equitable access to health care for marginalized and vulnerable groups, including homeless populations, remote communities, and those affected by housing inequities.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Investment in telemedicine technologies",
+                "Strengthened governance of public health systems",
+                "Capacity building for health workers",
+                "Infrastructure upgrades for health facilities"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in climate-related mortality",
+                "Increased access to telemedicine",
+                "Number of culturally tailored health programs implemented",
+                "Improved water and sanitation access metrics"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -968,8 +964,8 @@
         "regionName": "Rio Grande do Sul",
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
-        "actionPriority": 16,
-        "explanation": "Improving food storage and distribution is crucial for Caxias do Sul due to its vulnerability to floods, which pose a significant risk to food security. The city faces a high risk of floods, which can disrupt food supply chains and lead to shortages. By enhancing food storage and distribution systems, the city can better withstand these disruptions and ensure a stable food supply for its population. Additionally, efficient food distribution can help mitigate the impacts of droughts, another hazard affecting the region, by ensuring that food reaches all areas, even during challenging conditions.",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -1001,7 +997,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Supports equitable access to food for marginalized and vulnerable populations by prioritizing local food production and improving distribution systems that reach underserved areas.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -1020,11 +1022,163 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": "high",
                 "floods": "high",
+                "sea-level-rise": null,
+                "landslides": null,
                 "storms": "high",
-                "heatwaves": "high"
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CXL",
+        "cityName": "Caxias do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0093",
+        "actionName": "Availability of health infrastructure",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0093",
+            "ActionName": "Availability of health infrastructure",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "floods",
+                "sea-level-rise",
+                "diseases"
+            ],
+            "Sector": [
+                "public_health",
+                "water_resources"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Ensuring access to safe drinking water infrastructure, protecting health services, and improving sanitation systems to mitigate climate impacts. This includes developing adaptive measures for water security against droughts, floods, and sea-level rise. Strengthening infrastructure resilience ensures equitable access to health services, reduces contamination risks, and addresses the impacts of climate-induced hazards.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Enhances access to critical health and water resources for vulnerable and underserved communities, mitigating inequities caused by climate impacts.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Adequate funding",
+                "technological investments in health and water infrastructure",
+                "effective governance and cross-sector coordination"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in waterborne diseases",
+                "improved access to potable water",
+                "number of resilient health facilities developed"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": null,
+                "floods": "high",
+                "sea-level-rise": "high",
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": "high"
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR CXL",
+        "cityName": "Caxias do Sul",
+        "region": "RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0092",
+        "actionName": "Social safety nets",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0092",
+            "ActionName": "Social safety nets",
+            "ActionType": [
+                "adaptation"
+            ],
+            "Hazard": [
+                "droughts",
+                "heatwaves",
+                "floods",
+                "storms"
+            ],
+            "Sector": [
+                "food_security",
+                "public_health"
+            ],
+            "Subsector": null,
+            "PrimaryPurpose": [
+                "climate_resilience"
+            ],
+            "Description": "Social safety nets encompass adaptive social protection mechanisms to reduce food insecurity and malnutrition, especially for vulnerable populations. These include cash transfers, school feeding programs, public work initiatives, unemployment compensation, land reforms, credit and insurance schemes. Integrated approaches combine climate risk assessments with disaster risk reduction, education, and social equity to enhance resilience to climate stresses.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 2,
+                "housing": 1,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": "Enhances the social status and rights of marginalized groups, protects vulnerable populations, reduces inequalities, and promotes education and gender equity.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Integration of climate and disaster risk into social protection",
+                "education programs",
+                "coordination with sustainable livelihoods and financial inclusion initiatives"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in malnutrition rates",
+                "Increase in education access for vulnerable groups",
+                "Participation in social protection programs"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": "high",
+                "heatwaves": "high",
+                "floods": "medium",
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "medium",
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1035,7 +1189,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 17,
-        "explanation": "The creation of a financial support program to address extreme weather events is crucial for Caxias do Sul due to its high vulnerability to natural hazards such as landslides and floods. These events pose significant risks to public health and infrastructure, as indicated by the high risk scores. Implementing financial support mechanisms can help mitigate the economic impact on affected communities, ensuring quicker recovery and resilience. Additionally, such a program can provide necessary resources for preventive measures, reducing future risks and enhancing the city's overall preparedness.",
+        "explanation": "Ranked #17 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1068,7 +1222,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "medium",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -1088,14 +1248,14 @@
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "medium",
                 "heatwaves": "medium",
-                "diseases": "medium",
-                "landslides": "medium",
-                "wildfires": "medium",
                 "floods": "medium",
                 "sea-level-rise": "medium",
-                "storms": "medium"
+                "landslides": "medium",
+                "storms": "medium",
+                "wildfires": "medium",
+                "diseases": "medium"
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1106,7 +1266,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Water capture and storage is a critical action for Caxias do Sul due to the city's vulnerability to droughts, which pose a significant risk to water resources and food security. The city's tropical rainforest biome and its very low inadequate water access indicate that while current access is sufficient, future climate impacts could strain resources. Implementing water capture and storage systems can help mitigate these risks by ensuring a reliable water supply during periods of drought. Additionally, this action supports the city's resilience against climate change impacts, safeguarding both public health and infrastructure.",
+        "explanation": "Ranked #18 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1139,7 +1299,13 @@
                 "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": "Ensures access to water for underserved communities, supports sustainable livelihoods in water-scarce regions, and promotes equitable resource distribution through inclusive decision-making processes.",
-            "GHGReductionPotential": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
@@ -1157,10 +1323,15 @@
             "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
                 "droughts": "high",
+                "heatwaves": null,
                 "floods": "high",
-                "storms": "high"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1168,60 +1339,86 @@
         "cityName": "Caxias do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0172",
-        "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+        "actionId": "ipcc_0086",
+        "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Developing and implementing the Municipal Risk Reduction Plan (PMRR) is crucial for Caxias do Sul due to its high vulnerability to climate-related hazards such as landslides and floods. These hazards pose significant risks to public health and infrastructure, as indicated by the high normalized risk scores. By identifying vulnerable population groups, the city can tailor its risk reduction strategies to protect those most at risk, enhancing community resilience. This action is essential to mitigate the impacts of climate change and ensure the safety and well-being of the city's residents.",
+        "explanation": "Ranked #19 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0172",
-            "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
+            "ActionID": "ipcc_0086",
+            "ActionName": "Ecosystem-based adaptation",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
-                "landslides",
-                "floods",
-                "storms"
+                "storms",
+                "sea-level-rise",
+                "heatwaves",
+                "floods"
             ],
-            "Sector": null,
+            "Sector": [
+                "biodiversity",
+                "geo-hydrological_disasters",
+                "water_resources",
+                "public_health"
+            ],
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "This action aims to strengthen the development of the Municipal Risk Reduction Plan (PMRR) in the municipality, as it is a highly relevant tool for managing climate risks, especially river floods and landslides.",
+            "Description": "Restoring and sustainably managing marine, coastal, urban, riverine, and wetland ecosystems to protect against climate hazards such as storm surges, floods, and heatwaves. Efforts include agroecology, coastal and marine vegetation and reefs, vegetation corridors, mangrove habitat restoration, urban green space to reduce temperatures. These actions improve biodiversity, store carbon, enhance water quality, and provide socio-economic and cultural co-benefits.",
             "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
                 "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+                "housing": 1,
+                "mobility": 1,
+                "stakeholder_engagement": 1
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
+            "EquityAndInclusionConsiderations": "Supports vulnerable communities by enhancing climate resilience, promoting equitable access to ecosystem services, and creating livelihood opportunities, especially for marginalized and underserved populations.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
             "AdaptationEffectiveness": "high",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Availability of technical expertise and resources to develop and implement the Municipal Risk Reduction Plan (PMRR)",
-                "Data collection and analysis to accurately assess climate risks, especially related to river floods and landslides",
-                "Political commitment and coordination between various government agencies to integrate the PMRR into broader urban planning and disaster management strategies"
+                "Community engagement",
+                "Regulatory support",
+                "Financial investment",
+                "Urban planning",
+                "Climate-resilient vegetation",
+                "Biodiversity assessments",
+                "Catchment management",
+                "Upstream planning",
+                "Sustainable funding"
             ],
             "KeyPerformanceIndicators": [
-                "Percentage of vulnerable population covered by MRRP (%).",
-                "Number of risk reduction measures implemented annually.",
-                "Reduction in the number of people affected by climate-related disasters annually."
+                "Reduction in storm surge damage",
+                "Carbon sequestration rates",
+                "Increased biodiversity",
+                "Temperature reduction in urban areas",
+                "Improved water quality",
+                "Access to green spaces by underserved communities",
+                "Reduction in flood events",
+                "Enhanced ecosystem health"
             ],
-            "PowersAndMandates": [
-                "local"
-            ],
+            "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
-                "landslides": "high",
+                "droughts": null,
+                "heatwaves": "high",
                 "floods": "high",
-                "storms": "medium"
+                "sea-level-rise": "high",
+                "landslides": null,
+                "storms": "high",
+                "wildfires": null,
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1229,70 +1426,75 @@
         "cityName": "Caxias do Sul",
         "region": "RS",
         "regionName": "Rio Grande do Sul",
-        "actionId": "icare_0148",
-        "actionName": "Create the Municipal Climate Change Forum",
+        "actionId": "ipcc_0098",
+        "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 20,
-        "explanation": "Creating the Municipal Climate Change Forum in Caxias do Sul is a crucial step towards addressing the city's environmental challenges. The city faces significant risks from climate-related hazards such as floods, landslides, and droughts, which threaten public health, infrastructure, and food security. Establishing a dedicated forum will facilitate collaboration among stakeholders, enabling the development of effective strategies to mitigate these risks. Additionally, the forum can serve as a platform for raising awareness and engaging the community in climate action, which is essential for building resilience and ensuring sustainable development.",
+        "explanation": "Ranked #20 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0148",
-            "ActionName": "Create the Municipal Climate Change Forum",
+            "ActionID": "ipcc_0098",
+            "ActionName": "Behaviour change in diets and food waste",
             "ActionType": [
                 "adaptation"
             ],
             "Hazard": [
                 "droughts",
-                "diseases",
                 "heatwaves",
-                "landslides",
                 "floods",
-                "wildfires",
-                "sea-level-rise",
-                "storms"
+                "wildfires"
             ],
-            "Sector": null,
+            "Sector": [
+                "food_security",
+                "biodiversity"
+            ],
             "Subsector": null,
             "PrimaryPurpose": [
                 "climate_resilience"
             ],
-            "Description": "Creation of a Municipal Climate Change Forum with the participation of community leaders, scientists, collectives, research institutes, NGOs, and members of the municipal and state administration. The Forum will serve as a reference for actions related to Climate Change, aiming to monitor future policies on the subject in the municipality, stimulate dialogue, and create a network of discussions about the climate crisis.",
+            "Description": "Reducing food loss and waste through improved food production, distribution, and consumption practices. Actions include enhancing agricultural techniques, adopting water-saving technologies, implementing low-cost storage solutions, and promoting plant-based diets. Policymakers can encourage these behaviors with appropriate pricing policies, sustainable agriculture initiatives, and support for disadvantaged groups. The action emphasizes shifting to healthier diets, reducing overconsumption, and supporting local food systems to mitigate greenhouse gas emissions and ensure food security under climate change.",
             "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
                 "stakeholder_engagement": 2
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": null,
-            "AdaptationEffectiveness": "medium",
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
+            "EquityAndInclusionConsiderations": "Promotes access to affordable, healthy food for vulnerable communities, empowering women, youth, and socially disadvantaged groups. Encourages equitable participation in sustainable agricultural practices and local food networks.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": "high",
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Engagement of diverse stakeholders, including community leaders, scientists, NGOs, and local authorities, to establish and sustain the Forum.",
-                "Allocation of resources to facilitate regular meetings, workshops, and events for the Forum to remain active and impactful.",
-                "Development of a clear framework and guidelines for the Forum to monitor and guide climate change policies and initiatives within the municipality."
+                "Education and training for farmers",
+                "Access to sustainable agricultural inputs",
+                "Policy support for sustainable practices",
+                "Technological infrastructure for storage and processing"
             ],
             "KeyPerformanceIndicators": [
-                "Percentage of key stakeholders actively participating in the forum.",
-                "Number of climate-related policies or actions proposed through the forum.",
-                "Public engagement in forum initiatives (measured by event attendance or surveys)"
+                "Reduction in food loss and waste percentages",
+                "Increase in adoption of plant-based diets",
+                "Improved food security indicators",
+                "Reduction in GHG emissions from food systems"
             ],
-            "PowersAndMandates": [
-                "local"
-            ],
+            "PowersAndMandates": null,
             "AdaptationEffectivenessPerHazard": {
-                "droughts": "medium",
-                "diseases": "medium",
+                "droughts": "high",
                 "heatwaves": "medium",
-                "landslides": "low",
                 "floods": "medium",
-                "wildfires": "medium",
-                "sea-level-rise": "medium",
-                "storms": "medium"
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": "low",
+                "diseases": null
             },
-            "biome": "none"
+            "biome": null
         }
     }
 ]

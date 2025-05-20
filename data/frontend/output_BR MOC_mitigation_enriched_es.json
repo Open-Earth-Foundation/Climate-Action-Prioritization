@@ -1,1261 +1,1448 @@
 [
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0139",
-    "actionName": "Implementation of urban toll.",
-    "actionPriority": 1,
-    "explanation": "La implementación de un peaje urbano en Montes Claros es una prioridad debido a las altas emisiones del transporte, que constituyen un aporte significativo a las emisiones totales de la ciudad. Al introducir un peaje, la ciudad puede fomentar el uso del transporte público y reducir la cantidad de vehículos en las calles, disminuyendo así las emisiones. Además, esta medida puede ayudar a aliviar la congestión del tráfico, mejorando la calidad del aire y la salud pública. Dado el estatus de bajos ingresos de la ciudad, es fundamental garantizar que el sistema de peaje sea equitativo y no afecte de manera desproporcionada a los residentes de bajos ingresos.",
-    "action": {
-      "ActionID": "icare_0139",
-      "ActionName": "Implementación de peaje urbano.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Establecimiento de un cargo por congestión y/o rotación de matrículas para vehículos ligeros en áreas saturadas y en horarios saturados",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": -1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Establecer un marco legal claro e invertir en tecnología para el monitoreo y la aplicación (por ejemplo, cámaras, sensores).",
-        "Lanzar campañas de concienciación y asegurar la disponibilidad de transporte público eficiente o soluciones de movilidad alternativas.",
-        "Colaborar con los gobiernos locales y las agencias de transporte, y establecer sistemas para monitorear y evaluar la efectividad de la política."
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción de emisiones de CO₂ del transporte por carretera urbano (tCO₂e/año).",
-        "Ingresos generados por la implementación del cargo por congestión urbana (R$)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0139",
+        "actionName": "Implementation of urban toll.",
+        "actionPriority": 1,
+        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0139",
+            "ActionName": "Implementaci\u00f3n de peaje urbano.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Establecimiento de un cargo por congesti\u00f3n y/o rotaci\u00f3n de matr\u00edculas para veh\u00edculos ligeros en \u00e1reas saturadas y en horarios saturados",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Establecer un marco legal claro e invertir en tecnolog\u00eda para el monitoreo y la aplicaci\u00f3n (por ejemplo, c\u00e1maras, sensores).",
+                "Lanzar campa\u00f1as de concienciaci\u00f3n y asegurar la disponibilidad de transporte p\u00fablico eficiente o soluciones de movilidad alternativas.",
+                "Colaborar con los gobiernos locales y las agencias de transporte, y establecer sistemas para monitorear y evaluar la efectividad de la pol\u00edtica."
+            ],
+            "KeyPerformanceIndicators": [
+                "Reducci\u00f3n de emisiones de CO\u2082 del transporte por carretera urbano (tCO\u2082e/a\u00f1o).",
+                "Ingresos generados por la implementaci\u00f3n del cargo por congesti\u00f3n urbana (R$)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0094",
+        "actionName": "Adoption of biomethane in public fleets.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0094",
+            "ActionName": "Adopci\u00f3n de biometano en flotas p\u00fablicas.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones p\u00fablicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo de infraestructura para la producci\u00f3n, procesamiento y distribuci\u00f3n de biometano a partir de residuos urbanos y agroindustriales.",
+                "Adaptaci\u00f3n o adquisici\u00f3n de autobuses y camiones p\u00fablicos capaces de utilizar biometano como fuente de combustible.",
+                "Establecimiento de pol\u00edticas e incentivos financieros para apoyar la producci\u00f3n de biometano y su integraci\u00f3n en las flotas municipales."
+            ],
+            "KeyPerformanceIndicators": [
+                "Ahorro de costos en la operaci\u00f3n de la flota debido al uso de biometano (USD/a\u00f1o).",
+                "Aumento en la capacidad de producci\u00f3n de biometano (%).",
+                "Porcentaje de biometano obtenido localmente versus importado."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0121",
+        "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0121",
+            "ActionName": "Incentivo para crear programas de bicicletas compartidas en \u00e1reas urbanas, con un enfoque en bicicletas el\u00e9ctricas.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Esta acci\u00f3n fomenta el establecimiento de sistemas de bicicletas compartidas en las ciudades, promoviendo espec\u00edficamente el uso de bicicletas el\u00e9ctricas. Estos sistemas permiten a los residentes alquilar bicicletas el\u00e9ctricas para viajes cortos, reduciendo la dependencia de los autom\u00f3viles para el transporte urbano. Al integrar bicicletas el\u00e9ctricas, las ciudades pueden reducir a\u00fan m\u00e1s las emisiones de gases de efecto invernadero, aliviar la congesti\u00f3n del tr\u00e1fico y promover un modo de transporte m\u00e1s saludable y sostenible tanto para \u00e1reas urbanas como rurales. Esta iniciativa tambi\u00e9n apoya la igualdad de movilidad, ya que hace que las bicicletas sean m\u00e1s accesibles para un rango m\u00e1s amplio de personas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Establecimiento de sistemas de bicicletas compartidas con un enfoque en bicicletas el\u00e9ctricas para reducir la dependencia del autom\u00f3vil.",
+                "Integraci\u00f3n de bicicletas el\u00e9ctricas para reducir las emisiones de gases de efecto invernadero, aliviar la congesti\u00f3n del tr\u00e1fico y promover el transporte sostenible.",
+                "Promoci\u00f3n de la igualdad de movilidad haciendo que las bicicletas el\u00e9ctricas sean accesibles para una poblaci\u00f3n m\u00e1s amplia."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de bicicletas el\u00e9ctricas disponibles en programas de bicicletas compartidas.",
+                "Aumento anual en usuarios de bicicletas compartidas.",
+                "Reducci\u00f3n estimada en emisiones equivalentes de CO\u2082 por la adopci\u00f3n de bicicletas el\u00e9ctricas compartidas."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0057",
+        "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0057",
+            "ActionName": "Expansi\u00f3n de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorra\u00edles).",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "railways"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Estos sistemas ofrecen alta capacidad y bajas emisiones, cruciales para ciudades con alta densidad de poblaci\u00f3n.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 1,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Inversi\u00f3n en el desarrollo y expansi\u00f3n de infraestructuras de transporte p\u00fablico de alta capacidad, como autobuses el\u00e9ctricos y sistemas de metro.",
+                "Implementaci\u00f3n de pol\u00edticas e incentivos para fomentar el uso del transporte p\u00fablico sobre los veh\u00edculos privados.",
+                "Integraci\u00f3n de fuentes de energ\u00eda renovable para alimentar estos sistemas, reduciendo a\u00fan m\u00e1s las emisiones."
+            ],
+            "KeyPerformanceIndicators": [
+                "Longitud de las nuevas l\u00edneas de tr\u00e1nsito construidas (km/a\u00f1o).",
+                "Reducci\u00f3n en la congesti\u00f3n del tr\u00e1fico vial (%).",
+                "Reducci\u00f3n en el uso de veh\u00edculos privados (n\u00famero de viajes evitados/a\u00f1o)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0117",
+        "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0117",
+            "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Aumentar la calidad de la prestaci\u00f3n del servicio de transporte, con el objetivo de cambiar el modo de transporte de los pasajeros del transporte motorizado privado al transporte p\u00fablico, reduciendo as\u00ed las emisiones generadas por coches y motocicletas.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Mejorar la calidad de los servicios de transporte p\u00fablico para atraer pasajeros del transporte motorizado privado.",
+                "Implementar pol\u00edticas e infraestructuras que apoyen y mejoren la eficiencia de los sistemas de transporte p\u00fablico.",
+                "Promover la concienciaci\u00f3n sobre los beneficios ambientales del transporte p\u00fablico para fomentar un cambio modal y reducir las emisiones."
+            ],
+            "KeyPerformanceIndicators": [
+                "Aumento anual en el n\u00famero de pasajeros que utilizan el sistema de autobuses municipales.",
+                "Porcentaje de rutas de autob\u00fas con mejor fiabilidad en el tiempo de viaje.",
+                "Reducci\u00f3n estimada en las emisiones equivalentes de CO\u2082 debido al aumento del uso del transporte p\u00fablico."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0128",
+        "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0128",
+            "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implementar programas que paguen a los propietarios de tierras por mantener o mejorar las condiciones ambientales en sus propiedades.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Creaci\u00f3n de mecanismos de financiaci\u00f3n y criterios de elegibilidad claros con indicadores de rendimiento.",
+                "Alianzas con organizaciones ambientales y campa\u00f1as de concienciaci\u00f3n para fomentar la participaci\u00f3n.",
+                "Integraci\u00f3n con marcos legales para garantizar la sostenibilidad del programa."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de contratos activos de Pago por Servicios Ambientales (PES) firmados.",
+                "\u00c1rea total bajo pr\u00e1cticas de conservaci\u00f3n o restauraci\u00f3n incentivadas (hect\u00e1reas).",
+                "Cantidad de carbono secuestrado o emisiones evitadas a trav\u00e9s de acciones de PES (tCO\u2082e/a\u00f1o)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0133",
+        "actionName": "Promote Urban Reforestation and Green Corridors",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0133",
+            "ActionName": "Promover la Reforestaci\u00f3n Urbana y los Corredores Verdes",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Aumentar la cobertura arb\u00f3rea urbana para mitigar el efecto de isla de calor urbano y mejorar la biodiversidad.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 1,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "80-100"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Identificaci\u00f3n de \u00e1reas prioritarias y selecci\u00f3n de especies nativas y resilientes al clima para la plantaci\u00f3n de \u00e1rboles.",
+                "Alianzas con organizaciones locales y viveros, y asignaci\u00f3n de recursos para la plantaci\u00f3n y el mantenimiento.",
+                "Participaci\u00f3n comunitaria para garantizar el cuidado y apoyo a largo plazo."
+            ],
+            "KeyPerformanceIndicators": [
+                "Aumento en la cobertura de dosel arb\u00f3reo urbano (%)",
+                "Longitud total de corredores verdes creados o restaurados (kil\u00f3metros)",
+                "Reducci\u00f3n en las temperaturas del efecto de isla de calor urbano (\u00b0C)"
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0050",
+        "actionName": "Implement Agroforestry Systems",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0050",
+            "ActionName": "Implementar Sistemas Agroforestales",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promover sistemas agroforestales integrando \u00e1rboles en el cultivo de alimentos y pastos, aumentando la biodiversidad y la captura de carbono.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "80-100"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Provisi\u00f3n de apoyo t\u00e9cnico y orientaci\u00f3n a los agricultores sobre el dise\u00f1o e implementaci\u00f3n de sistemas agroforestales.",
+                "Desarrollo de incentivos financieros o subsidios para hacer la agroforester\u00eda m\u00e1s atractiva econ\u00f3micamente.",
+                "Creaci\u00f3n de pol\u00edticas que integren pr\u00e1cticas agroforestales en la planificaci\u00f3n del uso del suelo agr\u00edcola y los sistemas de tenencia de la tierra."
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de tierras agr\u00edcolas convertidas en sistemas agroforestales (%).",
+                "N\u00famero de nuevos proyectos agroforestales implementados.",
+                "Aumento en la captura de carbono en sistemas agroforestales (toneladas de CO\u2082e/a\u00f1o)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0129",
+        "actionName": "Facilitate Technology Transfer for Conservation Practices",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0129",
+            "ActionName": "Facilitar la Transferencia de Tecnolog\u00eda para Pr\u00e1cticas de Conservaci\u00f3n",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promover la adopci\u00f3n de pr\u00e1cticas agr\u00edcolas sostenibles mediante la capacitaci\u00f3n, proyectos piloto y demostraciones tecnol\u00f3gicas.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Provisi\u00f3n de programas de capacitaci\u00f3n y establecimiento de proyectos piloto para mostrar pr\u00e1cticas sostenibles.",
+                "Alianzas con instituciones de investigaci\u00f3n para el desarrollo de tecnolog\u00eda e incentivos financieros para fomentar la adopci\u00f3n.",
+                "Acceso a asistencia t\u00e9cnica para una implementaci\u00f3n exitosa."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de tecnolog\u00edas de conservaci\u00f3n transferidas y aplicadas en las granjas.",
+                "Porcentaje de productores capacitados para implementar pr\u00e1cticas de conservaci\u00f3n.",
+                "Reducci\u00f3n en la degradaci\u00f3n del suelo o aumento en la cobertura vegetal (hect\u00e1reas)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0130",
+        "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0130",
+            "ActionName": "Realizar Acciones de Asistencia T\u00e9cnica y Extensi\u00f3n Rural (ATER)",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Proporcionar apoyo t\u00e9cnico y capacitaci\u00f3n a los productores rurales para la producci\u00f3n agr\u00edcola sostenible.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Disponibilidad de personal t\u00e9cnico calificado y programas de formaci\u00f3n adaptados.",
+                "Alianzas con instituciones de investigaci\u00f3n agr\u00edcola y asignaci\u00f3n de recursos para el desarrollo de capacidades.",
+                "Compromiso con los productores rurales para asegurar su participaci\u00f3n activa."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de productores beneficiados con asistencia t\u00e9cnica rural (% del total).",
+                "Porcentaje de participantes que adoptan pr\u00e1cticas resilientes al clima.",
+                "Vulnerabilidad reducida de las propiedades al riesgo clim\u00e1tico (%)."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0131",
+        "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0131",
+            "ActionName": "Priorizar la Adquisici\u00f3n de Productos Agroecol\u00f3gicos de Producci\u00f3n Local en Compras P\u00fablicas",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Centrarse en comprar alimentos sostenibles y producidos localmente para las instituciones p\u00fablicas.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo de pol\u00edticas de adquisici\u00f3n e identificaci\u00f3n de proveedores locales confiables.",
+                "Alianzas con productores y asignaci\u00f3n de fondos para programas de adquisici\u00f3n sostenible.",
+                "Establecimiento de sistemas de monitoreo para garantizar el cumplimiento de los criterios de sostenibilidad."
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje del volumen total de compras p\u00fablicas provenientes de productores agroecol\u00f3gicos locales.",
+                "Cantidad de emisiones de CO\u2082 evitadas debido a la reducci\u00f3n de la distancia de transporte (tCO\u2082e).",
+                "N\u00famero de productores agroecol\u00f3gicos beneficiados por las compras p\u00fablicas."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0132",
+        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0132",
+            "ActionName": "Fomentar la Producci\u00f3n Agroecol\u00f3gica Local y las Cadenas de Suministro Cortas",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Apoyar pr\u00e1cticas agr\u00edcolas locales y sostenibles y reducir las emisiones asociadas con el transporte de alimentos.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Incentivos para pr\u00e1cticas agr\u00edcolas sostenibles y desarrollo de redes locales de distribuci\u00f3n de alimentos.",
+                "Alianzas con productores e inversi\u00f3n en infraestructura para apoyar los mercados locales.",
+                "Pol\u00edticas para priorizar m\u00e9todos de transporte de bajas emisiones."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de productores que se adhieren a pr\u00e1cticas agroecol\u00f3gicas locales.",
+                "Porcentaje de alimentos consumidos en la ciudad provenientes de cadenas cortas.",
+                "Reducci\u00f3n de emisiones asociadas con el transporte de alimentos (tCO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0134",
+        "actionName": "Strengthen Mechanisms for Deforestation Control",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0134",
+            "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestaci\u00f3n",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Mejorar la supervisi\u00f3n y la aplicaci\u00f3n de la ley para prevenir la deforestaci\u00f3n ilegal y promover el uso sostenible de la tierra.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "80-100"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Fuerte marco legal, tecnolog\u00edas de monitoreo avanzadas (sat\u00e9lites y drones), y desarrollo de capacidades para las autoridades locales.",
+                "Colaboraci\u00f3n con las comunidades locales y financiaci\u00f3n adecuada para los esfuerzos de aplicaci\u00f3n.",
+                "Transparencia y responsabilidad en los informes para garantizar una implementaci\u00f3n efectiva."
+            ],
+            "KeyPerformanceIndicators": [
+                "\u00c1rea total monitoreada para la deforestaci\u00f3n (hect\u00e1reas/a\u00f1o).",
+                "Reducci\u00f3n en la tasa anual de deforestaci\u00f3n (%).",
+                "Cantidad de emisiones evitadas al reducir la deforestaci\u00f3n (tCO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "c40_0026",
+        "actionName": "Vehicle Emissions",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "c40_0026",
+            "ActionName": "Emisiones de Veh\u00edculos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Las estrategias de reducci\u00f3n de \"Vehicle Emissions\" se centran en minimizar el impacto ambiental de todo tipo de veh\u00edculos. La implementaci\u00f3n de tecnolog\u00edas m\u00e1s limpias y la promoci\u00f3n de combustibles alternativos contribuyen a reducir las emisiones, fomentando un transporte sostenible y ecol\u00f3gico.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "Las estrategias de reducci\u00f3n de \"Emisiones de Veh\u00edculos\" promueven inherentemente la equidad y la inclusi\u00f3n al abordar los impactos ambientales que afectan desproporcionadamente a las comunidades vulnerables y desatendidas. Estas comunidades a menudo experimentan niveles m\u00e1s altos de contaminaci\u00f3n del aire y problemas de salud relacionados debido a la proximidad a \u00e1reas de alto tr\u00e1fico y zonas industriales. Al implementar tecnolog\u00edas m\u00e1s limpias y promover combustibles alternativos, la acci\u00f3n beneficia directamente a estas poblaciones al mejorar la calidad del aire y reducir los riesgos para la salud.\n\nAdem\u00e1s, el enfoque en el transporte sostenible y ecol\u00f3gico puede mejorar el acceso a opciones de transporte asequibles y eficientes para las comunidades desatendidas, que pueden carecer de un transporte p\u00fablico confiable. Esta inclusividad asegura que todos los miembros de la comunidad, independientemente de su estatus socioecon\u00f3mico, puedan beneficiarse de un aire m\u00e1s limpio y mejores resultados de salud p\u00fablica. En general, la acci\u00f3n reconoce y aborda las necesidades espec\u00edficas de las poblaciones vulnerables, fomentando un enfoque m\u00e1s equitativo hacia la acci\u00f3n clim\u00e1tica.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo y disponibilidad de tecnolog\u00edas de veh\u00edculos m\u00e1s limpias",
+                "Infraestructura para la distribuci\u00f3n de combustibles alternativos",
+                "Pol\u00edticas y regulaciones gubernamentales que apoyan la reducci\u00f3n de emisiones",
+                "Conciencia p\u00fablica y aceptaci\u00f3n de opciones de transporte ecol\u00f3gicas",
+                "Inversi\u00f3n en investigaci\u00f3n y desarrollo para soluciones de transporte sostenible"
+            ],
+            "KeyPerformanceIndicators": [
+                "Reducci\u00f3n de emisiones de veh\u00edculos (CO2, NOx, PM)",
+                "Porcentaje de veh\u00edculos que utilizan combustibles alternativos",
+                "N\u00famero de veh\u00edculos el\u00e9ctricos en circulaci\u00f3n",
+                "Mejoras en la eficiencia del combustible (millas por gal\u00f3n)",
+                "Tasa de adopci\u00f3n de tecnolog\u00edas m\u00e1s limpias",
+                "Reducci\u00f3n en el consumo de combustibles f\u00f3siles",
+                "Tasas de uso del transporte p\u00fablico",
+                "Mejoras en el \u00edndice de calidad del aire",
+                "Porcentaje de zonas de bajas emisiones establecidas",
+                "Inversi\u00f3n en infraestructura de transporte sostenible"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0085",
+        "actionName": "Promote the Adoption of Agroecological Pest Control",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0085",
+            "ActionName": "Promover la Adopci\u00f3n del Control de Plagas Agroecol\u00f3gico",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Fomentar m\u00e9todos de control de plagas que sean agroecol\u00f3gicos, como el uso de depredadores naturales y plantas repelentes, para reducir la dependencia de pesticidas qu\u00edmicos.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo de programas educativos para informar a los agricultores sobre m\u00e9todos de control de plagas agroecol\u00f3gicos y sus beneficios.",
+                "Provisi\u00f3n de acceso a recursos o materiales para implementar m\u00e9todos de control de plagas naturales, como la introducci\u00f3n de insectos beneficiosos o el cultivo de plantas repelentes.",
+                "Creaci\u00f3n de incentivos o redes de apoyo para fomentar la transici\u00f3n de los pesticidas qu\u00edmicos hacia alternativas sostenibles."
+            ],
+            "KeyPerformanceIndicators": [
+                "Aumento en las tasas de productividad en \u00e1reas que adoptan el control de plagas agroecol\u00f3gico (%).",
+                "N\u00famero de campa\u00f1as educativas realizadas sobre el control sostenible de plagas.",
+                "Impacto en los costos totales de producci\u00f3n debido a la adopci\u00f3n de pr\u00e1cticas agroecol\u00f3gicas (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0084",
+        "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0084",
+            "ActionName": "Crear incentivos para pr\u00e1cticas de agroforester\u00eda en sistemas ganaderos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Crear incentivos financieros y t\u00e9cnicos para integrar pr\u00e1cticas de agroforester\u00eda en los sistemas de ganader\u00eda, promoviendo la captura de carbono, la protecci\u00f3n del suelo y la mejora de la biodiversidad.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Desarrollo de programas de incentivos financieros, como subsidios o exenciones fiscales, para apoyar a los agricultores en la integraci\u00f3n de la agroforester\u00eda con los sistemas de ganader\u00eda.",
+                "Provisi\u00f3n de asistencia t\u00e9cnica y capacitaci\u00f3n a los agricultores sobre las mejores pr\u00e1cticas para la integraci\u00f3n de la agroforester\u00eda en las operaciones ganaderas.",
+                "Colaboraci\u00f3n con organizaciones agr\u00edcolas y ambientales para monitorear y evaluar los impactos de las pr\u00e1cticas de agroforester\u00eda en la captura de carbono, la salud del suelo y la biodiversidad."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de incentivos financieros proporcionados para integrar la agroforester\u00eda en los sistemas de ganader\u00eda.",
+                "Aumento en la calidad del suelo y la cobertura vegetal en propiedades gestionadas (%).",
+                "Crecimiento en la biodiversidad en \u00e1reas de agroforester\u00eda (% de especies identificadas)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0091",
+        "actionName": "Implementation of prioritized routes for sustainable vehicles.",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0091",
+            "ActionName": "Implementaci\u00f3n de rutas priorizadas para veh\u00edculos sostenibles.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Crear carriles prioritarios para veh\u00edculos el\u00e9ctricos, h\u00edbridos y de bajas emisiones en los centros urbanos para fomentar su adopci\u00f3n y reducir la contaminaci\u00f3n en \u00e1reas de alto tr\u00e1fico.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Implementaci\u00f3n de sistemas de gesti\u00f3n del tr\u00e1fico para hacer cumplir y monitorear el uso de carriles prioritarios.",
+                "Desarrollo de se\u00f1alizaci\u00f3n clara y campa\u00f1as de concienciaci\u00f3n p\u00fablica para informar a los conductores sobre la elegibilidad y el uso de los carriles.",
+                "Establecimiento de marcos regulatorios que incentiven la adopci\u00f3n de veh\u00edculos de bajas emisiones para la elegibilidad en carriles prioritarios."
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de veh\u00edculos sostenibles utilizando rutas prioritarias.",
+                "Aumento en la eficiencia de entrega de bienes transportados a trav\u00e9s de rutas prioritarias (%).",
+                "Tasa de aceptaci\u00f3n p\u00fablica de rutas prioritarias para veh\u00edculos sostenibles (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0059",
+        "actionName": "Modernization of ports and airports with zero-emission technologies",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0059",
+            "ActionName": "Modernizaci\u00f3n de puertos y aeropuertos con tecnolog\u00edas de cero emisiones",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "aviation"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Los puertos y aeropuertos pueden cambiar la maquinaria pesada y los veh\u00edculos a versiones el\u00e9ctricas o impulsadas por hidr\u00f3geno, reduciendo las emisiones de GEI en las principales infraestructuras de transporte.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "80-100",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "high",
+            "TimelineForImplementation": ">10 years",
+            "Dependencies": [
+                "Inversi\u00f3n en el desarrollo y despliegue de maquinaria y veh\u00edculos el\u00e9ctricos e impulsados por hidr\u00f3geno para puertos y aeropuertos.",
+                "Construcci\u00f3n de infraestructura de recarga y abastecimiento para equipos el\u00e9ctricos e impulsados por hidr\u00f3geno dentro de estos centros de transporte.",
+                "Colaboraci\u00f3n con organismos reguladores para garantizar que las nuevas tecnolog\u00edas cumplan con los est\u00e1ndares ambientales y las regulaciones de seguridad."
+            ],
+            "KeyPerformanceIndicators": [
+                "Porcentaje de operaciones impulsadas por tecnolog\u00edas de cero emisiones.",
+                "Reducci\u00f3n anual en el uso de combustibles f\u00f3siles en puertos y aeropuertos (litros/a\u00f1o).",
+                "Reducci\u00f3n de emisiones de GEI por la modernizaci\u00f3n de puertos y aeropuertos (toneladas de CO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "national"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0099",
+        "actionName": "Support Agroecological Certification Programs",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0099",
+            "ActionName": "Apoyar los Programas de Certificaci\u00f3n Agroecol\u00f3gica",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Fomentar la certificaci\u00f3n de productos agroecol\u00f3gicos que cumplan con criterios de sostenibilidad y tengan bajo impacto ambiental.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Desarrollo de est\u00e1ndares de certificaci\u00f3n claros y accesibles para productos agroecol\u00f3gicos que enfatizan la sostenibilidad y el bajo impacto ambiental.",
+                "Apoyo a los agricultores y productores para cumplir con los requisitos de certificaci\u00f3n a trav\u00e9s de capacitaci\u00f3n, asistencia financiera o orientaci\u00f3n t\u00e9cnica.",
+                "Creaci\u00f3n de estrategias de marketing y asociaciones para aumentar la visibilidad y la demanda de productos agroecol\u00f3gicos certificados en los mercados locales y globales."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de agricultores o productores que obtienen certificaciones agroecol\u00f3gicas.",
+                "Porcentaje de productos agr\u00edcolas certificados en el mercado (%).",
+                "Reducci\u00f3n en el uso de insumos sint\u00e9ticos (por ejemplo, fertilizantes, pesticidas)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR MOC",
+        "cityName": "Montes Claros",
+        "region": "MG",
+        "regionName": "Minas Gerais",
+        "actionId": "icare_0136",
+        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0136",
+            "ActionName": "Apoyar la Implementaci\u00f3n de Incentivos Fiscales Ecol\u00f3gicos",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Fomentar la aplicaci\u00f3n de impuestos ecol\u00f3gicos e incentivos para promover la conservaci\u00f3n ambiental.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Establecer un marco regulatorio claro con tasas impositivas justas e incentivos para la sostenibilidad.",
+                "Implementar sistemas de monitoreo efectivos para rastrear el cumplimiento y medir el impacto.",
+                "Promover la concienciaci\u00f3n p\u00fablica y fomentar la colaboraci\u00f3n entre gobiernos, empresas y comunidades."
+            ],
+            "KeyPerformanceIndicators": [
+                "N\u00famero de municipios que han adoptado incentivos fiscales ambientales.",
+                "Porcentaje de ingresos fiscales gastados en pr\u00e1cticas sostenibles.",
+                "Superficie o n\u00famero de propiedades que se benefician de pr\u00e1cticas de conservaci\u00f3n como resultado de los incentivos."
+            ],
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
     }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0121",
-    "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
-    "actionPriority": 2,
-    "explanation": "La acción de incentivar los programas de bicicletas compartidas, especialmente con bicicletas eléctricas, es crucial para Montes Claros debido a su potencial para reducir las emisiones del transporte, que actualmente son un contribuyente significativo a las emisiones totales de la ciudad. Al promover las bicicletas eléctricas, la ciudad puede ofrecer una alternativa sostenible y eficiente a los vehículos tradicionales, ayudando a aliviar la congestión urbana y mejorar la calidad del aire. Además, esta iniciativa está alineada con la necesidad de la ciudad de mejorar la salud pública y la resiliencia de la infraestructura, ya que proporciona un modo de transporte más saludable y reduce la presión sobre los sistemas de transporte existentes. Asimismo, el enfoque en las bicicletas eléctricas puede hacer que el ciclismo sea más accesible para un segmento más amplio de la población, animando a más residentes a adoptar este modo de transporte ecológico.",
-    "action": {
-      "ActionID": "icare_0121",
-      "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Esta acción fomenta el establecimiento de sistemas de bicicletas compartidas en las ciudades, promoviendo específicamente el uso de bicicletas eléctricas. Estos sistemas permiten a los residentes alquilar bicicletas eléctricas para viajes cortos, reduciendo la dependencia de los automóviles para el transporte urbano. Al integrar bicicletas eléctricas, las ciudades pueden reducir aún más las emisiones de gases de efecto invernadero, aliviar la congestión del tráfico y promover un modo de transporte más saludable y sostenible tanto para áreas urbanas como rurales. Esta iniciativa también apoya la igualdad de movilidad, ya que hace que las bicicletas sean más accesibles para un rango más amplio de personas.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Establecimiento de sistemas de bicicletas compartidas con un enfoque en bicicletas eléctricas para reducir la dependencia del automóvil.",
-        "Integración de bicicletas eléctricas para reducir las emisiones de gases de efecto invernadero, aliviar la congestión del tráfico y promover el transporte sostenible.",
-        "Promoción de la igualdad de movilidad haciendo que las bicicletas eléctricas sean accesibles para una población más amplia."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de bicicletas eléctricas disponibles en programas de bicicletas compartidas.",
-        "Aumento anual en usuarios de bicicletas compartidas.",
-        "Reducción estimada en emisiones equivalentes de CO₂ por la adopción de bicicletas eléctricas compartidas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0094",
-    "actionName": "Adoption of biomethane in public fleets.",
-    "actionPriority": 3,
-    "explanation": "La adopción de biometano en las flotas públicas de Montes Claros es una acción estratégica para reducir las emisiones del transporte, que constituyen una contribución significativa a las emisiones totales de la ciudad. Al hacer la transición al biometano, la ciudad puede disminuir su dependencia de los combustibles fósiles, reduciendo así su huella de carbono y mejorando la calidad del aire. Esta acción es especialmente importante dado el alto riesgo de impactos en la salud pública por olas de calor y enfermedades, los cuales pueden verse agravados por la mala calidad del aire. Además, el uso de biometano apoya prácticas sostenibles de gestión de residuos, ya que puede producirse a partir de desechos orgánicos, alineándose con objetivos ambientales más amplios.",
-    "action": {
-      "ActionID": "icare_0094",
-      "ActionName": "Adopción de biometano en flotas públicas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones públicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollo de infraestructura para la producción, procesamiento y distribución de biometano a partir de residuos urbanos y agroindustriales.",
-        "Adaptación o adquisición de autobuses y camiones públicos capaces de utilizar biometano como fuente de combustible.",
-        "Establecimiento de políticas e incentivos financieros para apoyar la producción de biometano y su integración en las flotas municipales."
-      ],
-      "KeyPerformanceIndicators": [
-        "Ahorro de costos en la operación de la flota debido al uso de biometano (USD/año).",
-        "Aumento en la capacidad de producción de biometano (%).",
-        "Porcentaje de biometano obtenido localmente versus importado."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0088",
-    "actionName": "Implementation of free public transportation programs during peak hours to reduce the use of individual vehicles",
-    "actionPriority": 4,
-    "explanation": "La implementación de programas de transporte público gratuito durante las horas pico en Montes Claros es una acción estratégica para abordar las altas emisiones del sector transporte, que constituyen un aporte significativo a las emisiones totales de la ciudad. Al fomentar el uso del transporte público, la ciudad puede reducir la dependencia de los vehículos particulares, disminuyendo así las emisiones y mejorando la calidad del aire. Además, esta iniciativa puede aliviar la congestión del tráfico durante las horas pico, mejorando la eficiencia general de la red de transporte de la ciudad. Asimismo, ofrecer transporte gratuito puede beneficiar a los residentes de bajos ingresos al reducir sus costos de desplazamiento, contribuyendo a la equidad social y a la accesibilidad.",
-    "action": {
-      "ActionID": "icare_0088",
-      "ActionName": "Implementación de programas de transporte público gratuito durante las horas pico para reducir el uso de vehículos individuales",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Fomentar el uso del transporte público ofreciendo servicios gratuitos durante las horas pico para trabajadores y estudiantes. Esta medida reduce la congestión urbana, disminuye el número de vehículos individuales en la carretera y, en consecuencia, reduce las emisiones de gases de efecto invernadero asociadas con el transporte privado.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 2,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Asignación de fondos para subsidiar servicios de transporte público gratuito durante las horas pico.",
-        "Desarrollo de políticas para garantizar la sostenibilidad y eficiencia de los sistemas de transporte público ante el aumento de la demanda.",
-        "Coordinación con empleadores e instituciones educativas para optimizar los horarios de las horas pico y promover la iniciativa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción en los niveles de contaminación del aire durante las horas pico (concentración de PM2.5/PM10).",
-        "Número de vehículos privados retirados de las carreteras durante las horas pico.",
-        "Tasa de satisfacción pública con la iniciativa de transporte gratuito (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0090",
-    "actionName": "Adoption of electric drones for last-mile deliveries.",
-    "actionPriority": 5,
-    "explanation": "La adopción de drones eléctricos para entregas de última milla en Montes Claros es una acción estratégica para reducir las emisiones del transporte, que constituyen una contribución significativa a las emisiones totales de la ciudad. Al utilizar drones eléctricos, la ciudad puede disminuir la dependencia de vehículos de reparto tradicionales, reduciendo así la contaminación del aire y las emisiones de gases de efecto invernadero. Esta acción también está alineada con la necesidad de la ciudad de mejorar la calidad del aire y mitigar los impactos del cambio climático, especialmente considerando el alto riesgo de olas de calor y su impacto en la salud pública. Además, los drones eléctricos pueden mejorar la eficiencia y accesibilidad de las entregas, especialmente en áreas con infraestructura insuficiente.",
-    "action": {
-      "ActionID": "icare_0090",
-      "ActionName": "Adopción de drones eléctricos para entregas de última milla.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "off-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Reemplazar los vehículos tradicionales con drones eléctricos para entregas de corta distancia en centros urbanos, reduciendo emisiones y congestión de tráfico.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "60-79",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollo de regulaciones del espacio aéreo urbano para garantizar la operación segura y eficiente de drones de entrega.",
-        "Inversión en infraestructura de carga y mantenimiento para apoyar una flota de drones eléctricos.",
-        "Colaboración con empresas de logística para integrar drones en redes de entrega de última milla."
-      ],
-      "KeyPerformanceIndicators": [
-        "Reducción del tiempo de entrega en comparación con los métodos tradicionales (minutos).",
-        "Aumento en la satisfacción del cliente con las entregas mediante drones (%).",
-        "Reducción de la congestión del tráfico causada por vehículos de entrega (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0130",
-    "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
-    "actionPriority": 6,
-    "explanation": "Realizar acciones de Asistencia Técnica y Extensión Rural (ATER) en Montes Claros es fundamental debido a la vulnerabilidad de la ciudad a las sequías, las cuales afectan significativamente los recursos hídricos y la seguridad alimentaria. Al brindar apoyo técnico y educación a las comunidades rurales, estas acciones pueden mejorar las prácticas agrícolas, optimizar la gestión del agua y aumentar la resiliencia frente a riesgos relacionados con el clima. Además, las iniciativas de ATER pueden contribuir a mejorar las condiciones socioeconómicas de las poblaciones de bajos ingresos mediante la promoción de prácticas agrícolas sostenibles y el mejoramiento del acceso a recursos. Esta acción es prioritaria, ya que aborda tanto los desafíos inmediatos como los de largo plazo que enfrenta el sector rural en la región.",
-    "action": {
-      "ActionID": "icare_0130",
-      "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Proporcionar apoyo técnico y capacitación a los productores rurales para la producción agrícola sostenible.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 1,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "60-79"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Disponibilidad de personal técnico calificado y programas de formación adaptados.",
-        "Alianzas con instituciones de investigación agrícola y asignación de recursos para el desarrollo de capacidades.",
-        "Compromiso con los productores rurales para asegurar su participación activa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de productores beneficiados con asistencia técnica rural (% del total).",
-        "Porcentaje de participantes que adoptan prácticas resilientes al clima.",
-        "Vulnerabilidad reducida de las propiedades al riesgo climático (%)."
-      ],
-      "PowersAndMandates": [
-        "state"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0133",
-    "actionName": "Promote Urban Reforestation and Green Corridors",
-    "actionPriority": 7,
-    "explanation": "Promover la reforestación urbana y los corredores verdes en Montes Claros es crucial debido al bioma de pastizales/sabana de la ciudad, que puede beneficiarse significativamente del aumento de la vegetación. Esta acción puede ayudar a mitigar el alto riesgo de sequías y olas de calor al mejorar los microclimas locales y proporcionar sombra, mejorando así la salud pública y la resiliencia de la infraestructura. Además, los corredores verdes pueden apoyar la biodiversidad, que está en riesgo tanto por las sequías como por las olas de calor, y contribuir a reducir las emisiones totales de carbono de la ciudad al absorber CO2. Implementar esta acción está alineado con la necesidad de la ciudad de abordar los desafíos ambientales mientras se mejora la calidad de vida de sus habitantes.",
-    "action": {
-      "ActionID": "icare_0133",
-      "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "land"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Aumentar la cobertura arbórea urbana para mitigar el efecto de isla de calor urbano y mejorar la biodiversidad.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 1,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 1,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "80-100"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Identificación de áreas prioritarias y selección de especies nativas y resilientes al clima para la plantación de árboles.",
-        "Alianzas con organizaciones locales y viveros, y asignación de recursos para la plantación y el mantenimiento.",
-        "Participación comunitaria para garantizar el cuidado y apoyo a largo plazo."
-      ],
-      "KeyPerformanceIndicators": [
-        "Aumento en la cobertura de dosel arbóreo urbano (%)",
-        "Longitud total de corredores verdes creados o restaurados (kilómetros)",
-        "Reducción en las temperaturas del efecto de isla de calor urbano (°C)"
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0068",
-    "actionName": "Deploy on-demand transport systems with 100% electric fleets.",
-    "actionPriority": 8,
-    "explanation": "Desplegar sistemas de transporte bajo demanda con flotas 100% eléctricas en Montes Claros es una prioridad estratégica debido a las altas emisiones del sector transporte en la ciudad, las cuales representan una contribución significativa a sus emisiones totales. Al hacer la transición a vehículos eléctricos, la ciudad puede reducir su huella de carbono y mejorar la calidad del aire, abordando tanto preocupaciones ambientales como de salud pública. Además, la naturaleza bajo demanda del sistema de transporte puede mejorar la accesibilidad y la comodidad para los residentes, especialmente en áreas con infraestructura de transporte público insuficiente. Esta acción está alineada con la necesidad de la ciudad de mitigar los riesgos climáticos y promover un desarrollo urbano sostenible.",
-    "action": {
-      "ActionID": "icare_0068",
-      "ActionName": "Desplegar sistemas de transporte bajo demanda con flotas 100% eléctricas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Servicios de transporte colectivo bajo demanda, basados en aplicaciones, optimizan el uso de vehículos eléctricos, reduciendo las emisiones por pasajero.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desarrollo de plataformas digitales y aplicaciones para gestionar eficientemente servicios de transporte colectivo bajo demanda.",
-        "Expansión de flotas de vehículos eléctricos adaptadas para soluciones de transporte compartido.",
-        "Implementación de políticas e incentivos para fomentar la adopción y el uso de servicios de transporte eléctrico compartido."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de usuarios activos del sistema de flota eléctrica bajo demanda.",
-        "Porcentaje de demanda de transporte urbano satisfecho por sistemas bajo demanda.",
-        "Reducción en los niveles de contaminación acústica en áreas urbanas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0129",
-    "actionName": "Facilitate Technology Transfer for Conservation Practices",
-    "actionPriority": 9,
-    "explanation": "Facilitar la transferencia de tecnología para prácticas de conservación en Montes Claros es crucial debido a la vulnerabilidad de la ciudad frente a peligros ambientales como sequías e inundaciones. Estos riesgos representan amenazas significativas para los recursos hídricos, la seguridad alimentaria y la salud pública, lo que hace imperativo adoptar técnicas avanzadas de conservación. Al transferir tecnología, la ciudad puede aumentar su resiliencia frente a estos impactos climáticos, asegurando una gestión sostenible de los recursos naturales. Además, la mejora de las prácticas de conservación puede ayudar a reducir las emisiones derivadas del uso del suelo, contribuyendo a la reducción general de la huella de carbono de la ciudad.",
-    "action": {
-      "ActionID": "icare_0129",
-      "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Promover la adopción de prácticas agrícolas sostenibles mediante la capacitación, proyectos piloto y demostraciones tecnológicas.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 2,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "60-79"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Provisión de programas de capacitación y establecimiento de proyectos piloto para mostrar prácticas sostenibles.",
-        "Alianzas con instituciones de investigación para el desarrollo de tecnología e incentivos financieros para fomentar la adopción.",
-        "Acceso a asistencia técnica para una implementación exitosa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de tecnologías de conservación transferidas y aplicadas en las granjas.",
-        "Porcentaje de productores capacitados para implementar prácticas de conservación.",
-        "Reducción en la degradación del suelo o aumento en la cobertura vegetal (hectáreas)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0128",
-    "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
-    "actionPriority": 10,
-    "explanation": "Establecer programas municipales de Pago por Servicios Ambientales (PSA) en Montes Claros es una prioridad debido a los importantes desafíos ambientales de la ciudad. La región enfrenta altos riesgos de sequías, lo que afecta los recursos hídricos y la seguridad alimentaria, por lo que es fundamental incentivar los esfuerzos de conservación. Los programas de PSA pueden fomentar prácticas sostenibles de uso del suelo, ayudando a mitigar las emisiones derivadas del uso del suelo y a mejorar la biodiversidad. Además, estos programas pueden aumentar la resiliencia de los ecosistemas locales, proporcionando beneficios a largo plazo tanto para el medio ambiente como para la comunidad.",
-    "action": {
-      "ActionID": "icare_0128",
-      "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "land"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Implementar programas que paguen a los propietarios de tierras por mantener o mejorar las condiciones ambientales en sus propiedades.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": -1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "60-79"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Creación de mecanismos de financiación y criterios de elegibilidad claros con indicadores de rendimiento.",
-        "Alianzas con organizaciones ambientales y campañas de concienciación para fomentar la participación.",
-        "Integración con marcos legales para garantizar la sostenibilidad del programa."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de contratos activos de Pago por Servicios Ambientales (PES) firmados.",
-        "Área total bajo prácticas de conservación o restauración incentivadas (hectáreas).",
-        "Cantidad de carbono secuestrado o emisiones evitadas a través de acciones de PES (tCO₂e/año)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0044",
-    "actionName": "Expand the cycling infrastructure and build public walkways and accessible sidewalks, prioritizing measures resilient to climate threats",
-    "actionPriority": 11,
-    "explanation": "Ampliar la infraestructura para bicicletas y construir senderos públicos en Montes Claros es fundamental debido a las altas emisiones del sector transporte en la ciudad, las cuales contribuyen significativamente a sus emisiones totales. Al promover el uso de la bicicleta y el caminar, la ciudad puede reducir su dependencia de los vehículos motorizados, disminuyendo así las emisiones y mejorando la calidad del aire. Además, crear infraestructura resiliente frente a amenazas climáticas es vital, dado el alto riesgo de olas de calor e inundaciones en la ciudad, que pueden afectar la salud pública y la infraestructura. Esta acción no solo aborda preocupaciones medioambientales, sino que también mejora la calidad de vida de los residentes al ofrecer opciones de transporte más seguras y sostenibles.",
-    "action": {
-      "ActionID": "icare_0044",
-      "ActionName": "Expandir la infraestructura para bicicletas y construir paseos públicos y aceras accesibles, priorizando medidas resilientes a las amenazas climáticas.",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "on-road"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "El objetivo principal de esta acción es promover la movilidad activa, garantizando la seguridad, comodidad y prioridad del movimiento peatonal, de personas con discapacidades (o movilidad reducida), y de vehículos y equipos impulsados por humanos, como bicicletas y patinetes.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 2,
-        "stakeholder_engagement": 1
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Inversiones en infraestructura para pasarelas peatonales seguras y accesibles, carriles para bicicletas e instalaciones para personas con discapacidades",
-        "Marcos de políticas y regulaciones para priorizar la movilidad activa y establecer estándares de seguridad para peatones y vehículos no motorizados",
-        "Campañas de concienciación pública para promover la movilidad activa y educar a los ciudadanos sobre los beneficios de caminar, andar en bicicleta y usar otros medios de transporte impulsados por humanos"
-      ],
-      "KeyPerformanceIndicators": [
-        "Kilómetros de nuevos carriles bici y senderos peatonales construidos anualmente.",
-        "Aumento en el uso diario de la infraestructura para ciclistas y peatones (%).",
-        "Reducción en las emisiones del transporte urbano (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0050",
-    "actionName": "Implement Agroforestry Systems",
-    "actionPriority": 12,
-    "explanation": "La implementación de sistemas agroforestales en Montes Claros es una acción estratégica debido al bioma de pastizales/sabana de la ciudad, que puede beneficiarse del aumento de la biodiversidad y la mejora de la salud del suelo. La agroforestería puede ayudar a mitigar el alto riesgo de sequías que afectan la seguridad hídrica y alimentaria al mejorar la retención de agua y proporcionar fuentes de alimentos diversas. Además, este enfoque puede contribuir a la reducción de las emisiones derivadas del uso del suelo, que representan una parte significativa del total de emisiones de la ciudad. Al integrar árboles con cultivos y ganado, la agroforestería también puede mejorar la resiliencia frente a peligros climáticos como olas de calor e inundaciones, que representan un alto riesgo para la salud pública y la infraestructura.",
-    "action": {
-      "ActionID": "icare_0050",
-      "ActionName": "Implementar Sistemas Agroforestales",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Promover sistemas agroforestales integrando árboles en el cultivo de alimentos y pastos, aumentando la biodiversidad y la captura de carbono.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "80-100"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Provisión de apoyo técnico y orientación a los agricultores sobre el diseño e implementación de sistemas agroforestales.",
-        "Desarrollo de incentivos financieros o subsidios para hacer la agroforestería más atractiva económicamente.",
-        "Creación de políticas que integren prácticas agroforestales en la planificación del uso del suelo agrícola y los sistemas de tenencia de la tierra."
-      ],
-      "KeyPerformanceIndicators": [
-        "Porcentaje de tierras agrícolas convertidas en sistemas agroforestales (%).",
-        "Número de nuevos proyectos agroforestales implementados.",
-        "Aumento en la captura de carbono en sistemas agroforestales (toneladas de CO₂e/año)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0057",
-    "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
-    "actionPriority": 13,
-    "explanation": "La expansión de los sistemas de transporte masivo sobre rieles en Montes Claros es crucial debido a las significativas emisiones del sector transporte en la ciudad, las cuales son un importante contribuyente a su huella de carbono total. Al mejorar las opciones de transporte público, la ciudad puede reducir la dependencia de los vehículos particulares, disminuyendo así las emisiones y mejorando la calidad del aire. Además, un transporte masivo mejorado puede proporcionar un acceso más equitativo al transporte para los residentes de bajos ingresos, en consonancia con las necesidades socioeconómicas de la ciudad. Esta acción también contribuye a la resiliencia frente a los riesgos climáticos al reducir el efecto de isla de calor urbana y mitigar el impacto de las olas de calor en la salud pública.",
-    "action": {
-      "ActionID": "icare_0057",
-      "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "transportation"
-      ],
-      "Subsector": [
-        "railways"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Estos sistemas ofrecen alta capacidad y bajas emisiones, cruciales para ciudades con alta densidad de población.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 0,
-        "habitat": 0,
-        "cost_of_living": 1,
-        "housing": 1,
-        "mobility": 2,
-        "stakeholder_engagement": 0
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": "80-100",
-        "waste": null,
-        "ippu": null,
-        "afolu": null
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "high",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Inversión en el desarrollo y expansión de infraestructuras de transporte público de alta capacidad, como autobuses eléctricos y sistemas de metro.",
-        "Implementación de políticas e incentivos para fomentar el uso del transporte público sobre los vehículos privados.",
-        "Integración de fuentes de energía renovable para alimentar estos sistemas, reduciendo aún más las emisiones."
-      ],
-      "KeyPerformanceIndicators": [
-        "Longitud de las nuevas líneas de tránsito construidas (km/año).",
-        "Reducción en la congestión del tráfico vial (%).",
-        "Reducción en el uso de vehículos privados (número de viajes evitados/año)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0131",
-    "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-    "actionPriority": 14,
-    "explanation": "Priorizar la adquisición de productos agroecológicos de producción local en las compras públicas es fundamental para Montes Claros debido al alto riesgo de sequías que afecta la seguridad hídrica y alimentaria. Al apoyar las prácticas agroecológicas locales, la ciudad puede aumentar su resiliencia frente a los peligros relacionados con el clima, garantizando un suministro de alimentos más estable. Esta acción también respalda la economía local, lo cual es importante dado el bajo nivel socioeconómico de la región. Además, al reducir las emisiones de transporte mediante la adquisición de productos locales, se puede contribuir a disminuir la huella de carbono total de la ciudad.",
-    "action": {
-      "ActionID": "icare_0131",
-      "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Centrarse en comprar alimentos sostenibles y producidos localmente para las instituciones públicas.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollo de políticas de adquisición e identificación de proveedores locales confiables.",
-        "Alianzas con productores y asignación de fondos para programas de adquisición sostenible.",
-        "Establecimiento de sistemas de monitoreo para garantizar el cumplimiento de los criterios de sostenibilidad."
-      ],
-      "KeyPerformanceIndicators": [
-        "Porcentaje del volumen total de compras públicas provenientes de productores agroecológicos locales.",
-        "Cantidad de emisiones de CO₂ evitadas debido a la reducción de la distancia de transporte (tCO₂e).",
-        "Número de productores agroecológicos beneficiados por las compras públicas."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0085",
-    "actionName": "Promote the Adoption of Agroecological Pest Control",
-    "actionPriority": 15,
-    "explanation": "Promover la adopción del control agroecológico de plagas en Montes Claros es crucial debido a la vulnerabilidad de la ciudad frente a peligros climáticos como sequías e inundaciones, los cuales pueden afectar gravemente la seguridad alimentaria. Al implementar métodos sostenibles de control de plagas, la ciudad puede fortalecer su resiliencia agrícola, asegurando un suministro estable de alimentos incluso en condiciones adversas. Además, las prácticas agroecológicas pueden ayudar a preservar la biodiversidad y reducir la dependencia de pesticidas químicos, contribuyendo a ecosistemas más saludables y a la salud pública. Esta acción está alineada con la necesidad de la ciudad de abordar desafíos socioeconómicos y mejorar la sostenibilidad ambiental.",
-    "action": {
-      "ActionID": "icare_0085",
-      "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Fomentar métodos de control de plagas que sean agroecológicos, como el uso de depredadores naturales y plantas repelentes, para reducir la dependencia de pesticidas químicos.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Desarrollo de programas educativos para informar a los agricultores sobre métodos de control de plagas agroecológicos y sus beneficios.",
-        "Provisión de acceso a recursos o materiales para implementar métodos de control de plagas naturales, como la introducción de insectos beneficiosos o el cultivo de plantas repelentes.",
-        "Creación de incentivos o redes de apoyo para fomentar la transición de los pesticidas químicos hacia alternativas sostenibles."
-      ],
-      "KeyPerformanceIndicators": [
-        "Aumento en las tasas de productividad en áreas que adoptan el control de plagas agroecológico (%).",
-        "Número de campañas educativas realizadas sobre el control sostenible de plagas.",
-        "Impacto en los costos totales de producción debido a la adopción de prácticas agroecológicas (%)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0134",
-    "actionName": "Strengthen Mechanisms for Deforestation Control",
-    "actionPriority": 16,
-    "explanation": "El fortalecimiento de los mecanismos para el control de la deforestación en Montes Claros es crucial debido a la ubicación de la ciudad en un bioma de pastizales/sabana, que es vulnerable a la degradación del suelo. La deforestación puede agravar el riesgo de sequías, que ya representan una amenaza significativa para los recursos hídricos y la seguridad alimentaria en la región. Al mejorar el control de la deforestación, la ciudad puede ayudar a preservar su entorno natural, lo cual es esencial para mantener la biodiversidad y mitigar los impactos del cambio climático. Además, controlar la deforestación puede contribuir a reducir las emisiones derivadas del uso del suelo, que constituyen un componente importante del total de emisiones de la ciudad.",
-    "action": {
-      "ActionID": "icare_0134",
-      "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "land"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Mejorar la supervisión y la aplicación de la ley para prevenir la deforestación ilegal y promover el uso sostenible de la tierra.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 0,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "80-100"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Fuerte marco legal, tecnologías de monitoreo avanzadas (satélites y drones), y desarrollo de capacidades para las autoridades locales.",
-        "Colaboración con las comunidades locales y financiación adecuada para los esfuerzos de aplicación.",
-        "Transparencia y responsabilidad en los informes para garantizar una implementación efectiva."
-      ],
-      "KeyPerformanceIndicators": [
-        "Área total monitoreada para la deforestación (hectáreas/año).",
-        "Reducción en la tasa anual de deforestación (%).",
-        "Cantidad de emisiones evitadas al reducir la deforestación (tCO₂e)."
-      ],
-      "PowersAndMandates": [
-        "national"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0102",
-    "actionName": "Promote Sustainable Agricultural Practices",
-    "actionPriority": 17,
-    "explanation": "Promover prácticas agrícolas sostenibles en Montes Claros es crucial debido a la vulnerabilidad de la ciudad a las sequías, las cuales afectan significativamente los recursos hídricos y la seguridad alimentaria. Al adoptar métodos sostenibles, la ciudad puede aumentar su resiliencia frente a estos riesgos climáticos, garantizando un suministro de alimentos estable y conservando los recursos de agua. Además, la agricultura sostenible puede ayudar a reducir las emisiones derivadas del uso del suelo, contribuyendo a la disminución general de las emisiones totales de la ciudad. Esta acción está alineada con la necesidad de abordar los desafíos socioeconómicos, ya que puede apoyar a las comunidades de bajos ingresos al mejorar la productividad y la sostenibilidad agrícola.",
-    "action": {
-      "ActionID": "icare_0102",
-      "ActionName": "Promover Prácticas Agrícolas Sostenibles",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Fomentar prácticas agrícolas que reduzcan las emisiones de gases de efecto invernadero, como el uso reducido de fertilizantes y agroquímicos.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "60-79"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desarrollo de programas educativos y recursos para promover prácticas agrícolas sostenibles entre los agricultores.",
-        "Implementación de políticas que incentiven la reducción del uso de fertilizantes y agroquímicos, como subsidios para insumos orgánicos o técnicas de cultivo sostenibles.",
-        "Colaboración con organizaciones agrícolas para proporcionar apoyo técnico y orientación sobre prácticas que reduzcan las emisiones."
-      ],
-      "KeyPerformanceIndicators": [
-        "Porcentaje de tierras agrícolas que adoptan prácticas sostenibles (% del total de tierras agrícolas).",
-        "Aumento en el rendimiento de cultivos por hectárea (toneladas/hectárea) debido a métodos sostenibles.",
-        "Reducción en el uso de agua para la agricultura (litros o m³/hectárea/año)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0136",
-    "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-    "actionPriority": 18,
-    "explanation": "Apoyar la implementación de incentivos fiscales ecológicos en Montes Claros es crucial debido a los importantes desafíos ambientales que enfrenta la ciudad. Montes Claros está expuesta a altos riesgos de sequías y olas de calor, lo que afecta los recursos hídricos, la seguridad alimentaria y la salud pública. Al promover incentivos fiscales ecológicos, la ciudad puede fomentar prácticas sostenibles que mitiguen estos riesgos y fortalezcan su resiliencia. Además, estos incentivos pueden estimular el crecimiento económico local al atraer empresas e inversiones comprometidas con el medio ambiente, en consonancia con las necesidades socioeconómicas de la ciudad.",
-    "action": {
-      "ActionID": "icare_0136",
-      "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "land"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Fomentar la aplicación de impuestos ecológicos e incentivos para promover la conservación ambiental.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 1,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Establecer un marco regulatorio claro con tasas impositivas justas e incentivos para la sostenibilidad.",
-        "Implementar sistemas de monitoreo efectivos para rastrear el cumplimiento y medir el impacto.",
-        "Promover la concienciación pública y fomentar la colaboración entre gobiernos, empresas y comunidades."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de municipios que han adoptado incentivos fiscales ambientales.",
-        "Porcentaje de ingresos fiscales gastados en prácticas sostenibles.",
-        "Superficie o número de propiedades que se benefician de prácticas de conservación como resultado de los incentivos."
-      ],
-      "PowersAndMandates": [
-        "state"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0132",
-    "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
-    "actionPriority": 19,
-    "explanation": "Fomentar la producción agroecológica local y las cadenas cortas de suministro en Montes Claros es fundamental debido a la vulnerabilidad de la ciudad a las sequías, que afectan significativamente los recursos hídricos y la seguridad alimentaria. Al promover la agricultura local, la ciudad puede aumentar su resiliencia frente a estos riesgos climáticos, garantizando un suministro de alimentos más estable. Además, esta acción apoya la economía local y reduce las emisiones derivadas del transporte, contribuyendo a los objetivos generales de sostenibilidad. Dado el bajo nivel de ingresos en la zona, esta iniciativa también puede ofrecer oportunidades económicas y mejorar el acceso de la comunidad a productos frescos.",
-    "action": {
-      "ActionID": "icare_0132",
-      "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Apoyar prácticas agrícolas locales y sostenibles y reducir las emisiones asociadas con el transporte de alimentos.",
-      "CoBenefits": {
-        "air_quality": 1,
-        "water_quality": 2,
-        "habitat": 1,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "20-39"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "low",
-      "TimelineForImplementation": "<5 years",
-      "Dependencies": [
-        "Incentivos para prácticas agrícolas sostenibles y desarrollo de redes locales de distribución de alimentos.",
-        "Alianzas con productores e inversión en infraestructura para apoyar los mercados locales.",
-        "Políticas para priorizar métodos de transporte de bajas emisiones."
-      ],
-      "KeyPerformanceIndicators": [
-        "Número de productores que se adhieren a prácticas agroecológicas locales.",
-        "Porcentaje de alimentos consumidos en la ciudad provenientes de cadenas cortas.",
-        "Reducción de emisiones asociadas con el transporte de alimentos (tCO₂e)."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  },
-  {
-    "locode": "BR MOC",
-    "cityName": "Montes Claros",
-    "region": "MG",
-    "regionName": "Minas Gerais",
-    "actionId": "icare_0100",
-    "actionName": "Support Regenerative Agriculture Practices",
-    "actionPriority": 20,
-    "explanation": "Apoyar las prácticas de agricultura regenerativa en Montes Claros es fundamental debido a la vulnerabilidad de la ciudad a las sequías, las cuales afectan significativamente los recursos hídricos y la seguridad alimentaria. Al promover estas prácticas, la ciudad puede mejorar la salud del suelo, aumentar la retención de agua y fortalecer la resiliencia de los cultivos, mitigando así los efectos de las sequías. Además, la agricultura regenerativa puede contribuir a la reducción de las emisiones derivadas del uso del suelo, que representan una parte importante del total de emisiones de la ciudad, apoyando así los objetivos más amplios de sostenibilidad ambiental.",
-    "action": {
-      "ActionID": "icare_0100",
-      "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
-      "ActionType": [
-        "mitigation"
-      ],
-      "Hazard": null,
-      "Sector": [
-        "afolu"
-      ],
-      "Subsector": [
-        "agriculture_forestry_and_fishing_activities"
-      ],
-      "PrimaryPurpose": [
-        "ghg_reduction"
-      ],
-      "Description": "Apoyar prácticas agrícolas regenerativas que se centren en restaurar la salud del suelo y reducir las emisiones de carbono.",
-      "CoBenefits": {
-        "air_quality": 2,
-        "water_quality": 2,
-        "habitat": 2,
-        "cost_of_living": 1,
-        "housing": 0,
-        "mobility": 0,
-        "stakeholder_engagement": 2
-      },
-      "EquityAndInclusionConsiderations": null,
-      "GHGReductionPotential": {
-        "stationary_energy": null,
-        "transportation": null,
-        "waste": null,
-        "ippu": null,
-        "afolu": "60-79"
-      },
-      "AdaptationEffectiveness": null,
-      "CostInvestmentNeeded": "medium",
-      "TimelineForImplementation": "5-10 years",
-      "Dependencies": [
-        "Desarrollo de programas de capacitación y recursos para educar a los agricultores sobre técnicas agrícolas regenerativas, como el cultivo de cobertura y la reducción de la labranza.",
-        "Implementación de incentivos financieros o subsidios para apoyar la adopción de prácticas regenerativas.",
-        "Colaboración con instituciones de investigación agrícola para monitorear y documentar la efectividad de las prácticas regenerativas en la captura de carbono y la mejora de la salud del suelo."
-      ],
-      "KeyPerformanceIndicators": [
-        "Aumento en los niveles de carbono orgánico del suelo (toneladas/hectárea).",
-        "Reducción en el uso de agua por hectárea en la producción agrícola (%).",
-        "Número de proyectos piloto de agricultura regenerativa implementados."
-      ],
-      "PowersAndMandates": [
-        "local"
-      ],
-      "AdaptationEffectivenessPerHazard": null,
-      "biome": "none"
-    }
-  }
 ]

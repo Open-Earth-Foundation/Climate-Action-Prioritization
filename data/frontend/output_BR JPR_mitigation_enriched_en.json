@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Implementing agroforestry systems in Ji-Paran\u00e1 is a high priority due to the city's location in a tropical rainforest biome, which is highly suitable for such practices. Agroforestry can significantly contribute to reducing land use emissions, which are currently the largest source of emissions in the city. Additionally, this action can enhance biodiversity and improve resilience against climate hazards like droughts and heatwaves, which pose significant risks to water resources, food security, and public health. By integrating trees with crops and livestock, agroforestry can also improve soil health and water retention, further supporting the city's environmental and socio-economic stability.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -58,8 +58,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -70,7 +79,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 2,
-        "explanation": "Strengthening mechanisms for deforestation control in Ji-Paran\u00e1 is crucial due to its location in a tropical rainforest biome, which is highly susceptible to deforestation. The city faces significant land use emissions, which are a major contributor to its total emissions profile. By enhancing deforestation control, Ji-Paran\u00e1 can mitigate these emissions and protect its rich biodiversity. Additionally, controlling deforestation can help in managing the risks associated with droughts and heatwaves, which are prevalent hazards in the region.",
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -121,8 +130,17 @@
             "PowersAndMandates": [
                 "national"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -133,7 +151,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 3,
-        "explanation": "Promoting urban reforestation and green corridors in Ji-Paran\u00e1 is crucial due to its tropical rainforest biome, which is vital for maintaining biodiversity and ecological balance. The city faces significant environmental challenges, including high emissions from land use and transportation, which can be mitigated by increasing green spaces. Additionally, reforestation can help combat the effects of droughts and heatwaves, which pose a high risk to water resources, food security, and public health. By enhancing urban greenery, the city can improve air quality, reduce urban heat, and provide habitats for local wildlife, contributing to a more sustainable and resilient urban environment.",
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -184,134 +202,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR JPR",
-        "cityName": "Ji-Paran\u00e1",
-        "region": "RO",
-        "regionName": "Rond\u00f4nia",
-        "actionId": "icare_0128",
-        "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
-        "actionPriority": 4,
-        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) in Ji-Paran\u00e1 is crucial due to the city's location in a tropical rainforest biome, which is vital for biodiversity and climate regulation. The city faces significant environmental challenges, including high emissions from land use and transportation, which PES programs can help mitigate by incentivizing sustainable practices. Additionally, Ji-Paran\u00e1 is at high risk from climate hazards such as droughts and heatwaves, which threaten water resources, food security, and public health. Implementing PES can enhance ecosystem services, providing resilience against these risks and promoting sustainable development in the region.",
-        "action": {
-            "ActionID": "icare_0128",
-            "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implement programs that pay landowners for maintaining or improving environmental conditions on their properties.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": -1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Creation of funding mechanisms and clear eligibility criteria with performance indicators.",
-                "Partnerships with environmental organizations and awareness campaigns to encourage participation.",
-                "Integration with legal frameworks to ensure program sustainability."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of active Payment for Environmental Services (PES) contracts signed.",
-                "Total area under incentivised conservation or restoration practices (hectares).",
-                "Amount of carbon sequestered or emissions avoided through PES actions (tCO\u2082e/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR JPR",
-        "cityName": "Ji-Paran\u00e1",
-        "region": "RO",
-        "regionName": "Rond\u00f4nia",
-        "actionId": "icare_0129",
-        "actionName": "Facilitate Technology Transfer for Conservation Practices",
-        "actionPriority": 5,
-        "explanation": "Facilitating technology transfer for conservation practices in Ji-Paran\u00e1 is crucial due to the city's location in a tropical rainforest biome, which is highly sensitive to environmental changes. The city faces significant risks from droughts and heatwaves, impacting water resources, food security, and biodiversity. By adopting advanced conservation technologies, Ji-Paran\u00e1 can enhance its resilience against these climate hazards. Additionally, technology transfer can help reduce emissions from land use, which is a major contributor to the city's total emissions, thereby supporting sustainable development in the region.",
-        "action": {
-            "ActionID": "icare_0129",
-            "ActionName": "Facilitate Technology Transfer for Conservation Practices",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promote the adoption of sustainable agricultural practices through training, pilot projects, and technology demonstrations.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Provision of training programs and establishment of pilot projects to showcase sustainable practices.",
-                "Partnerships with research institutions for technology development and financial incentives to encourage adoption.",
-                "Access to technical assistance for successful implementation."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of conservation technologies transferred and applied on farms.",
-                "Percentage of producers trained to implement conservation practices.",
-                "Reduction in soil degradation or increase in vegetation cover (hectares)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -321,8 +222,8 @@
         "regionName": "Rond\u00f4nia",
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
-        "actionPriority": 6,
-        "explanation": "Conducting Technical Assistance and Rural Extension (ATER) actions in Ji-Paran\u00e1 is crucial due to the city's significant land use emissions, which are the highest among its emission sources. These actions can help improve sustainable agricultural practices, reducing the environmental impact and enhancing food security, which is at risk from droughts and floods. Additionally, ATER can support local farmers in adapting to climate change impacts, thereby strengthening the resilience of the agricultural sector. This is particularly important given the high risk of droughts affecting water resources and energy security in the region.",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -373,8 +274,161 @@
             "PowersAndMandates": [
                 "state"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR JPR",
+        "cityName": "Ji-Paran\u00e1",
+        "region": "RO",
+        "regionName": "Rond\u00f4nia",
+        "actionId": "icare_0128",
+        "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0128",
+            "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implement programs that pay landowners for maintaining or improving environmental conditions on their properties.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": -1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Creation of funding mechanisms and clear eligibility criteria with performance indicators.",
+                "Partnerships with environmental organizations and awareness campaigns to encourage participation.",
+                "Integration with legal frameworks to ensure program sustainability."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of active Payment for Environmental Services (PES) contracts signed.",
+                "Total area under incentivised conservation or restoration practices (hectares).",
+                "Amount of carbon sequestered or emissions avoided through PES actions (tCO\u2082e/year)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR JPR",
+        "cityName": "Ji-Paran\u00e1",
+        "region": "RO",
+        "regionName": "Rond\u00f4nia",
+        "actionId": "icare_0129",
+        "actionName": "Facilitate Technology Transfer for Conservation Practices",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0129",
+            "ActionName": "Facilitate Technology Transfer for Conservation Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promote the adoption of sustainable agricultural practices through training, pilot projects, and technology demonstrations.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Provision of training programs and establishment of pilot projects to showcase sustainable practices.",
+                "Partnerships with research institutions for technology development and financial incentives to encourage adoption.",
+                "Access to technical assistance for successful implementation."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of conservation technologies transferred and applied on farms.",
+                "Percentage of producers trained to implement conservation practices.",
+                "Reduction in soil degradation or increase in vegetation cover (hectares)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -385,7 +439,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 7,
-        "explanation": "Promoting sustainable agricultural practices in Ji-Paran\u00e1 is crucial due to the city's location in a tropical rainforest biome, which is highly sensitive to environmental changes. The region faces significant risks from droughts, which threaten water resources, food security, and biodiversity. By adopting sustainable practices, the city can mitigate these risks, ensuring long-term agricultural productivity and environmental conservation. Additionally, sustainable agriculture can help reduce land use emissions, which are a major contributor to the city's total emissions, thereby supporting broader climate action goals.",
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -436,134 +490,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR JPR",
-        "cityName": "Ji-Paran\u00e1",
-        "region": "RO",
-        "regionName": "Rond\u00f4nia",
-        "actionId": "icare_0100",
-        "actionName": "Support Regenerative Agriculture Practices",
-        "actionPriority": 8,
-        "explanation": "Supporting regenerative agriculture practices in Ji-Paran\u00e1 is crucial due to the city's location in a tropical rainforest biome, which is highly sensitive to environmental changes. The city faces significant risks from droughts, which threaten water resources and food security. By promoting regenerative agriculture, Ji-Paran\u00e1 can enhance soil health, increase biodiversity, and improve water retention, thereby mitigating the impacts of droughts. Additionally, these practices can help reduce land use emissions, which are a major contributor to the city's total emissions, aligning with broader environmental sustainability goals.",
-        "action": {
-            "ActionID": "icare_0100",
-            "ActionName": "Support Regenerative Agriculture Practices",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Support regenerative agricultural practices that focus on restoring soil health and reducing carbon emissions.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of training programs and resources to educate farmers on regenerative agricultural techniques, such as cover cropping and reduced tillage.",
-                "Implementation of financial incentives or subsidies to support the adoption of regenerative practices.",
-                "Collaboration with agricultural research institutions to monitor and document the effectiveness of regenerative practices in carbon sequestration and soil health improvement."
-            ],
-            "KeyPerformanceIndicators": [
-                "Increase in soil organic carbon levels (tons/hectare).",
-                "Reduction in water usage per hectare in agricultural production (%).",
-                "Number of regenerative agriculture pilot projects implemented."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR JPR",
-        "cityName": "Ji-Paran\u00e1",
-        "region": "RO",
-        "regionName": "Rond\u00f4nia",
-        "actionId": "icare_0096",
-        "actionName": "Promote Organic Farming",
-        "actionPriority": 9,
-        "explanation": "Promoting organic farming in Ji-Paran\u00e1 is a crucial action due to the city's vulnerability to climate-related hazards such as droughts and floods, which significantly impact food security. Organic farming practices can enhance soil health and water retention, making crops more resilient to these environmental stresses. Additionally, by reducing reliance on chemical fertilizers and pesticides, organic farming can help preserve the biodiversity of the tropical rainforest biome surrounding the city. This approach not only supports sustainable agriculture but also contributes to reducing emissions from land use, aligning with the city's need to address its high land use emissions.",
-        "action": {
-            "ActionID": "icare_0096",
-            "ActionName": "Promote Organic Farming",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage the adoption of organic farming practices that avoid the use of chemicals and contribute to soil health and carbon capture.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Provision of financial incentives, subsidies, or grants to support the transition to organic farming practices.",
-                "Development of training and support networks to educate farmers on organic farming methods and their benefits.",
-                "Establishment of certification systems and market access strategies to ensure the economic viability of organic products."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of agricultural land under organic farming practices (%).",
-                "Increase in soil organic carbon content (tons of carbon per hectare).",
-                "Reduction in the use of chemical fertilizers and pesticides (kilograms/hectare/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -573,8 +510,8 @@
         "regionName": "Rond\u00f4nia",
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
-        "actionPriority": 10,
-        "explanation": "Creating incentives for agroforestry practices in livestock systems is crucial for Ji-Paran\u00e1 due to its location in a tropical rainforest biome. This action can help mitigate land use emissions, which are a significant contributor to the city's total emissions. By integrating trees into livestock systems, the city can enhance biodiversity and improve soil health, which are vital for long-term sustainability. Additionally, agroforestry can provide resilience against climate impacts such as droughts, which pose a high risk to water resources and food security in the region. Encouraging these practices aligns with the city's need to address environmental challenges while supporting local livelihoods.",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -625,8 +562,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -634,13 +580,13 @@
         "cityName": "Ji-Paran\u00e1",
         "region": "RO",
         "regionName": "Rond\u00f4nia",
-        "actionId": "icare_0101",
-        "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
-        "actionPriority": 11,
-        "explanation": "Encouraging the use of low-emission agricultural machinery in Ji-Paran\u00e1 is crucial due to the significant land use emissions, which are the largest contributor to the city's total emissions. By adopting cleaner technologies in agriculture, the city can substantially reduce its carbon footprint and mitigate the environmental impact of its agricultural activities. This action also aligns with the need to address the high risk of droughts impacting water and food security, as more sustainable practices can help preserve these vital resources. Furthermore, promoting low-emission machinery supports the city's efforts to enhance energy security, which is currently at risk due to climate hazards.",
+        "actionId": "icare_0096",
+        "actionName": "Promote Organic Farming",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0101",
-            "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
+            "ActionID": "icare_0096",
+            "ActionName": "Promote Organic Farming",
             "ActionType": [
                 "mitigation"
             ],
@@ -654,15 +600,15 @@
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Promote the use of low-carbon agricultural machinery, such as tractors and equipment powered by biofuels or solar energy.",
+            "Description": "Encourage the adoption of organic farming practices that avoid the use of chemicals and contribute to soil health and carbon capture.",
             "CoBenefits": {
                 "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 1
+                "stakeholder_engagement": 2
             },
             "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
@@ -676,20 +622,101 @@
             "CostInvestmentNeeded": "medium",
             "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Establishment of funding programs or incentives for farmers to purchase low-carbon agricultural machinery.",
-                "Development of partnerships with machinery manufacturers to create and distribute sustainable equipment solutions.",
-                "Implementation of training and support programs to assist farmers in integrating and maintaining low-carbon agricultural machinery."
+                "Provision of financial incentives, subsidies, or grants to support the transition to organic farming practices.",
+                "Development of training and support networks to educate farmers on organic farming methods and their benefits.",
+                "Establishment of certification systems and market access strategies to ensure the economic viability of organic products."
             ],
             "KeyPerformanceIndicators": [
-                "Reduction in emissions from agricultural machinery (tons of CO\u2082e/year).",
-                "Number of low-emission machinery subsidies or incentives provided.",
-                "Percentage of farmers trained to operate low-emission machinery."
+                "Percentage of agricultural land under organic farming practices (%).",
+                "Increase in soil organic carbon content (tons of carbon per hectare).",
+                "Reduction in the use of chemical fertilizers and pesticides (kilograms/hectare/year)."
             ],
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR JPR",
+        "cityName": "Ji-Paran\u00e1",
+        "region": "RO",
+        "regionName": "Rond\u00f4nia",
+        "actionId": "icare_0100",
+        "actionName": "Support Regenerative Agriculture Practices",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0100",
+            "ActionName": "Support Regenerative Agriculture Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Support regenerative agricultural practices that focus on restoring soil health and reducing carbon emissions.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Development of training programs and resources to educate farmers on regenerative agricultural techniques, such as cover cropping and reduced tillage.",
+                "Implementation of financial incentives or subsidies to support the adoption of regenerative practices.",
+                "Collaboration with agricultural research institutions to monitor and document the effectiveness of regenerative practices in carbon sequestration and soil health improvement."
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in soil organic carbon levels (tons/hectare).",
+                "Reduction in water usage per hectare in agricultural production (%).",
+                "Number of regenerative agriculture pilot projects implemented."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -699,8 +726,8 @@
         "regionName": "Rond\u00f4nia",
         "actionId": "icare_0127",
         "actionName": "Accelerate Environmental Regularization of Rural Properties",
-        "actionPriority": 12,
-        "explanation": "Accelerating the environmental regularization of rural properties in Ji-Paran\u00e1 is crucial due to the significant land use emissions, which are the largest contributor to the city's total emissions. This action can help mitigate the impact of deforestation and land degradation, which are prevalent in tropical rainforest biomes. By ensuring that rural properties comply with environmental regulations, the city can enhance its resilience against climate change impacts such as droughts and heatwaves, which pose high risks to water resources, food security, and biodiversity. Furthermore, this initiative supports sustainable land management practices, which are essential for maintaining the ecological balance and promoting long-term environmental health in the region.",
+        "actionPriority": 11,
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0127",
             "ActionName": "Accelerate Environmental Regularization of Rural Properties",
@@ -751,8 +778,89 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR JPR",
+        "cityName": "Ji-Paran\u00e1",
+        "region": "RO",
+        "regionName": "Rond\u00f4nia",
+        "actionId": "icare_0101",
+        "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
+        "actionPriority": 12,
+        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0101",
+            "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promote the use of low-carbon agricultural machinery, such as tractors and equipment powered by biofuels or solar energy.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 1,
+                "habitat": 1,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Establishment of funding programs or incentives for farmers to purchase low-carbon agricultural machinery.",
+                "Development of partnerships with machinery manufacturers to create and distribute sustainable equipment solutions.",
+                "Implementation of training and support programs to assist farmers in integrating and maintaining low-carbon agricultural machinery."
+            ],
+            "KeyPerformanceIndicators": [
+                "Reduction in emissions from agricultural machinery (tons of CO\u2082e/year).",
+                "Number of low-emission machinery subsidies or incentives provided.",
+                "Percentage of farmers trained to operate low-emission machinery."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -763,7 +871,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 13,
-        "explanation": "Prioritizing the procurement of locally produced agroecological products in public purchases is crucial for Ji-Paran\u00e1 due to its significant impact on food security and local economy. This action supports sustainable agricultural practices, which are essential in a region facing high risks from droughts and floods. By focusing on local agroecological products, the city can enhance its resilience against climate-related hazards, ensuring a stable food supply. Additionally, this initiative can stimulate the local economy by supporting local farmers and reducing dependency on external food sources.",
+        "explanation": "Ranked #13 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -814,71 +922,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR JPR",
-        "cityName": "Ji-Paran\u00e1",
-        "region": "RO",
-        "regionName": "Rond\u00f4nia",
-        "actionId": "icare_0085",
-        "actionName": "Promote the Adoption of Agroecological Pest Control",
-        "actionPriority": 14,
-        "explanation": "Promoting the adoption of agroecological pest control in Ji-Paran\u00e1 is crucial due to the city's location in a tropical rainforest biome, which supports a rich biodiversity. This approach can help maintain ecological balance and reduce the reliance on chemical pesticides, which can harm the environment and human health. Additionally, agroecological methods can enhance food security by improving crop resilience to pests and diseases, which is vital given the high risk of droughts affecting food security in the region. Implementing this action aligns with sustainable agricultural practices, contributing to long-term environmental and economic benefits for the community.",
-        "action": {
-            "ActionID": "icare_0085",
-            "ActionName": "Promote the Adoption of Agroecological Pest Control",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage pest control methods that are agroecological, such as using natural predators and repellent plants, to reduce reliance on chemical pesticides.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Development of educational programs to inform farmers about agroecological pest control methods and their benefits.",
-                "Provision of access to resources or materials for implementing natural pest control methods, such as introducing beneficial insects or cultivating repellent plants.",
-                "Creation of incentives or support networks to encourage the transition away from chemical pesticides in favor of sustainable alternatives."
-            ],
-            "KeyPerformanceIndicators": [
-                "Increase in productivity rates in areas adopting agroecological pest control (%).",
-                "Number of educational campaigns conducted on sustainable pest control.",
-                "Impact on total production costs due to the adoption of agroecological practices (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -888,8 +942,8 @@
         "regionName": "Rond\u00f4nia",
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
-        "actionPriority": 15,
-        "explanation": "Supporting agroecological certification programs in Ji-Paran\u00e1 is crucial due to the city's reliance on agriculture and the surrounding tropical rainforest biome. This action can help promote sustainable farming practices that protect biodiversity and reduce land use emissions, which are currently a significant contributor to the city's total emissions. Additionally, by encouraging agroecological methods, the city can enhance food security, which is at risk from hazards like droughts and floods. Implementing these programs can also improve resilience against climate change impacts, ensuring long-term sustainability for local communities.",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -940,8 +994,88 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR JPR",
+        "cityName": "Ji-Paran\u00e1",
+        "region": "RO",
+        "regionName": "Rond\u00f4nia",
+        "actionId": "ipcc_0061",
+        "actionName": "Soil Carbon Management in Croplands and Grasslands",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0061",
+            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Success depends on the availability of resources for monitoring and verification",
+                "regional adaptation of practices",
+                "addressing barriers such as soil saturation and permanence issues"
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in soil organic carbon",
+                "reduction in GHG emissions",
+                "improvement in agricultural productivity",
+                "biodiversity enhancements"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -952,7 +1086,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 16,
-        "explanation": "Encouraging local agroecological production and short supply chains is crucial for Ji-Paran\u00e1 due to its vulnerability to climate-related risks such as droughts and floods, which threaten food security. By promoting sustainable agricultural practices, the city can enhance its resilience against these hazards and ensure a stable food supply. Additionally, local production reduces dependency on long supply chains, which can be disrupted by extreme weather events, thus improving food availability and economic stability. This action also supports biodiversity and reduces emissions associated with transportation, aligning with the city's need to address its significant land use and transportation emissions.",
+        "explanation": "Ranked #16 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1003,8 +1137,89 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR JPR",
+        "cityName": "Ji-Paran\u00e1",
+        "region": "RO",
+        "regionName": "Rond\u00f4nia",
+        "actionId": "icare_0085",
+        "actionName": "Promote the Adoption of Agroecological Pest Control",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0085",
+            "ActionName": "Promote the Adoption of Agroecological Pest Control",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Encourage pest control methods that are agroecological, such as using natural predators and repellent plants, to reduce reliance on chemical pesticides.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Development of educational programs to inform farmers about agroecological pest control methods and their benefits.",
+                "Provision of access to resources or materials for implementing natural pest control methods, such as introducing beneficial insects or cultivating repellent plants.",
+                "Creation of incentives or support networks to encourage the transition away from chemical pesticides in favor of sustainable alternatives."
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in productivity rates in areas adopting agroecological pest control (%).",
+                "Number of educational campaigns conducted on sustainable pest control.",
+                "Impact on total production costs due to the adoption of agroecological practices (%)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1014,8 +1229,8 @@
         "regionName": "Rond\u00f4nia",
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-        "actionPriority": 17,
-        "explanation": "Supporting the implementation of ecological fiscal incentives in Ji-Paran\u00e1 is crucial due to the city's significant land use emissions, which are a major contributor to its total emissions. By promoting sustainable land management practices through fiscal incentives, the city can effectively reduce its carbon footprint and mitigate environmental degradation. Additionally, these incentives can encourage local stakeholders to adopt more sustainable practices, which is essential in a region characterized by a tropical rainforest biome. This action aligns with the city's need to address high emissions and environmental risks, particularly those related to biodiversity and land use.",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1066,8 +1281,17 @@
             "PowersAndMandates": [
                 "state"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1077,8 +1301,8 @@
         "regionName": "Rond\u00f4nia",
         "actionId": "ipcc_0052",
         "actionName": "Reduce Deforestation and Degradation",
-        "actionPriority": 18,
-        "explanation": "Reducing deforestation and degradation is crucial for Ji-Paran\u00e1, given its location in a tropical rainforest biome. The city faces significant land use emissions, which are the largest contributor to its total emissions. By addressing deforestation, Ji-Paran\u00e1 can significantly reduce its carbon footprint and mitigate climate change impacts. Additionally, preserving forest areas is vital for maintaining biodiversity and protecting water resources, which are at high risk due to droughts.",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0052",
             "ActionName": "Reduce Deforestation and Degradation",
@@ -1128,70 +1352,17 @@
                 "the amount of GHG emissions avoided per year"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
             "biome": "tropical_rainforest"
-        }
-    },
-    {
-        "locode": "BR JPR",
-        "cityName": "Ji-Paran\u00e1",
-        "region": "RO",
-        "regionName": "Rond\u00f4nia",
-        "actionId": "ipcc_0061",
-        "actionName": "Soil Carbon Management in Croplands and Grasslands",
-        "actionPriority": 19,
-        "explanation": "Soil Carbon Management in Croplands and Grasslands is a crucial action for Ji-Paran\u00e1 due to its significant land use emissions, which are the largest contributor to the city's total emissions. By improving soil carbon management, the city can enhance carbon sequestration, thereby reducing its overall carbon footprint. Additionally, this action can improve soil health and productivity, which is vital for food security, especially in a region facing high risks from droughts. Implementing this action can also contribute to biodiversity conservation, as healthier soils support diverse ecosystems.",
-        "action": {
-            "ActionID": "ipcc_0061",
-            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Success depends on the availability of resources for monitoring and verification",
-                "regional adaptation of practices",
-                "addressing barriers such as soil saturation and permanence issues"
-            ],
-            "KeyPerformanceIndicators": [
-                "Increase in soil organic carbon",
-                "reduction in GHG emissions",
-                "improvement in agricultural productivity",
-                "biodiversity enhancements"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
         }
     },
     {
@@ -1202,7 +1373,7 @@
         "actionId": "ipcc_0053",
         "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
         "actionPriority": 20,
-        "explanation": "Afforestation, reforestation, and forest ecosystem restoration are crucial for Ji-Paran\u00e1 due to its location in a tropical rainforest biome, which is vital for biodiversity and carbon sequestration. The city faces significant land use emissions, making forest restoration a key strategy to mitigate these emissions and enhance carbon sinks. Additionally, restoring forest ecosystems can help combat the high risk of droughts and heatwaves, which threaten water resources, food security, and public health. By prioritizing this action, Ji-Paran\u00e1 can improve its resilience to climate change impacts and support sustainable development in the region.",
+        "explanation": "Ranked #20 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0053",
             "ActionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
@@ -1253,8 +1424,17 @@
                 "ecosystem service metrics such as water regulation and soil quality"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Implementing agroforestry systems in Coxim is a high priority due to the significant land use emissions, which are the largest contributor to the city's total emissions. Agroforestry can help sequester carbon, reduce emissions, and improve biodiversity, which is crucial given the high risk to biodiversity from droughts and heatwaves. Additionally, agroforestry can enhance food security by providing diverse crops and improving soil health, which is important in a region with moderate risks to food security from climate hazards. This action aligns with the city's need to address environmental sustainability while supporting local livelihoods.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -58,8 +58,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -70,7 +79,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 2,
-        "explanation": "Strengthening mechanisms for deforestation control in Coxim is crucial due to the significant land use emissions, which are the largest contributor to the city's total emissions. The region's biome, primarily grassland and savanna, is vulnerable to deforestation, which can exacerbate biodiversity loss and increase carbon emissions. By prioritizing deforestation control, Coxim can protect its natural habitats, reduce emissions, and contribute to global efforts in combating climate change. Additionally, maintaining healthy ecosystems is vital for the local community's resilience against climate-related hazards such as droughts and heatwaves.",
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -121,8 +130,17 @@
             "PowersAndMandates": [
                 "national"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -133,7 +151,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 3,
-        "explanation": "Promoting urban reforestation and green corridors in Coxim is crucial due to the city's location in a grassland/savanna biome, which is susceptible to biodiversity loss. The action can help mitigate the impacts of droughts and heatwaves, which pose significant risks to biodiversity and public health. Additionally, increasing green spaces can improve air quality and provide natural cooling, which is essential given the moderate risk of heatwaves affecting public health and infrastructure. This initiative also supports the enhancement of urban aesthetics and can contribute to the overall well-being of the community.",
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -184,134 +202,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR COX",
-        "cityName": "Coxim",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0129",
-        "actionName": "Facilitate Technology Transfer for Conservation Practices",
-        "actionPriority": 4,
-        "explanation": "Facilitating technology transfer for conservation practices in Coxim is crucial due to the city's significant land use emissions, which are the highest among its emission sources. By adopting advanced conservation technologies, Coxim can effectively manage its grassland and savanna biomes, reducing emissions and preserving biodiversity. Additionally, the city faces risks from droughts and heatwaves, which threaten water resources and biodiversity. Implementing conservation practices can mitigate these risks by enhancing ecosystem resilience and ensuring sustainable resource management.",
-        "action": {
-            "ActionID": "icare_0129",
-            "ActionName": "Facilitate Technology Transfer for Conservation Practices",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promote the adoption of sustainable agricultural practices through training, pilot projects, and technology demonstrations.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Provision of training programs and establishment of pilot projects to showcase sustainable practices.",
-                "Partnerships with research institutions for technology development and financial incentives to encourage adoption.",
-                "Access to technical assistance for successful implementation."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of conservation technologies transferred and applied on farms.",
-                "Percentage of producers trained to implement conservation practices.",
-                "Reduction in soil degradation or increase in vegetation cover (hectares)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR COX",
-        "cityName": "Coxim",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0128",
-        "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
-        "actionPriority": 5,
-        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) in Coxim is a priority due to the city's significant land use emissions, which are the largest contributor to its total emissions. By incentivizing landowners to maintain and restore natural ecosystems, PES can help reduce these emissions and enhance biodiversity, which is at risk from droughts and heatwaves. Additionally, PES programs can improve water resources management, addressing the city's vulnerability to droughts. This action aligns with the need to balance economic development with environmental sustainability in a region characterized by grassland and savanna biomes.",
-        "action": {
-            "ActionID": "icare_0128",
-            "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implement programs that pay landowners for maintaining or improving environmental conditions on their properties.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": -1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Creation of funding mechanisms and clear eligibility criteria with performance indicators.",
-                "Partnerships with environmental organizations and awareness campaigns to encourage participation.",
-                "Integration with legal frameworks to ensure program sustainability."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of active Payment for Environmental Services (PES) contracts signed.",
-                "Total area under incentivised conservation or restoration practices (hectares).",
-                "Amount of carbon sequestered or emissions avoided through PES actions (tCO\u2082e/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -321,8 +222,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
-        "actionPriority": 6,
-        "explanation": "Conducting Technical Assistance and Rural Extension (ATER) actions in Coxim is crucial due to the city's significant land use emissions, which are the highest among its emission sources. These actions can help improve sustainable agricultural practices, reducing the environmental impact and enhancing food security, which is at risk from both droughts and floods. Additionally, ATER initiatives can support the local economy by increasing agricultural productivity and resilience, particularly important in a region with low-income levels. By focusing on sustainable land management, Coxim can address its environmental challenges while promoting economic development.",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -373,8 +274,17 @@
             "PowersAndMandates": [
                 "state"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -382,13 +292,13 @@
         "cityName": "Coxim",
         "region": "MS",
         "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0100",
-        "actionName": "Support Regenerative Agriculture Practices",
-        "actionPriority": 7,
-        "explanation": "Supporting regenerative agriculture practices in Coxim is crucial due to the city's significant land use emissions, which are the highest among its emission sources. By promoting sustainable farming techniques, the city can reduce its carbon footprint and enhance soil health, which is vital for the grassland/savanna biome. Additionally, regenerative agriculture can improve food security, a key impact area identified in the city's climate risk assessment, by increasing resilience to droughts and floods. This action aligns with the socio-economic context of Coxim, where low-income levels necessitate sustainable and cost-effective agricultural solutions.",
+        "actionId": "icare_0128",
+        "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0100",
-            "ActionName": "Support Regenerative Agriculture Practices",
+            "ActionID": "icare_0128",
+            "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
             "ActionType": [
                 "mitigation"
             ],
@@ -397,17 +307,17 @@
                 "afolu"
             ],
             "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
+                "land"
             ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Support regenerative agricultural practices that focus on restoring soil health and reducing carbon emissions.",
+            "Description": "Implement programs that pay landowners for maintaining or improving environmental conditions on their properties.",
             "CoBenefits": {
-                "air_quality": 2,
+                "air_quality": 1,
                 "water_quality": 2,
                 "habitat": 2,
-                "cost_of_living": 1,
+                "cost_of_living": -1,
                 "housing": 0,
                 "mobility": 0,
                 "stakeholder_engagement": 2
@@ -422,22 +332,103 @@
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Development of training programs and resources to educate farmers on regenerative agricultural techniques, such as cover cropping and reduced tillage.",
-                "Implementation of financial incentives or subsidies to support the adoption of regenerative practices.",
-                "Collaboration with agricultural research institutions to monitor and document the effectiveness of regenerative practices in carbon sequestration and soil health improvement."
+                "Creation of funding mechanisms and clear eligibility criteria with performance indicators.",
+                "Partnerships with environmental organizations and awareness campaigns to encourage participation.",
+                "Integration with legal frameworks to ensure program sustainability."
             ],
             "KeyPerformanceIndicators": [
-                "Increase in soil organic carbon levels (tons/hectare).",
-                "Reduction in water usage per hectare in agricultural production (%).",
-                "Number of regenerative agriculture pilot projects implemented."
+                "Number of active Payment for Environmental Services (PES) contracts signed.",
+                "Total area under incentivised conservation or restoration practices (hectares).",
+                "Amount of carbon sequestered or emissions avoided through PES actions (tCO\u2082e/year)."
             ],
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR COX",
+        "cityName": "Coxim",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "icare_0129",
+        "actionName": "Facilitate Technology Transfer for Conservation Practices",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0129",
+            "ActionName": "Facilitate Technology Transfer for Conservation Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Promote the adoption of sustainable agricultural practices through training, pilot projects, and technology demonstrations.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 2,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Provision of training programs and establishment of pilot projects to showcase sustainable practices.",
+                "Partnerships with research institutions for technology development and financial incentives to encourage adoption.",
+                "Access to technical assistance for successful implementation."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of conservation technologies transferred and applied on farms.",
+                "Percentage of producers trained to implement conservation practices.",
+                "Reduction in soil degradation or increase in vegetation cover (hectares)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -447,8 +438,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
-        "actionPriority": 8,
-        "explanation": "Promoting organic farming in Coxim is a strategic action due to the city's location in a grassland/savanna biome, which is well-suited for sustainable agricultural practices. Organic farming can help reduce land use emissions, which are currently the highest source of emissions in the city. Additionally, this approach can enhance food security by making the local food supply more resilient to climate hazards such as droughts and floods. By reducing reliance on chemical inputs, organic farming also supports biodiversity, which is crucial given the high risk to biodiversity from droughts in the region.",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -499,8 +490,89 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR COX",
+        "cityName": "Coxim",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "icare_0100",
+        "actionName": "Support Regenerative Agriculture Practices",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0100",
+            "ActionName": "Support Regenerative Agriculture Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Support regenerative agricultural practices that focus on restoring soil health and reducing carbon emissions.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Development of training programs and resources to educate farmers on regenerative agricultural techniques, such as cover cropping and reduced tillage.",
+                "Implementation of financial incentives or subsidies to support the adoption of regenerative practices.",
+                "Collaboration with agricultural research institutions to monitor and document the effectiveness of regenerative practices in carbon sequestration and soil health improvement."
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in soil organic carbon levels (tons/hectare).",
+                "Reduction in water usage per hectare in agricultural production (%).",
+                "Number of regenerative agriculture pilot projects implemented."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -511,7 +583,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 9,
-        "explanation": "Creating incentives for agroforestry practices in livestock systems is crucial for Coxim due to its significant land use emissions, which are the highest among all emission sources in the city. Agroforestry can help sequester carbon, thereby reducing these emissions and contributing to climate change mitigation. Additionally, integrating trees into livestock systems can improve biodiversity, which is at risk from both droughts and heatwaves. This action also supports sustainable land management, which is vital for maintaining the grassland/savanna biome that characterizes the region.",
+        "explanation": "Ranked #9 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -562,8 +634,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -574,7 +655,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 10,
-        "explanation": "Promoting sustainable agricultural practices in Coxim is crucial due to the city's significant land use emissions, which are the highest among all emission sources. The region's biome, primarily grassland and savanna, is sensitive to unsustainable agricultural methods that can exacerbate land degradation and biodiversity loss. By adopting sustainable practices, Coxim can mitigate these impacts, enhance food security, and reduce its overall carbon footprint. Additionally, sustainable agriculture can help the city adapt to climate risks such as droughts, which pose a threat to water resources and food security.",
+        "explanation": "Ranked #10 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -625,8 +706,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -637,7 +727,7 @@
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
         "actionPriority": 11,
-        "explanation": "Encouraging the use of low-emission agricultural machinery in Coxim is a significant action due to the city's high land use emissions, which are a major contributor to its total emissions profile. By promoting machinery that emits less, the city can effectively reduce its environmental impact, particularly in the agricultural sector, which is likely a key part of the local economy. Additionally, this action aligns with the need to address the risks associated with droughts and biodiversity, as reducing emissions can help mitigate climate change impacts that exacerbate these issues. Implementing this action can also serve as a model for sustainable practices in the region, potentially leading to broader adoption and further environmental benefits.",
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -688,8 +778,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -700,7 +799,7 @@
         "actionId": "icare_0127",
         "actionName": "Accelerate Environmental Regularization of Rural Properties",
         "actionPriority": 12,
-        "explanation": "Accelerating the environmental regularization of rural properties in Coxim is crucial due to the significant land use emissions, which are the highest among all emission sources in the city. This action can help mitigate the impact of these emissions by ensuring that rural properties adhere to environmental standards, thus preserving the grassland/savanna biome. Additionally, regularization can enhance biodiversity protection, which is at risk from both droughts and heatwaves. By prioritizing this action, Coxim can address its environmental challenges more effectively, contributing to sustainable land management and reducing overall emissions.",
+        "explanation": "Ranked #12 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0127",
             "ActionName": "Accelerate Environmental Regularization of Rural Properties",
@@ -751,8 +850,88 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR COX",
+        "cityName": "Coxim",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "ipcc_0061",
+        "actionName": "Soil Carbon Management in Croplands and Grasslands",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0061",
+            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Success depends on the availability of resources for monitoring and verification",
+                "regional adaptation of practices",
+                "addressing barriers such as soil saturation and permanence issues"
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in soil organic carbon",
+                "reduction in GHG emissions",
+                "improvement in agricultural productivity",
+                "biodiversity enhancements"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -762,8 +941,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-        "actionPriority": 13,
-        "explanation": "Prioritizing the procurement of locally produced agroecological products in public purchases is crucial for Coxim due to its significant land use emissions. By supporting local agroecological practices, the city can reduce its carbon footprint and promote sustainable land management. Additionally, this action can enhance food security, which is at risk from both droughts and floods, by fostering a resilient local food system. Supporting local producers also contributes to the socio-economic development of the region, aligning with the city's low-income profile. Overall, this initiative can help mitigate environmental impacts while boosting local economic resilience.",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -814,71 +993,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR COX",
-        "cityName": "Coxim",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0132",
-        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
-        "actionPriority": 14,
-        "explanation": "Encouraging local agroecological production and short supply chains in Coxim is crucial due to the city's vulnerability to climate hazards such as droughts, which impact water resources and food security. By promoting sustainable agricultural practices, the city can enhance its resilience against these risks and ensure a stable food supply. Additionally, short supply chains can reduce transportation emissions, contributing to a decrease in the city's overall carbon footprint. This action aligns with the need to address both environmental sustainability and socio-economic development in the region.",
-        "action": {
-            "ActionID": "icare_0132",
-            "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Support local, sustainable agricultural practices and reduce emissions associated with food transport.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Incentives for sustainable agricultural practices and development of local food distribution networks.",
-                "Partnerships with producers and investment in infrastructure to support local markets.",
-                "Policies to prioritize low-emission transportation methods."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of producers adhering to local agroecological practices.",
-                "Percentage of food consumed in the city from short chains.",
-                "Reduction in emissions associated with food transport (tCO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -889,7 +1014,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 15,
-        "explanation": "Supporting agroecological certification programs in Coxim is crucial due to the city's reliance on agriculture and its vulnerability to climate hazards like droughts. Agroecological practices can enhance food security by promoting sustainable farming methods that are resilient to environmental changes. Additionally, these programs can help reduce land use emissions, which are a significant contributor to the city's total emissions. By prioritizing this action, Coxim can improve its socio-economic conditions and environmental sustainability, benefiting both the local community and biodiversity.",
+        "explanation": "Ranked #15 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -940,71 +1065,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR COX",
-        "cityName": "Coxim",
-        "region": "MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "icare_0136",
-        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-        "actionPriority": 16,
-        "explanation": "Supporting the implementation of ecological fiscal incentives in Coxim is crucial due to the city's significant land use emissions, which are the highest among its emission sources. These incentives can encourage sustainable land management practices, helping to reduce emissions and preserve the grassland/savanna biome. Additionally, by promoting ecological practices, the city can enhance its resilience against climate-related risks such as droughts, which pose a high risk to biodiversity and water resources. This action aligns with the need to address environmental challenges while also potentially improving socio-economic conditions by fostering sustainable development.",
-        "action": {
-            "ActionID": "icare_0136",
-            "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage the application of ecological taxes and incentives to promote environmental conservation.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Establish a clear regulatory framework with fair tax rates and incentives for sustainability.",
-                "Implement effective monitoring systems to track compliance and measure impact.",
-                "Promote public awareness and foster collaboration between governments, businesses, and communities."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of municipalities that have adopted environmental tax incentives.",
-                "Percentage of tax revenue spent on sustainable practices.",
-                "Acreage or number of properties benefiting from conservation practices as a result of incentives."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1014,8 +1085,8 @@
         "regionName": "Mato Grosso do Sul",
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
-        "actionPriority": 17,
-        "explanation": "Promoting the adoption of agroecological pest control in Coxim is crucial due to the city's reliance on agriculture and its vulnerability to climate-related hazards like droughts. Agroecological methods can enhance biodiversity, which is at risk from both droughts and heatwaves, and improve resilience against these climate impacts. Additionally, this approach can reduce the dependency on chemical pesticides, which aligns with the city's need to manage its environmental footprint and protect its natural grassland/savanna biome. Implementing this action can also support local food security by ensuring sustainable agricultural practices.",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1066,8 +1137,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1075,13 +1155,13 @@
         "cityName": "Coxim",
         "region": "MS",
         "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0061",
-        "actionName": "Soil Carbon Management in Croplands and Grasslands",
-        "actionPriority": 18,
-        "explanation": "Soil Carbon Management in Croplands and Grasslands is a crucial action for Coxim due to its significant land use emissions, which are the highest among all emission sources in the city. Implementing this action can help sequester carbon, thereby reducing the overall carbon footprint of the region. Additionally, Coxim's biome of grassland/savanna is well-suited for practices that enhance soil carbon storage, which can also improve soil health and agricultural productivity. This action aligns with the need to address biodiversity impacts from droughts, as healthier soils can better support diverse ecosystems.",
+        "actionId": "icare_0136",
+        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0061",
-            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
+            "ActionID": "icare_0136",
+            "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
             "ActionType": [
                 "mitigation"
             ],
@@ -1095,41 +1175,123 @@
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
+            "Description": "Encourage the application of ecological taxes and incentives to promote environmental conservation.",
             "CoBenefits": {
-                "air_quality": 0,
+                "air_quality": 1,
                 "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 0
+                "stakeholder_engagement": 2
             },
-            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
+            "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
                 "stationary_energy": null,
                 "transportation": null,
                 "waste": null,
                 "ippu": null,
-                "afolu": "60-79"
+                "afolu": "20-39"
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Success depends on the availability of resources for monitoring and verification",
-                "regional adaptation of practices",
-                "addressing barriers such as soil saturation and permanence issues"
+                "Establish a clear regulatory framework with fair tax rates and incentives for sustainability.",
+                "Implement effective monitoring systems to track compliance and measure impact.",
+                "Promote public awareness and foster collaboration between governments, businesses, and communities."
             ],
             "KeyPerformanceIndicators": [
-                "Increase in soil organic carbon",
-                "reduction in GHG emissions",
-                "improvement in agricultural productivity",
-                "biodiversity enhancements"
+                "Number of municipalities that have adopted environmental tax incentives.",
+                "Percentage of tax revenue spent on sustainable practices.",
+                "Acreage or number of properties benefiting from conservation practices as a result of incentives."
             ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR COX",
+        "cityName": "Coxim",
+        "region": "MS",
+        "regionName": "Mato Grosso do Sul",
+        "actionId": "icare_0132",
+        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0132",
+            "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Support local, sustainable agricultural practices and reduce emissions associated with food transport.",
+            "CoBenefits": {
+                "air_quality": 1,
+                "water_quality": 2,
+                "habitat": 1,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "20-39"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Incentives for sustainable agricultural practices and development of local food distribution networks.",
+                "Partnerships with producers and investment in infrastructure to support local markets.",
+                "Policies to prioritize low-emission transportation methods."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of producers adhering to local agroecological practices.",
+                "Percentage of food consumed in the city from short chains.",
+                "Reduction in emissions associated with food transport (tCO\u2082e)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1140,7 +1302,7 @@
         "actionId": "ipcc_0053",
         "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
         "actionPriority": 19,
-        "explanation": "Afforestation, reforestation, and forest ecosystem restoration are crucial for Coxim due to its significant land use emissions, which are the highest among all emission sources in the city. Restoring forest ecosystems can help sequester carbon, thereby reducing the overall carbon footprint of the region. Additionally, enhancing forest cover can improve biodiversity, which is currently at risk from droughts and heatwaves, and contribute to better water resource management, a key impact area for the city. This action aligns with the need to address environmental challenges while promoting sustainable development in the region.",
+        "explanation": "Ranked #19 by tournament ranking algorithm",
         "action": {
             "ActionID": "ipcc_0053",
             "ActionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
@@ -1191,8 +1353,17 @@
                 "ecosystem service metrics such as water regulation and soil quality"
             ],
             "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1203,7 +1374,7 @@
         "actionId": "icare_0045",
         "actionName": "Promote organic and agroecological agriculture in the rural areas",
         "actionPriority": 20,
-        "explanation": "Promoting organic and agroecological agriculture in Coxim is crucial due to the city's significant land use emissions, which are the highest among all emission sources. By adopting sustainable agricultural practices, the city can reduce its environmental impact and enhance biodiversity, which is currently at risk from droughts and heatwaves. Additionally, this action supports food security by ensuring resilient agricultural systems that can withstand climate-related hazards. Given the low population density and large rural areas, there is ample opportunity to implement these practices effectively, contributing to the overall sustainability of the region.",
+        "explanation": "Ranked #20 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0045",
             "ActionName": "Promote organic and agroecological agriculture in the rural areas",
@@ -1254,8 +1425,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]

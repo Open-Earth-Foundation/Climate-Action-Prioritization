@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Implementing agroforestry systems in Formosa is a high priority due to the city's significant land use emissions, which are the largest contributor to its total emissions. Agroforestry can help sequester carbon, reduce emissions, and improve soil health, which is crucial for a region with a grassland/savanna biome. Additionally, this action can enhance biodiversity and resilience against climate impacts such as droughts, which pose a high risk to water and food security in the area. By integrating trees with crops and livestock, agroforestry can also support local livelihoods and contribute to sustainable land management.",
+        "explanation": "Ranked #1 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -58,71 +58,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR FMO",
-        "cityName": "Formosa",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0133",
-        "actionName": "Promote Urban Reforestation and Green Corridors",
-        "actionPriority": 2,
-        "explanation": "Promoting urban reforestation and green corridors in Formosa is crucial due to the city's vulnerability to climate-related hazards such as droughts and heatwaves. These green initiatives can help mitigate the urban heat island effect, improve air quality, and enhance biodiversity, which is currently at risk. Additionally, increasing green spaces can contribute to better water management, reducing the impact of floods and landslides that threaten infrastructure and public health. By prioritizing this action, Formosa can enhance its resilience to climate change while improving the quality of life for its residents.",
-        "action": {
-            "ActionID": "icare_0133",
-            "ActionName": "Promote Urban Reforestation and Green Corridors",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Increase urban tree coverage to mitigate the urban heat island effect and enhance biodiversity.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "80-100"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Identification of priority areas and selection of native, climate-resilient species for tree planting.",
-                "Partnerships with local organizations and nurseries, and allocation of resources for planting and maintenance.",
-                "Community engagement to ensure long-term care and support."
-            ],
-            "KeyPerformanceIndicators": [
-                "Increase in urban tree canopy cover (%)",
-                "Total length of green corridors created or restored (kilometers)",
-                "Reduction in urban heat island effect temperatures (\u00b0C)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -132,8 +78,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
-        "actionPriority": 3,
-        "explanation": "Strengthening mechanisms for deforestation control in Formosa is crucial due to the significant land use emissions, which are the highest among all emission sources in the city. The region's grassland/savanna biome is vulnerable to deforestation, which can exacerbate climate change impacts and biodiversity loss. By prioritizing deforestation control, Formosa can mitigate its environmental footprint and enhance the resilience of its ecosystems against climate-related hazards such as droughts and heatwaves. This action aligns with the need to protect water resources and food security, which are at high risk due to environmental changes.",
+        "actionPriority": 2,
+        "explanation": "Ranked #2 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -184,8 +130,17 @@
             "PowersAndMandates": [
                 "national"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -193,13 +148,13 @@
         "cityName": "Formosa",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "icare_0130",
-        "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
-        "actionPriority": 4,
-        "explanation": "Conducting Technical Assistance and Rural Extension (ATER) actions is crucial for Formosa due to its significant land use emissions, which are the highest among all emission sources in the city. By providing technical support and education to rural communities, these actions can promote sustainable agricultural practices, reducing the environmental impact of land use. Additionally, ATER initiatives can enhance food security, which is at high risk from droughts and floods, by improving crop resilience and productivity. This action also supports the socio-economic development of the region by empowering low-income rural populations with knowledge and resources to improve their livelihoods.",
+        "actionId": "icare_0133",
+        "actionName": "Promote Urban Reforestation and Green Corridors",
+        "actionPriority": 3,
+        "explanation": "Ranked #3 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0130",
-            "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
+            "ActionID": "icare_0133",
+            "ActionName": "Promote Urban Reforestation and Green Corridors",
             "ActionType": [
                 "mitigation"
             ],
@@ -208,20 +163,20 @@
                 "afolu"
             ],
             "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
+                "land"
             ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Provide technical support and training to rural producers for sustainable agricultural production.",
+            "Description": "Increase urban tree coverage to mitigate the urban heat island effect and enhance biodiversity.",
             "CoBenefits": {
-                "air_quality": 1,
+                "air_quality": 2,
                 "water_quality": 1,
-                "habitat": 1,
+                "habitat": 2,
                 "cost_of_living": 1,
                 "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+                "mobility": 1,
+                "stakeholder_engagement": 1
             },
             "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
@@ -229,26 +184,35 @@
                 "transportation": null,
                 "waste": null,
                 "ippu": null,
-                "afolu": "60-79"
+                "afolu": "80-100"
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
+            "TimelineForImplementation": "5-10 years",
             "Dependencies": [
-                "Availability of skilled technical staff and tailored training programs.",
-                "Partnerships with agricultural research institutions and allocation of resources for capacity-building.",
-                "Engagement with rural producers to ensure active participation."
+                "Identification of priority areas and selection of native, climate-resilient species for tree planting.",
+                "Partnerships with local organizations and nurseries, and allocation of resources for planting and maintenance.",
+                "Community engagement to ensure long-term care and support."
             ],
             "KeyPerformanceIndicators": [
-                "Number of producers benefiting from rural technical assistance (% of total).",
-                "Percentage of participants adopting climate-resilient practices.",
-                "Reduced vulnerability of properties to climate risk (%).\""
+                "Increase in urban tree canopy cover (%)",
+                "Total length of green corridors created or restored (kilometers)",
+                "Reduction in urban heat island effect temperatures (\u00b0C)"
             ],
             "PowersAndMandates": [
-                "state"
+                "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -258,8 +222,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
-        "actionPriority": 5,
-        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) in Formosa is a high priority due to the city's significant land use emissions, which are the largest contributor to its total emissions. By incentivizing landowners to maintain and enhance ecosystem services, PES can help reduce these emissions and promote sustainable land management practices. Additionally, Formosa faces high risks from droughts and floods, which can be mitigated by preserving natural landscapes that regulate water resources. Implementing PES programs can also support biodiversity and improve resilience against climate-related hazards, aligning with the city's need to address environmental and socio-economic challenges.",
+        "actionPriority": 4,
+        "explanation": "Ranked #4 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -310,8 +274,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -321,8 +294,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
-        "actionPriority": 6,
-        "explanation": "Facilitating technology transfer for conservation practices in Formosa is crucial due to the city's significant land use emissions, which are the highest among its emission sources. By adopting advanced conservation technologies, the city can effectively manage its grassland and savanna biomes, reducing emissions and preserving biodiversity. Additionally, with the high risk of droughts impacting water and food security, implementing these practices can enhance resilience and sustainability in these critical areas. This action supports long-term environmental health and aligns with the city's need to address its substantial ecological challenges.",
+        "actionPriority": 5,
+        "explanation": "Ranked #5 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -373,8 +346,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -382,13 +364,13 @@
         "cityName": "Formosa",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "icare_0100",
-        "actionName": "Support Regenerative Agriculture Practices",
-        "actionPriority": 7,
-        "explanation": "Supporting regenerative agriculture practices in Formosa is crucial due to the city's significant land use emissions, which are the highest among its emission sources. By adopting regenerative practices, the city can enhance soil health, increase carbon sequestration, and reduce overall emissions. Additionally, these practices can improve food security, which is at risk due to droughts and floods, by promoting sustainable and resilient agricultural systems. This action aligns with the need to address environmental challenges while supporting the socio-economic well-being of the community.",
+        "actionId": "icare_0130",
+        "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
+        "actionPriority": 6,
+        "explanation": "Ranked #6 by tournament ranking algorithm",
         "action": {
-            "ActionID": "icare_0100",
-            "ActionName": "Support Regenerative Agriculture Practices",
+            "ActionID": "icare_0130",
+            "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
             "ActionType": [
                 "mitigation"
             ],
@@ -402,11 +384,11 @@
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Support regenerative agricultural practices that focus on restoring soil health and reducing carbon emissions.",
+            "Description": "Provide technical support and training to rural producers for sustainable agricultural production.",
             "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
+                "air_quality": 1,
+                "water_quality": 1,
+                "habitat": 1,
                 "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
@@ -422,148 +404,31 @@
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Development of training programs and resources to educate farmers on regenerative agricultural techniques, such as cover cropping and reduced tillage.",
-                "Implementation of financial incentives or subsidies to support the adoption of regenerative practices.",
-                "Collaboration with agricultural research institutions to monitor and document the effectiveness of regenerative practices in carbon sequestration and soil health improvement."
+                "Availability of skilled technical staff and tailored training programs.",
+                "Partnerships with agricultural research institutions and allocation of resources for capacity-building.",
+                "Engagement with rural producers to ensure active participation."
             ],
             "KeyPerformanceIndicators": [
-                "Increase in soil organic carbon levels (tons/hectare).",
-                "Reduction in water usage per hectare in agricultural production (%).",
-                "Number of regenerative agriculture pilot projects implemented."
+                "Number of producers benefiting from rural technical assistance (% of total).",
+                "Percentage of participants adopting climate-resilient practices.",
+                "Reduced vulnerability of properties to climate risk (%).\""
             ],
             "PowersAndMandates": [
-                "local"
+                "state"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR FMO",
-        "cityName": "Formosa",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0084",
-        "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
-        "actionPriority": 8,
-        "explanation": "Creating incentives for agroforestry practices in livestock systems is crucial for Formosa due to its significant land use emissions, which are the highest among all emission sources. Agroforestry can help sequester carbon, improve soil health, and enhance biodiversity, thereby reducing the environmental impact of livestock farming. Additionally, integrating trees into agricultural landscapes can improve water retention and reduce the risk of droughts, which is a major concern for the region. This action aligns with the need to address both climate change mitigation and adaptation, making it a strategic priority for sustainable development in Formosa.",
-        "action": {
-            "ActionID": "icare_0084",
-            "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Create financial and technical incentives for integrating agroforestry practices into livestock systems, promoting carbon capture, soil protection, and biodiversity improvement.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of financial incentive programs, such as subsidies or tax breaks, to support farmers in integrating agroforestry with livestock systems.",
-                "Provision of technical assistance and training to farmers on best practices for agroforestry integration into livestock operations.",
-                "Collaboration with agricultural and environmental organizations to monitor and assess the impacts of agroforestry practices on carbon capture, soil health, and biodiversity."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of financial incentives provided to integrate agroforestry in livestock systems.",
-                "Increase in soil quality and vegetation cover in managed properties (%).",
-                "Growth in biodiversity in agroforestry areas (% of identified species)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR FMO",
-        "cityName": "Formosa",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0102",
-        "actionName": "Promote Sustainable Agricultural Practices",
-        "actionPriority": 9,
-        "explanation": "Promoting sustainable agricultural practices in Formosa is crucial due to the city's significant land use emissions, which are the highest among all emission sources. By adopting sustainable methods, the city can reduce its environmental impact and improve soil health, which is vital for long-term agricultural productivity. Additionally, sustainable practices can help mitigate the risks associated with droughts, which pose a high threat to water resources and food security in the region. Implementing these practices will also support biodiversity and enhance the resilience of the local ecosystem against climate change impacts.",
-        "action": {
-            "ActionID": "icare_0102",
-            "ActionName": "Promote Sustainable Agricultural Practices",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage agricultural practices that reduce greenhouse gas emissions, such as reduced use of fertilizers and agrochemicals.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Development of educational programs and resources to promote sustainable agricultural practices among farmers.",
-                "Implementation of policies that incentivize the reduction of fertilizer and agrochemical use, such as subsidies for organic inputs or sustainable farming techniques.",
-                "Collaboration with agricultural organizations to provide technical support and guidance on emission-reducing practices."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentage of farmland adopting sustainable practices (% of total agricultural land).",
-                "Increase in crop yield per hectare (tons/hectare) due to sustainable methods.",
-                "Reduction in water usage for agriculture (liters or m\u00b3/hectare/year)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -573,8 +438,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
-        "actionPriority": 10,
-        "explanation": "Promoting organic farming in Formosa is a priority due to its potential to enhance food security, which is at risk from droughts and floods. Organic farming practices can improve soil health and water retention, making crops more resilient to climate impacts. Additionally, this approach can reduce the reliance on chemical fertilizers and pesticides, which can contribute to environmental degradation. By supporting organic farming, Formosa can also boost local economies and provide healthier food options for its residents.",
+        "actionPriority": 7,
+        "explanation": "Ranked #7 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -625,8 +490,233 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR FMO",
+        "cityName": "Formosa",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0102",
+        "actionName": "Promote Sustainable Agricultural Practices",
+        "actionPriority": 8,
+        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0102",
+            "ActionName": "Promote Sustainable Agricultural Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Encourage agricultural practices that reduce greenhouse gas emissions, such as reduced use of fertilizers and agrochemicals.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Development of educational programs and resources to promote sustainable agricultural practices among farmers.",
+                "Implementation of policies that incentivize the reduction of fertilizer and agrochemical use, such as subsidies for organic inputs or sustainable farming techniques.",
+                "Collaboration with agricultural organizations to provide technical support and guidance on emission-reducing practices."
+            ],
+            "KeyPerformanceIndicators": [
+                "Percentage of farmland adopting sustainable practices (% of total agricultural land).",
+                "Increase in crop yield per hectare (tons/hectare) due to sustainable methods.",
+                "Reduction in water usage for agriculture (liters or m\u00b3/hectare/year)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR FMO",
+        "cityName": "Formosa",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0100",
+        "actionName": "Support Regenerative Agriculture Practices",
+        "actionPriority": 9,
+        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0100",
+            "ActionName": "Support Regenerative Agriculture Practices",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Support regenerative agricultural practices that focus on restoring soil health and reducing carbon emissions.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Development of training programs and resources to educate farmers on regenerative agricultural techniques, such as cover cropping and reduced tillage.",
+                "Implementation of financial incentives or subsidies to support the adoption of regenerative practices.",
+                "Collaboration with agricultural research institutions to monitor and document the effectiveness of regenerative practices in carbon sequestration and soil health improvement."
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in soil organic carbon levels (tons/hectare).",
+                "Reduction in water usage per hectare in agricultural production (%).",
+                "Number of regenerative agriculture pilot projects implemented."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR FMO",
+        "cityName": "Formosa",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0084",
+        "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
+        "actionPriority": 10,
+        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0084",
+            "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Create financial and technical incentives for integrating agroforestry practices into livestock systems, promoting carbon capture, soil protection, and biodiversity improvement.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 2,
+                "habitat": 2,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 2
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Development of financial incentive programs, such as subsidies or tax breaks, to support farmers in integrating agroforestry with livestock systems.",
+                "Provision of technical assistance and training to farmers on best practices for agroforestry integration into livestock operations.",
+                "Collaboration with agricultural and environmental organizations to monitor and assess the impacts of agroforestry practices on carbon capture, soil health, and biodiversity."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of financial incentives provided to integrate agroforestry in livestock systems.",
+                "Increase in soil quality and vegetation cover in managed properties (%).",
+                "Growth in biodiversity in agroforestry areas (% of identified species)."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -637,7 +727,7 @@
         "actionId": "icare_0127",
         "actionName": "Accelerate Environmental Regularization of Rural Properties",
         "actionPriority": 11,
-        "explanation": "Accelerating the environmental regularization of rural properties in Formosa is crucial due to the significant land use emissions, which are the highest among all emission sources in the city. This action can help mitigate the impact of these emissions by ensuring that rural properties adhere to environmental standards, thus preserving the grassland/savanna biome. Additionally, regularization can enhance the resilience of the local ecosystem against climate hazards such as droughts and floods, which pose high risks to water resources and food security. By prioritizing this action, Formosa can work towards reducing its overall carbon footprint and improving its environmental sustainability.",
+        "explanation": "Ranked #11 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0127",
             "ActionName": "Accelerate Environmental Regularization of Rural Properties",
@@ -688,8 +778,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -700,7 +799,7 @@
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
         "actionPriority": 12,
-        "explanation": "Encouraging the use of low-emission agricultural machinery in Formosa is crucial due to the significant land use emissions, which are the highest among all emission sources in the city. By adopting cleaner technologies in agriculture, the city can substantially reduce its carbon footprint and contribute to mitigating climate change impacts. Additionally, this action aligns with the need to address environmental sustainability in a region characterized by grassland and savanna biomes, which are sensitive to emissions and climate change. Implementing this action can also support the local economy by promoting sustainable agricultural practices, which are essential for long-term food security.",
+        "explanation": "Ranked #12 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -751,8 +850,88 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR FMO",
+        "cityName": "Formosa",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "ipcc_0061",
+        "actionName": "Soil Carbon Management in Croplands and Grasslands",
+        "actionPriority": 13,
+        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "ipcc_0061",
+            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "afolu"
+            ],
+            "Subsector": [
+                "land"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
+            "CoBenefits": {
+                "air_quality": 0,
+                "water_quality": 1,
+                "habitat": 0,
+                "cost_of_living": 0,
+                "housing": 0,
+                "mobility": 0,
+                "stakeholder_engagement": 0
+            },
+            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": null,
+                "waste": null,
+                "ippu": null,
+                "afolu": "60-79"
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "5-10 years",
+            "Dependencies": [
+                "Success depends on the availability of resources for monitoring and verification",
+                "regional adaptation of practices",
+                "addressing barriers such as soil saturation and permanence issues"
+            ],
+            "KeyPerformanceIndicators": [
+                "Increase in soil organic carbon",
+                "reduction in GHG emissions",
+                "improvement in agricultural productivity",
+                "biodiversity enhancements"
+            ],
+            "PowersAndMandates": null,
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -762,8 +941,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-        "actionPriority": 13,
-        "explanation": "Prioritizing the procurement of locally produced agroecological products in public purchases is crucial for Formosa due to its significant land use emissions. By supporting local agroecological practices, the city can reduce its carbon footprint and promote sustainable land management. Additionally, this action can enhance food security, which is at risk from both droughts and floods, by fostering a resilient local food system. Supporting local producers also strengthens the local economy and can improve socio-economic conditions, which are currently characterized by low income levels. Overall, this initiative aligns with the city's need to address environmental and socio-economic challenges effectively.",
+        "actionPriority": 14,
+        "explanation": "Ranked #14 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -814,8 +993,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -825,8 +1013,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
-        "actionPriority": 14,
-        "explanation": "Promoting the adoption of agroecological pest control in Formosa is crucial due to the city's reliance on agriculture and its vulnerability to climate-related hazards such as droughts and floods. Agroecological practices can enhance the resilience of local food systems by reducing dependency on chemical pesticides, which can be harmful to both the environment and human health. Additionally, these practices can improve soil health and biodiversity, contributing to long-term sustainability and food security. Given the high risk of droughts impacting water resources and food security, this action supports a more sustainable and adaptive agricultural approach.",
+        "actionPriority": 15,
+        "explanation": "Ranked #15 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -877,134 +1065,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR FMO",
-        "cityName": "Formosa",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0099",
-        "actionName": "Support Agroecological Certification Programs",
-        "actionPriority": 15,
-        "explanation": "Supporting agroecological certification programs in Formosa is crucial due to the city's significant land use emissions, which are the highest among its emission sources. By promoting sustainable agricultural practices, these programs can help reduce the environmental impact of farming activities. Additionally, agroecological practices can enhance food security, which is a key concern given the high risk of droughts affecting the region. This action aligns with the need to mitigate climate risks and improve the resilience of local food systems.",
-        "action": {
-            "ActionID": "icare_0099",
-            "ActionName": "Support Agroecological Certification Programs",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage the certification of agroecological products that meet sustainability criteria and have low environmental impact.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
             },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Development of clear and accessible certification standards for agroecological products that emphasize sustainability and low environmental impact.",
-                "Support for farmers and producers to meet certification requirements through training, financial assistance, or technical guidance.",
-                "Creation of marketing strategies and partnerships to increase the visibility and demand for certified agroecological products in local and global markets."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of farmers or producers obtaining agroecological certifications.",
-                "Percentage of certified agricultural products in the market (%).",
-                "Reduction in the use of synthetic inputs (e.g., fertilizers, pesticides)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
-        }
-    },
-    {
-        "locode": "BR FMO",
-        "cityName": "Formosa",
-        "region": "GO",
-        "regionName": "Goi\u00e1s",
-        "actionId": "icare_0136",
-        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-        "actionPriority": 16,
-        "explanation": "Supporting the implementation of ecological fiscal incentives in Formosa is crucial due to the city's significant land use emissions, which are the highest among its emission sources. By promoting sustainable land management practices through fiscal incentives, the city can effectively reduce these emissions. Additionally, Formosa faces high risks from climate hazards such as droughts and floods, which can be mitigated by encouraging ecological practices. This action aligns with the need to enhance resilience against environmental risks while promoting sustainable economic growth.",
-        "action": {
-            "ActionID": "icare_0136",
-            "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Encourage the application of ecological taxes and incentives to promote environmental conservation.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Establish a clear regulatory framework with fair tax rates and incentives for sustainability.",
-                "Implement effective monitoring systems to track compliance and measure impact.",
-                "Promote public awareness and foster collaboration between governments, businesses, and communities."
-            ],
-            "KeyPerformanceIndicators": [
-                "Number of municipalities that have adopted environmental tax incentives.",
-                "Percentage of tax revenue spent on sustainable practices.",
-                "Acreage or number of properties benefiting from conservation practices as a result of incentives."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "biome": null
         }
     },
     {
@@ -1014,8 +1085,8 @@
         "regionName": "Goi\u00e1s",
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
-        "actionPriority": 17,
-        "explanation": "Encouraging local agroecological production and short supply chains is crucial for Formosa due to its vulnerability to climate-related hazards such as droughts and floods, which significantly impact food security. By promoting local production, the city can enhance its resilience against these risks by reducing dependency on external food sources and ensuring a more stable local food supply. Additionally, this action supports the local economy and can help mitigate transportation emissions, which are a significant contributor to the city's overall emissions profile. Furthermore, agroecological practices can improve soil health and biodiversity, contributing to the long-term sustainability of the region's agricultural systems.",
+        "actionPriority": 16,
+        "explanation": "Ranked #16 by tournament ranking algorithm",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1066,8 +1137,17 @@
             "PowersAndMandates": [
                 "local"
             ],
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1075,13 +1155,13 @@
         "cityName": "Formosa",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "ipcc_0061",
-        "actionName": "Soil Carbon Management in Croplands and Grasslands",
-        "actionPriority": 18,
-        "explanation": "Soil Carbon Management in Croplands and Grasslands is a crucial action for Formosa due to its significant land use emissions, which are the highest among all emission sources in the city. By enhancing soil carbon storage, this action can help mitigate these emissions, contributing to overall climate change mitigation efforts. Additionally, the region's grassland/savanna biome is well-suited for such practices, potentially improving soil health and agricultural productivity. This action also aligns with the need to address drought-related risks impacting water and food security, as healthier soils can better retain moisture and support crop resilience.",
+        "actionId": "icare_0099",
+        "actionName": "Support Agroecological Certification Programs",
+        "actionPriority": 17,
+        "explanation": "Ranked #17 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0061",
-            "ActionName": "Soil Carbon Management in Croplands and Grasslands",
+            "ActionID": "icare_0099",
+            "ActionName": "Support Agroecological Certification Programs",
             "ActionType": [
                 "mitigation"
             ],
@@ -1090,46 +1170,56 @@
                 "afolu"
             ],
             "Subsector": [
-                "land"
+                "agriculture_forestry_and_fishing_activities"
             ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Implementation of sustainable soil management practices in croplands and grasslands to enhance soil organic carbon. Practices include improved crop and nutrient management, reduced tillage, residue retention, water and rice management, biochar application, improved grass varieties, livestock stocking management, and fire management. These activities aim to increase soil organic matter, mitigate GHG emissions, and provide co-benefits for biodiversity, water provision, and food security.",
+            "Description": "Encourage the certification of agroecological products that meet sustainability criteria and have low environmental impact.",
             "CoBenefits": {
-                "air_quality": 0,
+                "air_quality": 1,
                 "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 0
+                "stakeholder_engagement": 2
             },
-            "EquityAndInclusionConsiderations": "Promotes inclusion of smallholder farmers and resource-limited communities by providing cost-effective and regionally adaptable practices that improve agricultural productivity and resilience to climate change.",
+            "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
                 "stationary_energy": null,
                 "transportation": null,
                 "waste": null,
                 "ippu": null,
-                "afolu": "60-79"
+                "afolu": "20-39"
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Success depends on the availability of resources for monitoring and verification",
-                "regional adaptation of practices",
-                "addressing barriers such as soil saturation and permanence issues"
+                "Development of clear and accessible certification standards for agroecological products that emphasize sustainability and low environmental impact.",
+                "Support for farmers and producers to meet certification requirements through training, financial assistance, or technical guidance.",
+                "Creation of marketing strategies and partnerships to increase the visibility and demand for certified agroecological products in local and global markets."
             ],
             "KeyPerformanceIndicators": [
-                "Increase in soil organic carbon",
-                "reduction in GHG emissions",
-                "improvement in agricultural productivity",
-                "biodiversity enhancements"
+                "Number of farmers or producers obtaining agroecological certifications.",
+                "Percentage of certified agricultural products in the market (%).",
+                "Reduction in the use of synthetic inputs (e.g., fertilizers, pesticides)."
             ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1137,13 +1227,13 @@
         "cityName": "Formosa",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "ipcc_0053",
-        "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
-        "actionPriority": 19,
-        "explanation": "Afforestation, reforestation, and forest ecosystem restoration are crucial for Formosa due to the high land use emissions, which are a significant contributor to the city's total emissions. By restoring forest ecosystems, the city can enhance carbon sequestration, thereby reducing its overall carbon footprint. Additionally, these actions can help mitigate the impacts of droughts and improve biodiversity, which are key concerns given the city's grassland/savanna biome. Furthermore, increasing forest cover can contribute to better water retention and soil stability, reducing the risk of landslides and improving resilience against climate-related hazards.",
+        "actionId": "icare_0136",
+        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
+        "actionPriority": 18,
+        "explanation": "Ranked #18 by tournament ranking algorithm",
         "action": {
-            "ActionID": "ipcc_0053",
-            "ActionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
+            "ActionID": "icare_0136",
+            "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
             "ActionType": [
                 "mitigation"
             ],
@@ -1157,42 +1247,51 @@
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "Activities focused on converting land to forests, restoring degraded forests, and prioritizing ecological integrity. Afforestation targets historically non-forested land, while reforestation targets previously forested areas. Efforts include enhancing biodiversity, improving ecosystem services, and increasing carbon sequestration.",
+            "Description": "Encourage the application of ecological taxes and incentives to promote environmental conservation.",
             "CoBenefits": {
-                "air_quality": 0,
+                "air_quality": 1,
                 "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
+                "habitat": 2,
+                "cost_of_living": 1,
                 "housing": 0,
                 "mobility": 0,
-                "stakeholder_engagement": 0
+                "stakeholder_engagement": 2
             },
-            "EquityAndInclusionConsiderations": "Supports local livelihoods, promotes land-use equity, and ensures inclusive stakeholder participation in afforestation and restoration programs.",
+            "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
                 "stationary_energy": null,
                 "transportation": null,
                 "waste": null,
                 "ippu": null,
-                "afolu": "60-79"
+                "afolu": "20-39"
             },
             "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
+            "CostInvestmentNeeded": "low",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Requires funding for land restoration",
-                "access to suitable species for planting",
-                "local community engagement",
-                "monitoring systems for ecosystem integrity and carbon sequestration"
+                "Establish a clear regulatory framework with fair tax rates and incentives for sustainability.",
+                "Implement effective monitoring systems to track compliance and measure impact.",
+                "Promote public awareness and foster collaboration between governments, businesses, and communities."
             ],
             "KeyPerformanceIndicators": [
-                "Area of land reforested or afforested",
-                "carbon sequestration rates",
-                "improvement in biodiversity indices",
-                "ecosystem service metrics such as water regulation and soil quality"
+                "Number of municipalities that have adopted environmental tax incentives.",
+                "Percentage of tax revenue spent on sustainable practices.",
+                "Acreage or number of properties benefiting from conservation practices as a result of incentives."
             ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "PowersAndMandates": [
+                "state"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     },
     {
@@ -1200,13 +1299,13 @@
         "cityName": "Formosa",
         "region": "GO",
         "regionName": "Goi\u00e1s",
-        "actionId": "c40_0042",
-        "actionName": "Biodiversity Expansion",
-        "actionPriority": 20,
-        "explanation": "The action 'Biodiversity Expansion' is crucial for Formosa due to its grassland/savanna biome, which is sensitive to environmental changes. Enhancing biodiversity can help mitigate the impacts of climate hazards such as droughts and heatwaves, which pose significant risks to the region's water resources, food security, and public health. Additionally, increasing biodiversity can improve ecosystem resilience, supporting the city's adaptation to climate change and reducing vulnerability to future environmental stresses. This action aligns with the need to protect and sustain the natural environment, which is vital for the well-being of the community and the preservation of local ecosystems.",
+        "actionId": "icare_0045",
+        "actionName": "Promote organic and agroecological agriculture in the rural areas",
+        "actionPriority": 19,
+        "explanation": "Ranked #19 by tournament ranking algorithm",
         "action": {
-            "ActionID": "c40_0042",
-            "ActionName": "Biodiversity Expansion",
+            "ActionID": "icare_0045",
+            "ActionName": "Promote organic and agroecological agriculture in the rural areas",
             "ActionType": [
                 "mitigation"
             ],
@@ -1214,11 +1313,13 @@
             "Sector": [
                 "afolu"
             ],
-            "Subsector": null,
+            "Subsector": [
+                "agriculture_forestry_and_fishing_activities"
+            ],
             "PrimaryPurpose": [
                 "ghg_reduction"
             ],
-            "Description": "\"Biodiversity Expansion\" initiatives aim to preserve and expand green spaces, promoting biodiversity within urban areas. By preserving natural habitats, cities enhance ecosystem services and create resilient environments that support diverse flora and fauna.",
+            "Description": "Promote organic and agroecological agriculture in the rural areas of the city through technical training for farmers and the strengthening of value chains, encouraging an increase in the added value of agricultural production and the implementation of economic instruments to incentivize agroecological conversion, including payment for environmental services.",
             "CoBenefits": {
                 "air_quality": 1,
                 "water_quality": 1,
@@ -1228,39 +1329,113 @@
                 "mobility": 0,
                 "stakeholder_engagement": 0
             },
-            "EquityAndInclusionConsiderations": "The \"Biodiversity Expansion\" initiatives promote equity and inclusion by ensuring that underserved communities have access to preserved green spaces, which are often lacking in urban areas. By focusing on enhancing biodiversity in these neighborhoods, the action addresses environmental justice by improving the quality of life for vulnerable populations who may face higher exposure to pollution and limited access to nature. Additionally, the creation of resilient environments supports diverse flora and fauna, which can enhance local ecosystems that these communities rely on for recreational, cultural, and economic benefits. Overall, the initiative fosters a sense of community ownership and involvement in the preservation of natural habitats, ensuring that the voices of marginalized groups are included in urban planning and environmental stewardship.",
+            "EquityAndInclusionConsiderations": null,
             "GHGReductionPotential": {
                 "stationary_energy": null,
                 "transportation": null,
                 "waste": null,
                 "ippu": null,
-                "afolu": "40-59"
+                "afolu": "20-39"
             },
             "AdaptationEffectiveness": null,
             "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
+            "TimelineForImplementation": "<5 years",
             "Dependencies": [
-                "Availability of funding for green space projects",
-                "Community engagement and support for biodiversity initiatives",
-                "Collaboration with local governments and environmental organizations",
-                "Access to scientific research on local ecosystems",
-                "Regulatory frameworks that support land conservation and urban planning"
+                "Availability of technical training programs for farmers to adopt organic and agroecological practices",
+                "Strengthened value chains and market access for agroecological products to ensure economic sustainability",
+                "Implementation of economic instruments, such as payment for environmental services, to incentivize agroecological conversion"
             ],
             "KeyPerformanceIndicators": [
-                "Increase in green space area (hectares)",
-                "Number of native species introduced",
-                "Biodiversity index improvement",
-                "Percentage of urban areas with accessible green spaces",
-                "Community engagement in biodiversity programs",
-                "Reduction in urban heat island effect",
-                "Increase in pollinator populations",
-                "Improvement in air quality metrics",
-                "Number of partnerships with local conservation organizations",
-                "Public awareness and education outreach metrics"
+                "Number of sustainable rural economic projects implemented annually.",
+                "Reduction in environmental impact from traditional farming or production practices (%).",
+                "Percentage of rural households adopting sustainable practices."
             ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": null,
-            "biome": "none"
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
+        }
+    },
+    {
+        "locode": "BR FMO",
+        "cityName": "Formosa",
+        "region": "GO",
+        "regionName": "Goi\u00e1s",
+        "actionId": "icare_0121",
+        "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
+        "actionPriority": 20,
+        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "action": {
+            "ActionID": "icare_0121",
+            "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
+            "ActionType": [
+                "mitigation"
+            ],
+            "Hazard": null,
+            "Sector": [
+                "transportation"
+            ],
+            "Subsector": [
+                "on-road"
+            ],
+            "PrimaryPurpose": [
+                "ghg_reduction"
+            ],
+            "Description": "This action encourages the establishment of bike-sharing systems in cities, specifically promoting the use of electric bicycles. These systems allow residents to rent electric bikes for short trips, reducing the dependence on cars for urban transportation. By integrating electric bikes, cities can further reduce greenhouse gas emissions, alleviate traffic congestion, and promote a healthier and more sustainable mode of transportation for both urban and rural areas. This initiative also supports mobility equality, as it makes bikes more accessible to a wider range of people.",
+            "CoBenefits": {
+                "air_quality": 2,
+                "water_quality": 0,
+                "habitat": 0,
+                "cost_of_living": 1,
+                "housing": 0,
+                "mobility": 2,
+                "stakeholder_engagement": 1
+            },
+            "EquityAndInclusionConsiderations": null,
+            "GHGReductionPotential": {
+                "stationary_energy": null,
+                "transportation": "60-79",
+                "waste": null,
+                "ippu": null,
+                "afolu": null
+            },
+            "AdaptationEffectiveness": null,
+            "CostInvestmentNeeded": "medium",
+            "TimelineForImplementation": "<5 years",
+            "Dependencies": [
+                "Establishment of bike-sharing systems with a focus on electric bicycles to reduce car dependence.",
+                "Integration of electric bikes to lower greenhouse gas emissions, alleviate traffic congestion, and promote sustainable transportation.",
+                "Promotion of mobility equality by making electric bikes accessible to a wider population."
+            ],
+            "KeyPerformanceIndicators": [
+                "Number of electric bikes available in bike-sharing programs.",
+                "Annual increase in bike-sharing users.",
+                "Estimated reduction in CO\u2082 equivalent emissions from the adoption of electric bike-sharing."
+            ],
+            "PowersAndMandates": [
+                "local"
+            ],
+            "AdaptationEffectivenessPerHazard": {
+                "droughts": null,
+                "heatwaves": null,
+                "floods": null,
+                "sea-level-rise": null,
+                "landslides": null,
+                "storms": null,
+                "wildfires": null,
+                "diseases": null
+            },
+            "biome": null
         }
     }
 ]
