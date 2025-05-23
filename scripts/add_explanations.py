@@ -29,9 +29,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initialize OpenAI client
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key=OPENAI_API_KEY)
-
+#OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+client = OpenAI(api_key=OPENROUTER_API_KEY, base_url="https://openrouter.ai/api/v1")
+MODEL_NAME = "google/gemini-2.5-flash-preview-05-20"
 # Adjust these paths as needed:
 PRIORITIZED_FOLDER = "data/prioritized"
 CITIES_FOLDER = "data/cities"
@@ -152,7 +153,7 @@ def generate_single_explanation(
     try:
         # We'll use parse with Pydantic ExplanationItem to ensure correct structure.
         completion = client.beta.chat.completions.parse(
-            model="gpt-4.1",
+            model=MODEL_NAME,
             messages=[
                 {
                     "role": "system",

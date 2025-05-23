@@ -1,1440 +1,1440 @@
 [
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0075",
-        "actionName": "Set carbon emissions reduction targets for industrial sectors",
-        "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0075",
-            "ActionName": "Definir metas de redu\u00e7\u00e3o de emiss\u00f5es de carbono para setores industriais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Estabelecer metas claras e alcan\u00e7\u00e1veis de redu\u00e7\u00e3o de emiss\u00f5es de carbono para as ind\u00fastrias e exigir relat\u00f3rios peri\u00f3dicos para garantir o progresso.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "80-100",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desenvolvimento de um sistema padronizado de medi\u00e7\u00e3o e relat\u00f3rio de emiss\u00f5es de carbono.",
-                "Cria\u00e7\u00e3o de estruturas regulat\u00f3rias para impor metas de redu\u00e7\u00e3o de emiss\u00f5es.",
-                "Capacita\u00e7\u00e3o para ind\u00fastrias monitorarem e relatarem emiss\u00f5es de forma eficaz."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de ind\u00fastrias com metas estabelecidas de redu\u00e7\u00e3o de carbono (%).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es totais de GEE setoriais em compara\u00e7\u00e3o com a linha de base (toneladas de CO\u2082e).",
-                "Aumento na ado\u00e7\u00e3o de fontes de energia renov\u00e1vel pelas ind\u00fastrias (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0074",
-        "actionName": "Support research into carbon-neutral manufacturing technologies",
-        "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0074",
-            "ActionName": "Apoiar a pesquisa em tecnologias de fabrica\u00e7\u00e3o neutras em carbono",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Investir em pesquisa e desenvolvimento de tecnologias neutras em carbono e incentivar sua ado\u00e7\u00e3o na produ\u00e7\u00e3o industrial.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Financiamento para pesquisa e desenvolvimento de tecnologias neutras em carbono.",
-                "Parcerias entre governo, academia e ind\u00fastria para fomentar a inova\u00e7\u00e3o.",
-                "Programas de incentivo para ind\u00fastrias adotarem novas tecnologias."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de projetos de pesquisa financiados ou iniciados.",
-                "Percentual de ind\u00fastrias locais adotando tecnologias neutras em carbono (%).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es de carbono em ind\u00fastrias participantes de projetos de pesquisa (toneladas de CO\u2082/ano)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0078",
-        "actionName": "Develop and implement industrial waste management programs",
-        "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0078",
-            "ActionName": "Desenvolver e implementar programas de gest\u00e3o de res\u00edduos industriais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Estabelecer sistemas para melhor gerenciar res\u00edduos industriais, reduzindo as emiss\u00f5es de aterros sanit\u00e1rios e incentivando a reciclagem ou reutiliza\u00e7\u00e3o.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Regulamenta\u00e7\u00f5es claras de gest\u00e3o de res\u00edduos para ind\u00fastrias.",
-                "Disponibilidade de infraestrutura de processamento de res\u00edduos.",
-                "Programas de treinamento para trabalhadores industriais sobre gest\u00e3o de res\u00edduos."
-            ],
-            "KeyPerformanceIndicators": [
-                "Redu\u00e7\u00e3o na gera\u00e7\u00e3o de res\u00edduos perigosos (toneladas/ano).",
-                "Aumento na taxa de reciclagem de materiais de res\u00edduos industriais (%).",
-                "Quantidade de convers\u00e3o de res\u00edduos em energia alcan\u00e7ada (MWh/ano)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0042",
-        "actionName": "Encourage renewable energy policies at the municipal level",
-        "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0042",
-            "ActionName": "Incentivar pol\u00edticas de energia renov\u00e1vel a n\u00edvel municipal",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "non-specified_sources"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Defender e implementar pol\u00edticas que priorizem o desenvolvimento e a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es e no planejamento do governo local.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Vontade pol\u00edtica e lideran\u00e7a para priorizar a energia renov\u00e1vel nas pol\u00edticas e processos de planejamento do governo local",
-                "Desenvolvimento de pol\u00edticas claras e estruturas regulat\u00f3rias que facilitem a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es governamentais",
-                "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transi\u00e7\u00e3o para a energia renov\u00e1vel na infraestrutura e opera\u00e7\u00f5es municipais"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de projetos de energia renov\u00e1vel aprovados ou iniciados anualmente a n\u00edvel municipal.",
-                "Percentagem da demanda de energia municipal atendida por fontes renov\u00e1veis (%).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es de carbono municipais devido \u00e0 ado\u00e7\u00e3o de energia renov\u00e1vel (toneladas de CO\u2082e/ano)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0001",
-        "actionName": "Stimulate solar energy production in industrial facilities",
-        "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0001",
-            "ActionName": "Estimular a produ\u00e7\u00e3o de energia solar em instala\u00e7\u00f5es industriais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Incentivar a instala\u00e7\u00e3o de sistemas de energia solar em f\u00e1bricas para reduzir a depend\u00eancia de combust\u00edveis f\u00f3sseis e minimizar as emiss\u00f5es associadas.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "80-100",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento ou subs\u00eddios para apoiar instala\u00e7\u00f5es de energia solar em ind\u00fastrias.",
-                "Expertise t\u00e9cnica e capacidade para a instala\u00e7\u00e3o de pain\u00e9is solares e sistemas relacionados.",
-                "Estruturas regulat\u00f3rias que facilitam a integra\u00e7\u00e3o da energia solar nas opera\u00e7\u00f5es industriais."
-            ],
-            "KeyPerformanceIndicators": [
-                "Total de emiss\u00f5es de gases de efeito estufa evitadas atrav\u00e9s da ado\u00e7\u00e3o de energia solar nas ind\u00fastrias (toneladas de CO\u2082/ano).",
-                "Per\u00edodo m\u00e9dio de retorno sobre o investimento (ROI) para instala\u00e7\u00f5es solares industriais (anos).",
-                "Percentual das necessidades energ\u00e9ticas industriais atendidas por sistemas de energia solar (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0082",
-        "actionName": "Transition to renewable energy for industrial operations",
-        "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0082",
-            "ActionName": "Transi\u00e7\u00e3o para energia renov\u00e1vel nas opera\u00e7\u00f5es industriais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Incentivar a transi\u00e7\u00e3o para fontes de energia renov\u00e1vel, como energia e\u00f3lica, solar e hidrel\u00e9trica, nas opera\u00e7\u00f5es industriais para reduzir o uso de combust\u00edveis f\u00f3sseis.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "80-100",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Fornecimento de incentivos, como isen\u00e7\u00f5es fiscais ou subs\u00eddios, para tornar as tecnologias de energia renov\u00e1vel mais acess\u00edveis para as ind\u00fastrias.",
-                "Desenvolvimento de infraestrutura para a integra\u00e7\u00e3o de energia renov\u00e1vel nas opera\u00e7\u00f5es industriais existentes, incluindo solu\u00e7\u00f5es de armazenamento de energia.",
-                "Assist\u00eancia t\u00e9cnica e treinamento para partes interessadas da ind\u00fastria para facilitar a transi\u00e7\u00e3o para fontes de energia renov\u00e1vel."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de ind\u00fastrias adotando fontes de energia renov\u00e1vel.",
-                "Capacidade instalada de energia renov\u00e1vel em opera\u00e7\u00f5es industriais (MW).",
-                "Redu\u00e7\u00e3o nos custos m\u00e9dios de energia para ind\u00fastrias que fizeram a transi\u00e7\u00e3o para renov\u00e1veis (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0076",
-        "actionName": "Encourage the use of low-emission fuels in industrial processes",
-        "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0076",
-            "ActionName": "Incentivar o uso de combust\u00edveis de baixa emiss\u00e3o em processos industriais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promover a transi\u00e7\u00e3o para biocombust\u00edveis, hidrog\u00eanio e outras alternativas de baixo carbono nos processos de combust\u00e3o industrial.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desenvolvimento de infraestrutura para produ\u00e7\u00e3o e distribui\u00e7\u00e3o de biocombust\u00edveis e hidrog\u00eanio.",
-                "Estruturas regulat\u00f3rias para apoiar a transi\u00e7\u00e3o para combust\u00edveis de baixo carbono.",
-                "Disponibilidade de tecnologia para integrar biocombust\u00edveis e hidrog\u00eanio em sistemas industriais."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem do consumo de energia industrial proveniente de combust\u00edveis de baixa emiss\u00e3o (%).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es de GEE pela substitui\u00e7\u00e3o de combust\u00edveis (toneladas de CO\u2082e/ano).",
-                "N\u00famero de instala\u00e7\u00f5es que est\u00e3o fazendo a transi\u00e7\u00e3o para fontes de combust\u00edvel de baixa emiss\u00e3o"
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0024",
-        "actionName": "Integrate renewables into municipal water systems",
-        "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0024",
-            "ActionName": "Integrar energias renov\u00e1veis nos sistemas municipais de \u00e1gua",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implementar fontes de energia renov\u00e1vel, como energia solar ou e\u00f3lica, para impulsionar sistemas de tratamento, bombeamento e distribui\u00e7\u00e3o de \u00e1gua, reduzindo custos de energia e emiss\u00f5es.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento ou incentivos financeiros para integrar fontes de energia renov\u00e1vel, como energia solar ou e\u00f3lica, em sistemas de tratamento e distribui\u00e7\u00e3o de \u00e1gua",
-                "Expertise t\u00e9cnica e infraestrutura para adaptar sistemas existentes com solu\u00e7\u00f5es de energia renov\u00e1vel ou projetar novas instala\u00e7\u00f5es alimentadas por energias renov\u00e1veis",
-                "Apoio pol\u00edtico e regulat\u00f3rio para incentivar o uso de energia limpa em sistemas de \u00e1gua e garantir sua integra\u00e7\u00e3o nas redes de energia municipais"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de sistemas municipais de \u00e1gua alimentados por energias renov\u00e1veis.",
-                "Redu\u00e7\u00e3o no consumo de energia de fontes n\u00e3o renov\u00e1veis (kWh/ano).",
-                "Emiss\u00f5es de GEE evitadas (toneladas de CO\u2082e)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0071",
-        "actionName": "Promote the substitution of traditional materials with sustainable alternatives",
-        "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0071",
-            "ActionName": "Promover a substitui\u00e7\u00e3o de materiais tradicionais por alternativas sustent\u00e1veis",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Incentivar a substitui\u00e7\u00e3o de materiais tradicionais por alternativas sustent\u00e1veis de baixo impacto, como op\u00e7\u00f5es biodegrad\u00e1veis ou recicl\u00e1veis.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de materiais sustent\u00e1veis a pre\u00e7os competitivos.",
-                "Pol\u00edticas e regulamentos de apoio que promovem a substitui\u00e7\u00e3o de materiais.",
-                "Conscientiza\u00e7\u00e3o e capacidade da ind\u00fastria para a transi\u00e7\u00e3o para novos materiais."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de campanhas de conscientiza\u00e7\u00e3o p\u00fablica ou sess\u00f5es de treinamento realizadas para promover materiais sustent\u00e1veis.",
-                "Redu\u00e7\u00e3o percentual de custo na produ\u00e7\u00e3o de materiais sustent\u00e1veis em compara\u00e7\u00e3o com materiais tradicionais (%).",
-                "Participa\u00e7\u00e3o de mercado de materiais sustent\u00e1veis em compara\u00e7\u00e3o com materiais tradicionais nas ind\u00fastrias locais (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0038",
-        "actionName": "Promote community solar farms",
-        "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0038",
-            "ActionName": "Promover fazendas solares comunit\u00e1rias",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Desenvolver e incentivar a ado\u00e7\u00e3o de projetos de energia solar compartilhada, permitindo que as comunidades se beneficiem coletivamente de energia limpa e renov\u00e1vel.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desenvolvimento de pol\u00edticas e estruturas regulat\u00f3rias para apoiar projetos de energia solar compartilhada baseados na comunidade e garantir o acesso equitativo \u00e0 energia limpa",
-                "Disponibilidade de mecanismos financeiros ou incentivos para ajudar as comunidades a investir e manter sistemas de energia solar compartilhada",
-                "Colabora\u00e7\u00e3o entre governos locais, fornecedores de energia e organiza\u00e7\u00f5es comunit\u00e1rias para projetar e implementar projetos de energia solar compartilhada de forma eficaz"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de resid\u00eancias atendidas por projetos solares comunit\u00e1rios.",
-                "Emiss\u00f5es de GEE evitadas atrav\u00e9s da produ\u00e7\u00e3o de energia solar (toneladas de CO\u2082e)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0033",
-        "actionName": "Install biodigesters in rural properties",
-        "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0033",
-            "ActionName": "Instalar biodigestores em propriedades rurais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Equipar fazendas e propriedades rurais com biodigestores para converter res\u00edduos org\u00e2nicos em biog\u00e1s e fertilizantes ricos em nutrientes, fornecendo uma fonte de energia sustent\u00e1vel.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento ou subs\u00eddios para apoiar a instala\u00e7\u00e3o de biodigestores em fazendas e propriedades rurais",
-                "Acesso a expertise t\u00e9cnica para o design, instala\u00e7\u00e3o e manuten\u00e7\u00e3o de biodigestores",
-                "Desenvolvimento de um quadro regulat\u00f3rio de apoio que incentive o uso de biog\u00e1s e sistemas de gest\u00e3o de res\u00edduos org\u00e2nicos na agricultura rural"
-            ],
-            "KeyPerformanceIndicators": [
-                "Volume de biog\u00e1s gerado (m\u00b3/ano).",
-                "Emiss\u00f5es de GEE evitadas pela substitui\u00e7\u00e3o de combust\u00edveis f\u00f3sseis (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0097",
-        "actionName": "Support Distributed Energy Generation in Residences and Businesses",
-        "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0097",
-            "ActionName": "Apoiar a Gera\u00e7\u00e3o de Energia Distribu\u00edda em Resid\u00eancias e Neg\u00f3cios",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Facilitar o uso de pain\u00e9is solares e outras tecnologias de energia renov\u00e1vel em resid\u00eancias e edif\u00edcios comerciais.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Fornecer incentivos financeiros, regulamenta\u00e7\u00f5es claras de instala\u00e7\u00e3o e acesso a tecnologias acess\u00edveis para pain\u00e9is solares.",
-                "Lan\u00e7ar campanhas de conscientiza\u00e7\u00e3o p\u00fablica e oferecer treinamento para propriet\u00e1rios de resid\u00eancias e empresas.",
-                "Incentivar a ado\u00e7\u00e3o de tecnologias de energia renov\u00e1vel para promover economias de energia a longo prazo."
-            ],
-            "KeyPerformanceIndicators": [
-                "Capacidade instalada de gera\u00e7\u00e3o de energia distribu\u00edda (MW).",
-                "Percentual de resid\u00eancias e empresas gerando sua pr\u00f3pria energia (%).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es de CO\u2082 atrav\u00e9s da gera\u00e7\u00e3o distribu\u00edda (tCO\u2082e/ano)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0079",
-        "actionName": "Implement energy audits in industrial plants",
-        "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0079",
-            "ActionName": "Implementar auditorias energ\u00e9ticas em plantas industriais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Realizar auditorias energ\u00e9ticas regulares para identificar oportunidades de economia de energia e redu\u00e7\u00e3o de emiss\u00f5es.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "20-39",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidade de profissionais qualificados ou auditores de energia para realizar avalia\u00e7\u00f5es completas em ind\u00fastrias e edif\u00edcios.",
-                "Desenvolvimento de uma estrutura padronizada para auditorias de energia, garantindo consist\u00eancia e precis\u00e3o nos resultados.",
-                "Implementa\u00e7\u00e3o de incentivos governamentais ou corporativos para encorajar as organiza\u00e7\u00f5es a agirem com base nas recomenda\u00e7\u00f5es das auditorias, como reembolsos para atualiza\u00e7\u00f5es de efici\u00eancia energ\u00e9tica."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de plantas industriais realizando auditorias energ\u00e9ticas anualmente.",
-                "Economia de custos alcan\u00e7ada atrav\u00e9s de melhorias recomendadas pela auditoria (%).",
-                "Tempo m\u00e9dio para implementar medidas de efici\u00eancia energ\u00e9tica ap\u00f3s a auditoria (meses)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0040",
-        "actionName": "Adopt solar-powered street lighting in rural areas",
-        "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0040",
-            "ActionName": "Adotar ilumina\u00e7\u00e3o p\u00fablica solar em \u00e1reas rurais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Instalar postes de ilumina\u00e7\u00e3o p\u00fablica movidos a energia solar para melhorar a seguran\u00e7a e acessibilidade em comunidades rurais, ao mesmo tempo que reduz os custos de energia e o impacto ambiental.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a instala\u00e7\u00e3o de postes de ilumina\u00e7\u00e3o p\u00fablica solar em comunidades rurais",
-                "Acesso a expertise t\u00e9cnica para projetar, instalar e manter sistemas de ilumina\u00e7\u00e3o p\u00fablica solar",
-                "Colabora\u00e7\u00e3o com governos locais e comunidades para garantir a integra\u00e7\u00e3o de postes de ilumina\u00e7\u00e3o solar na infraestrutura existente e nos planos de energia"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de postes de ilumina\u00e7\u00e3o p\u00fablica alimentados por energia solar.",
-                "Redu\u00e7\u00e3o anual no consumo de eletricidade (kWh).",
-                "Emiss\u00f5es de GEE evitadas (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0011",
-        "actionName": "Provide tax incentives for renewable energy in residential projects",
-        "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0011",
-            "ActionName": "Fornecer incentivos fiscais para energia renov\u00e1vel em projetos residenciais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Incentivar os propriet\u00e1rios de im\u00f3veis a adotarem energia solar, e\u00f3lica e outras fontes de energia limpa.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 2,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidade de incentivos financeiros, subs\u00eddios ou cr\u00e9ditos fiscais para incentivar os propriet\u00e1rios a instalar sistemas de energia solar, e\u00f3lica e outras energias limpas",
-                "Acesso a informa\u00e7\u00f5es e recursos educacionais para ajudar os propriet\u00e1rios a entender os benef\u00edcios, custos e processos de instala\u00e7\u00e3o de sistemas de energia limpa",
-                "Desenvolvimento de regulamentos e pol\u00edticas de apoio que facilitem a instala\u00e7\u00e3o de tecnologias de energia renov\u00e1vel em \u00e1reas residenciais"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de resid\u00eancias beneficiadas por incentivos fiscais para a ado\u00e7\u00e3o de energia renov\u00e1vel.",
-                "Aumento anual nas instala\u00e7\u00f5es de energia renov\u00e1vel em projetos residenciais.",
-                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es de CO\u2082 equivalente devido \u00e0 ado\u00e7\u00e3o de energia renov\u00e1vel."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0131",
-        "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-        "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0131",
-            "ActionName": "Priorizar a Aquisi\u00e7\u00e3o de Produtos Agroecol\u00f3gicos Produzidos Localmente em Compras P\u00fablicas",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Concentre-se em comprar alimentos sustent\u00e1veis e produzidos localmente para institui\u00e7\u00f5es p\u00fablicas.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desenvolvimento de pol\u00edticas de aquisi\u00e7\u00e3o e identifica\u00e7\u00e3o de fornecedores locais confi\u00e1veis.",
-                "Parcerias com produtores e aloca\u00e7\u00e3o de financiamento para programas de aquisi\u00e7\u00e3o sustent\u00e1vel.",
-                "Estabelecimento de sistemas de monitoramento para garantir a conformidade com os crit\u00e9rios de sustentabilidade."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem do volume total de compras p\u00fablicas provenientes de produtores agroecol\u00f3gicos locais.",
-                "Quantidade de emiss\u00f5es de CO\u2082 evitadas devido \u00e0 redu\u00e7\u00e3o da dist\u00e2ncia de transporte (tCO\u2082e).",
-                "N\u00famero de produtores agroecol\u00f3gicos beneficiados pelas compras p\u00fablicas."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0072",
-        "actionName": "Promote industry-government collaborations on emissions reduction",
-        "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0072",
-            "ActionName": "Promover colabora\u00e7\u00f5es entre a ind\u00fastria e o governo para a redu\u00e7\u00e3o de emiss\u00f5es",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar colabora\u00e7\u00f5es entre a ind\u00fastria e o governo para criar pol\u00edticas e incentivos para reduzir as emiss\u00f5es industriais e apoiar metas de sustentabilidade.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "20-39",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Estabelecimento de f\u00f3runs multissetoriais envolvendo a ind\u00fastria e o governo.",
-                "Desenvolvimento de estruturas pol\u00edticas claras para apoiar a redu\u00e7\u00e3o de emiss\u00f5es.",
-                "Cria\u00e7\u00e3o de incentivos financeiros para que as ind\u00fastrias adotem pr\u00e1ticas sustent\u00e1veis."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de acordos de colabora\u00e7\u00e3o assinados entre a ind\u00fastria e o governo.",
-                "Quantidade de emiss\u00f5es reduzidas atrav\u00e9s de iniciativas colaborativas (toneladas de CO\u2082/ano).",
-                "Percentagem de ind\u00fastrias-chave envolvidas em parcerias de redu\u00e7\u00e3o de emiss\u00f5es (%)."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0105",
-        "actionName": "Reduce technical losses in energy distribution networks",
-        "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0105",
-            "ActionName": "Reduzir perdas t\u00e9cnicas nas redes de distribui\u00e7\u00e3o de energia",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Atualizar e manter a infraestrutura el\u00e9trica para minimizar a perda de energia durante a transmiss\u00e3o e distribui\u00e7\u00e3o, melhorando a efici\u00eancia geral da rede.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento para investir na moderniza\u00e7\u00e3o da infraestrutura el\u00e9trica e na atualiza\u00e7\u00e3o das redes de transmiss\u00e3o e distribui\u00e7\u00e3o",
-                "Acesso a expertise t\u00e9cnica para implementar atualiza\u00e7\u00f5es que reduzam perdas de energia e melhorem a efici\u00eancia da rede",
-                "Estruturas pol\u00edticas e regulat\u00f3rias para garantir a manuten\u00e7\u00e3o cont\u00ednua e a integra\u00e7\u00e3o de tecnologias energeticamente eficientes na infraestrutura da rede"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentual de redu\u00e7\u00e3o nas perdas t\u00e9cnicas em rela\u00e7\u00e3o \u00e0 linha de base (%).",
-                "Economia de energia alcan\u00e7ada anualmente (kWh).",
-                "Emiss\u00f5es de GEE evitadas atrav\u00e9s da redu\u00e7\u00e3o de perdas de energia (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0034",
-        "actionName": "Create tax incentives for companies adopting clean technologies",
-        "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0034",
-            "ActionName": "Criar incentivos fiscais para empresas que adotam tecnologias limpas",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implementar incentivos fiscais e subs\u00eddios para empresas que investem em tecnologias limpas, levando a redu\u00e7\u00f5es substanciais de emiss\u00f5es.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "20-39",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desenvolvimento de um quadro de incentivos fiscais direcionado a investimentos em tecnologias limpas.",
-                "Disponibilidade de recursos financeiros para subs\u00eddios e incentivos fiscais.",
-                "Colabora\u00e7\u00e3o entre governo e empresas para identificar tecnologias limpas eleg\u00edveis."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem m\u00e9dia de poupan\u00e7a fiscal por empresa que adota tecnologias limpas (%).",
-                "N\u00famero de novas empresas de tecnologia limpa estabelecidas como resultado de incentivos fiscais.",
-                "Aumento no n\u00famero de empregos relacionados a tecnologias limpas criados devido a incentivos fiscais."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SOB",
-        "cityName": "Sobral",
-        "region": "CE",
-        "regionName": "Cear\u00e1",
-        "actionId": "icare_0056",
-        "actionName": "Implement continuous monitoring of GHG emissions and climate actions.",
-        "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0056",
-            "ActionName": "Implementar monitoramento cont\u00ednuo das emiss\u00f5es de GEE e a\u00e7\u00f5es clim\u00e1ticas.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "non-specified_sources"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "O invent\u00e1rio municipal de emiss\u00f5es de GEE deve ser preparado anualmente para permitir o monitoramento dos resultados das a\u00e7\u00f5es de mitiga\u00e7\u00e3o. Recomenda-se incluir as categorias de IPPU (Processos Industriais) e AFOLU (Agricultura, Florestas e Uso da Terra).",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "20-39",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Prepara\u00e7\u00e3o anual do invent\u00e1rio de emiss\u00f5es de GEE do munic\u00edpio para monitorar os resultados de mitiga\u00e7\u00e3o.",
-                "Inclus\u00e3o das categorias IPPU (Processos Industriais) e AFOLU (Agricultura, Florestas e Uso da Terra) no invent\u00e1rio.",
-                "Uso do invent\u00e1rio como uma ferramenta para acompanhar e melhorar o desempenho das a\u00e7\u00f5es clim\u00e1ticas."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de fontes de emiss\u00e3o monitoradas.",
-                "Frequ\u00eancia das atualiza\u00e7\u00f5es de monitoramento (por exemplo, mensal, trimestral).",
-                "Precis\u00e3o dos relat\u00f3rios de redu\u00e7\u00e3o de emiss\u00f5es (% verificado)."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0075",
+    "actionName": "Set carbon emissions reduction targets for industrial sectors",
+    "actionPriority": 1,
+    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0075",
+      "ActionName": "Definir metas de redução de emissões de carbono para setores industriais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Estabelecer metas claras e alcançáveis de redução de emissões de carbono para as indústrias e exigir relatórios periódicos para garantir o progresso.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "80-100",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desenvolvimento de um sistema padronizado de medição e relatório de emissões de carbono.",
+        "Criação de estruturas regulatórias para impor metas de redução de emissões.",
+        "Capacitação para indústrias monitorarem e relatarem emissões de forma eficaz."
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de indústrias com metas estabelecidas de redução de carbono (%).",
+        "Redução nas emissões totais de GEE setoriais em comparação com a linha de base (toneladas de CO₂e).",
+        "Aumento na adoção de fontes de energia renovável pelas indústrias (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
     }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0074",
+    "actionName": "Support research into carbon-neutral manufacturing technologies",
+    "actionPriority": 2,
+    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0074",
+      "ActionName": "Apoiar a pesquisa em tecnologias de fabricação neutras em carbono",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Investir em pesquisa e desenvolvimento de tecnologias neutras em carbono e incentivar sua adoção na produção industrial.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Financiamento para pesquisa e desenvolvimento de tecnologias neutras em carbono.",
+        "Parcerias entre governo, academia e indústria para fomentar a inovação.",
+        "Programas de incentivo para indústrias adotarem novas tecnologias."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de projetos de pesquisa financiados ou iniciados.",
+        "Percentual de indústrias locais adotando tecnologias neutras em carbono (%).",
+        "Redução nas emissões de carbono em indústrias participantes de projetos de pesquisa (toneladas de CO₂/ano)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0078",
+    "actionName": "Develop and implement industrial waste management programs",
+    "actionPriority": 3,
+    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0078",
+      "ActionName": "Desenvolver e implementar programas de gestão de resíduos industriais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Estabelecer sistemas para melhor gerenciar resíduos industriais, reduzindo as emissões de aterros sanitários e incentivando a reciclagem ou reutilização.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 2,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Regulamentações claras de gestão de resíduos para indústrias.",
+        "Disponibilidade de infraestrutura de processamento de resíduos.",
+        "Programas de treinamento para trabalhadores industriais sobre gestão de resíduos."
+      ],
+      "KeyPerformanceIndicators": [
+        "Redução na geração de resíduos perigosos (toneladas/ano).",
+        "Aumento na taxa de reciclagem de materiais de resíduos industriais (%).",
+        "Quantidade de conversão de resíduos em energia alcançada (MWh/ano)"
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0042",
+    "actionName": "Encourage renewable energy policies at the municipal level",
+    "actionPriority": 4,
+    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0042",
+      "ActionName": "Incentivar políticas de energia renovável a nível municipal",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "non-specified_sources"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Defender e implementar políticas que priorizem o desenvolvimento e a integração de sistemas de energia renovável nas operações e no planejamento do governo local.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Vontade política e liderança para priorizar a energia renovável nas políticas e processos de planejamento do governo local",
+        "Desenvolvimento de políticas claras e estruturas regulatórias que facilitem a integração de sistemas de energia renovável nas operações governamentais",
+        "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transição para a energia renovável na infraestrutura e operações municipais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de projetos de energia renovável aprovados ou iniciados anualmente a nível municipal.",
+        "Percentagem da demanda de energia municipal atendida por fontes renováveis (%).",
+        "Redução nas emissões de carbono municipais devido à adoção de energia renovável (toneladas de CO₂e/ano)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0001",
+    "actionName": "Stimulate solar energy production in industrial facilities",
+    "actionPriority": 5,
+    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0001",
+      "ActionName": "Estimular a produção de energia solar em instalações industriais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Incentivar a instalação de sistemas de energia solar em fábricas para reduzir a dependência de combustíveis fósseis e minimizar as emissões associadas.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "80-100",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": ">10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento ou subsídios para apoiar instalações de energia solar em indústrias.",
+        "Expertise técnica e capacidade para a instalação de painéis solares e sistemas relacionados.",
+        "Estruturas regulatórias que facilitam a integração da energia solar nas operações industriais."
+      ],
+      "KeyPerformanceIndicators": [
+        "Total de emissões de gases de efeito estufa evitadas através da adoção de energia solar nas indústrias (toneladas de CO₂/ano).",
+        "Período médio de retorno sobre o investimento (ROI) para instalações solares industriais (anos).",
+        "Percentual das necessidades energéticas industriais atendidas por sistemas de energia solar (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0082",
+    "actionName": "Transition to renewable energy for industrial operations",
+    "actionPriority": 6,
+    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0082",
+      "ActionName": "Transição para energia renovável nas operações industriais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Incentivar a transição para fontes de energia renovável, como energia eólica, solar e hidrelétrica, nas operações industriais para reduzir o uso de combustíveis fósseis.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "80-100",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": ">10 years",
+      "Dependencies": [
+        "Fornecimento de incentivos, como isenções fiscais ou subsídios, para tornar as tecnologias de energia renovável mais acessíveis para as indústrias.",
+        "Desenvolvimento de infraestrutura para a integração de energia renovável nas operações industriais existentes, incluindo soluções de armazenamento de energia.",
+        "Assistência técnica e treinamento para partes interessadas da indústria para facilitar a transição para fontes de energia renovável."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de indústrias adotando fontes de energia renovável.",
+        "Capacidade instalada de energia renovável em operações industriais (MW).",
+        "Redução nos custos médios de energia para indústrias que fizeram a transição para renováveis (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0076",
+    "actionName": "Encourage the use of low-emission fuels in industrial processes",
+    "actionPriority": 7,
+    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0076",
+      "ActionName": "Incentivar o uso de combustíveis de baixa emissão em processos industriais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Promover a transição para biocombustíveis, hidrogênio e outras alternativas de baixo carbono nos processos de combustão industrial.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desenvolvimento de infraestrutura para produção e distribuição de biocombustíveis e hidrogênio.",
+        "Estruturas regulatórias para apoiar a transição para combustíveis de baixo carbono.",
+        "Disponibilidade de tecnologia para integrar biocombustíveis e hidrogênio em sistemas industriais."
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem do consumo de energia industrial proveniente de combustíveis de baixa emissão (%).",
+        "Redução nas emissões de GEE pela substituição de combustíveis (toneladas de CO₂e/ano).",
+        "Número de instalações que estão fazendo a transição para fontes de combustível de baixa emissão"
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0024",
+    "actionName": "Integrate renewables into municipal water systems",
+    "actionPriority": 8,
+    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0024",
+      "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Implementar fontes de energia renovável, como energia solar ou eólica, para impulsionar sistemas de tratamento, bombeamento e distribuição de água, reduzindo custos de energia e emissões.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 2,
+        "habitat": 2,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento ou incentivos financeiros para integrar fontes de energia renovável, como energia solar ou eólica, em sistemas de tratamento e distribuição de água",
+        "Expertise técnica e infraestrutura para adaptar sistemas existentes com soluções de energia renovável ou projetar novas instalações alimentadas por energias renováveis",
+        "Apoio político e regulatório para incentivar o uso de energia limpa em sistemas de água e garantir sua integração nas redes de energia municipais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de sistemas municipais de água alimentados por energias renováveis.",
+        "Redução no consumo de energia de fontes não renováveis (kWh/ano).",
+        "Emissões de GEE evitadas (toneladas de CO₂e)"
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0071",
+    "actionName": "Promote the substitution of traditional materials with sustainable alternatives",
+    "actionPriority": 9,
+    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0071",
+      "ActionName": "Promover a substituição de materiais tradicionais por alternativas sustentáveis",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Incentivar a substituição de materiais tradicionais por alternativas sustentáveis de baixo impacto, como opções biodegradáveis ou recicláveis.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de materiais sustentáveis a preços competitivos.",
+        "Políticas e regulamentos de apoio que promovem a substituição de materiais.",
+        "Conscientização e capacidade da indústria para a transição para novos materiais."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de campanhas de conscientização pública ou sessões de treinamento realizadas para promover materiais sustentáveis.",
+        "Redução percentual de custo na produção de materiais sustentáveis em comparação com materiais tradicionais (%).",
+        "Participação de mercado de materiais sustentáveis em comparação com materiais tradicionais nas indústrias locais (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0038",
+    "actionName": "Promote community solar farms",
+    "actionPriority": 10,
+    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0038",
+      "ActionName": "Promover fazendas solares comunitárias",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Desenvolver e incentivar a adoção de projetos de energia solar compartilhada, permitindo que as comunidades se beneficiem coletivamente de energia limpa e renovável.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desenvolvimento de políticas e estruturas regulatórias para apoiar projetos de energia solar compartilhada baseados na comunidade e garantir o acesso equitativo à energia limpa",
+        "Disponibilidade de mecanismos financeiros ou incentivos para ajudar as comunidades a investir e manter sistemas de energia solar compartilhada",
+        "Colaboração entre governos locais, fornecedores de energia e organizações comunitárias para projetar e implementar projetos de energia solar compartilhada de forma eficaz"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de residências atendidas por projetos solares comunitários.",
+        "Emissões de GEE evitadas através da produção de energia solar (toneladas de CO₂e)"
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0033",
+    "actionName": "Install biodigesters in rural properties",
+    "actionPriority": 11,
+    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0033",
+      "ActionName": "Instalar biodigestores em propriedades rurais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Equipar fazendas e propriedades rurais com biodigestores para converter resíduos orgânicos em biogás e fertilizantes ricos em nutrientes, fornecendo uma fonte de energia sustentável.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento ou subsídios para apoiar a instalação de biodigestores em fazendas e propriedades rurais",
+        "Acesso a expertise técnica para o design, instalação e manutenção de biodigestores",
+        "Desenvolvimento de um quadro regulatório de apoio que incentive o uso de biogás e sistemas de gestão de resíduos orgânicos na agricultura rural"
+      ],
+      "KeyPerformanceIndicators": [
+        "Volume de biogás gerado (m³/ano).",
+        "Emissões de GEE evitadas pela substituição de combustíveis fósseis (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0097",
+    "actionName": "Support Distributed Energy Generation in Residences and Businesses",
+    "actionPriority": 12,
+    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0097",
+      "ActionName": "Apoiar a Geração de Energia Distribuída em Residências e Negócios",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Facilitar o uso de painéis solares e outras tecnologias de energia renovável em residências e edifícios comerciais.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Fornecer incentivos financeiros, regulamentações claras de instalação e acesso a tecnologias acessíveis para painéis solares.",
+        "Lançar campanhas de conscientização pública e oferecer treinamento para proprietários de residências e empresas.",
+        "Incentivar a adoção de tecnologias de energia renovável para promover economias de energia a longo prazo."
+      ],
+      "KeyPerformanceIndicators": [
+        "Capacidade instalada de geração de energia distribuída (MW).",
+        "Percentual de residências e empresas gerando sua própria energia (%).",
+        "Redução nas emissões de CO₂ através da geração distribuída (tCO₂e/ano)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0079",
+    "actionName": "Implement energy audits in industrial plants",
+    "actionPriority": 13,
+    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0079",
+      "ActionName": "Implementar auditorias energéticas em plantas industriais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Realizar auditorias energéticas regulares para identificar oportunidades de economia de energia e redução de emissões.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "20-39",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidade de profissionais qualificados ou auditores de energia para realizar avaliações completas em indústrias e edifícios.",
+        "Desenvolvimento de uma estrutura padronizada para auditorias de energia, garantindo consistência e precisão nos resultados.",
+        "Implementação de incentivos governamentais ou corporativos para encorajar as organizações a agirem com base nas recomendações das auditorias, como reembolsos para atualizações de eficiência energética."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de plantas industriais realizando auditorias energéticas anualmente.",
+        "Economia de custos alcançada através de melhorias recomendadas pela auditoria (%).",
+        "Tempo médio para implementar medidas de eficiência energética após a auditoria (meses)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0040",
+    "actionName": "Adopt solar-powered street lighting in rural areas",
+    "actionPriority": 14,
+    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0040",
+      "ActionName": "Adotar iluminação pública solar em áreas rurais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Instalar postes de iluminação pública movidos a energia solar para melhorar a segurança e acessibilidade em comunidades rurais, ao mesmo tempo que reduz os custos de energia e o impacto ambiental.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 1,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a instalação de postes de iluminação pública solar em comunidades rurais",
+        "Acesso a expertise técnica para projetar, instalar e manter sistemas de iluminação pública solar",
+        "Colaboração com governos locais e comunidades para garantir a integração de postes de iluminação solar na infraestrutura existente e nos planos de energia"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de postes de iluminação pública alimentados por energia solar.",
+        "Redução anual no consumo de eletricidade (kWh).",
+        "Emissões de GEE evitadas (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0011",
+    "actionName": "Provide tax incentives for renewable energy in residential projects",
+    "actionPriority": 15,
+    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "action": {
+      "ActionID": "icare_0011",
+      "ActionName": "Fornecer incentivos fiscais para energia renovável em projetos residenciais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Incentivar os proprietários de imóveis a adotarem energia solar, eólica e outras fontes de energia limpa.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 2,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidade de incentivos financeiros, subsídios ou créditos fiscais para incentivar os proprietários a instalar sistemas de energia solar, eólica e outras energias limpas",
+        "Acesso a informações e recursos educacionais para ajudar os proprietários a entender os benefícios, custos e processos de instalação de sistemas de energia limpa",
+        "Desenvolvimento de regulamentos e políticas de apoio que facilitem a instalação de tecnologias de energia renovável em áreas residenciais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de residências beneficiadas por incentivos fiscais para a adoção de energia renovável.",
+        "Aumento anual nas instalações de energia renovável em projetos residenciais.",
+        "Redução estimada nas emissões de CO₂ equivalente devido à adoção de energia renovável."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0131",
+    "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
+    "actionPriority": 16,
+    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0131",
+      "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "afolu"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Concentre-se em comprar alimentos sustentáveis e produzidos localmente para instituições públicas.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 2,
+        "habitat": 2,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": "20-39"
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desenvolvimento de políticas de aquisição e identificação de fornecedores locais confiáveis.",
+        "Parcerias com produtores e alocação de financiamento para programas de aquisição sustentável.",
+        "Estabelecimento de sistemas de monitoramento para garantir a conformidade com os critérios de sustentabilidade."
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem do volume total de compras públicas provenientes de produtores agroecológicos locais.",
+        "Quantidade de emissões de CO₂ evitadas devido à redução da distância de transporte (tCO₂e).",
+        "Número de produtores agroecológicos beneficiados pelas compras públicas."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0072",
+    "actionName": "Promote industry-government collaborations on emissions reduction",
+    "actionPriority": 17,
+    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0072",
+      "ActionName": "Promover colaborações entre a indústria e o governo para a redução de emissões",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar colaborações entre a indústria e o governo para criar políticas e incentivos para reduzir as emissões industriais e apoiar metas de sustentabilidade.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "20-39",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Estabelecimento de fóruns multissetoriais envolvendo a indústria e o governo.",
+        "Desenvolvimento de estruturas políticas claras para apoiar a redução de emissões.",
+        "Criação de incentivos financeiros para que as indústrias adotem práticas sustentáveis."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de acordos de colaboração assinados entre a indústria e o governo.",
+        "Quantidade de emissões reduzidas através de iniciativas colaborativas (toneladas de CO₂/ano).",
+        "Percentagem de indústrias-chave envolvidas em parcerias de redução de emissões (%)."
+      ],
+      "PowersAndMandates": [
+        "national"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0105",
+    "actionName": "Reduce technical losses in energy distribution networks",
+    "actionPriority": 18,
+    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0105",
+      "ActionName": "Reduzir perdas técnicas nas redes de distribuição de energia",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_industries"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Atualizar e manter a infraestrutura elétrica para minimizar a perda de energia durante a transmissão e distribuição, melhorando a eficiência geral da rede.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento para investir na modernização da infraestrutura elétrica e na atualização das redes de transmissão e distribuição",
+        "Acesso a expertise técnica para implementar atualizações que reduzam perdas de energia e melhorem a eficiência da rede",
+        "Estruturas políticas e regulatórias para garantir a manutenção contínua e a integração de tecnologias energeticamente eficientes na infraestrutura da rede"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentual de redução nas perdas técnicas em relação à linha de base (%).",
+        "Economia de energia alcançada anualmente (kWh).",
+        "Emissões de GEE evitadas através da redução de perdas de energia (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0034",
+    "actionName": "Create tax incentives for companies adopting clean technologies",
+    "actionPriority": 19,
+    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "action": {
+      "ActionID": "icare_0034",
+      "ActionName": "Criar incentivos fiscais para empresas que adotam tecnologias limpas",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Implementar incentivos fiscais e subsídios para empresas que investem em tecnologias limpas, levando a reduções substanciais de emissões.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "20-39",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desenvolvimento de um quadro de incentivos fiscais direcionado a investimentos em tecnologias limpas.",
+        "Disponibilidade de recursos financeiros para subsídios e incentivos fiscais.",
+        "Colaboração entre governo e empresas para identificar tecnologias limpas elegíveis."
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem média de poupança fiscal por empresa que adota tecnologias limpas (%).",
+        "Número de novas empresas de tecnologia limpa estabelecidas como resultado de incentivos fiscais.",
+        "Aumento no número de empregos relacionados a tecnologias limpas criados devido a incentivos fiscais."
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SOB",
+    "cityName": "Sobral",
+    "region": "CE",
+    "regionName": "Ceará",
+    "actionId": "icare_0056",
+    "actionName": "Implement continuous monitoring of GHG emissions and climate actions.",
+    "actionPriority": 20,
+    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0056",
+      "ActionName": "Implementar monitoramento contínuo das emissões de GEE e ações climáticas.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "non-specified_sources"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "O inventário municipal de emissões de GEE deve ser preparado anualmente para permitir o monitoramento dos resultados das ações de mitigação. Recomenda-se incluir as categorias de IPPU (Processos Industriais) e AFOLU (Agricultura, Florestas e Uso da Terra).",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "20-39",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Preparação anual do inventário de emissões de GEE do município para monitorar os resultados de mitigação.",
+        "Inclusão das categorias IPPU (Processos Industriais) e AFOLU (Agricultura, Florestas e Uso da Terra) no inventário.",
+        "Uso do inventário como uma ferramenta para acompanhar e melhorar o desempenho das ações climáticas."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de fontes de emissão monitoradas.",
+        "Frequência das atualizações de monitoramento (por exemplo, mensal, trimestral).",
+        "Precisão dos relatórios de redução de emissões (% verificado)."
+      ],
+      "PowersAndMandates": [
+        "national"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  }
 ]

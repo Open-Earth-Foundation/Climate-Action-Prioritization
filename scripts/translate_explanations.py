@@ -15,8 +15,12 @@ print("DEBUG: translate_explanations starting...")
 import dotenv
 dotenv.load_dotenv()
 
-# Initialize OpenAI client with API key
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+
+# Initialize OpenAI client
+#OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+client = OpenAI(api_key=OPENROUTER_API_KEY, base_url="https://openrouter.ai/api/v1")
+MODEL_NAME = "google/gemini-2.5-flash-preview-05-20"
 
 # Determine project root and data directory
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -33,7 +37,7 @@ def translate_text(text: str, target_lang: str, model: str = 'gpt-4.1') -> str:
     ]
     try:
         response = client.chat.completions.create(
-            model=model,
+            model=MODEL_NAME,
             messages=messages,
             temperature=0
         )

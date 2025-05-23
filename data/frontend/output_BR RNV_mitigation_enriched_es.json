@@ -1,1458 +1,1458 @@
 [
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0139",
-        "actionName": "Implementation of urban toll.",
-        "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0139",
-            "ActionName": "Implementaci\u00f3n de peaje urbano.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Establecimiento de un cargo por congesti\u00f3n y/o rotaci\u00f3n de matr\u00edculas para veh\u00edculos ligeros en \u00e1reas saturadas y en horarios saturados",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": -1,
-                "housing": 0,
-                "mobility": 2,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "80-100",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Establecer un marco legal claro e invertir en tecnolog\u00eda para el monitoreo y la aplicaci\u00f3n (por ejemplo, c\u00e1maras, sensores).",
-                "Lanzar campa\u00f1as de concienciaci\u00f3n y asegurar la disponibilidad de transporte p\u00fablico eficiente o soluciones de movilidad alternativas.",
-                "Colaborar con los gobiernos locales y las agencias de transporte, y establecer sistemas para monitorear y evaluar la efectividad de la pol\u00edtica."
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n de emisiones de CO\u2082 del transporte por carretera urbano (tCO\u2082e/a\u00f1o).",
-                "Ingresos generados por la implementaci\u00f3n del cargo por congesti\u00f3n urbana (R$)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0121",
-        "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
-        "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0121",
-            "ActionName": "Incentivo para crear programas de bicicletas compartidas en \u00e1reas urbanas, con un enfoque en bicicletas el\u00e9ctricas.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Esta acci\u00f3n fomenta el establecimiento de sistemas de bicicletas compartidas en las ciudades, promoviendo espec\u00edficamente el uso de bicicletas el\u00e9ctricas. Estos sistemas permiten a los residentes alquilar bicicletas el\u00e9ctricas para viajes cortos, reduciendo la dependencia de los autom\u00f3viles para el transporte urbano. Al integrar bicicletas el\u00e9ctricas, las ciudades pueden reducir a\u00fan m\u00e1s las emisiones de gases de efecto invernadero, aliviar la congesti\u00f3n del tr\u00e1fico y promover un modo de transporte m\u00e1s saludable y sostenible tanto para \u00e1reas urbanas como rurales. Esta iniciativa tambi\u00e9n apoya la igualdad de movilidad, ya que hace que las bicicletas sean m\u00e1s accesibles para un rango m\u00e1s amplio de personas.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 2,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "60-79",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Establecimiento de sistemas de bicicletas compartidas con un enfoque en bicicletas el\u00e9ctricas para reducir la dependencia del autom\u00f3vil.",
-                "Integraci\u00f3n de bicicletas el\u00e9ctricas para reducir las emisiones de gases de efecto invernadero, aliviar la congesti\u00f3n del tr\u00e1fico y promover el transporte sostenible.",
-                "Promoci\u00f3n de la igualdad de movilidad haciendo que las bicicletas el\u00e9ctricas sean accesibles para una poblaci\u00f3n m\u00e1s amplia."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de bicicletas el\u00e9ctricas disponibles en programas de bicicletas compartidas.",
-                "Aumento anual en usuarios de bicicletas compartidas.",
-                "Reducci\u00f3n estimada en emisiones equivalentes de CO\u2082 por la adopci\u00f3n de bicicletas el\u00e9ctricas compartidas."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0094",
-        "actionName": "Adoption of biomethane in public fleets.",
-        "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0094",
-            "ActionName": "Adopci\u00f3n de biometano en flotas p\u00fablicas.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones p\u00fablicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "60-79",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desarrollo de infraestructura para la producci\u00f3n, procesamiento y distribuci\u00f3n de biometano a partir de residuos urbanos y agroindustriales.",
-                "Adaptaci\u00f3n o adquisici\u00f3n de autobuses y camiones p\u00fablicos capaces de utilizar biometano como fuente de combustible.",
-                "Establecimiento de pol\u00edticas e incentivos financieros para apoyar la producci\u00f3n de biometano y su integraci\u00f3n en las flotas municipales."
-            ],
-            "KeyPerformanceIndicators": [
-                "Ahorro de costos en la operaci\u00f3n de la flota debido al uso de biometano (USD/a\u00f1o).",
-                "Aumento en la capacidad de producci\u00f3n de biometano (%).",
-                "Porcentaje de biometano obtenido localmente versus importado."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0042",
-        "actionName": "Encourage renewable energy policies at the municipal level",
-        "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0042",
-            "ActionName": "Fomentar pol\u00edticas de energ\u00eda renovable a nivel municipal",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "non-specified_sources"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Abogar por e implementar pol\u00edticas que prioricen el desarrollo e integraci\u00f3n de sistemas de energ\u00eda renovable en las operaciones y planificaci\u00f3n del gobierno local.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Voluntad pol\u00edtica y liderazgo para priorizar la energ\u00eda renovable en las pol\u00edticas y procesos de planificaci\u00f3n del gobierno local",
-                "Desarrollo de pol\u00edticas claras y marcos regulatorios que faciliten la integraci\u00f3n de sistemas de energ\u00eda renovable en las operaciones gubernamentales",
-                "Disponibilidad de financiamiento o mecanismos financieros para apoyar la transici\u00f3n a la energ\u00eda renovable en la infraestructura y operaciones municipales"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de proyectos de energ\u00eda renovable aprobados o iniciados anualmente a nivel municipal.",
-                "Porcentaje de la demanda energ\u00e9tica municipal cubierta por fuentes renovables (%).",
-                "Reducci\u00f3n de las emisiones de carbono municipales debido a la adopci\u00f3n de energ\u00eda renovable (toneladas de CO\u2082e/a\u00f1o)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0057",
-        "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
-        "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0057",
-            "ActionName": "Expansi\u00f3n de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorra\u00edles).",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "railways"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Estos sistemas ofrecen alta capacidad y bajas emisiones, cruciales para ciudades con alta densidad de poblaci\u00f3n.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 2,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "80-100",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Inversi\u00f3n en el desarrollo y expansi\u00f3n de infraestructuras de transporte p\u00fablico de alta capacidad, como autobuses el\u00e9ctricos y sistemas de metro.",
-                "Implementaci\u00f3n de pol\u00edticas e incentivos para fomentar el uso del transporte p\u00fablico sobre los veh\u00edculos privados.",
-                "Integraci\u00f3n de fuentes de energ\u00eda renovable para alimentar estos sistemas, reduciendo a\u00fan m\u00e1s las emisiones."
-            ],
-            "KeyPerformanceIndicators": [
-                "Longitud de las nuevas l\u00edneas de tr\u00e1nsito construidas (km/a\u00f1o).",
-                "Reducci\u00f3n en la congesti\u00f3n del tr\u00e1fico vial (%).",
-                "Reducci\u00f3n en el uso de veh\u00edculos privados (n\u00famero de viajes evitados/a\u00f1o)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "c40_0026",
-        "actionName": "Vehicle Emissions",
-        "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "c40_0026",
-            "ActionName": "Emisiones de Veh\u00edculos",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Las estrategias de reducci\u00f3n de \"Vehicle Emissions\" se centran en minimizar el impacto ambiental de todo tipo de veh\u00edculos. La implementaci\u00f3n de tecnolog\u00edas m\u00e1s limpias y la promoci\u00f3n de combustibles alternativos contribuyen a reducir las emisiones, fomentando un transporte sostenible y ecol\u00f3gico.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Las estrategias de reducci\u00f3n de \"Emisiones de Veh\u00edculos\" promueven inherentemente la equidad y la inclusi\u00f3n al abordar los impactos ambientales que afectan desproporcionadamente a las comunidades vulnerables y desatendidas. Estas comunidades a menudo experimentan niveles m\u00e1s altos de contaminaci\u00f3n del aire y problemas de salud relacionados debido a la proximidad a \u00e1reas de alto tr\u00e1fico y zonas industriales. Al implementar tecnolog\u00edas m\u00e1s limpias y promover combustibles alternativos, la acci\u00f3n beneficia directamente a estas poblaciones al mejorar la calidad del aire y reducir los riesgos para la salud.\n\nAdem\u00e1s, el enfoque en el transporte sostenible y ecol\u00f3gico puede mejorar el acceso a opciones de transporte asequibles y eficientes para las comunidades desatendidas, que pueden carecer de un transporte p\u00fablico confiable. Esta inclusividad asegura que todos los miembros de la comunidad, independientemente de su estatus socioecon\u00f3mico, puedan beneficiarse de un aire m\u00e1s limpio y mejores resultados de salud p\u00fablica. En general, la acci\u00f3n reconoce y aborda las necesidades espec\u00edficas de las poblaciones vulnerables, fomentando un enfoque m\u00e1s equitativo hacia la acci\u00f3n clim\u00e1tica.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "80-100",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desarrollo y disponibilidad de tecnolog\u00edas de veh\u00edculos m\u00e1s limpias",
-                "Infraestructura para la distribuci\u00f3n de combustibles alternativos",
-                "Pol\u00edticas y regulaciones gubernamentales que apoyan la reducci\u00f3n de emisiones",
-                "Conciencia p\u00fablica y aceptaci\u00f3n de opciones de transporte ecol\u00f3gicas",
-                "Inversi\u00f3n en investigaci\u00f3n y desarrollo para soluciones de transporte sostenible"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n de emisiones de veh\u00edculos (CO2, NOx, PM)",
-                "Porcentaje de veh\u00edculos que utilizan combustibles alternativos",
-                "N\u00famero de veh\u00edculos el\u00e9ctricos en circulaci\u00f3n",
-                "Mejoras en la eficiencia del combustible (millas por gal\u00f3n)",
-                "Tasa de adopci\u00f3n de tecnolog\u00edas m\u00e1s limpias",
-                "Reducci\u00f3n en el consumo de combustibles f\u00f3siles",
-                "Tasas de uso del transporte p\u00fablico",
-                "Mejoras en el \u00edndice de calidad del aire",
-                "Porcentaje de zonas de bajas emisiones establecidas",
-                "Inversi\u00f3n en infraestructura de transporte sostenible"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0059",
-        "actionName": "Modernization of ports and airports with zero-emission technologies",
-        "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0059",
-            "ActionName": "Modernizaci\u00f3n de puertos y aeropuertos con tecnolog\u00edas de cero emisiones",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "aviation"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Los puertos y aeropuertos pueden cambiar la maquinaria pesada y los veh\u00edculos a versiones el\u00e9ctricas o impulsadas por hidr\u00f3geno, reduciendo las emisiones de GEI en las principales infraestructuras de transporte.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": -1,
-                "housing": 0,
-                "mobility": 2,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "80-100",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Inversi\u00f3n en el desarrollo y despliegue de maquinaria y veh\u00edculos el\u00e9ctricos e impulsados por hidr\u00f3geno para puertos y aeropuertos.",
-                "Construcci\u00f3n de infraestructura de recarga y abastecimiento para equipos el\u00e9ctricos e impulsados por hidr\u00f3geno dentro de estos centros de transporte.",
-                "Colaboraci\u00f3n con organismos reguladores para garantizar que las nuevas tecnolog\u00edas cumplan con los est\u00e1ndares ambientales y las regulaciones de seguridad."
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje de operaciones impulsadas por tecnolog\u00edas de cero emisiones.",
-                "Reducci\u00f3n anual en el uso de combustibles f\u00f3siles en puertos y aeropuertos (litros/a\u00f1o).",
-                "Reducci\u00f3n de emisiones de GEI por la modernizaci\u00f3n de puertos y aeropuertos (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0099",
-        "actionName": "Support Agroecological Certification Programs",
-        "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0099",
-            "ActionName": "Apoyar los Programas de Certificaci\u00f3n Agroecol\u00f3gica",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar la certificaci\u00f3n de productos agroecol\u00f3gicos que cumplan con criterios de sostenibilidad y tengan bajo impacto ambiental.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desarrollo de est\u00e1ndares de certificaci\u00f3n claros y accesibles para productos agroecol\u00f3gicos que enfatizan la sostenibilidad y el bajo impacto ambiental.",
-                "Apoyo a los agricultores y productores para cumplir con los requisitos de certificaci\u00f3n a trav\u00e9s de capacitaci\u00f3n, asistencia financiera o orientaci\u00f3n t\u00e9cnica.",
-                "Creaci\u00f3n de estrategias de marketing y asociaciones para aumentar la visibilidad y la demanda de productos agroecol\u00f3gicos certificados en los mercados locales y globales."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de agricultores o productores que obtienen certificaciones agroecol\u00f3gicas.",
-                "Porcentaje de productos agr\u00edcolas certificados en el mercado (%).",
-                "Reducci\u00f3n en el uso de insumos sint\u00e9ticos (por ejemplo, fertilizantes, pesticidas)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0132",
-        "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
-        "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0132",
-            "ActionName": "Fomentar la Producci\u00f3n Agroecol\u00f3gica Local y las Cadenas de Suministro Cortas",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Apoyar pr\u00e1cticas agr\u00edcolas locales y sostenibles y reducir las emisiones asociadas con el transporte de alimentos.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Incentivos para pr\u00e1cticas agr\u00edcolas sostenibles y desarrollo de redes locales de distribuci\u00f3n de alimentos.",
-                "Alianzas con productores e inversi\u00f3n en infraestructura para apoyar los mercados locales.",
-                "Pol\u00edticas para priorizar m\u00e9todos de transporte de bajas emisiones."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de productores que se adhieren a pr\u00e1cticas agroecol\u00f3gicas locales.",
-                "Porcentaje de alimentos consumidos en la ciudad provenientes de cadenas cortas.",
-                "Reducci\u00f3n de emisiones asociadas con el transporte de alimentos (tCO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "c40_0035",
-        "actionName": "Waste Efficiency",
-        "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "c40_0035",
-            "ActionName": "Eficiencia en el manejo de residuos",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "waste"
-            ],
-            "Subsector": [
-                "all"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Las iniciativas de \"Eficiencia de Residuos\" tienen como objetivo mejorar la eficiencia de los procesos de recolecci\u00f3n de residuos, reduciendo el consumo de recursos y minimizando el impacto ambiental. Esto incluye la optimizaci\u00f3n de los sistemas de gesti\u00f3n de residuos para mejorar la eficiencia energ\u00e9tica y promover pr\u00e1cticas sostenibles de eliminaci\u00f3n de residuos.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Las iniciativas de \"Eficiencia de Residuos\" promueven la equidad y la inclusi\u00f3n al centrarse en comunidades desatendidas que a menudo soportan la carga de sistemas de gesti\u00f3n de residuos ineficientes. Al optimizar los procesos de recolecci\u00f3n de residuos, estas iniciativas pueden reducir la carga ambiental sobre las poblaciones vulnerables, que pueden vivir en \u00e1reas desproporcionadamente afectadas por los residuos y la contaminaci\u00f3n.\n\nAdem\u00e1s, mejorar la eficiencia energ\u00e9tica en la gesti\u00f3n de residuos puede generar ahorros de costos, que pueden reinvertirse en servicios comunitarios o infraestructuras que beneficien a los vecindarios de bajos ingresos. La promoci\u00f3n de pr\u00e1cticas sostenibles de eliminaci\u00f3n de residuos tambi\u00e9n asegura que todos los miembros de la comunidad, independientemente de su estatus socioecon\u00f3mico, tengan acceso a opciones ambientalmente responsables, fomentando un sentido de responsabilidad compartida e inclusi\u00f3n en los esfuerzos de acci\u00f3n clim\u00e1tica.\n\nEn general, estas iniciativas reconocen los desaf\u00edos \u00fanicos que enfrentan las comunidades desatendidas y tienen como objetivo crear un sistema de gesti\u00f3n de residuos m\u00e1s equitativo que beneficie a todos los residentes.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": "80-100",
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Infraestructura y tecnolog\u00eda efectiva para la gesti\u00f3n de residuos",
-                "Colaboraci\u00f3n con gobiernos locales y autoridades de gesti\u00f3n de residuos",
-                "Concienciaci\u00f3n y educaci\u00f3n p\u00fablica sobre pr\u00e1cticas de eliminaci\u00f3n de residuos",
-                "Acceso a datos para monitorear y optimizar los procesos de recolecci\u00f3n de residuos",
-                "Inversi\u00f3n en instalaciones sostenibles de procesamiento de residuos"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n en los costos de recolecci\u00f3n de residuos",
-                "Porcentaje de disminuci\u00f3n de residuos enviados a vertederos",
-                "Aumento en las tasas de reciclaje",
-                "Consumo de energ\u00eda por tonelada de residuos recolectados",
-                "Reducci\u00f3n de emisiones de carbono de la gesti\u00f3n de residuos",
-                "Satisfacci\u00f3n del cliente con los servicios de recolecci\u00f3n de residuos",
-                "Volumen de residuos procesados mediante m\u00e9todos sostenibles",
-                "Eficiencia operativa de las rutas de recolecci\u00f3n de residuos"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0131",
-        "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
-        "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0131",
-            "ActionName": "Priorizar la Adquisici\u00f3n de Productos Agroecol\u00f3gicos de Producci\u00f3n Local en Compras P\u00fablicas",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Centrarse en comprar alimentos sostenibles y producidos localmente para las instituciones p\u00fablicas.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desarrollo de pol\u00edticas de adquisici\u00f3n e identificaci\u00f3n de proveedores locales confiables.",
-                "Alianzas con productores y asignaci\u00f3n de fondos para programas de adquisici\u00f3n sostenible.",
-                "Establecimiento de sistemas de monitoreo para garantizar el cumplimiento de los criterios de sostenibilidad."
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje del volumen total de compras p\u00fablicas provenientes de productores agroecol\u00f3gicos locales.",
-                "Cantidad de emisiones de CO\u2082 evitadas debido a la reducci\u00f3n de la distancia de transporte (tCO\u2082e).",
-                "N\u00famero de productores agroecol\u00f3gicos beneficiados por las compras p\u00fablicas."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0085",
-        "actionName": "Promote the Adoption of Agroecological Pest Control",
-        "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0085",
-            "ActionName": "Promover la Adopci\u00f3n del Control de Plagas Agroecol\u00f3gico",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar m\u00e9todos de control de plagas que sean agroecol\u00f3gicos, como el uso de depredadores naturales y plantas repelentes, para reducir la dependencia de pesticidas qu\u00edmicos.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desarrollo de programas educativos para informar a los agricultores sobre m\u00e9todos de control de plagas agroecol\u00f3gicos y sus beneficios.",
-                "Provisi\u00f3n de acceso a recursos o materiales para implementar m\u00e9todos de control de plagas naturales, como la introducci\u00f3n de insectos beneficiosos o el cultivo de plantas repelentes.",
-                "Creaci\u00f3n de incentivos o redes de apoyo para fomentar la transici\u00f3n de los pesticidas qu\u00edmicos hacia alternativas sostenibles."
-            ],
-            "KeyPerformanceIndicators": [
-                "Aumento en las tasas de productividad en \u00e1reas que adoptan el control de plagas agroecol\u00f3gico (%).",
-                "N\u00famero de campa\u00f1as educativas realizadas sobre el control sostenible de plagas.",
-                "Impacto en los costos totales de producci\u00f3n debido a la adopci\u00f3n de pr\u00e1cticas agroecol\u00f3gicas (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0021",
-        "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
-        "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0021",
-            "ActionName": "Fomentar y promover medidas para el uso sostenible y racional del transporte motorizado individual",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "El objetivo de esta acci\u00f3n es racionalizar el uso del transporte motorizado individual, reduciendo su participaci\u00f3n en la matriz de movilidad. Tambi\u00e9n es importante regular los servicios de transporte privado basados en aplicaciones, con el objetivo de proporcionar un servicio de calidad integrado con la movilidad general de la ciudad.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": -1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "80-100",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desarrollo de pol\u00edticas y regulaciones para reducir el uso del transporte motorizado individual y fomentar modos de transporte alternativos",
-                "Integraci\u00f3n de servicios de transporte privado basados en aplicaciones con el sistema de transporte p\u00fablico de la ciudad para una movilidad sin interrupciones",
-                "Inversi\u00f3n en infraestructura de transporte p\u00fablico para ofrecer alternativas accesibles, confiables y de alta calidad al uso de autom\u00f3viles privados"
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje de reducci\u00f3n en el uso de veh\u00edculos privados en la ciudad (%).",
-                "Aumento anual en el uso del transporte p\u00fablico (%).",
-                "Reducci\u00f3n en las emisiones equivalentes de CO\u2082 por la disminuci\u00f3n del transporte motorizado (toneladas/a\u00f1o)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0117",
-        "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
-        "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0117",
-            "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Aumentar la calidad de la prestaci\u00f3n del servicio de transporte, con el objetivo de cambiar el modo de transporte de los pasajeros del transporte motorizado privado al transporte p\u00fablico, reduciendo as\u00ed las emisiones generadas por coches y motocicletas.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 2,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "60-79",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Mejorar la calidad de los servicios de transporte p\u00fablico para atraer pasajeros del transporte motorizado privado.",
-                "Implementar pol\u00edticas e infraestructuras que apoyen y mejoren la eficiencia de los sistemas de transporte p\u00fablico.",
-                "Promover la concienciaci\u00f3n sobre los beneficios ambientales del transporte p\u00fablico para fomentar un cambio modal y reducir las emisiones."
-            ],
-            "KeyPerformanceIndicators": [
-                "Aumento anual en el n\u00famero de pasajeros que utilizan el sistema de autobuses municipales.",
-                "Porcentaje de rutas de autob\u00fas con mejor fiabilidad en el tiempo de viaje.",
-                "Reducci\u00f3n estimada en las emisiones equivalentes de CO\u2082 debido al aumento del uso del transporte p\u00fablico."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0091",
-        "actionName": "Implementation of prioritized routes for sustainable vehicles.",
-        "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0091",
-            "ActionName": "Implementaci\u00f3n de rutas priorizadas para veh\u00edculos sostenibles.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Crear carriles prioritarios para veh\u00edculos el\u00e9ctricos, h\u00edbridos y de bajas emisiones en los centros urbanos para fomentar su adopci\u00f3n y reducir la contaminaci\u00f3n en \u00e1reas de alto tr\u00e1fico.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 2,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "60-79",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Implementaci\u00f3n de sistemas de gesti\u00f3n del tr\u00e1fico para hacer cumplir y monitorear el uso de carriles prioritarios.",
-                "Desarrollo de se\u00f1alizaci\u00f3n clara y campa\u00f1as de concienciaci\u00f3n p\u00fablica para informar a los conductores sobre la elegibilidad y el uso de los carriles.",
-                "Establecimiento de marcos regulatorios que incentiven la adopci\u00f3n de veh\u00edculos de bajas emisiones para la elegibilidad en carriles prioritarios."
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje de veh\u00edculos sostenibles utilizando rutas prioritarias.",
-                "Aumento en la eficiencia de entrega de bienes transportados a trav\u00e9s de rutas prioritarias (%).",
-                "Tasa de aceptaci\u00f3n p\u00fablica de rutas prioritarias para veh\u00edculos sostenibles (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "c40_0036",
-        "actionName": "Landfill Management",
-        "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "c40_0036",
-            "ActionName": "Gesti\u00f3n de Vertederos",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "waste"
-            ],
-            "Subsector": [
-                "all"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Las estrategias de \"Gesti\u00f3n de Vertederos\" se centran en pr\u00e1cticas responsables y sostenibles de gesti\u00f3n de vertederos para minimizar la degradaci\u00f3n ambiental. Al adoptar t\u00e9cnicas de gesti\u00f3n efectivas, las ciudades buscan reducir la huella ecol\u00f3gica asociada con los sitios de vertederos y fomentar la reducci\u00f3n de residuos.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Las estrategias de \"Gesti\u00f3n de Vertederos\" promueven la equidad y la inclusi\u00f3n al abordar los impactos ambientales de los sitios de vertederos, que a menudo afectan de manera desproporcionada a las comunidades vulnerables y desatendidas. Estas comunidades frecuentemente residen cerca de vertederos y son m\u00e1s susceptibles a los riesgos para la salud asociados con la contaminaci\u00f3n y la degradaci\u00f3n ambiental. Al implementar pr\u00e1cticas de vertederos responsables y sostenibles, la acci\u00f3n busca reducir estos impactos negativos, mejorando as\u00ed la calidad de vida de los residentes en estas \u00e1reas.\n\nAdem\u00e1s, las t\u00e9cnicas efectivas de reducci\u00f3n de residuos pueden crear oportunidades para la participaci\u00f3n y el compromiso comunitario, permitiendo que las poblaciones desatendidas tengan voz en las decisiones ambientales locales. Esta inclusi\u00f3n fomenta un sentido de pertenencia y empoderamiento entre los miembros de la comunidad, asegurando que sus necesidades y preocupaciones sean consideradas en la gesti\u00f3n de los sitios de vertederos. En general, la acci\u00f3n reconoce y busca mitigar las inequidades enfrentadas por las comunidades marginadas en relaci\u00f3n con la gesti\u00f3n de residuos y la salud ambiental.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": "60-79",
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Pr\u00e1cticas efectivas de segregaci\u00f3n de residuos para asegurar una correcta disposici\u00f3n y reciclaje",
-                "Inversi\u00f3n en tecnolog\u00eda para el tratamiento de residuos y monitoreo de vertederos",
-                "Participaci\u00f3n comunitaria y educaci\u00f3n sobre la reducci\u00f3n de residuos y el reciclaje",
-                "Marcos regulatorios y pol\u00edticas que apoyan pr\u00e1cticas sostenibles en vertederos",
-                "Colaboraci\u00f3n con gobiernos locales y organizaciones para compartir recursos y mejores pr\u00e1cticas"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n del volumen de residuos en vertederos",
-                "Porcentaje de residuos desviados de vertederos",
-                "Tasa de captura de gas de vertedero",
-                "Calidad del suelo y del agua alrededor de los sitios de vertederos",
-                "Frecuencia de inspecciones de vertederos",
-                "Niveles de concienciaci\u00f3n y participaci\u00f3n p\u00fablica",
-                "Ahorro de costos por pr\u00e1cticas mejoradas de gesti\u00f3n de vertederos",
-                "Cumplimiento de las regulaciones ambientales"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0024",
-        "actionName": "Integrate renewables into municipal water systems",
-        "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0024",
-            "ActionName": "Integrar energ\u00edas renovables en los sistemas de agua municipales",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implementar fuentes de energ\u00eda renovable, como la solar o la e\u00f3lica, para impulsar los sistemas de tratamiento, bombeo y distribuci\u00f3n de agua, reduciendo los costos de energ\u00eda y las emisiones.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidad de financiaci\u00f3n o incentivos financieros para integrar fuentes de energ\u00eda renovable como la solar o la e\u00f3lica en los sistemas de tratamiento y distribuci\u00f3n de agua",
-                "Experiencia t\u00e9cnica e infraestructura para adaptar los sistemas existentes con soluciones de energ\u00eda renovable o dise\u00f1ar nuevas instalaciones alimentadas por energ\u00edas renovables",
-                "Apoyo pol\u00edtico y regulatorio para fomentar el uso de energ\u00eda limpia en los sistemas de agua y asegurar su integraci\u00f3n en las redes energ\u00e9ticas municipales"
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje de sistemas de agua municipales alimentados por energ\u00edas renovables.",
-                "Reducci\u00f3n en el consumo de energ\u00eda de fuentes no renovables (kWh/a\u00f1o).",
-                "Emisiones de GEI evitadas (toneladas de CO\u2082e)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0129",
-        "actionName": "Facilitate Technology Transfer for Conservation Practices",
-        "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0129",
-            "ActionName": "Facilitar la Transferencia de Tecnolog\u00eda para Pr\u00e1cticas de Conservaci\u00f3n",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promover la adopci\u00f3n de pr\u00e1cticas agr\u00edcolas sostenibles mediante la capacitaci\u00f3n, proyectos piloto y demostraciones tecnol\u00f3gicas.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "60-79"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Provisi\u00f3n de programas de capacitaci\u00f3n y establecimiento de proyectos piloto para mostrar pr\u00e1cticas sostenibles.",
-                "Alianzas con instituciones de investigaci\u00f3n para el desarrollo de tecnolog\u00eda e incentivos financieros para fomentar la adopci\u00f3n.",
-                "Acceso a asistencia t\u00e9cnica para una implementaci\u00f3n exitosa."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de tecnolog\u00edas de conservaci\u00f3n transferidas y aplicadas en las granjas.",
-                "Porcentaje de productores capacitados para implementar pr\u00e1cticas de conservaci\u00f3n.",
-                "Reducci\u00f3n en la degradaci\u00f3n del suelo o aumento en la cobertura vegetal (hect\u00e1reas)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0097",
-        "actionName": "Support Distributed Energy Generation in Residences and Businesses",
-        "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0097",
-            "ActionName": "Apoyar la Generaci\u00f3n de Energ\u00eda Distribuida en Residencias y Negocios",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Facilitar el uso de paneles solares y otras tecnolog\u00edas de energ\u00eda renovable en hogares y edificios comerciales.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Proporcionar incentivos financieros, regulaciones claras de instalaci\u00f3n y acceso a tecnolog\u00edas asequibles para paneles solares.",
-                "Lanzar campa\u00f1as de concienciaci\u00f3n p\u00fablica y ofrecer capacitaci\u00f3n para propietarios de viviendas y empresas.",
-                "Fomentar la adopci\u00f3n de tecnolog\u00edas de energ\u00eda renovable para promover ahorros energ\u00e9ticos a largo plazo."
-            ],
-            "KeyPerformanceIndicators": [
-                "Capacidad instalada de generaci\u00f3n de energ\u00eda distribuida (MW).",
-                "Porcentaje de hogares y negocios que generan su propia energ\u00eda (%).",
-                "Reducci\u00f3n de emisiones de CO\u2082 a trav\u00e9s de la generaci\u00f3n distribuida (tCO\u2082e/a\u00f1o)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR RNV",
-        "cityName": "Ribeir\u00e3o das Neves",
-        "region": "MG",
-        "regionName": "Minas Gerais",
-        "actionId": "icare_0136",
-        "actionName": "Support the Implementation of Ecological Fiscal Incentives",
-        "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0136",
-            "ActionName": "Apoyar la Implementaci\u00f3n de Incentivos Fiscales Ecol\u00f3gicos",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "afolu"
-            ],
-            "Subsector": [
-                "land"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar la aplicaci\u00f3n de impuestos ecol\u00f3gicos e incentivos para promover la conservaci\u00f3n ambiental.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": "20-39"
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Establecer un marco regulatorio claro con tasas impositivas justas e incentivos para la sostenibilidad.",
-                "Implementar sistemas de monitoreo efectivos para rastrear el cumplimiento y medir el impacto.",
-                "Promover la concienciaci\u00f3n p\u00fablica y fomentar la colaboraci\u00f3n entre gobiernos, empresas y comunidades."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de municipios que han adoptado incentivos fiscales ambientales.",
-                "Porcentaje de ingresos fiscales gastados en pr\u00e1cticas sostenibles.",
-                "Superficie o n\u00famero de propiedades que se benefician de pr\u00e1cticas de conservaci\u00f3n como resultado de los incentivos."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0139",
+    "actionName": "Implementation of urban toll.",
+    "actionPriority": 1,
+    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0139",
+      "ActionName": "Implementación de peaje urbano.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Establecimiento de un cargo por congestión y/o rotación de matrículas para vehículos ligeros en áreas saturadas y en horarios saturados",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": -1,
+        "housing": 0,
+        "mobility": 2,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "80-100",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Establecer un marco legal claro e invertir en tecnología para el monitoreo y la aplicación (por ejemplo, cámaras, sensores).",
+        "Lanzar campañas de concienciación y asegurar la disponibilidad de transporte público eficiente o soluciones de movilidad alternativas.",
+        "Colaborar con los gobiernos locales y las agencias de transporte, y establecer sistemas para monitorear y evaluar la efectividad de la política."
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción de emisiones de CO₂ del transporte por carretera urbano (tCO₂e/año).",
+        "Ingresos generados por la implementación del cargo por congestión urbana (R$)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
     }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0121",
+    "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
+    "actionPriority": 2,
+    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0121",
+      "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Esta acción fomenta el establecimiento de sistemas de bicicletas compartidas en las ciudades, promoviendo específicamente el uso de bicicletas eléctricas. Estos sistemas permiten a los residentes alquilar bicicletas eléctricas para viajes cortos, reduciendo la dependencia de los automóviles para el transporte urbano. Al integrar bicicletas eléctricas, las ciudades pueden reducir aún más las emisiones de gases de efecto invernadero, aliviar la congestión del tráfico y promover un modo de transporte más saludable y sostenible tanto para áreas urbanas como rurales. Esta iniciativa también apoya la igualdad de movilidad, ya que hace que las bicicletas sean más accesibles para un rango más amplio de personas.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 2,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "60-79",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Establecimiento de sistemas de bicicletas compartidas con un enfoque en bicicletas eléctricas para reducir la dependencia del automóvil.",
+        "Integración de bicicletas eléctricas para reducir las emisiones de gases de efecto invernadero, aliviar la congestión del tráfico y promover el transporte sostenible.",
+        "Promoción de la igualdad de movilidad haciendo que las bicicletas eléctricas sean accesibles para una población más amplia."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de bicicletas eléctricas disponibles en programas de bicicletas compartidas.",
+        "Aumento anual en usuarios de bicicletas compartidas.",
+        "Reducción estimada en emisiones equivalentes de CO₂ por la adopción de bicicletas eléctricas compartidas."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0094",
+    "actionName": "Adoption of biomethane in public fleets.",
+    "actionPriority": 3,
+    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0094",
+      "ActionName": "Adopción de biometano en flotas públicas.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones públicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 1,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "60-79",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desarrollo de infraestructura para la producción, procesamiento y distribución de biometano a partir de residuos urbanos y agroindustriales.",
+        "Adaptación o adquisición de autobuses y camiones públicos capaces de utilizar biometano como fuente de combustible.",
+        "Establecimiento de políticas e incentivos financieros para apoyar la producción de biometano y su integración en las flotas municipales."
+      ],
+      "KeyPerformanceIndicators": [
+        "Ahorro de costos en la operación de la flota debido al uso de biometano (USD/año).",
+        "Aumento en la capacidad de producción de biometano (%).",
+        "Porcentaje de biometano obtenido localmente versus importado."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0042",
+    "actionName": "Encourage renewable energy policies at the municipal level",
+    "actionPriority": 4,
+    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0042",
+      "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "non-specified_sources"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Abogar por e implementar políticas que prioricen el desarrollo e integración de sistemas de energía renovable en las operaciones y planificación del gobierno local.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Voluntad política y liderazgo para priorizar la energía renovable en las políticas y procesos de planificación del gobierno local",
+        "Desarrollo de políticas claras y marcos regulatorios que faciliten la integración de sistemas de energía renovable en las operaciones gubernamentales",
+        "Disponibilidad de financiamiento o mecanismos financieros para apoyar la transición a la energía renovable en la infraestructura y operaciones municipales"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de proyectos de energía renovable aprobados o iniciados anualmente a nivel municipal.",
+        "Porcentaje de la demanda energética municipal cubierta por fuentes renovables (%).",
+        "Reducción de las emisiones de carbono municipales debido a la adopción de energía renovable (toneladas de CO₂e/año)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0057",
+    "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
+    "actionPriority": 5,
+    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0057",
+      "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "railways"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Estos sistemas ofrecen alta capacidad y bajas emisiones, cruciales para ciudades con alta densidad de población.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 2,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "80-100",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Inversión en el desarrollo y expansión de infraestructuras de transporte público de alta capacidad, como autobuses eléctricos y sistemas de metro.",
+        "Implementación de políticas e incentivos para fomentar el uso del transporte público sobre los vehículos privados.",
+        "Integración de fuentes de energía renovable para alimentar estos sistemas, reduciendo aún más las emisiones."
+      ],
+      "KeyPerformanceIndicators": [
+        "Longitud de las nuevas líneas de tránsito construidas (km/año).",
+        "Reducción en la congestión del tráfico vial (%).",
+        "Reducción en el uso de vehículos privados (número de viajes evitados/año)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "c40_0026",
+    "actionName": "Vehicle Emissions",
+    "actionPriority": 6,
+    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "c40_0026",
+      "ActionName": "Emisiones de Vehículos",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Las estrategias de reducción de \"Vehicle Emissions\" se centran en minimizar el impacto ambiental de todo tipo de vehículos. La implementación de tecnologías más limpias y la promoción de combustibles alternativos contribuyen a reducir las emisiones, fomentando un transporte sostenible y ecológico.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Las estrategias de reducción de \"Emisiones de Vehículos\" promueven inherentemente la equidad y la inclusión al abordar los impactos ambientales que afectan desproporcionadamente a las comunidades vulnerables y desatendidas. Estas comunidades a menudo experimentan niveles más altos de contaminación del aire y problemas de salud relacionados debido a la proximidad a áreas de alto tráfico y zonas industriales. Al implementar tecnologías más limpias y promover combustibles alternativos, la acción beneficia directamente a estas poblaciones al mejorar la calidad del aire y reducir los riesgos para la salud.\n\nAdemás, el enfoque en el transporte sostenible y ecológico puede mejorar el acceso a opciones de transporte asequibles y eficientes para las comunidades desatendidas, que pueden carecer de un transporte público confiable. Esta inclusividad asegura que todos los miembros de la comunidad, independientemente de su estatus socioeconómico, puedan beneficiarse de un aire más limpio y mejores resultados de salud pública. En general, la acción reconoce y aborda las necesidades específicas de las poblaciones vulnerables, fomentando un enfoque más equitativo hacia la acción climática.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "80-100",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desarrollo y disponibilidad de tecnologías de vehículos más limpias",
+        "Infraestructura para la distribución de combustibles alternativos",
+        "Políticas y regulaciones gubernamentales que apoyan la reducción de emisiones",
+        "Conciencia pública y aceptación de opciones de transporte ecológicas",
+        "Inversión en investigación y desarrollo para soluciones de transporte sostenible"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción de emisiones de vehículos (CO2, NOx, PM)",
+        "Porcentaje de vehículos que utilizan combustibles alternativos",
+        "Número de vehículos eléctricos en circulación",
+        "Mejoras en la eficiencia del combustible (millas por galón)",
+        "Tasa de adopción de tecnologías más limpias",
+        "Reducción en el consumo de combustibles fósiles",
+        "Tasas de uso del transporte público",
+        "Mejoras en el índice de calidad del aire",
+        "Porcentaje de zonas de bajas emisiones establecidas",
+        "Inversión en infraestructura de transporte sostenible"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0059",
+    "actionName": "Modernization of ports and airports with zero-emission technologies",
+    "actionPriority": 7,
+    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0059",
+      "ActionName": "Modernización de puertos y aeropuertos con tecnologías de cero emisiones",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "aviation"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Los puertos y aeropuertos pueden cambiar la maquinaria pesada y los vehículos a versiones eléctricas o impulsadas por hidrógeno, reduciendo las emisiones de GEI en las principales infraestructuras de transporte.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": -1,
+        "housing": 0,
+        "mobility": 2,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "80-100",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": ">10 years",
+      "Dependencies": [
+        "Inversión en el desarrollo y despliegue de maquinaria y vehículos eléctricos e impulsados por hidrógeno para puertos y aeropuertos.",
+        "Construcción de infraestructura de recarga y abastecimiento para equipos eléctricos e impulsados por hidrógeno dentro de estos centros de transporte.",
+        "Colaboración con organismos reguladores para garantizar que las nuevas tecnologías cumplan con los estándares ambientales y las regulaciones de seguridad."
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje de operaciones impulsadas por tecnologías de cero emisiones.",
+        "Reducción anual en el uso de combustibles fósiles en puertos y aeropuertos (litros/año).",
+        "Reducción de emisiones de GEI por la modernización de puertos y aeropuertos (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "national"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0099",
+    "actionName": "Support Agroecological Certification Programs",
+    "actionPriority": 8,
+    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0099",
+      "ActionName": "Apoyar los Programas de Certificación Agroecológica",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "afolu"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar la certificación de productos agroecológicos que cumplan con criterios de sostenibilidad y tengan bajo impacto ambiental.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 2,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": "20-39"
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desarrollo de estándares de certificación claros y accesibles para productos agroecológicos que enfatizan la sostenibilidad y el bajo impacto ambiental.",
+        "Apoyo a los agricultores y productores para cumplir con los requisitos de certificación a través de capacitación, asistencia financiera o orientación técnica.",
+        "Creación de estrategias de marketing y asociaciones para aumentar la visibilidad y la demanda de productos agroecológicos certificados en los mercados locales y globales."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de agricultores o productores que obtienen certificaciones agroecológicas.",
+        "Porcentaje de productos agrícolas certificados en el mercado (%).",
+        "Reducción en el uso de insumos sintéticos (por ejemplo, fertilizantes, pesticidas)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0132",
+    "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
+    "actionPriority": 9,
+    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0132",
+      "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "afolu"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Apoyar prácticas agrícolas locales y sostenibles y reducir las emisiones asociadas con el transporte de alimentos.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 2,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": "20-39"
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Incentivos para prácticas agrícolas sostenibles y desarrollo de redes locales de distribución de alimentos.",
+        "Alianzas con productores e inversión en infraestructura para apoyar los mercados locales.",
+        "Políticas para priorizar métodos de transporte de bajas emisiones."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de productores que se adhieren a prácticas agroecológicas locales.",
+        "Porcentaje de alimentos consumidos en la ciudad provenientes de cadenas cortas.",
+        "Reducción de emisiones asociadas con el transporte de alimentos (tCO₂e)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "c40_0035",
+    "actionName": "Waste Efficiency",
+    "actionPriority": 10,
+    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "c40_0035",
+      "ActionName": "Eficiencia en el manejo de residuos",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "waste"
+      ],
+      "Subsector": [
+        "all"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Las iniciativas de \"Eficiencia de Residuos\" tienen como objetivo mejorar la eficiencia de los procesos de recolección de residuos, reduciendo el consumo de recursos y minimizando el impacto ambiental. Esto incluye la optimización de los sistemas de gestión de residuos para mejorar la eficiencia energética y promover prácticas sostenibles de eliminación de residuos.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Las iniciativas de \"Eficiencia de Residuos\" promueven la equidad y la inclusión al centrarse en comunidades desatendidas que a menudo soportan la carga de sistemas de gestión de residuos ineficientes. Al optimizar los procesos de recolección de residuos, estas iniciativas pueden reducir la carga ambiental sobre las poblaciones vulnerables, que pueden vivir en áreas desproporcionadamente afectadas por los residuos y la contaminación.\n\nAdemás, mejorar la eficiencia energética en la gestión de residuos puede generar ahorros de costos, que pueden reinvertirse en servicios comunitarios o infraestructuras que beneficien a los vecindarios de bajos ingresos. La promoción de prácticas sostenibles de eliminación de residuos también asegura que todos los miembros de la comunidad, independientemente de su estatus socioeconómico, tengan acceso a opciones ambientalmente responsables, fomentando un sentido de responsabilidad compartida e inclusión en los esfuerzos de acción climática.\n\nEn general, estas iniciativas reconocen los desafíos únicos que enfrentan las comunidades desatendidas y tienen como objetivo crear un sistema de gestión de residuos más equitativo que beneficie a todos los residentes.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": "80-100",
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Infraestructura y tecnología efectiva para la gestión de residuos",
+        "Colaboración con gobiernos locales y autoridades de gestión de residuos",
+        "Concienciación y educación pública sobre prácticas de eliminación de residuos",
+        "Acceso a datos para monitorear y optimizar los procesos de recolección de residuos",
+        "Inversión en instalaciones sostenibles de procesamiento de residuos"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción en los costos de recolección de residuos",
+        "Porcentaje de disminución de residuos enviados a vertederos",
+        "Aumento en las tasas de reciclaje",
+        "Consumo de energía por tonelada de residuos recolectados",
+        "Reducción de emisiones de carbono de la gestión de residuos",
+        "Satisfacción del cliente con los servicios de recolección de residuos",
+        "Volumen de residuos procesados mediante métodos sostenibles",
+        "Eficiencia operativa de las rutas de recolección de residuos"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0131",
+    "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
+    "actionPriority": 11,
+    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0131",
+      "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "afolu"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Centrarse en comprar alimentos sostenibles y producidos localmente para las instituciones públicas.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 2,
+        "habitat": 2,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": "20-39"
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desarrollo de políticas de adquisición e identificación de proveedores locales confiables.",
+        "Alianzas con productores y asignación de fondos para programas de adquisición sostenible.",
+        "Establecimiento de sistemas de monitoreo para garantizar el cumplimiento de los criterios de sostenibilidad."
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje del volumen total de compras públicas provenientes de productores agroecológicos locales.",
+        "Cantidad de emisiones de CO₂ evitadas debido a la reducción de la distancia de transporte (tCO₂e).",
+        "Número de productores agroecológicos beneficiados por las compras públicas."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0085",
+    "actionName": "Promote the Adoption of Agroecological Pest Control",
+    "actionPriority": 12,
+    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0085",
+      "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "afolu"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar métodos de control de plagas que sean agroecológicos, como el uso de depredadores naturales y plantas repelentes, para reducir la dependencia de pesticidas químicos.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 2,
+        "habitat": 2,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": "20-39"
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desarrollo de programas educativos para informar a los agricultores sobre métodos de control de plagas agroecológicos y sus beneficios.",
+        "Provisión de acceso a recursos o materiales para implementar métodos de control de plagas naturales, como la introducción de insectos beneficiosos o el cultivo de plantas repelentes.",
+        "Creación de incentivos o redes de apoyo para fomentar la transición de los pesticidas químicos hacia alternativas sostenibles."
+      ],
+      "KeyPerformanceIndicators": [
+        "Aumento en las tasas de productividad en áreas que adoptan el control de plagas agroecológico (%).",
+        "Número de campañas educativas realizadas sobre el control sostenible de plagas.",
+        "Impacto en los costos totales de producción debido a la adopción de prácticas agroecológicas (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0021",
+    "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
+    "actionPriority": 13,
+    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0021",
+      "ActionName": "Fomentar y promover medidas para el uso sostenible y racional del transporte motorizado individual",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "El objetivo de esta acción es racionalizar el uso del transporte motorizado individual, reduciendo su participación en la matriz de movilidad. También es importante regular los servicios de transporte privado basados en aplicaciones, con el objetivo de proporcionar un servicio de calidad integrado con la movilidad general de la ciudad.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": -1,
+        "housing": 0,
+        "mobility": 1,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "80-100",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desarrollo de políticas y regulaciones para reducir el uso del transporte motorizado individual y fomentar modos de transporte alternativos",
+        "Integración de servicios de transporte privado basados en aplicaciones con el sistema de transporte público de la ciudad para una movilidad sin interrupciones",
+        "Inversión en infraestructura de transporte público para ofrecer alternativas accesibles, confiables y de alta calidad al uso de automóviles privados"
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje de reducción en el uso de vehículos privados en la ciudad (%).",
+        "Aumento anual en el uso del transporte público (%).",
+        "Reducción en las emisiones equivalentes de CO₂ por la disminución del transporte motorizado (toneladas/año)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0117",
+    "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
+    "actionPriority": 14,
+    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0117",
+      "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Aumentar la calidad de la prestación del servicio de transporte, con el objetivo de cambiar el modo de transporte de los pasajeros del transporte motorizado privado al transporte público, reduciendo así las emisiones generadas por coches y motocicletas.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 2,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "60-79",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Mejorar la calidad de los servicios de transporte público para atraer pasajeros del transporte motorizado privado.",
+        "Implementar políticas e infraestructuras que apoyen y mejoren la eficiencia de los sistemas de transporte público.",
+        "Promover la concienciación sobre los beneficios ambientales del transporte público para fomentar un cambio modal y reducir las emisiones."
+      ],
+      "KeyPerformanceIndicators": [
+        "Aumento anual en el número de pasajeros que utilizan el sistema de autobuses municipales.",
+        "Porcentaje de rutas de autobús con mejor fiabilidad en el tiempo de viaje.",
+        "Reducción estimada en las emisiones equivalentes de CO₂ debido al aumento del uso del transporte público."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0091",
+    "actionName": "Implementation of prioritized routes for sustainable vehicles.",
+    "actionPriority": 15,
+    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0091",
+      "ActionName": "Implementación de rutas priorizadas para vehículos sostenibles.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Crear carriles prioritarios para vehículos eléctricos, híbridos y de bajas emisiones en los centros urbanos para fomentar su adopción y reducir la contaminación en áreas de alto tráfico.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 2,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "60-79",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Implementación de sistemas de gestión del tráfico para hacer cumplir y monitorear el uso de carriles prioritarios.",
+        "Desarrollo de señalización clara y campañas de concienciación pública para informar a los conductores sobre la elegibilidad y el uso de los carriles.",
+        "Establecimiento de marcos regulatorios que incentiven la adopción de vehículos de bajas emisiones para la elegibilidad en carriles prioritarios."
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje de vehículos sostenibles utilizando rutas prioritarias.",
+        "Aumento en la eficiencia de entrega de bienes transportados a través de rutas prioritarias (%).",
+        "Tasa de aceptación pública de rutas prioritarias para vehículos sostenibles (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "c40_0036",
+    "actionName": "Landfill Management",
+    "actionPriority": 16,
+    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "c40_0036",
+      "ActionName": "Gestión de Vertederos",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "waste"
+      ],
+      "Subsector": [
+        "all"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Las estrategias de \"Gestión de Vertederos\" se centran en prácticas responsables y sostenibles de gestión de vertederos para minimizar la degradación ambiental. Al adoptar técnicas de gestión efectivas, las ciudades buscan reducir la huella ecológica asociada con los sitios de vertederos y fomentar la reducción de residuos.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Las estrategias de \"Gestión de Vertederos\" promueven la equidad y la inclusión al abordar los impactos ambientales de los sitios de vertederos, que a menudo afectan de manera desproporcionada a las comunidades vulnerables y desatendidas. Estas comunidades frecuentemente residen cerca de vertederos y son más susceptibles a los riesgos para la salud asociados con la contaminación y la degradación ambiental. Al implementar prácticas de vertederos responsables y sostenibles, la acción busca reducir estos impactos negativos, mejorando así la calidad de vida de los residentes en estas áreas.\n\nAdemás, las técnicas efectivas de reducción de residuos pueden crear oportunidades para la participación y el compromiso comunitario, permitiendo que las poblaciones desatendidas tengan voz en las decisiones ambientales locales. Esta inclusión fomenta un sentido de pertenencia y empoderamiento entre los miembros de la comunidad, asegurando que sus necesidades y preocupaciones sean consideradas en la gestión de los sitios de vertederos. En general, la acción reconoce y busca mitigar las inequidades enfrentadas por las comunidades marginadas en relación con la gestión de residuos y la salud ambiental.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": "60-79",
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Prácticas efectivas de segregación de residuos para asegurar una correcta disposición y reciclaje",
+        "Inversión en tecnología para el tratamiento de residuos y monitoreo de vertederos",
+        "Participación comunitaria y educación sobre la reducción de residuos y el reciclaje",
+        "Marcos regulatorios y políticas que apoyan prácticas sostenibles en vertederos",
+        "Colaboración con gobiernos locales y organizaciones para compartir recursos y mejores prácticas"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción del volumen de residuos en vertederos",
+        "Porcentaje de residuos desviados de vertederos",
+        "Tasa de captura de gas de vertedero",
+        "Calidad del suelo y del agua alrededor de los sitios de vertederos",
+        "Frecuencia de inspecciones de vertederos",
+        "Niveles de concienciación y participación pública",
+        "Ahorro de costos por prácticas mejoradas de gestión de vertederos",
+        "Cumplimiento de las regulaciones ambientales"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0024",
+    "actionName": "Integrate renewables into municipal water systems",
+    "actionPriority": 17,
+    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0024",
+      "ActionName": "Integrar energías renovables en los sistemas de agua municipales",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Implementar fuentes de energía renovable, como la solar o la eólica, para impulsar los sistemas de tratamiento, bombeo y distribución de agua, reduciendo los costos de energía y las emisiones.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 2,
+        "habitat": 2,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidad de financiación o incentivos financieros para integrar fuentes de energía renovable como la solar o la eólica en los sistemas de tratamiento y distribución de agua",
+        "Experiencia técnica e infraestructura para adaptar los sistemas existentes con soluciones de energía renovable o diseñar nuevas instalaciones alimentadas por energías renovables",
+        "Apoyo político y regulatorio para fomentar el uso de energía limpia en los sistemas de agua y asegurar su integración en las redes energéticas municipales"
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje de sistemas de agua municipales alimentados por energías renovables.",
+        "Reducción en el consumo de energía de fuentes no renovables (kWh/año).",
+        "Emisiones de GEI evitadas (toneladas de CO₂e)"
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0129",
+    "actionName": "Facilitate Technology Transfer for Conservation Practices",
+    "actionPriority": 18,
+    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0129",
+      "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "afolu"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Promover la adopción de prácticas agrícolas sostenibles mediante la capacitación, proyectos piloto y demostraciones tecnológicas.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 2,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": "60-79"
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Provisión de programas de capacitación y establecimiento de proyectos piloto para mostrar prácticas sostenibles.",
+        "Alianzas con instituciones de investigación para el desarrollo de tecnología e incentivos financieros para fomentar la adopción.",
+        "Acceso a asistencia técnica para una implementación exitosa."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de tecnologías de conservación transferidas y aplicadas en las granjas.",
+        "Porcentaje de productores capacitados para implementar prácticas de conservación.",
+        "Reducción en la degradación del suelo o aumento en la cobertura vegetal (hectáreas)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0097",
+    "actionName": "Support Distributed Energy Generation in Residences and Businesses",
+    "actionPriority": 19,
+    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "action": {
+      "ActionID": "icare_0097",
+      "ActionName": "Apoyar la Generación de Energía Distribuida en Residencias y Negocios",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Facilitar el uso de paneles solares y otras tecnologías de energía renovable en hogares y edificios comerciales.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Proporcionar incentivos financieros, regulaciones claras de instalación y acceso a tecnologías asequibles para paneles solares.",
+        "Lanzar campañas de concienciación pública y ofrecer capacitación para propietarios de viviendas y empresas.",
+        "Fomentar la adopción de tecnologías de energía renovable para promover ahorros energéticos a largo plazo."
+      ],
+      "KeyPerformanceIndicators": [
+        "Capacidad instalada de generación de energía distribuida (MW).",
+        "Porcentaje de hogares y negocios que generan su propia energía (%).",
+        "Reducción de emisiones de CO₂ a través de la generación distribuida (tCO₂e/año)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR RNV",
+    "cityName": "Ribeirão das Neves",
+    "region": "MG",
+    "regionName": "Minas Gerais",
+    "actionId": "icare_0136",
+    "actionName": "Support the Implementation of Ecological Fiscal Incentives",
+    "actionPriority": 20,
+    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0136",
+      "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "afolu"
+      ],
+      "Subsector": [
+        "land"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar la aplicación de impuestos ecológicos e incentivos para promover la conservación ambiental.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 2,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": "20-39"
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Establecer un marco regulatorio claro con tasas impositivas justas e incentivos para la sostenibilidad.",
+        "Implementar sistemas de monitoreo efectivos para rastrear el cumplimiento y medir el impacto.",
+        "Promover la concienciación pública y fomentar la colaboración entre gobiernos, empresas y comunidades."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de municipios que han adoptado incentivos fiscales ambientales.",
+        "Porcentaje de ingresos fiscales gastados en prácticas sostenibles.",
+        "Superficie o número de propiedades que se benefician de prácticas de conservación como resultado de los incentivos."
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  }
 ]

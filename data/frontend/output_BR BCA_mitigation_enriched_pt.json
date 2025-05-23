@@ -1,1438 +1,1438 @@
 [
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0042",
-        "actionName": "Encourage renewable energy policies at the municipal level",
-        "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0042",
-            "ActionName": "Incentivar pol\u00edticas de energia renov\u00e1vel a n\u00edvel municipal",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "non-specified_sources"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Defender e implementar pol\u00edticas que priorizem o desenvolvimento e a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es e no planejamento do governo local.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Vontade pol\u00edtica e lideran\u00e7a para priorizar a energia renov\u00e1vel nas pol\u00edticas e processos de planejamento do governo local",
-                "Desenvolvimento de pol\u00edticas claras e estruturas regulat\u00f3rias que facilitem a integra\u00e7\u00e3o de sistemas de energia renov\u00e1vel nas opera\u00e7\u00f5es governamentais",
-                "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transi\u00e7\u00e3o para a energia renov\u00e1vel na infraestrutura e opera\u00e7\u00f5es municipais"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de projetos de energia renov\u00e1vel aprovados ou iniciados anualmente a n\u00edvel municipal.",
-                "Percentagem da demanda de energia municipal atendida por fontes renov\u00e1veis (%).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es de carbono municipais devido \u00e0 ado\u00e7\u00e3o de energia renov\u00e1vel (toneladas de CO\u2082e/ano)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0024",
-        "actionName": "Integrate renewables into municipal water systems",
-        "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0024",
-            "ActionName": "Integrar energias renov\u00e1veis nos sistemas municipais de \u00e1gua",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implementar fontes de energia renov\u00e1vel, como energia solar ou e\u00f3lica, para impulsionar sistemas de tratamento, bombeamento e distribui\u00e7\u00e3o de \u00e1gua, reduzindo custos de energia e emiss\u00f5es.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 2,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento ou incentivos financeiros para integrar fontes de energia renov\u00e1vel, como energia solar ou e\u00f3lica, em sistemas de tratamento e distribui\u00e7\u00e3o de \u00e1gua",
-                "Expertise t\u00e9cnica e infraestrutura para adaptar sistemas existentes com solu\u00e7\u00f5es de energia renov\u00e1vel ou projetar novas instala\u00e7\u00f5es alimentadas por energias renov\u00e1veis",
-                "Apoio pol\u00edtico e regulat\u00f3rio para incentivar o uso de energia limpa em sistemas de \u00e1gua e garantir sua integra\u00e7\u00e3o nas redes de energia municipais"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de sistemas municipais de \u00e1gua alimentados por energias renov\u00e1veis.",
-                "Redu\u00e7\u00e3o no consumo de energia de fontes n\u00e3o renov\u00e1veis (kWh/ano).",
-                "Emiss\u00f5es de GEE evitadas (toneladas de CO\u2082e)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0038",
-        "actionName": "Promote community solar farms",
-        "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0038",
-            "ActionName": "Promover fazendas solares comunit\u00e1rias",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Desenvolver e incentivar a ado\u00e7\u00e3o de projetos de energia solar compartilhada, permitindo que as comunidades se beneficiem coletivamente de energia limpa e renov\u00e1vel.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desenvolvimento de pol\u00edticas e estruturas regulat\u00f3rias para apoiar projetos de energia solar compartilhada baseados na comunidade e garantir o acesso equitativo \u00e0 energia limpa",
-                "Disponibilidade de mecanismos financeiros ou incentivos para ajudar as comunidades a investir e manter sistemas de energia solar compartilhada",
-                "Colabora\u00e7\u00e3o entre governos locais, fornecedores de energia e organiza\u00e7\u00f5es comunit\u00e1rias para projetar e implementar projetos de energia solar compartilhada de forma eficaz"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de resid\u00eancias atendidas por projetos solares comunit\u00e1rios.",
-                "Emiss\u00f5es de GEE evitadas atrav\u00e9s da produ\u00e7\u00e3o de energia solar (toneladas de CO\u2082e)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0033",
-        "actionName": "Install biodigesters in rural properties",
-        "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0033",
-            "ActionName": "Instalar biodigestores em propriedades rurais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "agriculture_forestry_and_fishing_activities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Equipar fazendas e propriedades rurais com biodigestores para converter res\u00edduos org\u00e2nicos em biog\u00e1s e fertilizantes ricos em nutrientes, fornecendo uma fonte de energia sustent\u00e1vel.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento ou subs\u00eddios para apoiar a instala\u00e7\u00e3o de biodigestores em fazendas e propriedades rurais",
-                "Acesso a expertise t\u00e9cnica para o design, instala\u00e7\u00e3o e manuten\u00e7\u00e3o de biodigestores",
-                "Desenvolvimento de um quadro regulat\u00f3rio de apoio que incentive o uso de biog\u00e1s e sistemas de gest\u00e3o de res\u00edduos org\u00e2nicos na agricultura rural"
-            ],
-            "KeyPerformanceIndicators": [
-                "Volume de biog\u00e1s gerado (m\u00b3/ano).",
-                "Emiss\u00f5es de GEE evitadas pela substitui\u00e7\u00e3o de combust\u00edveis f\u00f3sseis (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0040",
-        "actionName": "Adopt solar-powered street lighting in rural areas",
-        "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0040",
-            "ActionName": "Adotar ilumina\u00e7\u00e3o p\u00fablica solar em \u00e1reas rurais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Instalar postes de ilumina\u00e7\u00e3o p\u00fablica movidos a energia solar para melhorar a seguran\u00e7a e acessibilidade em comunidades rurais, ao mesmo tempo que reduz os custos de energia e o impacto ambiental.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a instala\u00e7\u00e3o de postes de ilumina\u00e7\u00e3o p\u00fablica solar em comunidades rurais",
-                "Acesso a expertise t\u00e9cnica para projetar, instalar e manter sistemas de ilumina\u00e7\u00e3o p\u00fablica solar",
-                "Colabora\u00e7\u00e3o com governos locais e comunidades para garantir a integra\u00e7\u00e3o de postes de ilumina\u00e7\u00e3o solar na infraestrutura existente e nos planos de energia"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de postes de ilumina\u00e7\u00e3o p\u00fablica alimentados por energia solar.",
-                "Redu\u00e7\u00e3o anual no consumo de eletricidade (kWh).",
-                "Emiss\u00f5es de GEE evitadas (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0002",
-        "actionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
-        "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0002",
-            "ActionName": "Incentivar o Uso do Programa Brasileiro de Etiquetagem para Edifica\u00e7\u00f5es",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promover a rotulagem de efici\u00eancia energ\u00e9tica em edif\u00edcios p\u00fablicos, comerciais e de servi\u00e7os.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Estabelecer padr\u00f5es e regulamentos claros para a rotulagem de efici\u00eancia energ\u00e9tica.",
-                "Lan\u00e7ar campanhas de conscientiza\u00e7\u00e3o p\u00fablica e fornecer incentivos para que os edif\u00edcios obtenham r\u00f3tulos.",
-                "Oferecer treinamento para gerentes de edif\u00edcios para melhorar o desempenho energ\u00e9tico e a ado\u00e7\u00e3o de r\u00f3tulos."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de novos edif\u00edcios com classifica\u00e7\u00e3o A no r\u00f3tulo de efici\u00eancia energ\u00e9tica.",
-                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es (tCO\u2082e/ano) devido \u00e0 efici\u00eancia energ\u00e9tica de edif\u00edcios rotulados."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0097",
-        "actionName": "Support Distributed Energy Generation in Residences and Businesses",
-        "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0097",
-            "ActionName": "Apoiar a Gera\u00e7\u00e3o de Energia Distribu\u00edda em Resid\u00eancias e Neg\u00f3cios",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Facilitar o uso de pain\u00e9is solares e outras tecnologias de energia renov\u00e1vel em resid\u00eancias e edif\u00edcios comerciais.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Fornecer incentivos financeiros, regulamenta\u00e7\u00f5es claras de instala\u00e7\u00e3o e acesso a tecnologias acess\u00edveis para pain\u00e9is solares.",
-                "Lan\u00e7ar campanhas de conscientiza\u00e7\u00e3o p\u00fablica e oferecer treinamento para propriet\u00e1rios de resid\u00eancias e empresas.",
-                "Incentivar a ado\u00e7\u00e3o de tecnologias de energia renov\u00e1vel para promover economias de energia a longo prazo."
-            ],
-            "KeyPerformanceIndicators": [
-                "Capacidade instalada de gera\u00e7\u00e3o de energia distribu\u00edda (MW).",
-                "Percentual de resid\u00eancias e empresas gerando sua pr\u00f3pria energia (%).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es de CO\u2082 atrav\u00e9s da gera\u00e7\u00e3o distribu\u00edda (tCO\u2082e/ano)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0011",
-        "actionName": "Provide tax incentives for renewable energy in residential projects",
-        "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0011",
-            "ActionName": "Fornecer incentivos fiscais para energia renov\u00e1vel em projetos residenciais",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Incentivar os propriet\u00e1rios de im\u00f3veis a adotarem energia solar, e\u00f3lica e outras fontes de energia limpa.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 2,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidade de incentivos financeiros, subs\u00eddios ou cr\u00e9ditos fiscais para incentivar os propriet\u00e1rios a instalar sistemas de energia solar, e\u00f3lica e outras energias limpas",
-                "Acesso a informa\u00e7\u00f5es e recursos educacionais para ajudar os propriet\u00e1rios a entender os benef\u00edcios, custos e processos de instala\u00e7\u00e3o de sistemas de energia limpa",
-                "Desenvolvimento de regulamentos e pol\u00edticas de apoio que facilitem a instala\u00e7\u00e3o de tecnologias de energia renov\u00e1vel em \u00e1reas residenciais"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de resid\u00eancias beneficiadas por incentivos fiscais para a ado\u00e7\u00e3o de energia renov\u00e1vel.",
-                "Aumento anual nas instala\u00e7\u00f5es de energia renov\u00e1vel em projetos residenciais.",
-                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es de CO\u2082 equivalente devido \u00e0 ado\u00e7\u00e3o de energia renov\u00e1vel."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0010",
-        "actionName": "Promote Net-Zero and Green Building Certifications",
-        "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0010",
-            "ActionName": "Promover Certifica\u00e7\u00f5es de Edif\u00edcios Verdes e Net-Zero",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Esta a\u00e7\u00e3o foca em promover edif\u00edcios sustent\u00e1veis apoiando metas de energia l\u00edquida zero e incentivando certifica\u00e7\u00f5es de constru\u00e7\u00e3o verde, como LEED. O objetivo \u00e9 incentivar a constru\u00e7\u00e3o e renova\u00e7\u00e3o de edif\u00edcios que produzam tanta energia quanto consomem, reduzindo seu impacto ambiental. Esta iniciativa tamb\u00e9m promove a ado\u00e7\u00e3o de pr\u00e1ticas e tecnologias sustent\u00e1veis, garantindo efici\u00eancia energ\u00e9tica a longo prazo e responsabilidade ambiental em infraestruturas residenciais, comerciais e p\u00fablicas.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de incentivos financeiros, subs\u00eddios ou cr\u00e9ditos fiscais para incentivar os propriet\u00e1rios a instalar sistemas de energia solar, e\u00f3lica e outras energias limpas",
-                "Acesso a informa\u00e7\u00f5es e recursos educacionais para ajudar os propriet\u00e1rios a entender os benef\u00edcios, custos e processos de instala\u00e7\u00e3o de sistemas de energia limpa",
-                "Desenvolvimento de regulamentos e pol\u00edticas de apoio que facilitem a instala\u00e7\u00e3o de tecnologias de energia renov\u00e1vel em \u00e1reas residenciais"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de edif\u00edcios certificados como edif\u00edcios de energia zero ou edif\u00edcios verdes anualmente.",
-                "Redu\u00e7\u00e3o no consumo de energia e \u00e1gua em edif\u00edcios certificados (kWh/ano, m\u00b3/ano).",
-                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es equivalentes de CO\u2082 a partir de pr\u00e1ticas de constru\u00e7\u00e3o verde."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0105",
-        "actionName": "Reduce technical losses in energy distribution networks",
-        "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0105",
-            "ActionName": "Reduzir perdas t\u00e9cnicas nas redes de distribui\u00e7\u00e3o de energia",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Atualizar e manter a infraestrutura el\u00e9trica para minimizar a perda de energia durante a transmiss\u00e3o e distribui\u00e7\u00e3o, melhorando a efici\u00eancia geral da rede.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento para investir na moderniza\u00e7\u00e3o da infraestrutura el\u00e9trica e na atualiza\u00e7\u00e3o das redes de transmiss\u00e3o e distribui\u00e7\u00e3o",
-                "Acesso a expertise t\u00e9cnica para implementar atualiza\u00e7\u00f5es que reduzam perdas de energia e melhorem a efici\u00eancia da rede",
-                "Estruturas pol\u00edticas e regulat\u00f3rias para garantir a manuten\u00e7\u00e3o cont\u00ednua e a integra\u00e7\u00e3o de tecnologias energeticamente eficientes na infraestrutura da rede"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentual de redu\u00e7\u00e3o nas perdas t\u00e9cnicas em rela\u00e7\u00e3o \u00e0 linha de base (%).",
-                "Economia de energia alcan\u00e7ada anualmente (kWh).",
-                "Emiss\u00f5es de GEE evitadas atrav\u00e9s da redu\u00e7\u00e3o de perdas de energia (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0027",
-        "actionName": "Create financing programs for local renewable energy projects",
-        "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0027",
-            "ActionName": "Criar programas de financiamento para projetos locais de energia renov\u00e1vel",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Estabelecer mecanismos de financiamento, como subs\u00eddios e empr\u00e9stimos a juros baixos, para apoiar o desenvolvimento de iniciativas de energia renov\u00e1vel em pequena escala nas comunidades.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 2,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desenvolvimento de mecanismos financeiros acess\u00edveis, incluindo subs\u00eddios e empr\u00e9stimos a juros baixos, para apoiar projetos de energia renov\u00e1vel em pequena escala nas comunidades",
-                "Colabora\u00e7\u00e3o com institui\u00e7\u00f5es financeiras e governos locais para garantir a distribui\u00e7\u00e3o e gest\u00e3o eficaz dos fundos para iniciativas de energia renov\u00e1vel",
-                "Diretrizes claras e apoio para organiza\u00e7\u00f5es comunit\u00e1rias e empresas locais acessarem financiamento e implementarem com sucesso projetos de energia renov\u00e1vel"
-            ],
-            "KeyPerformanceIndicators": [
-                "Total de fundos alocados para projetos de energia renov\u00e1vel (USD).",
-                "N\u00famero de projetos financiados anualmente.",
-                "Aumento na capacidade de energia renov\u00e1vel instalada (MW)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0046",
-        "actionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
-        "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0046",
-            "ActionName": "Esforce-se para promover o desenvolvimento socioecon\u00f4mico e melhorar a qualidade de vida na cidade a partir da perspectiva de uma economia circular e emiss\u00f5es zero de carbono.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "commercial_and_institutional_buildings_and_facilities"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "O governo da cidade deve empreender a\u00e7\u00f5es pol\u00edticas consistentes com sua capacidade econ\u00f4mica e os desafios que enfrenta para apoiar o desenvolvimento de uma nova economia sustent\u00e1vel com emiss\u00f5es de carbono zero, que proteja as condi\u00e7\u00f5es de trabalho, o empreendedorismo e a vitalidade econ\u00f4mica da cidade.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 1,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Vontade pol\u00edtica e lideran\u00e7a: Um governo local comprometido disposto a priorizar o desenvolvimento sustent\u00e1vel e a neutralidade de carbono.",
-                "Capacidade econ\u00f4mica e recursos: Recursos financeiros suficientes para investir em iniciativas verdes e infraestrutura sustent\u00e1vel.",
-                "Colabora\u00e7\u00e3o com as partes interessadas: Envolver-se com empresas, sindicatos e empreendedores para alinhar estrat\u00e9gias e garantir que a transi\u00e7\u00e3o econ\u00f4mica seja inclusiva e equitativa."
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentual de redu\u00e7\u00e3o nas emiss\u00f5es municipais de carbono per capita (%).",
-                "N\u00famero de iniciativas de economia circular implementadas anualmente (por exemplo, programas de reciclagem, projetos de convers\u00e3o de res\u00edduos em energia).",
-                "Aumento no n\u00famero de empregos verdes criados por meio de iniciativas de economia circular e de carbono zero (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0003",
-        "actionName": "Introduce retrofitting policies for old buildings",
-        "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0003",
-            "ActionName": "Introduzir pol\u00edticas de retrofit para edif\u00edcios antigos",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "residential_buildings"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Modernizar estruturas mais antigas para melhorar a efici\u00eancia energ\u00e9tica e reduzir emiss\u00f5es.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento e mecanismos financeiros para apoiar a moderniza\u00e7\u00e3o de edif\u00edcios antigos para melhorar a efici\u00eancia energ\u00e9tica",
-                "Acesso a expertise em tecnologias de efici\u00eancia energ\u00e9tica e solu\u00e7\u00f5es de retrofit para estruturas existentes",
-                "Apoio pol\u00edtico e regulat\u00f3rio para incentivar atualiza\u00e7\u00f5es de efici\u00eancia energ\u00e9tica em edif\u00edcios antigos, incluindo incentivos e c\u00f3digos de constru\u00e7\u00e3o atualizados"
-            ],
-            "KeyPerformanceIndicators": [
-                "Redu\u00e7\u00e3o no consumo de energia em edif\u00edcios reformados (kWh/ano).",
-                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es equivalentes de CO\u2082 a partir de medidas de reforma."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0006",
-        "actionName": "Expand rural electrification with renewable energy",
-        "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0006",
-            "ActionName": "Expandir a eletrifica\u00e7\u00e3o rural com energia renov\u00e1vel",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Estender o acesso \u00e0 eletricidade em \u00e1reas rurais implementando solu\u00e7\u00f5es de energia renov\u00e1vel, como pain\u00e9is solares, turbinas e\u00f3licas e microgrids, garantindo energia confi\u00e1vel, limpa e sustent\u00e1vel para comunidades carentes.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 1,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento e mecanismos financeiros para apoiar a instala\u00e7\u00e3o de sistemas de energia renov\u00e1vel em \u00e1reas rurais",
-                "Desenvolvimento de infraestrutura, como microrredes, para garantir a distribui\u00e7\u00e3o confi\u00e1vel de eletricidade em comunidades remotas",
-                "Colabora\u00e7\u00e3o com governos locais, fornecedores de energia e organiza\u00e7\u00f5es comunit\u00e1rias para facilitar a implementa\u00e7\u00e3o e manuten\u00e7\u00e3o de solu\u00e7\u00f5es de energia renov\u00e1vel em regi\u00f5es carentes"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de \u00e1reas rurais eletrificadas com energia renov\u00e1vel.",
-                "Capacidade instalada de sistemas de energia renov\u00e1vel em \u00e1reas rurais (MW).",
-                "Redu\u00e7\u00e3o anual nas emiss\u00f5es equivalentes de CO\u2082 de projetos de eletrifica\u00e7\u00e3o rural."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0026",
-        "actionName": "Offer time-of-use tariffs for electricity consumption",
-        "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0026",
-            "ActionName": "Oferecer tarifas de uso por tempo para o consumo de eletricidade",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Introduzir estruturas de pre\u00e7os que incentivem o uso de energia durante as horas de menor demanda, ajudando a equilibrar a demanda da rede e a reduzir os custos de energia para os consumidores.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desenvolvimento de modelos de precifica\u00e7\u00e3o, como tarifas por hor\u00e1rio de uso, para incentivar o consumo de energia durante as horas de menor demanda",
-                "Colabora\u00e7\u00e3o com empresas de servi\u00e7os p\u00fablicos para implementar e comunicar efetivamente as novas estruturas de precifica\u00e7\u00e3o aos consumidores",
-                "Apoio regulat\u00f3rio para garantir que as estruturas de precifica\u00e7\u00e3o estejam alinhadas com os objetivos de gest\u00e3o da rede e incentivem o uso de energia sem prejudicar popula\u00e7\u00f5es vulner\u00e1veis"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem de lares inscritos em programas de tarifa por hor\u00e1rio de uso.",
-                "Redu\u00e7\u00e3o na demanda de eletricidade no hor\u00e1rio de pico (%).",
-                "Redu\u00e7\u00e3o anual nas emiss\u00f5es de GEE devido ao uso otimizado de energia (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0022",
-        "actionName": "Set municipal energy efficiency targets",
-        "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0022",
-            "ActionName": "Definir metas de efici\u00eancia energ\u00e9tica municipal",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "non-specified_sources"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Definir metas mensur\u00e1veis para economia de energia nas opera\u00e7\u00f5es e infraestruturas municipais, promovendo responsabilidade e progresso em dire\u00e7\u00e3o aos objetivos de sustentabilidade.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desenvolvimento de metas claras e mensur\u00e1veis de economia de energia para opera\u00e7\u00f5es e infraestrutura municipais",
-                "Acesso a dados e ferramentas para rastrear e avaliar o consumo de energia em diferentes setores municipais",
-                "Compromisso de pol\u00edticas e lideran\u00e7a para integrar metas de economia de energia no planejamento, or\u00e7amento e opera\u00e7\u00f5es municipais"
-            ],
-            "KeyPerformanceIndicators": [
-                "Progresso anual em dire\u00e7\u00e3o ao cumprimento das metas municipais de efici\u00eancia energ\u00e9tica (%).",
-                "Redu\u00e7\u00e3o no consumo de energia municipal (kWh/ano).",
-                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es equivalentes de CO\u2082 a partir dos esfor\u00e7os de efici\u00eancia energ\u00e9tica municipal."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0008",
-        "actionName": "Develop Smart Grids and Energy Storage Systems",
-        "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0008",
-            "ActionName": "Desenvolver Redes Inteligentes e Sistemas de Armazenamento de Energia",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_industries"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Esta a\u00e7\u00e3o foca no desenvolvimento de redes inteligentes e sistemas de armazenamento de energia para otimizar a gest\u00e3o de energia e melhorar a integra\u00e7\u00e3o de fontes de energia renov\u00e1vel. As redes inteligentes permitem uma distribui\u00e7\u00e3o e uso mais eficientes da eletricidade, enquanto os sistemas de armazenamento de energia ajudam a armazenar o excesso de energia renov\u00e1vel para uso posterior. Juntos, eles garantem um fornecimento de energia est\u00e1vel, confi\u00e1vel e sustent\u00e1vel, permitindo que os munic\u00edpios gerenciem melhor a demanda de energia, reduzam a congest\u00e3o da rede e apoiem a transi\u00e7\u00e3o para energia limpa.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Investimento no desenvolvimento e implementa\u00e7\u00e3o de redes inteligentes e tecnologias de armazenamento de energia para melhorar a gest\u00e3o de energia",
-                "Expertise t\u00e9cnica e infraestrutura para integrar fontes de energia renov\u00e1vel na rede inteligente e garantir o armazenamento eficaz de energia",
-                "Estruturas pol\u00edticas e regulat\u00f3rias para apoiar a ado\u00e7\u00e3o generalizada de redes inteligentes e sistemas de armazenamento de energia, incluindo incentivos e padr\u00f5es de integra\u00e7\u00e3o de rede"
-            ],
-            "KeyPerformanceIndicators": [
-                "Percentagem da rede coberta por tecnologia de rede inteligente.",
-                "Capacidade instalada de sistemas de armazenamento de energia (MW ou MWh).",
-                "Redu\u00e7\u00e3o nas perdas de energia na rede (%)."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0012",
-        "actionName": "Expand Solar Energy in Public Facilities and Remote Areas",
-        "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0012",
-            "ActionName": "Expandir a Energia Solar em Instala\u00e7\u00f5es P\u00fablicas e \u00c1reas Remotas",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Esta a\u00e7\u00e3o visa expandir os sistemas de energia solar em instala\u00e7\u00f5es p\u00fablicas e \u00e1reas remotas para aumentar o alcance da energia limpa e renov\u00e1vel. Ao instalar pain\u00e9is solares em regi\u00f5es carentes e edif\u00edcios municipais, esta iniciativa busca fornecer energia confi\u00e1vel e de baixo custo, reduzir as emiss\u00f5es de carbono e promover a independ\u00eancia energ\u00e9tica, especialmente em \u00e1reas com acesso limitado a redes el\u00e9tricas tradicionais.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidade de financiamento e mecanismos financeiros para apoiar a instala\u00e7\u00e3o de sistemas de energia solar em instala\u00e7\u00f5es p\u00fablicas e \u00e1reas remotas",
-                "Desenvolvimento de infraestrutura para apoiar a integra\u00e7\u00e3o de sistemas de energia solar em regi\u00f5es carentes, incluindo conex\u00e3o \u00e0 rede ou solu\u00e7\u00f5es fora da rede",
-                "Colabora\u00e7\u00e3o com governos locais, fornecedores de energia e organiza\u00e7\u00f5es comunit\u00e1rias para garantir a implementa\u00e7\u00e3o e manuten\u00e7\u00e3o eficazes de sistemas de energia solar nessas \u00e1reas"
-            ],
-            "KeyPerformanceIndicators": [
-                "Capacidade instalada (MW)",
-                "Percentual de \u00e1reas remotas abastecidas por sistemas de energia solar",
-                "Redu\u00e7\u00e3o anual nas emiss\u00f5es de CO2 equivalente pela ado\u00e7\u00e3o de energia solar"
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0116",
-        "actionName": "Mobilize efforts to promote the production and distribution of energy from renewable sources and distributed generation, as well as improve efficiency.",
-        "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0116",
-            "ActionName": "Mobilizar esfor\u00e7os para promover a produ\u00e7\u00e3o e distribui\u00e7\u00e3o de energia a partir de fontes renov\u00e1veis e gera\u00e7\u00e3o distribu\u00edda, bem como melhorar a efici\u00eancia.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "energy_generation_supplied_to_the_grid"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Iniciar e coordenar a\u00e7\u00f5es nos setores p\u00fablico e privado para aumentar a ado\u00e7\u00e3o de tecnologias de energia renov\u00e1vel (como solar, e\u00f3lica e biomassa) e apoiar sistemas de energia descentralizados. Isso envolve a cria\u00e7\u00e3o de incentivos financeiros, a simplifica\u00e7\u00e3o das aprova\u00e7\u00f5es regulat\u00f3rias, o aumento da conscientiza\u00e7\u00e3o p\u00fablica e o investimento em infraestrutura para melhorar as redes de distribui\u00e7\u00e3o de energia e otimizar o desempenho dos sistemas de energia renov\u00e1vel.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Iniciar a\u00e7\u00f5es coordenadas entre os setores p\u00fablico e privado para aumentar a ado\u00e7\u00e3o de energias renov\u00e1veis (solar, e\u00f3lica, biomassa).",
-                "Criar incentivos financeiros, simplificar aprova\u00e7\u00f5es regulat\u00f3rias e investir em infraestrutura para apoiar sistemas de energia descentralizados.",
-                "Aumentar a conscientiza\u00e7\u00e3o p\u00fablica e otimizar redes de distribui\u00e7\u00e3o de energia para melhorar o desempenho dos sistemas de energia renov\u00e1vel."
-            ],
-            "KeyPerformanceIndicators": [
-                "Capacidade instalada de gera\u00e7\u00e3o distribu\u00edda de energia renov\u00e1vel no munic\u00edpio (kW).",
-                "Aumento percentual anual no consumo de energia renov\u00e1vel no munic\u00edpio.",
-                "Redu\u00e7\u00e3o estimada nas emiss\u00f5es de CO\u2082 equivalente ao substituir combust\u00edveis f\u00f3sseis por renov\u00e1veis."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR BCA",
-        "cityName": "Barcarena",
-        "region": "PA",
-        "regionName": "Par\u00e1",
-        "actionId": "icare_0039",
-        "actionName": "Replace outdated industrial motors with efficient alternatives",
-        "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0039",
-            "ActionName": "Substituir motores industriais obsoletos por alternativas eficientes",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "manufacturing_industries_and_construction"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Transi\u00e7\u00e3o para motores industriais de alta efici\u00eancia para reduzir o consumo de energia, os custos de manuten\u00e7\u00e3o e o tempo de inatividade operacional.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "60-79",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidade de incentivos financeiros ou subs\u00eddios para apoiar a compra e instala\u00e7\u00e3o de motores industriais de alta efici\u00eancia",
-                "Acesso a expertise t\u00e9cnica para selecionar e instalar os motores de alta efici\u00eancia adequados em ambientes industriais",
-                "Pol\u00edticas e estruturas regulat\u00f3rias para incentivar a transi\u00e7\u00e3o para tecnologias industriais energeticamente eficientes e reduzir os custos operacionais"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de motores substitu\u00eddos anualmente.",
-                "Economia de energia alcan\u00e7ada (kWh/ano).",
-                "Redu\u00e7\u00e3o nas emiss\u00f5es de GEE de processos industriais (toneladas de CO\u2082e)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0042",
+    "actionName": "Encourage renewable energy policies at the municipal level",
+    "actionPriority": 1,
+    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0042",
+      "ActionName": "Incentivar políticas de energia renovável a nível municipal",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "non-specified_sources"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Defender e implementar políticas que priorizem o desenvolvimento e a integração de sistemas de energia renovável nas operações e no planejamento do governo local.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Vontade política e liderança para priorizar a energia renovável nas políticas e processos de planejamento do governo local",
+        "Desenvolvimento de políticas claras e estruturas regulatórias que facilitem a integração de sistemas de energia renovável nas operações governamentais",
+        "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a transição para a energia renovável na infraestrutura e operações municipais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de projetos de energia renovável aprovados ou iniciados anualmente a nível municipal.",
+        "Percentagem da demanda de energia municipal atendida por fontes renováveis (%).",
+        "Redução nas emissões de carbono municipais devido à adoção de energia renovável (toneladas de CO₂e/ano)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
     }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0024",
+    "actionName": "Integrate renewables into municipal water systems",
+    "actionPriority": 2,
+    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0024",
+      "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Implementar fontes de energia renovável, como energia solar ou eólica, para impulsionar sistemas de tratamento, bombeamento e distribuição de água, reduzindo custos de energia e emissões.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 2,
+        "habitat": 2,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento ou incentivos financeiros para integrar fontes de energia renovável, como energia solar ou eólica, em sistemas de tratamento e distribuição de água",
+        "Expertise técnica e infraestrutura para adaptar sistemas existentes com soluções de energia renovável ou projetar novas instalações alimentadas por energias renováveis",
+        "Apoio político e regulatório para incentivar o uso de energia limpa em sistemas de água e garantir sua integração nas redes de energia municipais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de sistemas municipais de água alimentados por energias renováveis.",
+        "Redução no consumo de energia de fontes não renováveis (kWh/ano).",
+        "Emissões de GEE evitadas (toneladas de CO₂e)"
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0038",
+    "actionName": "Promote community solar farms",
+    "actionPriority": 3,
+    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0038",
+      "ActionName": "Promover fazendas solares comunitárias",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Desenvolver e incentivar a adoção de projetos de energia solar compartilhada, permitindo que as comunidades se beneficiem coletivamente de energia limpa e renovável.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desenvolvimento de políticas e estruturas regulatórias para apoiar projetos de energia solar compartilhada baseados na comunidade e garantir o acesso equitativo à energia limpa",
+        "Disponibilidade de mecanismos financeiros ou incentivos para ajudar as comunidades a investir e manter sistemas de energia solar compartilhada",
+        "Colaboração entre governos locais, fornecedores de energia e organizações comunitárias para projetar e implementar projetos de energia solar compartilhada de forma eficaz"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de residências atendidas por projetos solares comunitários.",
+        "Emissões de GEE evitadas através da produção de energia solar (toneladas de CO₂e)"
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0033",
+    "actionName": "Install biodigesters in rural properties",
+    "actionPriority": 4,
+    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0033",
+      "ActionName": "Instalar biodigestores em propriedades rurais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "agriculture_forestry_and_fishing_activities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Equipar fazendas e propriedades rurais com biodigestores para converter resíduos orgânicos em biogás e fertilizantes ricos em nutrientes, fornecendo uma fonte de energia sustentável.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento ou subsídios para apoiar a instalação de biodigestores em fazendas e propriedades rurais",
+        "Acesso a expertise técnica para o design, instalação e manutenção de biodigestores",
+        "Desenvolvimento de um quadro regulatório de apoio que incentive o uso de biogás e sistemas de gestão de resíduos orgânicos na agricultura rural"
+      ],
+      "KeyPerformanceIndicators": [
+        "Volume de biogás gerado (m³/ano).",
+        "Emissões de GEE evitadas pela substituição de combustíveis fósseis (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0040",
+    "actionName": "Adopt solar-powered street lighting in rural areas",
+    "actionPriority": 5,
+    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0040",
+      "ActionName": "Adotar iluminação pública solar em áreas rurais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Instalar postes de iluminação pública movidos a energia solar para melhorar a segurança e acessibilidade em comunidades rurais, ao mesmo tempo que reduz os custos de energia e o impacto ambiental.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 1,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento ou mecanismos financeiros para apoiar a instalação de postes de iluminação pública solar em comunidades rurais",
+        "Acesso a expertise técnica para projetar, instalar e manter sistemas de iluminação pública solar",
+        "Colaboração com governos locais e comunidades para garantir a integração de postes de iluminação solar na infraestrutura existente e nos planos de energia"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de postes de iluminação pública alimentados por energia solar.",
+        "Redução anual no consumo de eletricidade (kWh).",
+        "Emissões de GEE evitadas (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0002",
+    "actionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
+    "actionPriority": 6,
+    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0002",
+      "ActionName": "Incentivar o Uso do Programa Brasileiro de Etiquetagem para Edificações",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Promover a rotulagem de eficiência energética em edifícios públicos, comerciais e de serviços.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Estabelecer padrões e regulamentos claros para a rotulagem de eficiência energética.",
+        "Lançar campanhas de conscientização pública e fornecer incentivos para que os edifícios obtenham rótulos.",
+        "Oferecer treinamento para gerentes de edifícios para melhorar o desempenho energético e a adoção de rótulos."
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de novos edifícios com classificação A no rótulo de eficiência energética.",
+        "Redução estimada nas emissões (tCO₂e/ano) devido à eficiência energética de edifícios rotulados."
+      ],
+      "PowersAndMandates": [
+        "national"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0097",
+    "actionName": "Support Distributed Energy Generation in Residences and Businesses",
+    "actionPriority": 7,
+    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0097",
+      "ActionName": "Apoiar a Geração de Energia Distribuída em Residências e Negócios",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Facilitar o uso de painéis solares e outras tecnologias de energia renovável em residências e edifícios comerciais.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Fornecer incentivos financeiros, regulamentações claras de instalação e acesso a tecnologias acessíveis para painéis solares.",
+        "Lançar campanhas de conscientização pública e oferecer treinamento para proprietários de residências e empresas.",
+        "Incentivar a adoção de tecnologias de energia renovável para promover economias de energia a longo prazo."
+      ],
+      "KeyPerformanceIndicators": [
+        "Capacidade instalada de geração de energia distribuída (MW).",
+        "Percentual de residências e empresas gerando sua própria energia (%).",
+        "Redução nas emissões de CO₂ através da geração distribuída (tCO₂e/ano)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0011",
+    "actionName": "Provide tax incentives for renewable energy in residential projects",
+    "actionPriority": 8,
+    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0011",
+      "ActionName": "Fornecer incentivos fiscais para energia renovável em projetos residenciais",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Incentivar os proprietários de imóveis a adotarem energia solar, eólica e outras fontes de energia limpa.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 2,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidade de incentivos financeiros, subsídios ou créditos fiscais para incentivar os proprietários a instalar sistemas de energia solar, eólica e outras energias limpas",
+        "Acesso a informações e recursos educacionais para ajudar os proprietários a entender os benefícios, custos e processos de instalação de sistemas de energia limpa",
+        "Desenvolvimento de regulamentos e políticas de apoio que facilitem a instalação de tecnologias de energia renovável em áreas residenciais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de residências beneficiadas por incentivos fiscais para a adoção de energia renovável.",
+        "Aumento anual nas instalações de energia renovável em projetos residenciais.",
+        "Redução estimada nas emissões de CO₂ equivalente devido à adoção de energia renovável."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0010",
+    "actionName": "Promote Net-Zero and Green Building Certifications",
+    "actionPriority": 9,
+    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0010",
+      "ActionName": "Promover Certificações de Edifícios Verdes e Net-Zero",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Esta ação foca em promover edifícios sustentáveis apoiando metas de energia líquida zero e incentivando certificações de construção verde, como LEED. O objetivo é incentivar a construção e renovação de edifícios que produzam tanta energia quanto consomem, reduzindo seu impacto ambiental. Esta iniciativa também promove a adoção de práticas e tecnologias sustentáveis, garantindo eficiência energética a longo prazo e responsabilidade ambiental em infraestruturas residenciais, comerciais e públicas.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de incentivos financeiros, subsídios ou créditos fiscais para incentivar os proprietários a instalar sistemas de energia solar, eólica e outras energias limpas",
+        "Acesso a informações e recursos educacionais para ajudar os proprietários a entender os benefícios, custos e processos de instalação de sistemas de energia limpa",
+        "Desenvolvimento de regulamentos e políticas de apoio que facilitem a instalação de tecnologias de energia renovável em áreas residenciais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de edifícios certificados como edifícios de energia zero ou edifícios verdes anualmente.",
+        "Redução no consumo de energia e água em edifícios certificados (kWh/ano, m³/ano).",
+        "Redução estimada nas emissões equivalentes de CO₂ a partir de práticas de construção verde."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0105",
+    "actionName": "Reduce technical losses in energy distribution networks",
+    "actionPriority": 10,
+    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0105",
+      "ActionName": "Reduzir perdas técnicas nas redes de distribuição de energia",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_industries"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Atualizar e manter a infraestrutura elétrica para minimizar a perda de energia durante a transmissão e distribuição, melhorando a eficiência geral da rede.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento para investir na modernização da infraestrutura elétrica e na atualização das redes de transmissão e distribuição",
+        "Acesso a expertise técnica para implementar atualizações que reduzam perdas de energia e melhorem a eficiência da rede",
+        "Estruturas políticas e regulatórias para garantir a manutenção contínua e a integração de tecnologias energeticamente eficientes na infraestrutura da rede"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentual de redução nas perdas técnicas em relação à linha de base (%).",
+        "Economia de energia alcançada anualmente (kWh).",
+        "Emissões de GEE evitadas através da redução de perdas de energia (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0027",
+    "actionName": "Create financing programs for local renewable energy projects",
+    "actionPriority": 11,
+    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0027",
+      "ActionName": "Criar programas de financiamento para projetos locais de energia renovável",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_industries"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Estabelecer mecanismos de financiamento, como subsídios e empréstimos a juros baixos, para apoiar o desenvolvimento de iniciativas de energia renovável em pequena escala nas comunidades.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 2,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desenvolvimento de mecanismos financeiros acessíveis, incluindo subsídios e empréstimos a juros baixos, para apoiar projetos de energia renovável em pequena escala nas comunidades",
+        "Colaboração com instituições financeiras e governos locais para garantir a distribuição e gestão eficaz dos fundos para iniciativas de energia renovável",
+        "Diretrizes claras e apoio para organizações comunitárias e empresas locais acessarem financiamento e implementarem com sucesso projetos de energia renovável"
+      ],
+      "KeyPerformanceIndicators": [
+        "Total de fundos alocados para projetos de energia renovável (USD).",
+        "Número de projetos financiados anualmente.",
+        "Aumento na capacidade de energia renovável instalada (MW)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0046",
+    "actionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
+    "actionPriority": 12,
+    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0046",
+      "ActionName": "Esforce-se para promover o desenvolvimento socioeconômico e melhorar a qualidade de vida na cidade a partir da perspectiva de uma economia circular e emissões zero de carbono.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "commercial_and_institutional_buildings_and_facilities"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "O governo da cidade deve empreender ações políticas consistentes com sua capacidade econômica e os desafios que enfrenta para apoiar o desenvolvimento de uma nova economia sustentável com emissões de carbono zero, que proteja as condições de trabalho, o empreendedorismo e a vitalidade econômica da cidade.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 1,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Vontade política e liderança: Um governo local comprometido disposto a priorizar o desenvolvimento sustentável e a neutralidade de carbono.",
+        "Capacidade econômica e recursos: Recursos financeiros suficientes para investir em iniciativas verdes e infraestrutura sustentável.",
+        "Colaboração com as partes interessadas: Envolver-se com empresas, sindicatos e empreendedores para alinhar estratégias e garantir que a transição econômica seja inclusiva e equitativa."
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentual de redução nas emissões municipais de carbono per capita (%).",
+        "Número de iniciativas de economia circular implementadas anualmente (por exemplo, programas de reciclagem, projetos de conversão de resíduos em energia).",
+        "Aumento no número de empregos verdes criados por meio de iniciativas de economia circular e de carbono zero (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0003",
+    "actionName": "Introduce retrofitting policies for old buildings",
+    "actionPriority": 13,
+    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0003",
+      "ActionName": "Introduzir políticas de retrofit para edifícios antigos",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "residential_buildings"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Modernizar estruturas mais antigas para melhorar a eficiência energética e reduzir emissões.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento e mecanismos financeiros para apoiar a modernização de edifícios antigos para melhorar a eficiência energética",
+        "Acesso a expertise em tecnologias de eficiência energética e soluções de retrofit para estruturas existentes",
+        "Apoio político e regulatório para incentivar atualizações de eficiência energética em edifícios antigos, incluindo incentivos e códigos de construção atualizados"
+      ],
+      "KeyPerformanceIndicators": [
+        "Redução no consumo de energia em edifícios reformados (kWh/ano).",
+        "Redução estimada nas emissões equivalentes de CO₂ a partir de medidas de reforma."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0006",
+    "actionName": "Expand rural electrification with renewable energy",
+    "actionPriority": 14,
+    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0006",
+      "ActionName": "Expandir a eletrificação rural com energia renovável",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Estender o acesso à eletricidade em áreas rurais implementando soluções de energia renovável, como painéis solares, turbinas eólicas e microgrids, garantindo energia confiável, limpa e sustentável para comunidades carentes.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 1,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": ">10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento e mecanismos financeiros para apoiar a instalação de sistemas de energia renovável em áreas rurais",
+        "Desenvolvimento de infraestrutura, como microrredes, para garantir a distribuição confiável de eletricidade em comunidades remotas",
+        "Colaboração com governos locais, fornecedores de energia e organizações comunitárias para facilitar a implementação e manutenção de soluções de energia renovável em regiões carentes"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de áreas rurais eletrificadas com energia renovável.",
+        "Capacidade instalada de sistemas de energia renovável em áreas rurais (MW).",
+        "Redução anual nas emissões equivalentes de CO₂ de projetos de eletrificação rural."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0026",
+    "actionName": "Offer time-of-use tariffs for electricity consumption",
+    "actionPriority": 15,
+    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "action": {
+      "ActionID": "icare_0026",
+      "ActionName": "Oferecer tarifas de uso por tempo para o consumo de eletricidade",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_industries"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Introduzir estruturas de preços que incentivem o uso de energia durante as horas de menor demanda, ajudando a equilibrar a demanda da rede e a reduzir os custos de energia para os consumidores.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desenvolvimento de modelos de precificação, como tarifas por horário de uso, para incentivar o consumo de energia durante as horas de menor demanda",
+        "Colaboração com empresas de serviços públicos para implementar e comunicar efetivamente as novas estruturas de precificação aos consumidores",
+        "Apoio regulatório para garantir que as estruturas de precificação estejam alinhadas com os objetivos de gestão da rede e incentivem o uso de energia sem prejudicar populações vulneráveis"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem de lares inscritos em programas de tarifa por horário de uso.",
+        "Redução na demanda de eletricidade no horário de pico (%).",
+        "Redução anual nas emissões de GEE devido ao uso otimizado de energia (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0022",
+    "actionName": "Set municipal energy efficiency targets",
+    "actionPriority": 16,
+    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0022",
+      "ActionName": "Definir metas de eficiência energética municipal",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "non-specified_sources"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Definir metas mensuráveis para economia de energia nas operações e infraestruturas municipais, promovendo responsabilidade e progresso em direção aos objetivos de sustentabilidade.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desenvolvimento de metas claras e mensuráveis de economia de energia para operações e infraestrutura municipais",
+        "Acesso a dados e ferramentas para rastrear e avaliar o consumo de energia em diferentes setores municipais",
+        "Compromisso de políticas e liderança para integrar metas de economia de energia no planejamento, orçamento e operações municipais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Progresso anual em direção ao cumprimento das metas municipais de eficiência energética (%).",
+        "Redução no consumo de energia municipal (kWh/ano).",
+        "Redução estimada nas emissões equivalentes de CO₂ a partir dos esforços de eficiência energética municipal."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0008",
+    "actionName": "Develop Smart Grids and Energy Storage Systems",
+    "actionPriority": 17,
+    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "action": {
+      "ActionID": "icare_0008",
+      "ActionName": "Desenvolver Redes Inteligentes e Sistemas de Armazenamento de Energia",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_industries"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Esta ação foca no desenvolvimento de redes inteligentes e sistemas de armazenamento de energia para otimizar a gestão de energia e melhorar a integração de fontes de energia renovável. As redes inteligentes permitem uma distribuição e uso mais eficientes da eletricidade, enquanto os sistemas de armazenamento de energia ajudam a armazenar o excesso de energia renovável para uso posterior. Juntos, eles garantem um fornecimento de energia estável, confiável e sustentável, permitindo que os municípios gerenciem melhor a demanda de energia, reduzam a congestão da rede e apoiem a transição para energia limpa.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Investimento no desenvolvimento e implementação de redes inteligentes e tecnologias de armazenamento de energia para melhorar a gestão de energia",
+        "Expertise técnica e infraestrutura para integrar fontes de energia renovável na rede inteligente e garantir o armazenamento eficaz de energia",
+        "Estruturas políticas e regulatórias para apoiar a adoção generalizada de redes inteligentes e sistemas de armazenamento de energia, incluindo incentivos e padrões de integração de rede"
+      ],
+      "KeyPerformanceIndicators": [
+        "Percentagem da rede coberta por tecnologia de rede inteligente.",
+        "Capacidade instalada de sistemas de armazenamento de energia (MW ou MWh).",
+        "Redução nas perdas de energia na rede (%)."
+      ],
+      "PowersAndMandates": [
+        "national"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0012",
+    "actionName": "Expand Solar Energy in Public Facilities and Remote Areas",
+    "actionPriority": 18,
+    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0012",
+      "ActionName": "Expandir a Energia Solar em Instalações Públicas e Áreas Remotas",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Esta ação visa expandir os sistemas de energia solar em instalações públicas e áreas remotas para aumentar o alcance da energia limpa e renovável. Ao instalar painéis solares em regiões carentes e edifícios municipais, esta iniciativa busca fornecer energia confiável e de baixo custo, reduzir as emissões de carbono e promover a independência energética, especialmente em áreas com acesso limitado a redes elétricas tradicionais.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidade de financiamento e mecanismos financeiros para apoiar a instalação de sistemas de energia solar em instalações públicas e áreas remotas",
+        "Desenvolvimento de infraestrutura para apoiar a integração de sistemas de energia solar em regiões carentes, incluindo conexão à rede ou soluções fora da rede",
+        "Colaboração com governos locais, fornecedores de energia e organizações comunitárias para garantir a implementação e manutenção eficazes de sistemas de energia solar nessas áreas"
+      ],
+      "KeyPerformanceIndicators": [
+        "Capacidade instalada (MW)",
+        "Percentual de áreas remotas abastecidas por sistemas de energia solar",
+        "Redução anual nas emissões de CO2 equivalente pela adoção de energia solar"
+      ],
+      "PowersAndMandates": [
+        "national"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0116",
+    "actionName": "Mobilize efforts to promote the production and distribution of energy from renewable sources and distributed generation, as well as improve efficiency.",
+    "actionPriority": 19,
+    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "action": {
+      "ActionID": "icare_0116",
+      "ActionName": "Mobilizar esforços para promover a produção e distribuição de energia a partir de fontes renováveis e geração distribuída, bem como melhorar a eficiência.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "energy_generation_supplied_to_the_grid"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Iniciar e coordenar ações nos setores público e privado para aumentar a adoção de tecnologias de energia renovável (como solar, eólica e biomassa) e apoiar sistemas de energia descentralizados. Isso envolve a criação de incentivos financeiros, a simplificação das aprovações regulatórias, o aumento da conscientização pública e o investimento em infraestrutura para melhorar as redes de distribuição de energia e otimizar o desempenho dos sistemas de energia renovável.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Iniciar ações coordenadas entre os setores público e privado para aumentar a adoção de energias renováveis (solar, eólica, biomassa).",
+        "Criar incentivos financeiros, simplificar aprovações regulatórias e investir em infraestrutura para apoiar sistemas de energia descentralizados.",
+        "Aumentar a conscientização pública e otimizar redes de distribuição de energia para melhorar o desempenho dos sistemas de energia renovável."
+      ],
+      "KeyPerformanceIndicators": [
+        "Capacidade instalada de geração distribuída de energia renovável no município (kW).",
+        "Aumento percentual anual no consumo de energia renovável no município.",
+        "Redução estimada nas emissões de CO₂ equivalente ao substituir combustíveis fósseis por renováveis."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR BCA",
+    "cityName": "Barcarena",
+    "region": "PA",
+    "regionName": "Pará",
+    "actionId": "icare_0039",
+    "actionName": "Replace outdated industrial motors with efficient alternatives",
+    "actionPriority": 20,
+    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "action": {
+      "ActionID": "icare_0039",
+      "ActionName": "Substituir motores industriais obsoletos por alternativas eficientes",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "manufacturing_industries_and_construction"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Transição para motores industriais de alta eficiência para reduzir o consumo de energia, os custos de manutenção e o tempo de inatividade operacional.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "60-79",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidade de incentivos financeiros ou subsídios para apoiar a compra e instalação de motores industriais de alta eficiência",
+        "Acesso a expertise técnica para selecionar e instalar os motores de alta eficiência adequados em ambientes industriais",
+        "Políticas e estruturas regulatórias para incentivar a transição para tecnologias industriais energeticamente eficientes e reduzir os custos operacionais"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de motores substituídos anualmente.",
+        "Economia de energia alcançada (kWh/ano).",
+        "Redução nas emissões de GEE de processos industriais (toneladas de CO₂e)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  }
 ]

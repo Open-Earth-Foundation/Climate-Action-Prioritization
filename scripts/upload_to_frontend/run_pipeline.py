@@ -25,25 +25,25 @@ def main(locode: str):
     # prioritizer_main(locode)
     # print("Prioritization done.\n")
 
-    print("Running Enrich for frontend...")
-    enricher_main(locode, "mitigation")
-    enricher_main(locode, "adaptation")
-    print("Enriching done.\n")
+    # print("Running Enrich for frontend...")
+    # enricher_main(locode, "mitigation")
+    # enricher_main(locode, "adaptation")
+    # print("Enriching done.\n")
 
-    # print("Running Upload to S3...")
-    # # Upload each language version for both adaptation and mitigation
-    # for language in LANGUAGES:
-    #     # Upload adaptation files
-    #     upload_to_s3(
-    #         f"output_{locode}_adaptation_enriched_{language}.json",
-    #         f"data/{language}/adaptation/{locode}.json",
-    #     )
-    #     # Upload mitigation files
-    #     upload_to_s3(
-    #         f"output_{locode}_mitigation_enriched_{language}.json",
-    #         f"data/{language}/mitigation/{locode}.json",
-    #     )
-    # print("Upload to S3 done.\n")
+    print("Running Upload to S3...")
+    # Upload each language version for both adaptation and mitigation
+    for language in LANGUAGES:
+        # Upload adaptation files
+        upload_to_s3(
+            f"output_{locode}_adaptation_enriched_{language}.json",
+            f"data/{language}/adaptation/{locode}.json",
+        )
+        # Upload mitigation files
+        upload_to_s3(
+            f"output_{locode}_mitigation_enriched_{language}.json",
+            f"data/{language}/mitigation/{locode}.json",
+        )
+    print("Upload to S3 done.\n")
 
 
 if __name__ == "__main__":
