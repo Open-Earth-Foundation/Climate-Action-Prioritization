@@ -1,1431 +1,1431 @@
 [
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0075",
-        "actionName": "Set carbon emissions reduction targets for industrial sectors",
-        "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0075",
-            "ActionName": "Establecer objetivos de reducci\u00f3n de emisiones de carbono para los sectores industriales",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Establecer objetivos claros y alcanzables de reducci\u00f3n de emisiones de carbono para las industrias y exigir informes peri\u00f3dicos para asegurar el progreso.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "80-100",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desarrollo de un sistema estandarizado de medici\u00f3n y reporte de emisiones de carbono.",
-                "Creaci\u00f3n de marcos regulatorios para hacer cumplir los objetivos de reducci\u00f3n de emisiones.",
-                "Fortalecimiento de capacidades para que las industrias monitoreen e informen sobre las emisiones de manera efectiva."
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje de industrias con objetivos establecidos de reducci\u00f3n de carbono (%).",
-                "Reducci\u00f3n en las emisiones totales de GEI sectoriales en comparaci\u00f3n con la l\u00ednea base (toneladas de CO\u2082e).",
-                "Aumento en la adopci\u00f3n de fuentes de energ\u00eda renovable por parte de las industrias (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0078",
-        "actionName": "Develop and implement industrial waste management programs",
-        "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0078",
-            "ActionName": "Desarrollar e implementar programas de gesti\u00f3n de residuos industriales",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Establecer sistemas para gestionar mejor los residuos industriales, reduciendo las emisiones de los vertederos y fomentando el reciclaje o la reutilizaci\u00f3n.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 2,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Regulaciones claras de gesti\u00f3n de residuos para las industrias.",
-                "Disponibilidad de infraestructura para el procesamiento de residuos.",
-                "Programas de capacitaci\u00f3n para trabajadores industriales sobre gesti\u00f3n de residuos."
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n en la generaci\u00f3n de residuos peligrosos (toneladas/a\u00f1o).",
-                "Aumento en la tasa de reciclaje de materiales de desecho industrial (%).",
-                "Cantidad de conversi\u00f3n de residuos a energ\u00eda lograda (MWh/a\u00f1o)"
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0074",
-        "actionName": "Support research into carbon-neutral manufacturing technologies",
-        "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0074",
-            "ActionName": "Apoyar la investigaci\u00f3n en tecnolog\u00edas de fabricaci\u00f3n neutras en carbono",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Invertir en investigaci\u00f3n y desarrollo de tecnolog\u00edas neutras en carbono y fomentar su adopci\u00f3n en la producci\u00f3n industrial.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Financiamiento para la investigaci\u00f3n y desarrollo de tecnolog\u00edas neutras en carbono.",
-                "Alianzas entre el gobierno, la academia y la industria para fomentar la innovaci\u00f3n.",
-                "Programas de incentivos para que las industrias adopten nuevas tecnolog\u00edas."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de proyectos de investigaci\u00f3n financiados o iniciados.",
-                "Porcentaje de industrias locales que adoptan tecnolog\u00edas neutras en carbono (%).",
-                "Reducci\u00f3n de emisiones de carbono en industrias que participan en proyectos de investigaci\u00f3n (toneladas de CO\u2082/a\u00f1o)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0001",
-        "actionName": "Stimulate solar energy production in industrial facilities",
-        "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0001",
-            "ActionName": "Estimular la producci\u00f3n de energ\u00eda solar en instalaciones industriales",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar la instalaci\u00f3n de sistemas de energ\u00eda solar en f\u00e1bricas para reducir la dependencia de los combustibles f\u00f3siles y minimizar las emisiones asociadas.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "80-100",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Disponibilidad de financiaci\u00f3n o subsidios para apoyar las instalaciones de energ\u00eda solar en industrias.",
-                "Experiencia t\u00e9cnica y capacidad para la instalaci\u00f3n de paneles solares y sistemas relacionados.",
-                "Marcos regulatorios que faciliten la integraci\u00f3n de la energ\u00eda solar en las operaciones industriales."
-            ],
-            "KeyPerformanceIndicators": [
-                "Emisiones totales de gases de efecto invernadero evitadas mediante la adopci\u00f3n de energ\u00eda solar en industrias (toneladas de CO\u2082/a\u00f1o).",
-                "Per\u00edodo promedio de retorno de la inversi\u00f3n (ROI) para instalaciones solares industriales (a\u00f1os).",
-                "Porcentaje de necesidades energ\u00e9ticas industriales cubiertas por sistemas de energ\u00eda solar (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0076",
-        "actionName": "Encourage the use of low-emission fuels in industrial processes",
-        "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0076",
-            "ActionName": "Fomentar el uso de combustibles de bajas emisiones en los procesos industriales",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promover la transici\u00f3n a biocombustibles, hidr\u00f3geno y otras alternativas bajas en carbono en los procesos de combusti\u00f3n industrial.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desarrollo de infraestructura para la producci\u00f3n y distribuci\u00f3n de biocombustibles e hidr\u00f3geno.",
-                "Marcos regulatorios para apoyar la transici\u00f3n a combustibles bajos en carbono.",
-                "Disponibilidad de tecnolog\u00eda para integrar biocombustibles e hidr\u00f3geno en sistemas industriales."
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje de consumo de energ\u00eda industrial a partir de combustibles de bajas emisiones (%).",
-                "Reducci\u00f3n de emisiones de GEI por sustituci\u00f3n de combustibles (toneladas de CO\u2082e/a\u00f1o).",
-                "N\u00famero de instalaciones que est\u00e1n haciendo la transici\u00f3n a fuentes de combustible de bajas emisiones."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0082",
-        "actionName": "Transition to renewable energy for industrial operations",
-        "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0082",
-            "ActionName": "Transici\u00f3n a energ\u00edas renovables para operaciones industriales",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar el cambio hacia fuentes de energ\u00eda renovable como la e\u00f3lica, solar e hidroel\u00e9ctrica en las operaciones industriales para reducir el uso de combustibles f\u00f3siles.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "80-100",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Provisi\u00f3n de incentivos, como exenciones fiscales o subsidios, para hacer que las tecnolog\u00edas de energ\u00eda renovable sean m\u00e1s asequibles para las industrias.",
-                "Desarrollo de infraestructura para la integraci\u00f3n de energ\u00eda renovable en las operaciones industriales existentes, incluidas soluciones de almacenamiento de energ\u00eda.",
-                "Asistencia t\u00e9cnica y capacitaci\u00f3n para las partes interesadas de la industria para facilitar la transici\u00f3n a fuentes de energ\u00eda renovable."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de industrias que adoptan fuentes de energ\u00eda renovable.",
-                "Capacidad instalada de energ\u00eda renovable en operaciones industriales (MW).",
-                "Reducci\u00f3n en los costos promedio de energ\u00eda para las industrias que han hecho la transici\u00f3n a energ\u00edas renovables (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0071",
-        "actionName": "Promote the substitution of traditional materials with sustainable alternatives",
-        "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0071",
-            "ActionName": "Promover la sustituci\u00f3n de materiales tradicionales por alternativas sostenibles",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar la sustituci\u00f3n de materiales tradicionales por alternativas sostenibles de bajo impacto, como opciones biodegradables o reciclables.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidad de materiales sostenibles a precios competitivos.",
-                "Pol\u00edticas y regulaciones de apoyo que promuevan la sustituci\u00f3n de materiales.",
-                "Conciencia y capacidad de la industria para la transici\u00f3n a nuevos materiales."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de campa\u00f1as de concienciaci\u00f3n p\u00fablica o sesiones de formaci\u00f3n realizadas para promover materiales sostenibles.",
-                "Reducci\u00f3n porcentual del costo en la producci\u00f3n de materiales sostenibles en comparaci\u00f3n con los materiales tradicionales (%).",
-                "Cuota de mercado de materiales sostenibles en comparaci\u00f3n con los materiales tradicionales en las industrias locales (%)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0079",
-        "actionName": "Implement energy audits in industrial plants",
-        "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0079",
-            "ActionName": "Implementar auditor\u00edas energ\u00e9ticas en plantas industriales",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Realizar auditor\u00edas energ\u00e9ticas peri\u00f3dicas para identificar oportunidades de ahorro de energ\u00eda y reducci\u00f3n de emisiones.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "20-39",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Disponibilidad de profesionales calificados o auditores energ\u00e9ticos para realizar evaluaciones exhaustivas en industrias y edificios.",
-                "Desarrollo de un marco estandarizado para auditor\u00edas energ\u00e9ticas, asegurando consistencia y precisi\u00f3n en los resultados.",
-                "Implementaci\u00f3n de incentivos gubernamentales o corporativos para alentar a las organizaciones a actuar sobre las recomendaciones de auditor\u00eda, como reembolsos para mejoras de eficiencia energ\u00e9tica."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de plantas industriales que realizan auditor\u00edas energ\u00e9ticas anualmente.",
-                "Ahorro de costos logrado a trav\u00e9s de mejoras recomendadas por auditor\u00eda (%).",
-                "Tiempo promedio para implementar medidas de eficiencia energ\u00e9tica despu\u00e9s de la auditor\u00eda (meses)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0033",
-        "actionName": "Electrification of Processes",
-        "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0033",
-            "ActionName": "Electrificaci\u00f3n de Procesos",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "La transici\u00f3n de los procesos de producci\u00f3n de acero a m\u00e9todos electrificados como la electr\u00f3lisis de \u00f3xidos fundidos, la reducci\u00f3n directa avanzada y otros m\u00e9todos impulsados por electricidad de bajo carbono para reducir las emisiones y mejorar la eficiencia energ\u00e9tica.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Promueve el acceso equitativo a tecnolog\u00edas avanzadas de electrificaci\u00f3n y capacitaci\u00f3n para la fuerza laboral, asegurando la participaci\u00f3n de sectores industriales desatendidos.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "60-79",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidad de electricidad baja en carbono",
-                "desarrollo de materiales de \u00e1nodo adecuados",
-                "infraestructura para la electrificaci\u00f3n a gran escala en la producci\u00f3n de acero"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n de emisiones por tonelada de acero producido",
-                "aumento en la proporci\u00f3n de procesos electrificados",
-                "ahorro de energ\u00eda en las etapas de producci\u00f3n"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0039",
-        "actionName": "Carbon Capture and Storage (CCS)",
-        "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0039",
-            "ActionName": "Captura y Almacenamiento de Carbono (CCS)",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "product_use"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "La Captura y Almacenamiento de Carbono (CCS) implica capturar CO2 de procesos industriales, generaci\u00f3n de energ\u00eda o de la atm\u00f3sfera y almacenarlo en formaciones geol\u00f3gicas durante milenios para evitar su liberaci\u00f3n en la atm\u00f3sfera. Las tecnolog\u00edas de CCS tambi\u00e9n pueden permitir emisiones casi nulas o negativas cuando se combinan con biocombustibles de origen sostenible o captura directa de aire, apoyando la descarbonizaci\u00f3n de sectores dif\u00edciles de mitigar.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Apoya una transici\u00f3n equitativa proporcionando v\u00edas de descarbonizaci\u00f3n para industrias intensivas en energ\u00eda y de dif\u00edcil mitigaci\u00f3n, asegurando empleos y estabilidad econ\u00f3mica en las regiones dependientes de estos sectores.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "80-100",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": ">10 years",
-            "Dependencies": [
-                "Requiere el desarrollo de infraestructura para el transporte y almacenamiento de CO2",
-                "marcos de pol\u00edticas de apoyo",
-                "suficiente energ\u00eda limpia para los procesos de captura",
-                "incentivos para la adopci\u00f3n"
-            ],
-            "KeyPerformanceIndicators": [
-                "Cantidad de CO2 capturado y almacenado anualmente",
-                "porcentaje de reducci\u00f3n en emisiones industriales",
-                "capacidad operativa de proyectos de CCS a nivel mundial"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0072",
-        "actionName": "Promote industry-government collaborations on emissions reduction",
-        "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0072",
-            "ActionName": "Promover colaboraciones entre la industria y el gobierno para la reducci\u00f3n de emisiones",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Fomentar colaboraciones entre la industria y el gobierno para crear pol\u00edticas e incentivos que reduzcan las emisiones industriales y apoyen los objetivos de sostenibilidad.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "20-39",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Establecimiento de foros de m\u00faltiples partes interesadas que involucren a la industria y al gobierno.",
-                "Desarrollo de marcos de pol\u00edticas claros para apoyar la reducci\u00f3n de emisiones.",
-                "Creaci\u00f3n de incentivos financieros para que las industrias adopten pr\u00e1cticas sostenibles."
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de acuerdos de colaboraci\u00f3n firmados entre la industria y el gobierno.",
-                "Cantidad de emisiones reducidas a trav\u00e9s de iniciativas colaborativas (toneladas de CO\u2082/a\u00f1o).",
-                "Porcentaje de industrias clave involucradas en asociaciones para la reducci\u00f3n de emisiones (%)."
-            ],
-            "PowersAndMandates": [
-                "national"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0034",
-        "actionName": "Create tax incentives for companies adopting clean technologies",
-        "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0034",
-            "ActionName": "Crear incentivos fiscales para las empresas que adopten tecnolog\u00edas limpias",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Implementar incentivos fiscales y subsidios para las empresas que invierten en tecnolog\u00edas limpias, lo que lleva a reducciones sustanciales de emisiones.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "20-39",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desarrollo de un marco de incentivos fiscales dirigido a inversiones en tecnolog\u00eda limpia.",
-                "Disponibilidad de recursos financieros para subsidios e incentivos fiscales.",
-                "Colaboraci\u00f3n entre el gobierno y las empresas para identificar tecnolog\u00edas limpias elegibles."
-            ],
-            "KeyPerformanceIndicators": [
-                "Porcentaje promedio de ahorro fiscal por empresa que adopta tecnolog\u00edas limpias (%).",
-                "N\u00famero de nuevas empresas de tecnolog\u00eda limpia establecidas como resultado de incentivos fiscales.",
-                "Aumento en los empleos relacionados con tecnolog\u00edas limpias creados debido a incentivos fiscales."
-            ],
-            "PowersAndMandates": [
-                "state"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0047",
-        "actionName": "Enhanced product service levels per product (e.g. product sharing)",
-        "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0047",
-            "ActionName": "Niveles de servicio de producto mejorados por producto (por ejemplo, compartici\u00f3n de productos)",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promueve un uso m\u00e1s intensivo de productos duraderos fomentando el intercambio de productos, lo que reduce la demanda de nuevos productos y las emisiones de GEI asociadas a su fabricaci\u00f3n y cadena de suministro.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": "Apoya el acceso equitativo a bienes y servicios al reducir los costos de propiedad, permitiendo que las comunidades desatendidas participen en iniciativas de intercambio de productos.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "40-59",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desarrollo de plataformas y sistemas para facilitar el intercambio de productos",
-                "colaboraci\u00f3n entre partes interesadas",
-                "pol\u00edticas de apoyo para incentivar modelos de uso compartido"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de sistemas de producto-servicio compartidos implementados",
-                "reducci\u00f3n en la demanda de materiales per c\u00e1pita",
-                "disminuci\u00f3n de las emisiones de GEI de la fabricaci\u00f3n de productos"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0050",
-        "actionName": "Shift to a sufficiency behaviour",
-        "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0050",
-            "ActionName": "Cambiar a un comportamiento de suficiencia",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Promueve cambios en el comportamiento y el consumo para reducir las emisiones industriales en general, enfatizando la reducci\u00f3n de la demanda de productos, la reutilizaci\u00f3n y el reciclaje, y un uso m\u00e1s eficiente de los recursos.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Garantiza la participaci\u00f3n inclusiva en iniciativas de suficiencia, permitiendo que los grupos de bajos ingresos accedan a medidas de ahorro de costos mientras se promueve el consumo sostenible en todos los estratos econ\u00f3micos.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "20-39",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Campa\u00f1as de concienciaci\u00f3n p\u00fablica",
-                "pol\u00edticas de apoyo",
-                "integraci\u00f3n de la sostenibilidad en los marcos empresariales y gubernamentales"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n en la intensidad de materiales y energ\u00eda per c\u00e1pita",
-                "disminuci\u00f3n en las tasas de generaci\u00f3n de residuos",
-                "mejora en las estad\u00edsticas de reciclaje y reutilizaci\u00f3n"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0040",
-        "actionName": "Design with Less / Lightweighting of Products",
-        "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0040",
-            "ActionName": "Dise\u00f1o con Menos / Reducci\u00f3n de Peso de Productos",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Esta acci\u00f3n implica mejorar la eficiencia de los materiales mediante el dise\u00f1o de productos m\u00e1s ligeros, optimizando el uso de materiales para mantener la funcionalidad e incorporando principios de econom\u00eda circular como la reutilizaci\u00f3n, reparabilidad y reciclabilidad. Abarca todo el ciclo de vida del producto, desde el dise\u00f1o hasta la gesti\u00f3n al final de su vida \u00fatil.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Promueve el acceso a productos duraderos y asequibles para comunidades desatendidas y reduce el desperdicio en regiones con recursos limitados.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "40-59",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidad de materiales avanzados",
-                "pol\u00edticas de apoyo para la econom\u00eda circular",
-                "colaboraci\u00f3n de las partes interesadas a lo largo de las cadenas de suministro",
-                "inversi\u00f3n en I+D para materiales ligeros",
-                "m\u00e9todos de dise\u00f1o de alta eficiencia"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n en el uso de materiales por producto",
-                "aumento en la vida \u00fatil del producto",
-                "porcentaje de materiales recuperados y reutilizados",
-                "reducci\u00f3n de emisiones de GEI de los procesos de producci\u00f3n"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0044",
-        "actionName": "Alternative feedstocks (e.g. in cement)",
-        "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0044",
-            "ActionName": "Materias primas alternativas (por ejemplo, en cemento)",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Utilizar materias primas alternativas, como la escoria de alto horno, las cenizas volantes y las puzolanas, para reducir la proporci\u00f3n de cl\u00ednker en la producci\u00f3n de cemento. Estas alternativas disminuyen las emisiones asociadas con la calcinaci\u00f3n y los procesos que requieren mucha energ\u00eda. La eficiencia mejorada de los materiales a trav\u00e9s de concretos de alta resistencia y m\u00e9todos innovadores de colocaci\u00f3n reduce a\u00fan m\u00e1s el uso de materiales.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Promueve el acceso equitativo a tecnolog\u00edas innovadoras de cemento y asegura que los beneficios se compartan tanto en naciones desarrolladas como en desarrollo, fomentando pr\u00e1cticas de construcci\u00f3n inclusivas.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "40-59",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Desarrollo y disponibilidad de materias primas alternativas",
-                "apoyo regulatorio para la sustituci\u00f3n de materiales",
-                "inversi\u00f3n en investigaci\u00f3n y desarrollo para aplicaciones innovadoras de concreto"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n en la proporci\u00f3n de cl\u00ednker a cemento",
-                "menores emisiones de CO2 por tonelada de cemento",
-                "mayor adopci\u00f3n de materiales alternativos en la producci\u00f3n de cemento"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0094",
-        "actionName": "Adoption of biomethane in public fleets.",
-        "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0094",
-            "ActionName": "Adopci\u00f3n de biometano en flotas p\u00fablicas.",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "transportation"
-            ],
-            "Subsector": [
-                "on-road"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones p\u00fablicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 1,
-                "habitat": 0,
-                "cost_of_living": 1,
-                "housing": 0,
-                "mobility": 1,
-                "stakeholder_engagement": 1
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": "60-79",
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Desarrollo de infraestructura para la producci\u00f3n, procesamiento y distribuci\u00f3n de biometano a partir de residuos urbanos y agroindustriales.",
-                "Adaptaci\u00f3n o adquisici\u00f3n de autobuses y camiones p\u00fablicos capaces de utilizar biometano como fuente de combustible.",
-                "Establecimiento de pol\u00edticas e incentivos financieros para apoyar la producci\u00f3n de biometano y su integraci\u00f3n en las flotas municipales."
-            ],
-            "KeyPerformanceIndicators": [
-                "Ahorro de costos en la operaci\u00f3n de la flota debido al uso de biometano (USD/a\u00f1o).",
-                "Aumento en la capacidad de producci\u00f3n de biometano (%).",
-                "Porcentaje de biometano obtenido localmente versus importado."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0026",
-        "actionName": "Heat Recovery and Reuse through Heat Exchanger Networks or Heat Pumps",
-        "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0026",
-            "ActionName": "Recuperaci\u00f3n y Reutilizaci\u00f3n de Calor a trav\u00e9s de Redes de Intercambiadores de Calor o Bombas de Calor",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Esta acci\u00f3n implica mejorar la eficiencia energ\u00e9tica del uso del calor mediante la utilizaci\u00f3n de redes de intercambiadores de calor y bombas de calor de alta temperatura para recuperar y reutilizar el calor residual en los procesos industriales. Las t\u00e9cnicas incluyen reducir las necesidades de calor a trav\u00e9s del aislamiento t\u00e9rmico, reutilizar el calor residual en varios grados de temperatura y reciclar el calor residual para la generaci\u00f3n de energ\u00eda mediante tecnolog\u00edas como la recompresi\u00f3n mec\u00e1nica de vapor y la conversi\u00f3n termoel\u00e9ctrica.",
-            "CoBenefits": {
-                "air_quality": 1,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Garantiza que las tecnolog\u00edas avanzadas de recuperaci\u00f3n de calor sean accesibles para las peque\u00f1as y medianas industrias, especialmente en las regiones en desarrollo, ayud\u00e1ndolas a reducir los costos de energ\u00eda y las emisiones.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "40-59",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "high",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidad de tecnolog\u00edas avanzadas de recuperaci\u00f3n de calor y bombas",
-                "mano de obra calificada para la instalaci\u00f3n y mantenimiento",
-                "apoyo pol\u00edtico para la adopci\u00f3n de sistemas de recuperaci\u00f3n de calor residual"
-            ],
-            "KeyPerformanceIndicators": [
-                "Aumento en la tasa de recuperaci\u00f3n de calor residual",
-                "reducci\u00f3n en la intensidad energ\u00e9tica",
-                "porcentaje de calor reutilizado a trav\u00e9s de sistemas de alta eficiencia"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "icare_0042",
-        "actionName": "Encourage renewable energy policies at the municipal level",
-        "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "icare_0042",
-            "ActionName": "Fomentar pol\u00edticas de energ\u00eda renovable a nivel municipal",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "stationary_energy"
-            ],
-            "Subsector": [
-                "non-specified_sources"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Abogar por e implementar pol\u00edticas que prioricen el desarrollo e integraci\u00f3n de sistemas de energ\u00eda renovable en las operaciones y planificaci\u00f3n del gobierno local.",
-            "CoBenefits": {
-                "air_quality": 2,
-                "water_quality": 0,
-                "habitat": 1,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 2
-            },
-            "EquityAndInclusionConsiderations": null,
-            "GHGReductionPotential": {
-                "stationary_energy": "80-100",
-                "transportation": null,
-                "waste": null,
-                "ippu": null,
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "low",
-            "TimelineForImplementation": "<5 years",
-            "Dependencies": [
-                "Voluntad pol\u00edtica y liderazgo para priorizar la energ\u00eda renovable en las pol\u00edticas y procesos de planificaci\u00f3n del gobierno local",
-                "Desarrollo de pol\u00edticas claras y marcos regulatorios que faciliten la integraci\u00f3n de sistemas de energ\u00eda renovable en las operaciones gubernamentales",
-                "Disponibilidad de financiamiento o mecanismos financieros para apoyar la transici\u00f3n a la energ\u00eda renovable en la infraestructura y operaciones municipales"
-            ],
-            "KeyPerformanceIndicators": [
-                "N\u00famero de proyectos de energ\u00eda renovable aprobados o iniciados anualmente a nivel municipal.",
-                "Porcentaje de la demanda energ\u00e9tica municipal cubierta por fuentes renovables (%).",
-                "Reducci\u00f3n de las emisiones de carbono municipales debido a la adopci\u00f3n de energ\u00eda renovable (toneladas de CO\u2082e/a\u00f1o)."
-            ],
-            "PowersAndMandates": [
-                "local"
-            ],
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
-    },
-    {
-        "locode": "BR SER",
-        "cityName": "Serra",
-        "region": "ES",
-        "regionName": "Esp\u00edrito Santo",
-        "actionId": "ipcc_0041",
-        "actionName": "Improved Material Utilization (Near-Net Shape Casting)",
-        "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
-        "action": {
-            "ActionID": "ipcc_0041",
-            "ActionName": "Mejora en la Utilizaci\u00f3n de Materiales (Fundici\u00f3n de Forma Casi Neta)",
-            "ActionType": [
-                "mitigation"
-            ],
-            "Hazard": null,
-            "Sector": [
-                "ippu"
-            ],
-            "Subsector": [
-                "industrial_processes"
-            ],
-            "PrimaryPurpose": [
-                "ghg_reduction"
-            ],
-            "Description": "Esta acci\u00f3n se centra en mejorar la eficiencia de los materiales adoptando t\u00e9cnicas innovadoras de fabricaci\u00f3n como el near-net shape casting. Estos m\u00e9todos reducen el desperdicio de material durante la producci\u00f3n, mejoran el rendimiento de las materias primas y aumentan la eficiencia energ\u00e9tica al minimizar el reprocesamiento. Las estrategias incluyen optimizar el dise\u00f1o del producto, aligerar el peso y mejorar los procesos de reciclaje y reutilizaci\u00f3n.",
-            "CoBenefits": {
-                "air_quality": 0,
-                "water_quality": 0,
-                "habitat": 0,
-                "cost_of_living": 0,
-                "housing": 0,
-                "mobility": 0,
-                "stakeholder_engagement": 0
-            },
-            "EquityAndInclusionConsiderations": "Promueve el acceso a tecnolog\u00edas avanzadas eficientes en el uso de materiales para industrias de todas las escalas, permitiendo que las peque\u00f1as empresas participen en pr\u00e1cticas de manufactura sostenible.",
-            "GHGReductionPotential": {
-                "stationary_energy": null,
-                "transportation": null,
-                "waste": null,
-                "ippu": "40-59",
-                "afolu": null
-            },
-            "AdaptationEffectiveness": null,
-            "CostInvestmentNeeded": "medium",
-            "TimelineForImplementation": "5-10 years",
-            "Dependencies": [
-                "Disponibilidad de tecnolog\u00edas avanzadas de fabricaci\u00f3n",
-                "capacitaci\u00f3n de la fuerza laboral",
-                "regulaciones de apoyo",
-                "acceso a materiales para fundici\u00f3n de forma casi neta"
-            ],
-            "KeyPerformanceIndicators": [
-                "Reducci\u00f3n de residuos materiales",
-                "aumento en el rendimiento de producci\u00f3n",
-                "reducci\u00f3n de emisiones de GEI por unidad de material producido"
-            ],
-            "PowersAndMandates": null,
-            "AdaptationEffectivenessPerHazard": {
-                "droughts": null,
-                "heatwaves": null,
-                "floods": null,
-                "sea-level-rise": null,
-                "landslides": null,
-                "storms": null,
-                "wildfires": null,
-                "diseases": null
-            },
-            "biome": null
-        }
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0075",
+    "actionName": "Set carbon emissions reduction targets for industrial sectors",
+    "actionPriority": 1,
+    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0075",
+      "ActionName": "Establecer objetivos de reducción de emisiones de carbono para los sectores industriales",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Establecer objetivos claros y alcanzables de reducción de emisiones de carbono para las industrias y exigir informes periódicos para asegurar el progreso.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "80-100",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desarrollo de un sistema estandarizado de medición y reporte de emisiones de carbono.",
+        "Creación de marcos regulatorios para hacer cumplir los objetivos de reducción de emisiones.",
+        "Fortalecimiento de capacidades para que las industrias monitoreen e informen sobre las emisiones de manera efectiva."
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje de industrias con objetivos establecidos de reducción de carbono (%).",
+        "Reducción en las emisiones totales de GEI sectoriales en comparación con la línea base (toneladas de CO₂e).",
+        "Aumento en la adopción de fuentes de energía renovable por parte de las industrias (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
     }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0078",
+    "actionName": "Develop and implement industrial waste management programs",
+    "actionPriority": 2,
+    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0078",
+      "ActionName": "Desarrollar e implementar programas de gestión de residuos industriales",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Establecer sistemas para gestionar mejor los residuos industriales, reduciendo las emisiones de los vertederos y fomentando el reciclaje o la reutilización.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 2,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Regulaciones claras de gestión de residuos para las industrias.",
+        "Disponibilidad de infraestructura para el procesamiento de residuos.",
+        "Programas de capacitación para trabajadores industriales sobre gestión de residuos."
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción en la generación de residuos peligrosos (toneladas/año).",
+        "Aumento en la tasa de reciclaje de materiales de desecho industrial (%).",
+        "Cantidad de conversión de residuos a energía lograda (MWh/año)"
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0074",
+    "actionName": "Support research into carbon-neutral manufacturing technologies",
+    "actionPriority": 3,
+    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0074",
+      "ActionName": "Apoyar la investigación en tecnologías de fabricación neutras en carbono",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Invertir en investigación y desarrollo de tecnologías neutras en carbono y fomentar su adopción en la producción industrial.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Financiamiento para la investigación y desarrollo de tecnologías neutras en carbono.",
+        "Alianzas entre el gobierno, la academia y la industria para fomentar la innovación.",
+        "Programas de incentivos para que las industrias adopten nuevas tecnologías."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de proyectos de investigación financiados o iniciados.",
+        "Porcentaje de industrias locales que adoptan tecnologías neutras en carbono (%).",
+        "Reducción de emisiones de carbono en industrias que participan en proyectos de investigación (toneladas de CO₂/año)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0001",
+    "actionName": "Stimulate solar energy production in industrial facilities",
+    "actionPriority": 4,
+    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0001",
+      "ActionName": "Estimular la producción de energía solar en instalaciones industriales",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar la instalación de sistemas de energía solar en fábricas para reducir la dependencia de los combustibles fósiles y minimizar las emisiones asociadas.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "80-100",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": ">10 years",
+      "Dependencies": [
+        "Disponibilidad de financiación o subsidios para apoyar las instalaciones de energía solar en industrias.",
+        "Experiencia técnica y capacidad para la instalación de paneles solares y sistemas relacionados.",
+        "Marcos regulatorios que faciliten la integración de la energía solar en las operaciones industriales."
+      ],
+      "KeyPerformanceIndicators": [
+        "Emisiones totales de gases de efecto invernadero evitadas mediante la adopción de energía solar en industrias (toneladas de CO₂/año).",
+        "Período promedio de retorno de la inversión (ROI) para instalaciones solares industriales (años).",
+        "Porcentaje de necesidades energéticas industriales cubiertas por sistemas de energía solar (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0076",
+    "actionName": "Encourage the use of low-emission fuels in industrial processes",
+    "actionPriority": 5,
+    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0076",
+      "ActionName": "Fomentar el uso de combustibles de bajas emisiones en los procesos industriales",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Promover la transición a biocombustibles, hidrógeno y otras alternativas bajas en carbono en los procesos de combustión industrial.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desarrollo de infraestructura para la producción y distribución de biocombustibles e hidrógeno.",
+        "Marcos regulatorios para apoyar la transición a combustibles bajos en carbono.",
+        "Disponibilidad de tecnología para integrar biocombustibles e hidrógeno en sistemas industriales."
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje de consumo de energía industrial a partir de combustibles de bajas emisiones (%).",
+        "Reducción de emisiones de GEI por sustitución de combustibles (toneladas de CO₂e/año).",
+        "Número de instalaciones que están haciendo la transición a fuentes de combustible de bajas emisiones."
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0082",
+    "actionName": "Transition to renewable energy for industrial operations",
+    "actionPriority": 6,
+    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0082",
+      "ActionName": "Transición a energías renovables para operaciones industriales",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar el cambio hacia fuentes de energía renovable como la eólica, solar e hidroeléctrica en las operaciones industriales para reducir el uso de combustibles fósiles.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "80-100",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": ">10 years",
+      "Dependencies": [
+        "Provisión de incentivos, como exenciones fiscales o subsidios, para hacer que las tecnologías de energía renovable sean más asequibles para las industrias.",
+        "Desarrollo de infraestructura para la integración de energía renovable en las operaciones industriales existentes, incluidas soluciones de almacenamiento de energía.",
+        "Asistencia técnica y capacitación para las partes interesadas de la industria para facilitar la transición a fuentes de energía renovable."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de industrias que adoptan fuentes de energía renovable.",
+        "Capacidad instalada de energía renovable en operaciones industriales (MW).",
+        "Reducción en los costos promedio de energía para las industrias que han hecho la transición a energías renovables (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0071",
+    "actionName": "Promote the substitution of traditional materials with sustainable alternatives",
+    "actionPriority": 7,
+    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0071",
+      "ActionName": "Promover la sustitución de materiales tradicionales por alternativas sostenibles",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar la sustitución de materiales tradicionales por alternativas sostenibles de bajo impacto, como opciones biodegradables o reciclables.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidad de materiales sostenibles a precios competitivos.",
+        "Políticas y regulaciones de apoyo que promuevan la sustitución de materiales.",
+        "Conciencia y capacidad de la industria para la transición a nuevos materiales."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de campañas de concienciación pública o sesiones de formación realizadas para promover materiales sostenibles.",
+        "Reducción porcentual del costo en la producción de materiales sostenibles en comparación con los materiales tradicionales (%).",
+        "Cuota de mercado de materiales sostenibles en comparación con los materiales tradicionales en las industrias locales (%)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0079",
+    "actionName": "Implement energy audits in industrial plants",
+    "actionPriority": 8,
+    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0079",
+      "ActionName": "Implementar auditorías energéticas en plantas industriales",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Realizar auditorías energéticas periódicas para identificar oportunidades de ahorro de energía y reducción de emisiones.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "20-39",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Disponibilidad de profesionales calificados o auditores energéticos para realizar evaluaciones exhaustivas en industrias y edificios.",
+        "Desarrollo de un marco estandarizado para auditorías energéticas, asegurando consistencia y precisión en los resultados.",
+        "Implementación de incentivos gubernamentales o corporativos para alentar a las organizaciones a actuar sobre las recomendaciones de auditoría, como reembolsos para mejoras de eficiencia energética."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de plantas industriales que realizan auditorías energéticas anualmente.",
+        "Ahorro de costos logrado a través de mejoras recomendadas por auditoría (%).",
+        "Tiempo promedio para implementar medidas de eficiencia energética después de la auditoría (meses)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0033",
+    "actionName": "Electrification of Processes",
+    "actionPriority": 9,
+    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "ipcc_0033",
+      "ActionName": "Electrificación de Procesos",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "La transición de los procesos de producción de acero a métodos electrificados como la electrólisis de óxidos fundidos, la reducción directa avanzada y otros métodos impulsados por electricidad de bajo carbono para reducir las emisiones y mejorar la eficiencia energética.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Promueve el acceso equitativo a tecnologías avanzadas de electrificación y capacitación para la fuerza laboral, asegurando la participación de sectores industriales desatendidos.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "60-79",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidad de electricidad baja en carbono",
+        "desarrollo de materiales de ánodo adecuados",
+        "infraestructura para la electrificación a gran escala en la producción de acero"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción de emisiones por tonelada de acero producido",
+        "aumento en la proporción de procesos electrificados",
+        "ahorro de energía en las etapas de producción"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0039",
+    "actionName": "Carbon Capture and Storage (CCS)",
+    "actionPriority": 10,
+    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "ipcc_0039",
+      "ActionName": "Captura y Almacenamiento de Carbono (CCS)",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "product_use"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "La Captura y Almacenamiento de Carbono (CCS) implica capturar CO2 de procesos industriales, generación de energía o de la atmósfera y almacenarlo en formaciones geológicas durante milenios para evitar su liberación en la atmósfera. Las tecnologías de CCS también pueden permitir emisiones casi nulas o negativas cuando se combinan con biocombustibles de origen sostenible o captura directa de aire, apoyando la descarbonización de sectores difíciles de mitigar.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Apoya una transición equitativa proporcionando vías de descarbonización para industrias intensivas en energía y de difícil mitigación, asegurando empleos y estabilidad económica en las regiones dependientes de estos sectores.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "80-100",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": ">10 years",
+      "Dependencies": [
+        "Requiere el desarrollo de infraestructura para el transporte y almacenamiento de CO2",
+        "marcos de políticas de apoyo",
+        "suficiente energía limpia para los procesos de captura",
+        "incentivos para la adopción"
+      ],
+      "KeyPerformanceIndicators": [
+        "Cantidad de CO2 capturado y almacenado anualmente",
+        "porcentaje de reducción en emisiones industriales",
+        "capacidad operativa de proyectos de CCS a nivel mundial"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0072",
+    "actionName": "Promote industry-government collaborations on emissions reduction",
+    "actionPriority": 11,
+    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0072",
+      "ActionName": "Promover colaboraciones entre la industria y el gobierno para la reducción de emisiones",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Fomentar colaboraciones entre la industria y el gobierno para crear políticas e incentivos que reduzcan las emisiones industriales y apoyen los objetivos de sostenibilidad.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "20-39",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Establecimiento de foros de múltiples partes interesadas que involucren a la industria y al gobierno.",
+        "Desarrollo de marcos de políticas claros para apoyar la reducción de emisiones.",
+        "Creación de incentivos financieros para que las industrias adopten prácticas sostenibles."
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de acuerdos de colaboración firmados entre la industria y el gobierno.",
+        "Cantidad de emisiones reducidas a través de iniciativas colaborativas (toneladas de CO₂/año).",
+        "Porcentaje de industrias clave involucradas en asociaciones para la reducción de emisiones (%)."
+      ],
+      "PowersAndMandates": [
+        "national"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0034",
+    "actionName": "Create tax incentives for companies adopting clean technologies",
+    "actionPriority": 12,
+    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "icare_0034",
+      "ActionName": "Crear incentivos fiscales para las empresas que adopten tecnologías limpias",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Implementar incentivos fiscales y subsidios para las empresas que invierten en tecnologías limpias, lo que lleva a reducciones sustanciales de emisiones.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "20-39",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desarrollo de un marco de incentivos fiscales dirigido a inversiones en tecnología limpia.",
+        "Disponibilidad de recursos financieros para subsidios e incentivos fiscales.",
+        "Colaboración entre el gobierno y las empresas para identificar tecnologías limpias elegibles."
+      ],
+      "KeyPerformanceIndicators": [
+        "Porcentaje promedio de ahorro fiscal por empresa que adopta tecnologías limpias (%).",
+        "Número de nuevas empresas de tecnología limpia establecidas como resultado de incentivos fiscales.",
+        "Aumento en los empleos relacionados con tecnologías limpias creados debido a incentivos fiscales."
+      ],
+      "PowersAndMandates": [
+        "state"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0047",
+    "actionName": "Enhanced product service levels per product (e.g. product sharing)",
+    "actionPriority": 13,
+    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "ipcc_0047",
+      "ActionName": "Niveles de servicio de producto mejorados por producto (por ejemplo, compartición de productos)",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Promueve un uso más intensivo de productos duraderos fomentando el intercambio de productos, lo que reduce la demanda de nuevos productos y las emisiones de GEI asociadas a su fabricación y cadena de suministro.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 1,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": "Apoya el acceso equitativo a bienes y servicios al reducir los costos de propiedad, permitiendo que las comunidades desatendidas participen en iniciativas de intercambio de productos.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "40-59",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desarrollo de plataformas y sistemas para facilitar el intercambio de productos",
+        "colaboración entre partes interesadas",
+        "políticas de apoyo para incentivar modelos de uso compartido"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de sistemas de producto-servicio compartidos implementados",
+        "reducción en la demanda de materiales per cápita",
+        "disminución de las emisiones de GEI de la fabricación de productos"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0050",
+    "actionName": "Shift to a sufficiency behaviour",
+    "actionPriority": 14,
+    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "ipcc_0050",
+      "ActionName": "Cambiar a un comportamiento de suficiencia",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Promueve cambios en el comportamiento y el consumo para reducir las emisiones industriales en general, enfatizando la reducción de la demanda de productos, la reutilización y el reciclaje, y un uso más eficiente de los recursos.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Garantiza la participación inclusiva en iniciativas de suficiencia, permitiendo que los grupos de bajos ingresos accedan a medidas de ahorro de costos mientras se promueve el consumo sostenible en todos los estratos económicos.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "20-39",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Campañas de concienciación pública",
+        "políticas de apoyo",
+        "integración de la sostenibilidad en los marcos empresariales y gubernamentales"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción en la intensidad de materiales y energía per cápita",
+        "disminución en las tasas de generación de residuos",
+        "mejora en las estadísticas de reciclaje y reutilización"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0040",
+    "actionName": "Design with Less / Lightweighting of Products",
+    "actionPriority": 15,
+    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "ipcc_0040",
+      "ActionName": "Diseño con Menos / Reducción de Peso de Productos",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Esta acción implica mejorar la eficiencia de los materiales mediante el diseño de productos más ligeros, optimizando el uso de materiales para mantener la funcionalidad e incorporando principios de economía circular como la reutilización, reparabilidad y reciclabilidad. Abarca todo el ciclo de vida del producto, desde el diseño hasta la gestión al final de su vida útil.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Promueve el acceso a productos duraderos y asequibles para comunidades desatendidas y reduce el desperdicio en regiones con recursos limitados.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "40-59",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidad de materiales avanzados",
+        "políticas de apoyo para la economía circular",
+        "colaboración de las partes interesadas a lo largo de las cadenas de suministro",
+        "inversión en I+D para materiales ligeros",
+        "métodos de diseño de alta eficiencia"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción en el uso de materiales por producto",
+        "aumento en la vida útil del producto",
+        "porcentaje de materiales recuperados y reutilizados",
+        "reducción de emisiones de GEI de los procesos de producción"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0044",
+    "actionName": "Alternative feedstocks (e.g. in cement)",
+    "actionPriority": 16,
+    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "ipcc_0044",
+      "ActionName": "Materias primas alternativas (por ejemplo, en cemento)",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Utilizar materias primas alternativas, como la escoria de alto horno, las cenizas volantes y las puzolanas, para reducir la proporción de clínker en la producción de cemento. Estas alternativas disminuyen las emisiones asociadas con la calcinación y los procesos que requieren mucha energía. La eficiencia mejorada de los materiales a través de concretos de alta resistencia y métodos innovadores de colocación reduce aún más el uso de materiales.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Promueve el acceso equitativo a tecnologías innovadoras de cemento y asegura que los beneficios se compartan tanto en naciones desarrolladas como en desarrollo, fomentando prácticas de construcción inclusivas.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "40-59",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Desarrollo y disponibilidad de materias primas alternativas",
+        "apoyo regulatorio para la sustitución de materiales",
+        "inversión en investigación y desarrollo para aplicaciones innovadoras de concreto"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción en la proporción de clínker a cemento",
+        "menores emisiones de CO2 por tonelada de cemento",
+        "mayor adopción de materiales alternativos en la producción de cemento"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0094",
+    "actionName": "Adoption of biomethane in public fleets.",
+    "actionPriority": 17,
+    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "icare_0094",
+      "ActionName": "Adopción de biometano en flotas públicas.",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "transportation"
+      ],
+      "Subsector": [
+        "on-road"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Utilizar biometano producido a partir de residuos urbanos y agroindustriales para alimentar autobuses y camiones públicos, reduciendo las emisiones de gases de efecto invernadero en las flotas municipales.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 1,
+        "habitat": 0,
+        "cost_of_living": 1,
+        "housing": 0,
+        "mobility": 1,
+        "stakeholder_engagement": 1
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": "60-79",
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Desarrollo de infraestructura para la producción, procesamiento y distribución de biometano a partir de residuos urbanos y agroindustriales.",
+        "Adaptación o adquisición de autobuses y camiones públicos capaces de utilizar biometano como fuente de combustible.",
+        "Establecimiento de políticas e incentivos financieros para apoyar la producción de biometano y su integración en las flotas municipales."
+      ],
+      "KeyPerformanceIndicators": [
+        "Ahorro de costos en la operación de la flota debido al uso de biometano (USD/año).",
+        "Aumento en la capacidad de producción de biometano (%).",
+        "Porcentaje de biometano obtenido localmente versus importado."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0026",
+    "actionName": "Heat Recovery and Reuse through Heat Exchanger Networks or Heat Pumps",
+    "actionPriority": 18,
+    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "action": {
+      "ActionID": "ipcc_0026",
+      "ActionName": "Recuperación y Reutilización de Calor a través de Redes de Intercambiadores de Calor o Bombas de Calor",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Esta acción implica mejorar la eficiencia energética del uso del calor mediante la utilización de redes de intercambiadores de calor y bombas de calor de alta temperatura para recuperar y reutilizar el calor residual en los procesos industriales. Las técnicas incluyen reducir las necesidades de calor a través del aislamiento térmico, reutilizar el calor residual en varios grados de temperatura y reciclar el calor residual para la generación de energía mediante tecnologías como la recompresión mecánica de vapor y la conversión termoeléctrica.",
+      "CoBenefits": {
+        "air_quality": 1,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Garantiza que las tecnologías avanzadas de recuperación de calor sean accesibles para las pequeñas y medianas industrias, especialmente en las regiones en desarrollo, ayudándolas a reducir los costos de energía y las emisiones.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "40-59",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "high",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidad de tecnologías avanzadas de recuperación de calor y bombas",
+        "mano de obra calificada para la instalación y mantenimiento",
+        "apoyo político para la adopción de sistemas de recuperación de calor residual"
+      ],
+      "KeyPerformanceIndicators": [
+        "Aumento en la tasa de recuperación de calor residual",
+        "reducción en la intensidad energética",
+        "porcentaje de calor reutilizado a través de sistemas de alta eficiencia"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "icare_0042",
+    "actionName": "Encourage renewable energy policies at the municipal level",
+    "actionPriority": 19,
+    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "action": {
+      "ActionID": "icare_0042",
+      "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "stationary_energy"
+      ],
+      "Subsector": [
+        "non-specified_sources"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Abogar por e implementar políticas que prioricen el desarrollo e integración de sistemas de energía renovable en las operaciones y planificación del gobierno local.",
+      "CoBenefits": {
+        "air_quality": 2,
+        "water_quality": 0,
+        "habitat": 1,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 2
+      },
+      "EquityAndInclusionConsiderations": null,
+      "GHGReductionPotential": {
+        "stationary_energy": "80-100",
+        "transportation": null,
+        "waste": null,
+        "ippu": null,
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "low",
+      "TimelineForImplementation": "<5 years",
+      "Dependencies": [
+        "Voluntad política y liderazgo para priorizar la energía renovable en las políticas y procesos de planificación del gobierno local",
+        "Desarrollo de políticas claras y marcos regulatorios que faciliten la integración de sistemas de energía renovable en las operaciones gubernamentales",
+        "Disponibilidad de financiamiento o mecanismos financieros para apoyar la transición a la energía renovable en la infraestructura y operaciones municipales"
+      ],
+      "KeyPerformanceIndicators": [
+        "Número de proyectos de energía renovable aprobados o iniciados anualmente a nivel municipal.",
+        "Porcentaje de la demanda energética municipal cubierta por fuentes renovables (%).",
+        "Reducción de las emisiones de carbono municipales debido a la adopción de energía renovable (toneladas de CO₂e/año)."
+      ],
+      "PowersAndMandates": [
+        "local"
+      ],
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  },
+  {
+    "locode": "BR SER",
+    "cityName": "Serra",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "actionId": "ipcc_0041",
+    "actionName": "Improved Material Utilization (Near-Net Shape Casting)",
+    "actionPriority": 20,
+    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "action": {
+      "ActionID": "ipcc_0041",
+      "ActionName": "Mejora en la Utilización de Materiales (Fundición de Forma Casi Neta)",
+      "ActionType": [
+        "mitigation"
+      ],
+      "Hazard": null,
+      "Sector": [
+        "ippu"
+      ],
+      "Subsector": [
+        "industrial_processes"
+      ],
+      "PrimaryPurpose": [
+        "ghg_reduction"
+      ],
+      "Description": "Esta acción se centra en mejorar la eficiencia de los materiales adoptando técnicas innovadoras de fabricación como el near-net shape casting. Estos métodos reducen el desperdicio de material durante la producción, mejoran el rendimiento de las materias primas y aumentan la eficiencia energética al minimizar el reprocesamiento. Las estrategias incluyen optimizar el diseño del producto, aligerar el peso y mejorar los procesos de reciclaje y reutilización.",
+      "CoBenefits": {
+        "air_quality": 0,
+        "water_quality": 0,
+        "habitat": 0,
+        "cost_of_living": 0,
+        "housing": 0,
+        "mobility": 0,
+        "stakeholder_engagement": 0
+      },
+      "EquityAndInclusionConsiderations": "Promueve el acceso a tecnologías avanzadas eficientes en el uso de materiales para industrias de todas las escalas, permitiendo que las pequeñas empresas participen en prácticas de manufactura sostenible.",
+      "GHGReductionPotential": {
+        "stationary_energy": null,
+        "transportation": null,
+        "waste": null,
+        "ippu": "40-59",
+        "afolu": null
+      },
+      "AdaptationEffectiveness": null,
+      "CostInvestmentNeeded": "medium",
+      "TimelineForImplementation": "5-10 years",
+      "Dependencies": [
+        "Disponibilidad de tecnologías avanzadas de fabricación",
+        "capacitación de la fuerza laboral",
+        "regulaciones de apoyo",
+        "acceso a materiales para fundición de forma casi neta"
+      ],
+      "KeyPerformanceIndicators": [
+        "Reducción de residuos materiales",
+        "aumento en el rendimiento de producción",
+        "reducción de emisiones de GEI por unidad de material producido"
+      ],
+      "PowersAndMandates": null,
+      "AdaptationEffectivenessPerHazard": {
+        "droughts": null,
+        "heatwaves": null,
+        "floods": null,
+        "sea-level-rise": null,
+        "landslides": null,
+        "storms": null,
+        "wildfires": null,
+        "diseases": null
+      },
+      "biome": null
+    }
+  }
 ]
