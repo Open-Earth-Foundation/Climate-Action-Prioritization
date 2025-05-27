@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "The implementation of urban tolls can significantly reduce transportation emissions, which are a major contributor to Mossor\u00f3's total emissions. By discouraging private vehicle use, this action can alleviate traffic congestion and improve air quality. This measure also aligns with efforts to promote sustainable urban development and reduce the city's carbon footprint. Furthermore, the revenue generated from tolls can be reinvested into public transportation infrastructure, offering long-term benefits for the city.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "The adoption of biomethane in public fleets is a priority for Mossor\u00f3, a city with significant transportation emissions. This action directly addresses a substantial source of greenhouse gases, contributing to overall emissions reduction. By transitioning public vehicles to biomethane, the city can improve air quality and reduce its reliance on fossil fuels. This initiative also aligns with broader sustainability goals, promoting a cleaner and more resilient urban environment.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action promotes sustainable transportation, which is crucial for Mossor\u00f3 given its significant transportation emissions. Encouraging bike-sharing, especially electric bikes, can help reduce reliance on fossil fuels and improve air quality. This initiative also aligns with efforts to enhance urban mobility and public health. While not directly addressing the city's most pressing climate risks like droughts or heatwaves, it contributes to overall urban resilience and environmental sustainability.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -222,7 +222,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies at the municipal level is a priority for Mossor\u00f3 given its high energy security risks from both droughts and heatwaves. Diversifying the energy mix with renewables can enhance resilience against these climate hazards. This action also aligns with reducing the city's significant stationary energy emissions. Implementing such policies can lead to long-term benefits for the city's energy independence and environmental sustainability.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -294,7 +294,7 @@
         "actionId": "icare_0097",
         "actionName": "Support Distributed Energy Generation in Residences and Businesses",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 faces significant energy security risks due to droughts and heatwaves, which can impact energy supply. Supporting distributed energy generation in residences and businesses can enhance energy resilience by diversifying sources and reducing reliance on a centralized grid. This action also aligns with addressing high stationary energy emissions, contributing to overall emissions reduction. Furthermore, it can empower local communities and businesses, fostering economic development and self-sufficiency in energy production.",
         "action": {
             "ActionID": "icare_0097",
             "ActionName": "Support Distributed Energy Generation in Residences and Businesses",
@@ -366,7 +366,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Expanding mass transit systems on rails is a priority for Mossor\u00f3 due to the significant transportation emissions. This action directly addresses a major source of the city's total emissions. Improving public transport infrastructure can reduce reliance on private vehicles, leading to lower carbon footprints. This initiative also supports sustainable urban development and can improve air quality for residents.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -438,7 +438,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Prioritizing the procurement of locally produced agroecological products is a crucial action for Mossor\u00f3. This initiative directly addresses food security, which is a key impact area with high risk from droughts in the city. By supporting local agroecology, the city can enhance its resilience to climate shocks and reduce reliance on external food systems. Furthermore, it can contribute to sustainable land use practices and potentially mitigate land use emissions, aligning with the city's environmental goals.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -510,7 +510,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Conducting Technical Assistance and Rural Extension (ATER) Actions is a priority for Mossor\u00f3 given its significant agricultural sector and vulnerability to droughts. This action directly addresses food security, a key impact area with a high normalized risk score due to droughts. By providing support to rural communities, it can enhance resilience and adaptive capacity in the face of climate challenges. This initiative is crucial for sustaining livelihoods and ensuring the well-being of the population in a region heavily reliant on agriculture.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -582,7 +582,7 @@
         "actionId": "icare_0024",
         "actionName": "Integrate renewables into municipal water systems",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Integrating renewables into municipal water systems is a high-priority action for Mossor\u00f3. The city faces significant risks related to water resources due to droughts, as indicated by a very high normalized risk score. Furthermore, the city experiences very low access to adequate water, highlighting an urgent need for improved water infrastructure. Renewable energy integration can enhance the resilience and sustainability of the water supply, reducing reliance on vulnerable conventional energy sources. This action directly addresses critical vulnerabilities and contributes to the city's overall climate adaptation and public service improvement.",
         "action": {
             "ActionID": "icare_0024",
             "ActionName": "Integrate renewables into municipal water systems",
@@ -654,7 +654,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 is a desert biome city with significant risks from droughts, impacting water and food security. Facilitating technology transfer for conservation practices is crucial for a city facing such severe water resource challenges. This action can introduce innovative methods to manage scarce resources more effectively. It directly addresses the city's vulnerability to drought, which is a high-priority hazard.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -726,7 +726,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Mossor\u00f3. Given the city's desert biome and high risks associated with droughts impacting water resources and food security, PES programs can incentivize sustainable land management practices. These programs can help protect and restore ecosystems that provide essential services, such as water regulation and soil conservation. This action directly addresses the city's vulnerability to climate hazards by promoting environmental stewardship and resilience.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -798,7 +798,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for Mossor\u00f3, a city with a desert biome and significant risks to food security due to droughts and floods. These programs can enhance agricultural resilience and promote sustainable practices, which are crucial for a region facing high climate risks. Given the city's low-income population, such initiatives can also contribute to economic stability and improved livelihoods. Furthermore, by fostering sustainable land use, these programs can help mitigate land use emissions, which are a notable component of the city's total emissions. This action directly addresses multiple vulnerabilities identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -870,7 +870,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for Mossor\u00f3, a city with a desert biome and significant drought risks impacting food security. This action directly addresses the city's vulnerability to food security issues by promoting resilient agricultural practices. It can also contribute to reducing emissions associated with long-distance food transportation. Furthermore, it supports local economies and can enhance community resilience in the face of climate challenges.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -942,7 +942,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a relevant action for Mossor\u00f3, a city with a desert biome and significant risks to food security due to droughts and floods. This approach can enhance agricultural resilience and reduce reliance on chemical inputs, which is crucial for a region facing water resource challenges. By supporting sustainable farming practices, the city can improve its long-term food security and environmental health. This action aligns with the need to address key impacts like food security, which is highly vulnerable in Mossor\u00f3.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1014,7 +1014,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 has significant transportation emissions, contributing to its overall carbon footprint. Addressing vehicle emissions is crucial for improving air quality and public health in the city. While not the highest priority, reducing these emissions aligns with broader climate goals. This action can also lead to co-benefits such as reduced respiratory illnesses and a more livable urban environment.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -1093,7 +1093,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a priority for Mossor\u00f3. This action can encourage sustainable practices and environmental protection within the city. Given Mossor\u00f3's significant environmental risks, particularly from droughts and heatwaves impacting water resources and public health, such incentives could foster resilience. By promoting ecological responsibility through fiscal mechanisms, the city can work towards mitigating its high normalized risk scores across various key impacts. This action aligns with a proactive approach to environmental management and climate adaptation.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1165,7 +1165,7 @@
         "actionId": "icare_0021",
         "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it addresses transportation emissions, which are a significant contributor to the city's total emissions. Encouraging sustainable transportation can lead to reduced air pollution and improved public health. Given the city's low-income status, promoting rational use of existing transportation might be more feasible than large-scale infrastructure changes. This action aligns with efforts to mitigate climate change by reducing the carbon footprint of individual mobility.",
         "action": {
             "ActionID": "icare_0021",
             "ActionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
@@ -1237,7 +1237,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Strengthening mechanisms for deforestation control is a relevant action for Mossor\u00f3, given its desert biome and significant land use emissions. While not the highest priority, addressing deforestation can contribute to mitigating climate risks and preserving biodiversity. This action aligns with the city's need to manage its natural resources effectively. It is a proactive step towards environmental sustainability.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -1309,7 +1309,7 @@
         "actionId": "icare_0038",
         "actionName": "Promote community solar farms",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Promoting community solar farms is a relevant action for Mossor\u00f3, especially given the city's high energy security risk from droughts and heatwaves. Diversifying energy sources through solar power can enhance resilience and reduce reliance on traditional grids. This initiative can also contribute to reducing the city's significant stationary energy emissions. Furthermore, it aligns with efforts to improve overall energy security and mitigate climate change impacts in a desert biome.",
         "action": {
             "ActionID": "icare_0038",
             "ActionName": "Promote community solar farms",
@@ -1380,7 +1380,7 @@
         "actionId": "icare_0011",
         "actionName": "Provide tax incentives for renewable energy in residential projects",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action, while beneficial for promoting renewable energy, is not a top priority for Mossor\u00f3 given the city's most pressing climate risks. Mossor\u00f3 faces extremely high risks from droughts, heatwaves, and floods, impacting water resources, food security, public health, and infrastructure. While renewable energy is important for long-term sustainability and emissions reduction, addressing immediate climate hazards and their impacts on essential services like water and sanitation should take precedence. The city also has significant emissions from transportation and waste, which might offer more impactful areas for intervention.",
         "action": {
             "ActionID": "icare_0011",
             "ActionName": "Provide tax incentives for renewable energy in residential projects",

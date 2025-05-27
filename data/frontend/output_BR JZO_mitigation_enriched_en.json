@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a high-priority action for Juazeiro. The city is located in a desert biome and faces significant risks from droughts, impacting water resources, food security, and energy security. Agroforestry can help mitigate these impacts by improving soil health, conserving water, and enhancing biodiversity. This approach also supports food security, which is a critical concern given the high normalized risk score for droughts.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -79,7 +79,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a priority for Juazeiro, especially given its desert biome. This action can help mitigate the impacts of heatwaves, which pose a high risk to public health and infrastructure in the city. Increased green spaces can also contribute to biodiversity, which is currently at risk from both droughts and heatwaves. Furthermore, it can improve the overall quality of life for residents by providing shade and reducing the urban heat island effect.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -151,7 +151,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Strengthening mechanisms for deforestation control is a high priority for Juazeiro. The city's biome is desert, and it faces significant land use emissions. Controlling deforestation can help mitigate these emissions and protect the fragile desert ecosystem. This action is crucial for maintaining ecological balance and supporting the city's long-term environmental sustainability.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -223,7 +223,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Juazeiro given its desert biome and high risks associated with droughts impacting water resources, food security, and energy security. PES programs can incentivize sustainable land management practices that protect and restore ecosystems, which are crucial for mitigating the effects of drought and preserving natural capital. This action directly supports the city's resilience against climate hazards by fostering environmental stewardship and potentially improving the availability and quality of natural resources. It aligns with the need to address the significant environmental challenges highlighted by the city's climate risk assessment.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -295,7 +295,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Facilitating technology transfer for conservation practices is a high-priority action for Juazeiro. The city is located in a desert biome and faces significant risks from droughts, impacting water resources, food security, and energy security. Implementing advanced conservation practices can help mitigate these severe impacts. This action directly supports the city's resilience against its most pressing climate hazards.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -367,7 +367,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Juazeiro is located in a desert biome and faces significant risks from droughts, impacting water resources, food security, and energy security. Conducting Technical Assistance and Rural Extension (ATER) actions can help local communities adapt to these challenges by improving agricultural practices and resource management. This is crucial for enhancing resilience and ensuring the long-term sustainability of livelihoods in the face of climate change. Such initiatives can empower residents with the knowledge and tools needed to mitigate the effects of extreme weather events.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -439,7 +439,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Juazeiro is located in a desert biome and faces significant risks from droughts, impacting water resources, food security, and energy security. Promoting agroforestry practices can enhance the resilience of livestock systems to these drought conditions. This action helps diversify agricultural production and improve soil health, which are crucial for adapting to the city's climate challenges. Furthermore, it can contribute to carbon sequestration and biodiversity, aligning with broader environmental goals.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -511,7 +511,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Promoting sustainable agricultural practices is a high priority for Juazeiro, given its desert biome and significant risks from droughts impacting water resources, food security, and energy security. These practices can help mitigate the severe impacts of drought on the city's agricultural sector and overall resilience. By adopting sustainable methods, the city can improve water management, enhance soil health, and reduce vulnerability to climate-related shocks. This action directly addresses critical vulnerabilities identified in the city's climate risk assessment, making it essential for long-term sustainability.",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -583,7 +583,7 @@
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Promoting organic farming is a high-priority action for Juazeiro, given its significant vulnerability to droughts, which severely impact water and food security. Organic farming practices often improve soil health and water retention, making agricultural systems more resilient to water scarcity. This approach can also contribute to food security by fostering sustainable local food production. Furthermore, it aligns with addressing the city's high land use emissions, as sustainable agricultural practices can reduce the carbon footprint associated with food production.",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -655,7 +655,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Supporting regenerative agriculture practices is a high-priority action for Juazeiro. The city faces significant risks from droughts, which severely impact water resources and food security. Regenerative agriculture can enhance soil health, improve water retention, and increase resilience to drought conditions. This action directly addresses critical vulnerabilities identified in the city's climate risk assessment, making it essential for long-term sustainability and food security.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -727,7 +727,7 @@
         "actionId": "icare_0127",
         "actionName": "Accelerate Environmental Regularization of Rural Properties",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action focuses on accelerating environmental regularization of rural properties, which is crucial for a city like Juazeiro, located in a desert biome. Given the high risks associated with droughts impacting water resources, food security, and energy security, proper land management is essential. Environmental regularization can help mitigate land degradation and improve the resilience of rural areas to climate hazards. This proactive measure supports sustainable practices and protects vital natural resources in the face of significant environmental challenges.",
         "action": {
             "ActionID": "icare_0127",
             "ActionName": "Accelerate Environmental Regularization of Rural Properties",
@@ -799,7 +799,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Prioritizing locally produced agroecological products in public purchases is a valuable action for Juazeiro. This initiative can bolster local food security, which is a significant concern given the city's high risk from droughts impacting food supply. It also supports local economies and sustainable agricultural practices, aligning with the city's desert biome and the need for resilient food systems. While not directly addressing the highest-risk hazards like droughts and heatwaves, it contributes to overall community resilience and well-being.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -871,7 +871,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for Juazeiro given its desert biome and high risks associated with droughts impacting water resources, food security, and energy security. These programs can promote sustainable land use practices that are crucial for mitigating the effects of climate change on agriculture. By fostering resilient food systems, this action directly addresses the city's vulnerability to climate hazards. It helps ensure long-term food security and environmental stability in a region highly susceptible to desertification.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -943,7 +943,7 @@
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Juazeiro has very high land use emissions, indicating that agricultural practices are a significant contributor to the city's overall emissions profile. Encouraging the use of low-emission agricultural machinery directly addresses this major source of emissions. By reducing emissions from this sector, the city can make substantial progress towards its climate goals. This action aligns with the need to mitigate climate change impacts, especially given the city's vulnerability to hazards like droughts which can affect food security.",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -1015,7 +1015,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a priority for Juazeiro. This action can encourage sustainable practices and resource management within the city. Given Juazeiro's significant risks from droughts and heatwaves impacting water resources, food security, and public health, such incentives could drive behavioral changes. By promoting environmentally responsible actions through financial mechanisms, the city can build resilience against its most pressing climate hazards. This approach aligns with the need to address high-risk areas identified in the city's climate change risk assessment.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1087,7 +1087,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for Juazeiro given its significant food security risks due to droughts and floods. This action directly addresses food security by promoting resilient agricultural practices. It also supports the local economy and can reduce emissions associated with long-distance food transportation. Furthermore, it can enhance biodiversity, which is also at risk from climate hazards in the region. This action aligns well with the city's vulnerability to climate impacts on its food systems.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1159,7 +1159,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a priority for Juazeiro, especially given its desert biome and high risks associated with droughts impacting food security. This action can enhance agricultural resilience by reducing reliance on external inputs and fostering sustainable farming practices. It directly addresses the city's vulnerability to climate-related agricultural challenges. By supporting healthier ecosystems, it also indirectly contributes to biodiversity preservation, which is moderately impacted by droughts and heatwaves.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1231,7 +1231,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Implementing an urban toll could help manage traffic congestion and reduce transportation emissions in Juazeiro. This action aligns with efforts to improve air quality and potentially generate revenue for sustainable urban development. While the city faces significant risks from droughts and heatwaves, addressing transportation emissions is also crucial for overall environmental sustainability. The effectiveness of this action would depend on careful planning and public acceptance.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -1302,7 +1302,7 @@
         "actionId": "c40_0042",
         "actionName": "Biodiversity Expansion",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action, Biodiversity Expansion, is a moderate priority for Juazeiro. While biodiversity is impacted by both droughts and heatwaves, the city faces more immediate and severe risks in other areas. The city's primary climate hazards are droughts and heatwaves, which significantly impact water resources, food security, energy security, public health, and infrastructure. Addressing these critical impacts may yield more widespread benefits for the city's resilience and well-being.",
         "action": {
             "ActionID": "c40_0042",
             "ActionName": "Biodiversity Expansion",
@@ -1379,7 +1379,7 @@
         "actionId": "ipcc_0061",
         "actionName": "Soil Carbon Management in Croplands and Grasslands",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action focuses on soil carbon management, which is highly relevant for Juazeiro given its significant land use emissions. Improving soil health can enhance agricultural productivity, which is crucial for a city facing high risks to food security due to droughts. Furthermore, healthy soils can improve water retention, offering a natural adaptation strategy against the prevalent drought hazards. This action also contributes to biodiversity, an impact area that is moderately affected by droughts and heatwaves in the city.",
         "action": {
             "ActionID": "ipcc_0061",
             "ActionName": "Soil Carbon Management in Croplands and Grasslands",

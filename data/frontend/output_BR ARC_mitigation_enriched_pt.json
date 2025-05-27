@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de um pedágio urbano é uma ação prioritária para Arapiraca. Essa medida pode reduzir significativamente as emissões de transporte, que são um dos principais contribuintes para as emissões totais da cidade. Ao desencorajar o uso de veículos particulares, também pode aliviar o congestionamento do tráfego e melhorar a qualidade do ar. Além disso, a receita gerada pelos pedágios pode ser reinvestida na infraestrutura de transporte público, oferecendo alternativas sustentáveis para os moradores.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A adoção do biometano em frotas públicas é uma prioridade para Arapiraca devido às significativas emissões de transporte da cidade. Com o transporte sendo responsável por uma grande parte do total de emissões, a transição para combustíveis mais limpos, como o biometano, pode reduzir substancialmente a pegada de carbono da cidade. Esta ação aborda diretamente uma importante fonte de poluição, contribuindo para a melhoria da qualidade do ar e da saúde pública. Além disso, alinha-se com objetivos de sustentabilidade mais amplos, promovendo fontes de energia renováveis e reduzindo a dependência de combustíveis fósseis. Investir em infraestrutura de biometano também fomenta a inovação e a criação de empregos verdes na cidade.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nArapiraca possui emissões de transporte significativas, indicando a necessidade de alternativas sustentáveis. A promoção de programas de compartilhamento de bicicletas, especialmente com bicicletas elétricas, pode ajudar a reduzir a dependência de veículos movidos a combustíveis fósseis. Essa ação aborda diretamente uma das principais fontes de emissões e contribui para um ar mais limpo e a redução do congestionamento do tráfego. Além disso, alinha-se aos esforços para melhorar a mobilidade urbana e a saúde pública, incentivando o transporte ativo.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A expansão dos sistemas de transporte público sobre trilhos é uma prioridade para Arapiraca devido às suas significativas emissões provenientes do transporte. Esta ação aborda diretamente uma das principais fontes das emissões totais da cidade, contribuindo para os esforços gerais de descarbonização. A melhoria do transporte público também pode aliviar o congestionamento do tráfego e melhorar a mobilidade urbana para os residentes. Embora não aborde diretamente os altos riscos da cidade relacionados a secas e problemas de saúde pública, a redução de emissões é uma estratégia crucial de adaptação climática a longo prazo.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Arapiraca é um bioma desértico com desafios significativos no acesso à água e saneamento, e altos riscos de secas, ondas de calor e inundações. Embora a modernização de portos e aeroportos com tecnologias de emissão zero seja benéfica para a redução das emissões de transporte, ela não aborda diretamente os desafios climáticos mais urgentes da cidade ou as deficiências nos serviços públicos. As principais emissões da cidade provêm do transporte e do uso da terra, portanto, esta ação contribuiria para a redução do primeiro. No entanto, dados os graves riscos à saúde pública e à segurança alimentar decorrentes dos perigos climáticos, outras intervenções poderiam oferecer benefícios mais imediatos e impactantes para a resiliência e o bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -366,7 +366,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Abordar as emissões veiculares é um passo crucial para Arapiraca, dada a contribuição significativa do transporte para as emissões totais da cidade. A redução dessas emissões melhorará a qualidade do ar local, beneficiando diretamente a saúde pública. Esta ação também se alinha com objetivos climáticos mais amplos, ao mitigar a produção de gases de efeito estufa. Priorizar esta iniciativa pode levar a um ambiente urbano mais saudável e contribuir para os esforços de sustentabilidade da cidade.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -445,7 +445,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Promover o reflorestamento urbano e corredores verdes é uma ação crucial para Arapiraca, especialmente dado o seu bioma desértico. Essa iniciativa pode ajudar a mitigar os impactos das ondas de calor, que representam um alto risco para a saúde pública e a segurança energética. O aumento de espaços verdes também pode melhorar a qualidade do ar e fornecer serviços ecossistêmicos, aprimorando a resiliência geral da cidade. Além disso, pode contribuir para a biodiversidade, que atualmente apresenta baixo risco de secas, mas poderia se beneficiar de habitats naturais aprimorados.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover o Reflorestamento Urbano e Corredores Verdes",
@@ -517,7 +517,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de sistemas agroflorestais é uma prioridade para Arapiraca, dado o seu bioma desértico e os significativos riscos de seca que afetam a segurança hídrica e alimentar. Esta ação pode aumentar a resiliência do ecossistema e melhorar a saúde do solo, o que é crucial para uma região que enfrenta tais desafios ambientais. Além disso, pode contribuir para a segurança alimentar, diversificando a produção agrícola e tornando-a mais resiliente a choques climáticos. Esta abordagem alinha-se com a necessidade da cidade de abordar impactos-chave como os recursos hídricos e a segurança alimentar, que são altamente vulneráveis às secas.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroflorestais",
@@ -589,7 +589,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é prioritária devido ao significativo setor agrícola de Arapiraca, que é altamente vulnerável a impactos climáticos como secas e inundações. A oferta de assistência técnica e extensão rural pode ajudar os agricultores a adotar práticas resilientes ao clima, melhorando a segurança alimentar e a gestão dos recursos hídricos. Isso aborda diretamente os principais impactos identificados na Avaliação de Risco Climático da cidade (CCRA), como segurança alimentar e recursos hídricos, que estão em alto risco devido a secas e inundações. Além disso, pode capacitar a comunidade local a se adaptar às mudanças nas condições ambientais, promovendo a sustentabilidade e a resiliência a longo prazo.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -661,7 +661,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma ação de alta prioridade para Arapiraca. A cidade enfrenta riscos significativos relacionados a recursos hídricos e segurança alimentar devido a secas, e também possui um acesso à água moderadamente inadequado. Os programas de PSA podem incentivar a proteção e restauração de ecossistemas que fornecem serviços cruciais como a regulação hídrica e a conservação do solo. Isso aborda diretamente as vulnerabilidades da cidade, aprimorando a infraestrutura natural e promovendo práticas sustentáveis de manejo da terra. Tais iniciativas podem melhorar a disponibilidade de água e a resiliência agrícola, beneficiando o bem-estar e a estabilidade econômica da comunidade.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -733,7 +733,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os mecanismos de controle do desmatamento é uma prioridade para Arapiraca, especialmente considerando seu bioma desértico. Embora as emissões do uso da terra na cidade sejam significativas, esta ação aborda diretamente uma preocupação ambiental fundamental. Proteger os ecossistemas existentes pode mitigar os impactos das mudanças climáticas e preservar a biodiversidade. Esta iniciativa apoia a sustentabilidade ambiental e a resiliência a longo prazo dentro da cidade.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -805,7 +805,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Arapiraca está localizada em um bioma desértico, tornando as práticas de conservação cruciais para a sustentabilidade. Facilitar a transferência de tecnologia pode introduzir soluções inovadoras para gerenciar recursos escassos e proteger o ecossistema local. Dada a população de renda moderada a baixa da cidade, tecnologias acessíveis e apropriadas são essenciais para garantir benefícios equitativos. Esta iniciativa também pode ajudar a mitigar os impactos das secas, que são um risco significativo para os recursos hídricos e a segurança alimentar na região.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -877,7 +877,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é um passo crucial para Arapiraca. Esta ação pode encorajar práticas sustentáveis e gestão de recursos dentro da cidade. Dada a população de renda moderada a baixa da cidade e o alto índice de saneamento inadequado, tais incentivos poderiam ajudar a aliviar encargulos financeiros enquanto promovem a responsabilidade ambiental. Além disso, com riscos significativos de secas e inundações impactando a segurança hídrica e alimentar, esses incentivos poderiam impulsionar investimentos em infraestrutura e práticas resilientes. Esta ação se alinha com a necessidade de abordar tanto as vulnerabilidades ambientais quanto os desafios socioeconômicos em Arapiraca.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -949,7 +949,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque Arapiraca enfrenta riscos significativos de segurança alimentar, particularmente devido a secas e inundações. Priorizar produtos agroecológicos produzidos localmente pode aumentar a resiliência do sistema alimentar e reduzir a dependência de cadeias de suprimentos externas. Essa abordagem também apoia as economias locais e promove práticas agrícolas sustentáveis. Além disso, pode contribuir para a melhoria da saúde pública, proporcionando acesso a opções de alimentos frescos e saudáveis.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A promoção de práticas agrícolas sustentáveis é uma prioridade para Arapiraca devido aos riscos significativos associados à segurança alimentar, particularmente de secas e inundações. O bioma da cidade é desértico, o que exacerba os desafios dos recursos hídricos e impacta diretamente a viabilidade agrícola. Abordar essas práticas pode construir resiliência contra os perigos climáticos e melhorar a segurança alimentar geral para a população. Esta ação ajuda a mitigar as altas pontuações de risco normalizado para a segurança alimentar em ambos os cenários de seca e inundação.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Práticas Agrícolas Sustentáveis",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Apoiar práticas agrícolas regenerativas é uma prioridade para Arapiraca, dados os seus significativos riscos de segurança alimentar, particularmente de secas e inundações. Essas práticas podem melhorar a saúde do solo e a retenção de água, mitigando diretamente os impactos desses perigos. Além disso, a melhoria da resiliência agrícola pode contribuir para o bem-estar geral da comunidade, estabilizando o abastecimento de alimentos e potencialmente reduzindo a carga sobre os sistemas de saúde pública. Esta ação alinha-se com o enfrentamento das principais vulnerabilidades identificadas na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoiar Práticas de Agricultura Regenerativa",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Promover a agricultura orgânica é uma ação relevante para Arapiraca, especialmente considerando o bioma de \"deserto\" da cidade e os riscos existentes para a segurança alimentar decorrentes de secas e inundações. Esta iniciativa pode aumentar a resiliência da produção alimentar local e potencialmente mitigar alguns dos desafios de segurança alimentar. Além disso, alinha-se com práticas sustentáveis de uso da terra, o que pode ser benéfico em uma região que enfrenta pressões ambientais. Embora não aborde diretamente os maiores riscos de saúde pública ou infraestrutura, contribui para um sistema alimentar mais sustentável e resiliente.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover a Agricultura Orgânica",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Arapiraca está localizada em um bioma desértico e enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar. A implementação de práticas agroflorestais pode ajudar a mitigar esses impactos, melhorando a saúde do solo, a retenção de água e a biodiversidade. Essa ação também apoia a segurança alimentar, que é uma área de impacto chave das secas na cidade. Dada a alta densidade populacional da cidade e a população de baixa renda moderada, práticas agrícolas sustentáveis são cruciais para a resiliência.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Criar Incentivos para Práticas de Agroflorestas em Sistemas de Pecuária",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Please find the Portuguese translation below:\n\nEsta ação, focada em rotas de veículos sustentáveis, é uma prioridade moderada para Arapiraca. Embora contribua para a redução das emissões de transporte, que são significativas na cidade, outras questões como os riscos para a saúde pública decorrentes de ondas de calor e doenças, e a segurança alimentar devido a inundações, apresentam desafios mais imediatos e graves. A cidade também enfrenta alta inadequação de saneamento e moderada inadequação de acesso à água, que são deficiências críticas de serviços públicos. Portanto, embora benéfica, esta ação pode não abordar diretamente as vulnerabilidades mais prementes da cidade.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Aumentar a atratividade do sistema de ônibus municipal é uma prioridade moderada para Arapiraca. Embora a promoção do transporte público possa reduzir as emissões, a cidade enfrenta riscos mais imediatos e severos. Os altos riscos associados à saúde pública devido a ondas de calor, doenças e inundações, juntamente com riscos significativos para a segurança alimentar e infraestrutura decorrentes de inundações, sugerem que outras intervenções podem ser mais críticas. Abordar essas vulnerabilidades prementes poderia gerar benefícios mais substanciais e imediatos para a resiliência e o bem-estar da cidade.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",

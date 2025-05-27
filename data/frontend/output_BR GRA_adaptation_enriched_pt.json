@@ -7,7 +7,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é uma prioridade porque aborda diretamente a conservação de áreas protegidas, o que é crucial para a manutenção da biodiversidade e dos serviços ecossistêmicos. Gravataí enfrenta riscos à biodiversidade tanto de secas quanto de ondas de calor, tornando os esforços de conservação vitais. O fortalecimento desses programas pode ajudar a mitigar os impactos das mudanças climáticas nos habitats naturais. A proteção dessas áreas também pode apoiar indiretamente os recursos hídricos e a saúde pública, preservando os sistemas naturais.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -80,7 +80,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Estabelecer um plano de preparação e resposta a emergências é crucial para Gravataí, dados os seus altos riscos de vários eventos climáticos extremos. A cidade enfrenta riscos significativos para a saúde pública devido a inundações, deslizamentos de terra e ondas de calor, bem como riscos de infraestrutura devido a inundações e deslizamentos de terra. Um plano abrangente de resposta a emergências pode mitigar esses impactos, protegendo tanto os cidadãos quanto a infraestrutura crítica. Esta medida proativa é essencial para construir resiliência contra futuros perigos relacionados ao clima.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -157,7 +157,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é de alta prioridade devido aos riscos significativos que Gravataí enfrenta de vários perigos. A cidade possui pontuações de risco normalizadas muito altas para impactos na saúde pública decorrentes de deslizamentos de terra e inundações, e acesso inadequado moderado à água. A realocação e a restauração ambiental em áreas vulneráveis abordam diretamente essas questões críticas, reduzindo a exposição a perigos e melhorando as condições ambientais. Esta medida proativa pode mitigar as graves consequências de eventos relacionados ao clima na população e na infraestrutura. Investir nesta ação aumentará a resiliência da cidade e protegerá seus moradores mais vulneráveis.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -228,7 +228,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Gravataí enfrenta riscos significativos de inundações, com impactos particularmente na saúde pública e infraestrutura. A manutenção e revitalização das matas ciliares podem ajudar a mitigar esses riscos de inundação, estabilizando as margens dos rios e absorvendo o excesso de água. Essa ação também contribui para a biodiversidade, que é uma área de impacto chave para os riscos de seca e ondas de calor na cidade. Dado o bioma de campo/savana da cidade, essa ação se alinha com os esforços de restauração ecológica que podem aumentar a resiliência geral.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -301,7 +301,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Gravataí. A cidade possui emissões significativas relacionadas ao uso da terra, indicando a necessidade de melhoria nas práticas. Além disso, a cidade é vulnerável a perigos como secas e inundações, que podem ser agravados pelo uso insustentável da terra. A implementação desta ação pode ajudar a mitigar esses riscos e melhorar a resiliência geral. Esta ação aborda diretamente a sustentabilidade ambiental e a adaptação climática.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -375,7 +375,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido à significativa vulnerabilidade da cidade a inundações, conforme indicado pela pontuação de risco normalizado muito alta para impactos na saúde pública e infraestrutura decorrentes de inundações. Um sistema de monitoramento hidrológico pode fornecer avisos antecipados cruciais, permitindo a evacuação e medidas de preparação em tempo hábil. Essa abordagem proativa pode mitigar significativamente as graves consequências das inundações na saúde pública e na infraestrutura crítica. Portanto, a implementação deste sistema é essencial para aumentar a resiliência da cidade a riscos relacionados ao clima.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -447,7 +447,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca no desenvolvimento de diagnósticos e na restauração de Zonas Especiais de Interesse Social (ZEIS). Dado o fator de baixa renda \"muito_baixo\" de Gravataí, abordar essas zonas é crucial para melhorar as condições de vida das populações vulneráveis. Embora não esteja diretamente relacionada ao clima, a melhoria dessas áreas pode contribuir indiretamente para a resiliência, aprimorando a infraestrutura e o bem-estar da comunidade. Esta ação alinha-se a uma abordagem holística para o desenvolvimento urbano, considerando tanto a equidade social quanto os fatores ambientais. Priorizar essas zonas pode levar a um crescimento urbano mais equitativo e sustentável.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -521,7 +521,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos à saúde pública identificados em Gravataí. A cidade enfrenta pontuações de risco normalizado muito altas para impactos na saúde pública tanto de deslizamentos de terra quanto de inundações, bem como um risco notável de doenças. Fortalecer a rede de saúde é crucial para responder eficazmente a essas emergências de saúde relacionadas ao clima. Esta medida proativa aumentará a resiliência da cidade e protegerá sua população das consequências diretas das mudanças climáticas na saúde.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -597,7 +597,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos à saúde pública identificados em Gravataí. A cidade enfrenta pontuações de risco normalizado muito altas para impactos na saúde pública tanto de deslizamentos de terra quanto de inundações, bem como um risco moderado de ondas de calor. Aprimorar a infraestrutura de saúde é crucial para melhorar a capacidade da cidade de responder a essas emergências de saúde relacionadas ao clima. Dados os desafios existentes, o fortalecimento dos serviços de saúde beneficiará diretamente o bem-estar e a resiliência da população. Esta medida proativa pode mitigar as graves consequências dos perigos climáticos na saúde pública.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -671,7 +671,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorar o armazenamento e a distribuição de alimentos é uma ação crítica para Gravataí, especialmente dada a vulnerabilidade da cidade a inundações e secas, que impactam diretamente a segurança alimentar. A cidade possui uma pontuação de risco moderado para segurança alimentar devido a secas e um risco menor, mas ainda presente, de inundações. Aprimorar esses sistemas pode mitigar o impacto dos perigos climáticos na disponibilidade e acesso a alimentos para a população. Esta ação ajuda a construir resiliência contra futuros choques climáticos, garantindo um abastecimento alimentar mais estável para os moradores. Priorizar esta ação abordará diretamente uma área de impacto chave identificada na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -747,7 +747,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas pode contribuir significativamente para a segurança alimentar, especialmente em uma cidade como Gravataí, que enfrenta riscos moderados de secas e inundações que afetam o abastecimento de alimentos. Essa ação também promove a produção local de alimentos, reduzindo as emissões de transporte e aumentando a resiliência da comunidade. Além disso, as hortas urbanas podem melhorar a saúde pública, proporcionando acesso a produtos frescos e espaços verdes. Essa iniciativa se alinha com os objetivos de desenvolvimento urbano sustentável e pode fomentar o engajamento comunitário.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -819,7 +819,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Gravataí, especialmente considerando os altos escores de risco normalizados para impactos na saúde pública decorrentes de vários perigos. A cidade enfrenta riscos significativos de doenças (0.696897964169382), deslizamentos de terra (0.985094689080747) e inundações (0.99), todos os quais ameaçam diretamente a saúde pública. Melhorar o acesso à saúde pode mitigar as graves consequências desses eventos, garantindo atenção médica oportuna e melhores resultados de saúde para a população. Esta ação é essencial para construir resiliência e proteger o bem-estar dos moradores de Gravataí contra os desafios de saúde atuais e futuros relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -894,7 +894,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias urbanas é uma ação crucial para Gravataí. Esta cidade enfrenta riscos significativos de inundações, com a infraestrutura e a saúde pública sendo altamente impactadas. As superfícies permeáveis podem ajudar a gerenciar o escoamento de águas pluviais, reduzindo a carga sobre os sistemas de drenagem e mitigando os riscos de inundações. O aumento das áreas verdes também contribui para o arrefecimento urbano, o que é benéfico dada a exposição da cidade a ondas de calor. Esta ação aborda diretamente múltiplos perigos climáticos e melhora a resiliência urbana.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -966,7 +966,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Gravataí enfrenta um risco moderado de acesso inadequado à água, e as secas são um impacto chave com uma alta pontuação de risco normalizado. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades. Essa ação pode melhorar a segurança hídrica para a população e mitigar os efeitos de futuros eventos de seca. Priorizar essa ação aumentará a resiliência da cidade aos desafios hídricos relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1042,7 +1042,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é uma área de impacto fundamental para Gravataí, particularmente no que diz respeito a secas e inundações. A melhoria das fazendas e pescarias pode aumentar a produção local de alimentos e a resiliência contra interrupções relacionadas ao clima. Dado o bioma de campo/savana da cidade, práticas agrícolas sustentáveis são cruciais para a estabilidade alimentar a longo prazo. Priorizar esta ação pode mitigar diretamente os riscos associados às cadeias de suprimentos de alimentos e apoiar a economia local.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -1119,7 +1119,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Gravataí enfrenta riscos significativos de eventos climáticos extremos, particularmente inundações e deslizamentos de terra, que apresentam altos índices de risco normalizado para a saúde pública e infraestrutura. Um programa de apoio financeiro é crucial para ajudar a cidade e seus moradores a se recuperarem dos impactos devastadores desses eventos. Essa ação pode proporcionar alívio imediato e auxiliar nos esforços de reconstrução, reduzindo o ônus socioeconômico a longo prazo. Além disso, demonstra uma abordagem proativa para a resiliência climática, garantindo que a comunidade esteja mais bem preparada para futuros choques climáticos.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1196,7 +1196,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nThis action, focusing on behaviour change in diets and food waste, is a priority due to its potential to significantly reduce emissions. Food systems contribute substantially to greenhouse gas emissions, and addressing consumption patterns can have a broad impact. Furthermore, reducing food waste can alleviate pressure on waste management systems, which is particularly relevant given the city's waste emissions. This action also indirectly supports food security, which is a key impact area for Gravataí, especially concerning droughts and floods.\n\n**Portuguese Translation:**\n\nEsta ação, focada na mudança de comportamento em dietas e no desperdício alimentar, é uma prioridade devido ao seu potencial para reduzir significativamente as emissões. Os sistemas alimentares contribuem substancialmente para as emissões de gases de efeito estufa, e abordar os padrões de consumo pode ter um impacto amplo. Além disso, a redução do desperdício alimentar pode aliviar a pressão sobre os sistemas de gestão de resíduos, o que é particularmente relevante dadas as emissões de resíduos da cidade. Esta ação também apoia indiretamente a segurança alimentar, que é uma área de impacto chave para Gravataí, especialmente no que diz respeito a secas e inundações.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1272,7 +1272,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é uma ação crucial para Gravataí. A cidade enfrenta riscos significativos, particularmente na saúde pública devido a deslizamentos de terra e inundações, e possui níveis de renda muito baixos. As redes de segurança social podem fornecer apoio essencial às populações vulneráveis, ajudando-as a lidar com os impactos dos perigos climáticos e melhorando a resiliência geral. Esta ação aborda diretamente as vulnerabilidades socioeconômicas e os altos riscos de saúde pública identificados nos dados da cidade. Priorizar as redes de segurança social garante que os moradores mais afetados recebam a assistência necessária, promovendo uma comunidade mais equitativa e resiliente.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -1346,7 +1346,7 @@
     "actionId": "icare_0172",
     "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Desenvolver e implementar um Plano Municipal de Redução de Riscos é crucial para Gravataí, especialmente dadas as altas pontuações de risco normalizado para impactos na saúde pública decorrentes de deslizamentos de terra e inundações. A identificação de grupos populacionais vulneráveis garantirá apoio e alocação de recursos direcionados. Essa medida proativa aumentará a resiliência da cidade a futuros perigos climáticos. Priorizar esta ação levará a uma comunidade mais preparada e protegida.",
     "action": {
       "ActionID": "icare_0172",
       "ActionName": "Desenvolver e implementar o Plano Municipal de Redução de Riscos (PMRR) e identificar grupos populacionais vulneráveis aos riscos climáticos.",
@@ -1418,7 +1418,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma estratégia crucial para Gravataí, dados os seus riscos significativos de várias ameaças. A cidade enfrenta altos riscos de inundações, deslizamentos de terra e secas, todos os quais podem ser mitigados através de ecossistemas saudáveis. Investir em infraestrutura natural pode proteger a saúde pública e a infraestrutura crítica, que são altamente vulneráveis. Esta ação apoia a resiliência a longo prazo, alavancando os serviços protetores da natureza.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",

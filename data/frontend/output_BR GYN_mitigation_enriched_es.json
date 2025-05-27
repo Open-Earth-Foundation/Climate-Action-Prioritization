@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de un peaje urbano puede reducir significativamente las emisiones del transporte, que son un importante contribuyente a las emisiones totales de Goiânia. Esta acción aborda directamente las altas emisiones del transporte al desalentar el uso de vehículos privados en áreas congestionadas. Al reducir el tráfico, también puede aliviar la presión sobre la infraestructura y mejorar la calidad del aire, beneficiando la salud pública. Esta medida se alinea con los esfuerzos para crear un entorno urbano más sostenible y resiliente.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente las emisiones del transporte, que son un contribuyente significativo a las emisiones totales de Goiânia. Promover el uso compartido de bicicletas, especialmente con bicicletas eléctricas, ofrece una alternativa sostenible a los vehículos tradicionales. Esto puede conducir a una reducción de la contaminación del aire y a una mejora de la salud pública. Además, se alinea con los esfuerzos para crear espacios urbanos más habitables y respetuosos con el medio ambiente.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque aborda directamente las emisiones del transporte, que contribuyen significativamente al total de emisiones de la ciudad. Al adoptar biometano en las flotas públicas, Goiânia puede reducir su huella de carbono y mejorar la calidad del aire. Esta iniciativa también promueve el uso de fuentes de energía renovables, lo que se alinea con objetivos de sostenibilidad más amplios. Además, puede sentar un precedente para la adopción en el sector privado, lo que generaría beneficios ambientales más amplios. El enfoque de la acción en los servicios públicos garantiza un cambio visible e impactante dentro de la comunidad.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "c40_0035",
     "actionName": "Waste Efficiency",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción aborda la eficiencia en la gestión de residuos, lo cual es una preocupación significativa para Goiânia dadas sus altas emisiones de residuos. La reducción de residuos puede disminuir directamente el perfil general de emisiones de la ciudad. Además, una mejor gestión de residuos puede tener impactos positivos en la salud pública y la calidad ambiental. Aunque no aborda directamente los riesgos más altos como las sequías o las olas de calor, contribuye a un entorno urbano más sostenible. Por lo tanto, esta acción es una prioridad para mejorar la huella ambiental de la ciudad.",
     "action": {
       "ActionID": "c40_0035",
       "ActionName": "Eficiencia en el manejo de residuos",
@@ -299,7 +299,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "La expansión de los sistemas de transporte público masivo sobre rieles es una prioridad para Goiânia debido a las importantes emisiones de transporte de la ciudad. Siendo las emisiones del transporte el mayor contribuyente a las emisiones totales de la ciudad, esta acción aborda directamente una fuente importante de gases de efecto invernadero. La mejora de la infraestructura del transporte público puede reducir la dependencia de los vehículos privados, lo que lleva a una disminución de la contaminación del aire y la congestión del tráfico. Esta iniciativa se alinea con los objetivos de desarrollo urbano sostenible y puede mejorar la calidad de vida de los residentes.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -371,7 +371,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Please translate the following text to Spanish:\n\nEsta acción se centra en la implementación de rutas priorizadas para vehículos sostenibles, lo que aborda directamente las emisiones del transporte. Goiânia tiene emisiones de transporte muy altas, lo que convierte a esta en un área relevante para la intervención. Al promover el transporte sostenible, la ciudad puede trabajar para reducir su huella de carbono general. Esta iniciativa también se alinea con objetivos más amplios de sostenibilidad urbana y mejora de la calidad del aire.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementación de rutas priorizadas para vehículos sostenibles.",
@@ -443,7 +443,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Abordar las emisiones vehiculares es una prioridad importante para Goiânia dada la alta emisión de gases contaminantes provenientes del transporte. Reducir estas emisiones puede mejorar la calidad del aire, lo que beneficia directamente la salud pública. Esta acción también contribuye a la resiliencia climática general al reducir la huella de carbono de la ciudad. Además, se alinea con los esfuerzos para mitigar los impactos del cambio climático, que son cruciales para una ciudad que enfrenta altos riesgos de sequías, olas de calor e inundaciones.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",
@@ -522,7 +522,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Establecer ecoparques en Goiânia es una prioridad debido al bioma de pastizales/sabana de la ciudad, que puede beneficiarse de una mayor biodiversidad y espacios verdes. Si bien no abordan directamente los riesgos más altos como sequías u olas de calor, los ecoparques pueden contribuir a la salud del ecosistema y potencialmente mitigar algunos impactos localizados. También pueden ofrecer beneficios recreativos a la población, mejorando la calidad de vida. Esta acción se alinea con los esfuerzos generales de sostenibilidad y resiliencia urbana, incluso si no es una medida principal de adaptación climática para los peligros más graves identificados.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Establecer eco-parques.",
@@ -594,7 +594,7 @@
     "actionId": "c40_0040",
     "actionName": "Volume-Based Collection",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "**Spanish Translation:**\n\nEsta acción, la Recolección Basada en el Volumen, es una prioridad debido a las importantes emisiones de residuos de la ciudad. Goiânia tiene emisiones de residuos muy altas, lo que indica la necesidad de mejorar las estrategias de gestión de residuos. La implementación de la recolección basada en el volumen puede incentivar a los residentes a reducir la generación de residuos, disminuyendo así las emisiones generales. Este enfoque aborda directamente una de las principales fuentes del impacto ambiental de la ciudad. Reducir los residuos es crucial para la sostenibilidad ambiental y puede conducir a un entorno urbano más saludable.",
     "action": {
       "ActionID": "c40_0040",
       "ActionName": "Recolección Basada en Volumen",
@@ -670,7 +670,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción apoya a las cooperativas de recolectores de material reciclable, lo que puede reducir significativamente las emisiones de residuos en Goiânia. La ciudad actualmente tiene emisiones de residuos muy altas, lo que indica una fuerte necesidad de mejorar las estrategias de gestión de residuos. Empoderar a estas cooperativas puede conducir a una recolección y procesamiento más eficientes de los materiales reciclables, contribuyendo a una economía circular. Esta iniciativa también tiene el potencial de crear oportunidades económicas y mejorar los medios de vida de los recolectores, lo que se alinea con los objetivos de desarrollo social.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar un proyecto para apoyar a las cooperativas de recolectores de materiales reciclables",
@@ -742,7 +742,7 @@
     "actionId": "c40_0036",
     "actionName": "Landfill Management",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "La gestión de los vertederos es una acción crucial para Goiânia, dado que las emisiones de residuos contribuyen significativamente a las emisiones totales de la ciudad. La mejora de las prácticas en los vertederos puede reducir directamente estas emisiones, lo que lleva a un entorno urbano más sostenible. Esta acción también tiene beneficios colaterales para la salud pública y los ecosistemas locales al mitigar la contaminación. Priorizar esta acción aborda una fuente sustancial de gases de efecto invernadero y degradación ambiental. Una gestión eficaz de los vertederos es un paso fundamental hacia una acción climática integral.",
     "action": {
       "ActionID": "c40_0036",
       "ActionName": "Gestión de Vertederos",
@@ -819,7 +819,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque aborda la seguridad alimentaria, que es un área de impacto clave para Goiânia, particularmente en lo que respecta a sequías e inundaciones. Al priorizar los productos agroecológicos de producción local, la ciudad puede mejorar su resiliencia a las interrupciones relacionadas con el clima en las cadenas de suministro de alimentos. Esto también apoya las economías locales y las prácticas agrícolas sostenibles, contribuyendo a un sistema alimentario más robusto y autosuficiente. Además, se alinea con los factores socioeconómicos muy bajos de la ciudad, lo que podría proporcionar oportunidades económicas para los agricultores locales.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -891,7 +891,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar políticas de energía renovable es una prioridad para Goiânia dadas sus importantes emisiones totales, particularmente las provenientes del transporte y los residuos. Si bien no aborda directamente los peligros climáticos de alto riesgo como las sequías y las olas de calor, esta acción contribuye a la resiliencia climática a largo plazo al reducir la huella de carbono de la ciudad. La transición hacia fuentes de energía renovables también puede aliviar indirectamente la presión sobre los recursos hídricos, que se ven muy afectados por las sequías en la región. Esta acción apoya un futuro sostenible para la ciudad al promover alternativas energéticas más limpias.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
@@ -963,7 +963,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción tiene como objetivo aumentar el atractivo del sistema de autobuses municipales, lo que puede ayudar a reducir las emisiones del transporte. Goiânia tiene emisiones de transporte significativas, lo que convierte a esta en un área relevante para la intervención. La promoción del transporte público también puede aliviar la congestión del tráfico y mejorar la calidad del aire. Si bien no aborda directamente los altos riesgos de la ciudad por sequías, olas de calor, inundaciones y deslizamientos de tierra, contribuye a la sostenibilidad urbana general. Esta acción es una prioridad porque aborda unaA importante fuente de emisiones en la ciudad.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
@@ -1035,7 +1035,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Goiânia, dados los importantes riesgos de la ciudad relacionados con la seguridad alimentaria y las sequías. Estos programas pueden mejorar la resiliencia agrícola, promoviendo prácticas sostenibles que conserven el agua y mejoren la salud del suelo. Al fomentar los métodos agroecológicos, la ciudad puede mitigar los impactos del cambio climático en sus sistemas alimentarios. Esta acción aborda directamente las vulnerabilidades identificadas en la evaluación de riesgos climáticos de la ciudad, lo que la convierte en una intervención relevante e impactante.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1107,7 +1107,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "La integración de energías renovables en los sistemas municipales de agua es una prioridad para Goiânia debido al alto riesgo de sequías en la ciudad, que afectan gravemente los recursos hídricos. Esta acción puede mejorar la resiliencia del suministro de agua al diversificar las fuentes de energía y reducir la dependencia de una red vulnerable. Además, se alinea con la necesidad de abordar las preocupaciones sobre la seguridad energética, que también se ven afectadas por las sequías y las olas de calor. Al garantizar un sistema hídrico más robusto y sostenible, la ciudad puede mitigar mejor los efectos de los peligros climáticos en sus servicios esenciales y la salud pública.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energías renovables en los sistemas de agua municipales",
@@ -1179,7 +1179,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Goiânia es una ciudad grande con una población significativa, y los servicios de extensión rural pueden apoyar las áreas agrícolas circundantes que son cruciales para la seguridad alimentaria. Dado que el bioma de la ciudad es de pastizales/sabana, que a menudo se asocia con actividades agrícolas, el apoyo a las comunidades rurales a través de asistencia técnica puede mejorar la resiliencia. Además, la ciudad enfrenta altos riesgos de sequías, que impactan directamente la seguridad alimentaria y los recursos hídricos, lo que hace que las intervenciones que apoyan las prácticas agrícolas y la gestión de recursos sean altamente relevantes. La mejora de las prácticas rurales también puede aliviar indirectamente la presión sobre los recursos y la infraestructura urbanos.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -1251,7 +1251,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Goiânia enfrenta altos riesgos de sequías, lo que impacta tanto los recursos hídricos como la seguridad alimentaria. Fomentar la producción agroecológica local y las cadenas de suministro cortas puede mejorar la resiliencia alimentaria y reducir la dependencia de fuentes externas de alimentos, que son vulnerables a los choques climáticos. Este enfoque también promueve prácticas sostenibles de uso de la tierra, lo que podría mitigar la gravedad de los impactos de la sequía. Además, puede fortalecer la economía local y la autosuficiencia comunitaria frente a los desafíos climáticos.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1323,7 +1323,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Esta acción se centra en la modernización de puertos y aeropuertos con tecnologías de cero emisiones. Si bien es importante para reducir las emisiones, Goiânia es una ciudad del interior, lo que significa que no tiene puertos. Las principales fuentes de emisiones de la ciudad son los residuos y el transporte, lo que sugiere que otras acciones podrían tener un impacto más directo y significativo en su perfil general de emisiones. Por lo tanto, esta acción podría no ser la prioridad de mayor impacto para Goiânia en este momento.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernización de puertos y aeropuertos con tecnologías de cero emisiones",
@@ -1395,7 +1395,7 @@
     "actionId": "icare_0097",
     "actionName": "Support Distributed Energy Generation in Residences and Businesses",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar la generación distribuida de energía en residencias y negocios es una acción valiosa para Goiânia. Esta iniciativa puede ayudar a diversificar las fuentes de energía de la ciudad y reducir la dependencia de las redes centralizadas. También tiene el potencial de reducir los costos de energía para residentes y negocios, contribuyendo a la resiliencia económica. Además, aumentar la generación distribuida puede mejorar la seguridad energética, lo cual es particularmente relevante dada la vulnerabilidad de la ciudad a las sequías que afectan la seguridad energética. Si bien no aborda directamente los riesgos más altos, contribuye a un sistema energético más robusto y sostenible.",
     "action": {
       "ActionID": "icare_0097",
       "ActionName": "Apoyar la Generación de Energía Distribuida en Residencias y Negocios",

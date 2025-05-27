@@ -7,7 +7,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies is a high priority for Manaus. The city faces significant risks from droughts and heatwaves, which can impact energy security. Shifting to renewables can enhance energy resilience and reduce reliance on vulnerable sources. This action also aligns with broader climate change mitigation efforts by reducing the city's substantial stationary energy emissions.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -79,7 +79,7 @@
         "actionId": "icare_0024",
         "actionName": "Integrate renewables into municipal water systems",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Integrating renewables into municipal water systems is a priority for Manaus. The city faces significant risks related to water resources due to droughts, which have a very high normalized risk score. This action can enhance the resilience and sustainability of the water supply by reducing reliance on traditional energy sources, which may be vulnerable to climate impacts. Furthermore, it aligns with addressing energy security concerns, another high-risk area identified for Manaus. By adopting renewable energy, the city can improve its overall climate resilience and ensure more stable access to essential services.",
         "action": {
             "ActionID": "icare_0024",
             "ActionName": "Integrate renewables into municipal water systems",
@@ -151,7 +151,7 @@
         "actionId": "icare_0038",
         "actionName": "Promote community solar farms",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Promoting community solar farms in Manaus is a priority because it directly addresses the city's high energy security risk, particularly from droughts which severely impact hydropower. This action diversifies the energy mix, reducing reliance on a single source and enhancing resilience against climate hazards. Furthermore, it can contribute to reducing the city's substantial stationary energy emissions, aligning with broader climate mitigation goals. This initiative also empowers communities by providing access to clean energy and potentially lowering energy costs.",
         "action": {
             "ActionID": "icare_0038",
             "ActionName": "Promote community solar farms",
@@ -222,7 +222,7 @@
         "actionId": "icare_0033",
         "actionName": "Install biodigesters in rural properties",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Installing biodigesters in rural properties in Manaus is a priority due to the city's significant agricultural activity and the potential for waste-to-energy conversion. This action can help reduce land use emissions, which are a notable contributor to the city's total emissions. Furthermore, it can improve energy security and potentially mitigate impacts on water resources by managing agricultural waste more effectively. This initiative aligns with addressing climate risks related to energy and water, as well as supporting the city's biome.",
         "action": {
             "ActionID": "icare_0033",
             "ActionName": "Install biodigesters in rural properties",
@@ -293,7 +293,7 @@
         "actionId": "icare_0105",
         "actionName": "Reduce technical losses in energy distribution networks",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Reducing technical losses in energy distribution networks is a priority for Manaus. The city faces high risks related to energy security due to both droughts and heatwaves, as indicated by the CCRA data. Minimizing these losses can enhance the reliability and efficiency of the energy supply, directly addressing these vulnerabilities. This action contributes to a more resilient energy system, which is crucial for a city experiencing significant climate-related energy impacts.",
         "action": {
             "ActionID": "icare_0105",
             "ActionName": "Reduce technical losses in energy distribution networks",
@@ -365,7 +365,7 @@
         "actionId": "icare_0011",
         "actionName": "Provide tax incentives for renewable energy in residential projects",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it promotes the adoption of renewable energy in residential projects, which can help reduce the city's overall carbon footprint. By offering tax incentives, the city encourages citizens to invest in sustainable energy solutions, contributing to a cleaner environment. This initiative aligns with efforts to mitigate climate change and improve energy security. Furthermore, it can potentially alleviate pressure on the existing energy infrastructure.",
         "action": {
             "ActionID": "icare_0011",
             "ActionName": "Provide tax incentives for renewable energy in residential projects",
@@ -437,7 +437,7 @@
         "actionId": "icare_0040",
         "actionName": "Adopt solar-powered street lighting in rural areas",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Adopting solar-powered street lighting in rural areas is a beneficial action for Manaus. While not directly addressing the city's most pressing climate risks like droughts or floods, it contributes to energy security and reduces reliance on traditional power sources. This action can also improve public safety and quality of life in rural areas, which may have limited access to reliable electricity. Furthermore, it aligns with broader sustainability goals by reducing the city's carbon footprint, albeit in a less impactful sector compared to industrial or transportation emissions.",
         "action": {
             "ActionID": "icare_0040",
             "ActionName": "Adopt solar-powered street lighting in rural areas",
@@ -509,7 +509,7 @@
         "actionId": "icare_0097",
         "actionName": "Support Distributed Energy Generation in Residences and Businesses",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Supporting distributed energy generation is a priority for Manaus given its high energy security risks from both droughts and heatwaves. This action can help diversify the city's energy sources, reducing reliance on a centralized grid that is vulnerable to climate impacts. By empowering residences and businesses to generate their own power, the city can enhance its energy resilience. This also aligns with the need to address high overall emissions, as distributed generation often involves renewable sources.",
         "action": {
             "ActionID": "icare_0097",
             "ActionName": "Support Distributed Energy Generation in Residences and Businesses",
@@ -581,7 +581,7 @@
         "actionId": "icare_0008",
         "actionName": "Develop Smart Grids and Energy Storage Systems",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Manaus faces significant risks from heatwaves and droughts, which can severely impact energy security. Developing smart grids and energy storage systems directly addresses these vulnerabilities by enhancing grid resilience and ensuring a stable power supply. This action is crucial for mitigating the high normalized risk scores associated with energy security under both drought and heatwave scenarios. Furthermore, it supports the city's overall climate adaptation by reducing reliance on potentially vulnerable energy infrastructure during extreme weather events.",
         "action": {
             "ActionID": "icare_0008",
             "ActionName": "Develop Smart Grids and Energy Storage Systems",
@@ -653,7 +653,7 @@
         "actionId": "icare_0010",
         "actionName": "Promote Net-Zero and Green Building Certifications",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Promoting net-zero and green building certifications is a crucial step towards sustainable urban development in Manaus. This action directly addresses the city's significant stationary energy emissions, which contribute substantially to its total emissions. By encouraging green building practices, Manaus can reduce energy consumption and promote the use of renewable energy sources within its infrastructure. This initiative also aligns with broader climate resilience goals by fostering more environmentally sound construction and operation of buildings.",
         "action": {
             "ActionID": "icare_0010",
             "ActionName": "Promote Net-Zero and Green Building Certifications",
@@ -725,7 +725,7 @@
         "actionId": "icare_0027",
         "actionName": "Create financing programs for local renewable energy projects",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Manaus faces significant energy security risks from both droughts and heatwaves, as indicated by high normalized risk scores. Creating financing programs for local renewable energy projects directly addresses these vulnerabilities by diversifying the energy supply and reducing reliance on climate-sensitive sources. This action can enhance the city's resilience to climate impacts and contribute to a more stable energy future. Furthermore, it aligns with reducing the city's substantial stationary energy emissions.",
         "action": {
             "ActionID": "icare_0027",
             "ActionName": "Create financing programs for local renewable energy projects",
@@ -797,7 +797,7 @@
         "actionId": "icare_0046",
         "actionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it addresses the fundamental need for sustainable development in Manaus. By promoting a circular economy and aiming for zero carbon emissions, it tackles both environmental and socioeconomic challenges. This holistic approach can lead to improved quality of life for residents while mitigating the city's significant emissions and climate risks. It lays the groundwork for long-term resilience and prosperity in a region highly vulnerable to climate impacts.",
         "action": {
             "ActionID": "icare_0046",
             "ActionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
@@ -869,7 +869,7 @@
         "actionId": "icare_0006",
         "actionName": "Expand rural electrification with renewable energy",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Expanding rural electrification with renewable energy is a priority for Manaus. This action can improve access to essential services and enhance the quality of life for rural populations. It also contributes to reducing reliance on fossil fuels, aligning with climate change mitigation efforts. Furthermore, it can bolster energy security, which is a key impact area for Manaus, especially given the high risk of droughts affecting water and energy resources.",
         "action": {
             "ActionID": "icare_0006",
             "ActionName": "Expand rural electrification with renewable energy",
@@ -941,7 +941,7 @@
         "actionId": "icare_0026",
         "actionName": "Offer time-of-use tariffs for electricity consumption",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Manaus faces significant risks to energy security from both droughts and heatwaves, as indicated by high normalized risk scores. Implementing time-of-use tariffs can incentivize more efficient electricity consumption, particularly during peak demand periods. This can help stabilize the energy grid and reduce the strain on infrastructure, which is also highly vulnerable to heatwaves. By managing demand more effectively, the city can enhance its resilience to climate-related energy disruptions.",
         "action": {
             "ActionID": "icare_0026",
             "ActionName": "Offer time-of-use tariffs for electricity consumption",
@@ -1013,7 +1013,7 @@
         "actionId": "icare_0022",
         "actionName": "Set municipal energy efficiency targets",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Setting municipal energy efficiency targets is a crucial step for Manaus. This action directly addresses the city's significant stationary energy emissions, which contribute substantially to its total emissions profile. By establishing clear targets, Manaus can drive initiatives to reduce energy consumption across various sectors. This proactive approach will not only mitigate climate change impacts but also foster sustainable development within the city.",
         "action": {
             "ActionID": "icare_0022",
             "ActionName": "Set municipal energy efficiency targets",
@@ -1085,7 +1085,7 @@
         "actionId": "icare_0002",
         "actionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action, encouraging the use of the Brazilian Labeling Program for Buildings, is a moderate priority for Manaus. While building efficiency is important for reducing energy consumption and emissions, other climate risks like droughts, heatwaves, and floods pose more immediate and severe threats to the city's infrastructure and public health. The city also faces significant challenges with inadequate water access and very low-income populations, suggesting that basic service provision and resilience to extreme weather events might be more pressing concerns. Therefore, while beneficial, this action may not be the most critical intervention at this time.",
         "action": {
             "ActionID": "icare_0002",
             "ActionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
@@ -1156,7 +1156,7 @@
         "actionId": "icare_0116",
         "actionName": "Mobilize efforts to promote the production and distribution of energy from renewable sources and distributed generation, as well as improve efficiency.",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Manaus has significant total emissions, and promoting renewable energy and efficiency directly addresses a major source of these emissions. Reducing reliance on fossil fuels will also mitigate risks associated with energy security, which is a key impact identified in the city's climate risk assessment. Furthermore, improving energy efficiency can lead to economic benefits and reduce the city's overall carbon footprint. This action aligns with the city's need to build resilience against climate change impacts.",
         "action": {
             "ActionID": "icare_0116",
             "ActionName": "Mobilize efforts to promote the production and distribution of energy from renewable sources and distributed generation, as well as improve efficiency.",
@@ -1228,7 +1228,7 @@
         "actionId": "icare_0041",
         "actionName": "Support R&D in low-carbon technologies",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Supporting R&D in low-carbon technologies is a crucial long-term strategy for Manaus. While not directly addressing immediate climate risks like droughts or floods, it fosters innovation that can lead to sustainable solutions. This action helps diversify the city's energy matrix and reduce its overall carbon footprint. Investing in such technologies can also create new economic opportunities and enhance the city's resilience in the face of future climate challenges.",
         "action": {
             "ActionID": "icare_0041",
             "ActionName": "Support R&D in low-carbon technologies",
@@ -1300,7 +1300,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "The adoption of biomethane in public fleets is a priority for Manaus due to its potential to significantly reduce transportation emissions. Transportation emissions are a substantial contributor to the city's total emissions, making this action impactful. Utilizing biomethane can help diversify the city's energy sources for transport, potentially improving energy security. This initiative aligns with broader climate goals by promoting cleaner fuel alternatives. Furthermore, it can set a precedent for sustainable practices within the public sector, encouraging wider adoption.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -1372,7 +1372,7 @@
         "actionId": "icare_0012",
         "actionName": "Expand Solar Energy in Public Facilities and Remote Areas",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Expanding solar energy in public facilities and remote areas is a priority for Manaus due to the city's high energy security risks from both droughts and heatwaves. This action directly addresses these vulnerabilities by diversifying the energy mix and reducing reliance on traditional sources. Furthermore, it can improve access to reliable energy in remote areas, which may currently face challenges. Implementing solar solutions can also contribute to reducing the city's overall emissions, aligning with broader climate goals. This initiative offers a sustainable pathway to enhance resilience and energy independence for Manaus.",
         "action": {
             "ActionID": "icare_0012",
             "ActionName": "Expand Solar Energy in Public Facilities and Remote Areas",

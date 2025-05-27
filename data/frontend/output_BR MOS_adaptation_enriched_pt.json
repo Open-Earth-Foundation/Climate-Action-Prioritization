@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Estabelecer um plano de preparação e resposta a emergências é crucial para Mossoró, dada a sua alta vulnerabilidade a múltiplos eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor e inundações, todos com altas pontuações de risco normalizado em vários impactos-chave, como saúde pública, infraestrutura e segurança alimentar. Um plano abrangente pode mitigar as graves consequências desses perigos, protegendo sua população e serviços críticos. Essa medida proativa é essencial para construir resiliência e garantir a segurança da comunidade.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Fortalecer programas de controle e conservação de áreas protegidas é uma prioridade para Mossoró, especialmente dado seu bioma desértico e o alto risco à biodiversidade decorrente de secas e ondas de calor. Proteger essas áreas pode ajudar a preservar ecossistemas críticos e mitigar os impactos das mudanças climáticas na flora e fauna locais. Essa ação apoia a resiliência da cidade ao salvaguardar recursos naturais que são vitais para a estabilidade ambiental. Também se alinha com esforços mais amplos para manter o equilíbrio ecológico em uma região vulnerável a riscos relacionados ao clima.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -157,7 +157,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Desenvolver diagnósticos e restaurar as Zonas Especiais de Interesse Social (ZEIS) é uma ação crucial para Mossoró. Dados os fatores socioeconômicos de baixa renda da cidade e os desafios existentes com serviços públicos inadequados, a melhoria dessas zonas pode abordar diretamente as iniquidades sociais. Essa ação pode aprimorar as condições de vida, o acesso a serviços essenciais e a resiliência urbana geral para populações vulneráveis. Priorizar essas áreas é vital para promover o desenvolvimento urbano inclusivo e sustentável em Mossoró.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Mossoró enfrenta riscos significativos para a segurança alimentar devido a secas e inundações, ambos com altas pontuações de risco normalizado. Melhorar o armazenamento e a distribuição de alimentos pode mitigar diretamente esses impactos, garantindo um suprimento alimentar mais estável durante e após eventos climáticos extremos. Dada a população de baixa renda da cidade, aprimorar os sistemas alimentares é crucial para a resiliência e o bem-estar público. Esta ação aborda uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -307,7 +307,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma prioridade crítica para Mossoró devido aos altos riscos associados aos perigos climáticos. A cidade enfrenta riscos significativos para a saúde pública decorrentes de ondas de calor, doenças e inundações, todos os quais podem sobrecarregar a infraestrutura de saúde existente. Dado o bioma desértico da cidade e a baixa elevação, esses perigos são particularmente impactantes. A melhoria da rede de saúde aumentará a resiliência da cidade e a capacidade de responder eficazmente às crises de saúde induzidas pelo clima, protegendo sua população.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -383,7 +383,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "O acesso à saúde é uma ação crucial para Mossoró, especialmente considerando os altos riscos associados à saúde pública devido a ondas de calor, doenças e inundações. Melhorar o acesso à saúde pode aumentar significativamente a resiliência da cidade a esses perigos climáticos. Um sistema de saúde robusto é essencial para gerenciar crises de saúde e garantir o bem-estar da população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -458,7 +458,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar práticas sustentáveis de uso da terra é uma prioridade para Mossoró, dadas as suas significativas emissões provenientes do uso da terra. Com um bioma desértico e altos riscos de secas, o uso sustentável da terra pode ajudar a mitigar esses impactos. Esta ação também pode contribuir para a segurança alimentar, que é altamente impactada pelas secas na cidade. A implementação dessas práticas pode melhorar a resiliência da cidade às mudanças climáticas e apoiar a sua saúde ambiental geral.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -532,7 +532,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A manutenção e revitalização das florestas ripárias são cruciais para Mossoró, especialmente dado o seu bioma desértico e os altos riscos associados aos recursos hídricos e secas. Zonas ripárias saudáveis podem ajudar a regular o fluxo de água, reduzir a erosão e melhorar a qualidade da água, o que é vital para uma cidade que enfrenta um acesso muito baixo a água adequada. Esta ação também apoia a biodiversidade, que está em risco tanto pelas secas quanto pelas ondas de calor na região. Investir nessas defesas naturais pode mitigar vários impactos climáticos importantes identificados para Mossoró.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -605,7 +605,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorias agrícolas e pesqueiras são uma alta prioridade para Mossoró, especialmente dada a significativa vulnerabilidade da cidade a secas, que impactam severamente tanto os recursos hídricos quanto a segurança alimentar. Aprimorar as práticas agrícolas e pesqueiras pode construir resiliência contra esses riscos climáticos. Tais melhorias podem levar a uma produção de alimentos mais sustentável e a melhores meios de subsistência para a comunidade. Esta ação aborda diretamente os impactos críticos identificados na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -682,7 +682,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Garantir a disponibilidade de infraestrutura de saúde é uma prioridade crítica para Mossoró. A cidade enfrenta riscos significativos de ondas de calor, doenças e inundações, todos os quais podem impactar severamente a saúde pública. Uma infraestrutura de saúde adequada é essencial para responder eficazmente a esses perigos e proteger o bem-estar da população. Dadas as altas pontuações de risco normalizado para impactos na saúde pública decorrentes desses perigos climáticos, o fortalecimento dos serviços de saúde é uma medida proativa para construir resiliência. Esta ação aborda diretamente uma necessidade fundamental para os residentes da cidade diante das mudanças climáticas.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -756,7 +756,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Mossoró enfrenta riscos significativos de múltiplos perigos, incluindo secas, ondas de calor e inundações, todos com altas pontuações de risco normalizado para infraestrutura e saúde pública. A cidade também possui uma população de baixa renda e acesso muito baixo a água adequada, o que exacerba as vulnerabilidades. A realocação e a restauração ambiental em áreas vulneráveis abordam diretamente essas questões críticas, protegendo os moradores e restaurando os ecossistemas. Esta ação é uma prioridade porque mitiga os impactos dos perigos climáticos e melhora as condições de vida das populações mais suscetíveis.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -827,7 +827,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma ação valiosa para Mossoró, uma cidade que enfrenta desafios significativos relacionados à segurança alimentar devido às secas. As hortas urbanas podem aumentar a produção local de alimentos, reduzindo a dependência de fontes externas e melhorando a resiliência aos impactos climáticos. Esta iniciativa também oferece co-benefícios como o engajamento comunitário, a arborização de espaços urbanos e a potencial melhoria da qualidade do ar local. Embora não aborde diretamente os riscos mais elevados, como a escassez de água ou a saúde pública decorrente de ondas de calor, contribui para a sustentabilidade urbana geral e para a resiliência do sistema alimentar.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -899,7 +899,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Mossoró enfrenta riscos significativos de eventos climáticos extremos, incluindo secas, ondas de calor e inundações, que impactam severamente a saúde pública, a infraestrutura e a segurança alimentar. Um programa de apoio financeiro é crucial para a cidade construir resiliência e se recuperar desses eventos frequentes e intensos. Dada a população de baixa renda da cidade e as vulnerabilidades existentes, como acesso inadequado à água, tal programa pode fornecer alívio essencial e auxiliar nos esforços de adaptação. Esta ação aborda diretamente as altas pontuações de risco normalizado associadas a múltiplos perigos, tornando-a uma alta prioridade para proteger a comunidade e seus bens.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -976,7 +976,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nMossoró enfrenta riscos significativos de secas e inundações, impactando recursos hídricos, segurança alimentar e infraestrutura. Um Sistema de Monitoramento Hidrológico com Estações de Telemetria é crucial para o alerta precoce e a gestão eficaz desses perigos. Este sistema forneceria dados em tempo real, permitindo respostas proativas a eventos climáticos extremos. Dado o bioma desértico da cidade e os problemas existentes de acesso à água, melhorar o monitoramento hidrológico é uma alta prioridade para a resiliência.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1048,7 +1048,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "As redes de segurança social são cruciais para Mossoró, uma cidade com uma população de baixa renda e riscos climáticos significativos. A cidade enfrenta altos riscos de secas, ondas de calor e inundações, que podem impactar severamente a saúde pública e a segurança alimentar. Esses perigos afetam desproporcionalmente as populações vulneráveis, tornando as redes de segurança social essenciais para a resiliência. A implementação de tais medidas pode ajudar a proteger os meios de subsistência e garantir que as necessidades básicas sejam atendidas durante crises relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -1122,7 +1122,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Mossoró. Esta ação aborda diretamente os altos riscos associados às inundações, que são uma preocupação significativa para a infraestrutura e a segurança alimentar na cidade. As superfícies permeáveis ajudam a gerenciar o escoamento da água da chuva, reduzindo a probabilidade e a gravidade das inundações. Além disso, as áreas verdes podem mitigar os impactos das ondas de calor, outro perigo de alto risco identificado para a saúde pública e a infraestrutura. Esta ação contribui para a resiliência urbana, melhorando a gestão da água e resfriando o ambiente urbano.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1194,7 +1194,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é uma preocupação crítica para Mossoró, especialmente dado o alto risco de secas que afetam esta área chave. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode mitigar diretamente os impactos da escassez de alimentos. Isso é particularmente relevante para uma cidade com populações de baixa renda, onde o uso eficiente de recursos é fundamental. Ao reduzir o desperdício, a cidade pode melhorar a resiliência contra interrupções no sistema alimentar relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Português:**\n\nMossoró está localizada em um bioma desértico com riscos significativos de seca, impactando os recursos hídricos, a segurança alimentar e a segurança energética. A cidade também apresenta um acesso muito baixo à água adequada, indicando uma necessidade crítica de melhoria na gestão hídrica. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades, aumentando a disponibilidade e a resiliência hídrica. Essa ação é crucial para mitigar os impactos severos das secas e melhorar a saúde pública e o bem-estar da comunidade.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1346,7 +1346,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Mossoró, especialmente dado o seu bioma desértico e os altos riscos associados a secas e ondas de calor. Essa abordagem pode ajudar a mitigar impactos nos recursos hídricos, segurança alimentar e saúde pública, que estão todos severamente ameaçados. Ao restaurar e proteger ecossistemas naturais, a cidade pode aumentar sua resiliência às mudanças climáticas. Esta ação apoia múltiplos impactos-chave identificados no CCRA, tornando-a um investimento holístico e benéfico para o futuro da cidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Mossoró enfrenta riscos significativos relacionados aos recursos hídricos, particularmente devido a secas, conforme indicado por uma pontuação de risco normalizado muito alta. Além disso, a cidade apresenta acesso muito baixo a água adequada e baixo acesso a saneamento. Preservar e recuperar corpos d'água é crucial para melhorar a disponibilidade e a qualidade da água, abordando diretamente essas vulnerabilidades críticas. Essa ação apoia a resiliência da cidade contra futuros impactos climáticos e melhora a saúde pública ao aprimorar o acesso à água e ao saneamento.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservação e Recuperação de Corpos Hídricos",

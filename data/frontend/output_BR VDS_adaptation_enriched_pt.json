@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Estabelecer um plano de preparação e medidas de resposta a emergências é crucial para Vitória de Santo Antão, dada a sua alta vulnerabilidade a múltiplos eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor, deslizamentos de terra e inundações, todos com altas pontuações de risco normalizado para vários impactos chave, como saúde pública e infraestrutura. Um plano abrangente ajudará a mitigar as graves consequências desses perigos, protegendo tanto a população quanto a infraestrutura crítica. Essa abordagem proativa é essencial para uma cidade com uma alta população de baixa renda, pois essas comunidades são frequentemente desproporcionalmente afetadas por desastres.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A Manutenção e Revitalização de Matas Ciliares é uma prioridade para Vitória de Santo Antão devido ao alto risco de inundações na cidade, que impactam significativamente a infraestrutura, a segurança alimentar e a saúde pública. Matas ciliares saudáveis podem mitigar os impactos das inundações, estabilizando as margens dos rios, reduzindo a erosão e absorvendo o excesso de água. Dado o bioma de floresta tropical úmida da cidade, esta ação se alinha com as funções naturais do ecossistema para aumentar a resiliência contra os riscos climáticos. Além disso, pode contribuir para a biodiversidade e a gestão dos recursos hídricos, que são impactos-chave identificados na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -157,7 +157,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido ao bioma de floresta tropical úmida da cidade, que indica um ecossistema rico e sensível. Proteger essas áreas é crucial para manter a biodiversidade e o equilíbrio ecológico. Dada a vulnerabilidade da cidade a vários perigos, como secas, ondas de calor e inundações, ecossistemas saudáveis podem proporcionar resiliência natural. Fortalecer os programas de conservação ajuda a mitigar os impactos das mudanças climáticas e a preservar recursos naturais vitais para a comunidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -230,7 +230,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque aborda diretamente o desenvolvimento e a restauração das Zonas Especiais de Interesse Social (ZEIS). Dada a alta proporção de residentes de baixa renda na cidade, a melhoria dessas áreas pode aprimorar significativamente as condições de vida e o acesso a serviços essenciais para populações vulneráveis. Esta iniciativa também pode contribuir para a resiliência urbana, garantindo um desenvolvimento equitativo e reduzindo as disparidades. Além disso, alinha-se com os princípios do planejamento urbano sustentável, promovendo o crescimento inclusivo e o bem-estar da comunidade. Priorizar o desenvolvimento das ZEIS é crucial para criar um ambiente urbano mais equitativo e resiliente.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -304,7 +304,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Vitória de Santo Antão, especialmente dadas as altas pontuações de risco normalizado para impactos na saúde pública decorrentes de ondas de calor, doenças e inundações. Melhorar o acesso à saúde pode mitigar diretamente as graves consequências desses perigos para a população. Com uma alta proporção de residentes de baixa renda, garantir acesso equitativo aos serviços de saúde é ainda mais vital. Esta ação aumentará a resiliência da cidade a crises de saúde relacionadas ao clima e melhorará o bem-estar geral.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -379,7 +379,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorias na agricultura/pesca são uma prioridade para Vitória de Santo Antão devido aos riscos significativos representados por secas e inundações para a segurança alimentar. A cidade apresenta altos escores de risco normalizado para segurança alimentar sob os perigos de seca (0,28) e inundação (0,84). A implementação de melhorias nas práticas agrícolas e pesqueiras pode aumentar a resiliência e a adaptabilidade a esses impactos climáticos. Esta ação aborda diretamente uma vulnerabilidade crítica, garantindo uma produção alimentar mais estável para a população. Dado o bioma de floresta tropical da cidade, práticas sustentáveis são cruciais para a segurança alimentar a longo prazo.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -456,7 +456,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A melhoria do armazenamento e distribuição de alimentos é uma prioridade para Vitória de Santo Antão devido aos riscos significativos associados à segurança alimentar. A cidade enfrenta altos índices de risco normalizado para a segurança alimentar, tanto de secas (0,28) quanto de inundações (0,84). Dada a \"alta\" população de baixa renda da cidade, garantir o acesso consistente a alimentos é crucial para o bem-estar e a estabilidade da comunidade. Esta ação aborda diretamente uma vulnerabilidade crítica, ajudando a mitigar os impactos dos perigos climáticos na capacidade da população de acessar o sustento. Investir nessas melhorias pode construir resiliência contra futuras interrupções na cadeia de suprimentos de alimentos relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -532,7 +532,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma prioridade crítica para Vitória de Santo Antão, dados os altos riscos à saúde pública decorrentes de vários perigos climáticos. A cidade enfrenta riscos significativos à saúde pública devido a ondas de calor, doenças, deslizamentos de terra e inundações, todos com altos índices de risco normalizado. Um sistema de saúde aprimorado pode fornecer apoio e tratamento essenciais para os moradores afetados por esses impactos na saúde relacionados ao clima. Esta ação aborda diretamente a vulnerabilidade da cidade às mudanças climáticas, construindo resiliência em um setor crucial de serviço público.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -608,7 +608,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Portuguese Translation:**\n\nIncentivar práticas sustentáveis de uso da terra é uma alta prioridade para Vitória de Santo Antão. A cidade enfrenta riscos significativos de inundações e deslizamentos de terra, que podem ser exacerbados pelo uso insustentável da terra. Dada a alta densidade populacional e o acesso moderado e inadequado à água, o manejo adequado da terra é crucial para proteger a infraestrutura e a saúde pública. Esta ação também pode ajudar a mitigar as altas emissões do uso da terra, contribuindo para a resiliência climática geral.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -682,7 +682,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Vitória de Santo Antão enfrenta riscos significativos para a saúde pública decorrentes de ondas de calor, doenças e inundações, todos com altos escores de risco normalizados. Aprimorar a infraestrutura de saúde é crucial para enfrentar essas ameaças imediatas e graves à população. Dados os altos riscos para a saúde pública, melhorar a infraestrutura de saúde é um passo crítico na construção de resiliência e na proteção do bem-estar da comunidade. Esta ação apoia diretamente a capacidade da cidade de responder e mitigar os impactos dos desafios de saúde relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -756,7 +756,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é a seguinte:\n\nEsta ação é uma prioridade devido à alta vulnerabilidade da cidade a eventos climáticos extremos, conforme indicado por múltiplos e elevados índices de risco normalizado para perigos como secas, ondas de calor, deslizamentos de terra e inundações que afetam vários setores-chave. Um programa de apoio financeiro pode fornecer ajuda crucial a residentes e empresas afetados por esses eventos, auxiliando-os na recuperação e reconstrução. Esta medida proativa pode mitigar os impactos socioeconômicos das mudanças climáticas, especialmente dada a alta população de baixa renda da cidade. Tal programa fomenta a resiliência e reduz a carga de longo prazo sobre os serviços públicos e a infraestrutura.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -833,7 +833,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos riscos significativos de deslizamentos de terra e inundações na cidade, que impactam severamente a saúde pública e a infraestrutura. A realocação e a restauração ambiental abordam diretamente esses perigos, removendo populações de áreas de risco e estabilizando o meio ambiente. Dada a alta densidade populacional e a demografia de baixa renda, medidas proativas são cruciais para proteger comunidades vulneráveis. Esta ação também se alinha com a necessidade de mitigar riscos futuros e construir resiliência contra os impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -904,7 +904,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma prioridade para Vitória de Santo Antão devido ao seu potencial para melhorar a segurança alimentar, especialmente dada a alta população de baixa renda da cidade. Essa ação também pode contribuir para a biodiversidade local e melhorar o ambiente urbano. Além disso, alinha-se com a resiliência climática ao promover sistemas alimentares locais e reduzir a dependência de cadeias de suprimentos externas. O bioma de floresta tropical da cidade poderia apoiar tais iniciativas, tornando-a uma intervenção viável e benéfica.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -976,7 +976,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade devido à alta população de baixa renda da cidade, o que torna os moradores particularmente vulneráveis aos impactos climáticos. As redes de segurança social podem fornecer apoio crucial, ajudando a mitigar as consequências econômicas e sociais dos perigos climáticos. Dados os altos riscos de secas, ondas de calor e inundações, essas redes de segurança podem oferecer um amortecedor vital para as populações mais afetadas. Esta medida proativa pode aumentar a resiliência da comunidade e reduzir o sofrimento geral durante eventos relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido ao acesso inadequado moderado à água na cidade e ao alto risco de secas que afetam os recursos hídricos. Um sistema de monitoramento hidrológico pode fornecer dados cruciais para gerenciar o abastecimento de água e mitigar os efeitos da seca. Isso é especialmente importante dada a alta densidade populacional e os fatores socioeconômicos de baixa renda, que podem exacerbar os impactos da escassez de água. A implementação de tal sistema pode ajudar a garantir uma gestão hídrica mais resiliente para a comunidade.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1122,7 +1122,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Vitória de Santo Antão. A cidade enfrenta riscos significativos de inundações, com altas pontuações de risco normalizado para infraestrutura, segurança alimentar e saúde pública. Superfícies permeáveis podem ajudar a gerenciar o escoamento de águas pluviais, reduzindo o impacto das inundações. Além disso, as áreas verdes podem mitigar os impactos das ondas de calor, que também representam um alto risco para a saúde pública e a segurança energética na cidade. Esta ação contribui para a resiliência urbana ao abordar múltiplos perigos climáticos simultaneamente.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1194,7 +1194,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é uma área de impacto fundamental para Vitória de Santo Antão, particularmente no que diz respeito a secas e inundações. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode aumentar a resiliência da cidade a esses perigos. Dado os altos índices de risco para a segurança alimentar relacionados tanto a secas quanto a inundações, esta ação contribui diretamente para mitigar essas vulnerabilidades. Além disso, pode apoiar indiretamente a saúde pública e a gestão de recursos dentro da comunidade.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma estratégia crucial para Vitória de Santo Antão, dado o seu bioma de floresta tropical e os altos riscos associados a vários perigos. Essa abordagem pode aumentar a resiliência da cidade a secas, inundações e ondas de calor, que são ameaças significativas. Ao restaurar e proteger os ecossistemas naturais, a cidade pode melhorar a gestão da água, reduzir os impactos das inundações e mitigar os efeitos das ilhas de calor urbanas. Essa ação também apoia a biodiversidade, que é uma área de impacto chave para secas e ondas de calor, e pode beneficiar indiretamente a saúde pública e a segurança alimentar, promovendo um ambiente mais estável.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1357,7 +1357,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A cidade de Vitória de Santo Antão enfrenta riscos significativos de secas, que impactam os recursos hídricos e a segurança energética. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades, melhorando a disponibilidade hídrica. Essa ação é crucial para construir resiliência contra futuros eventos de seca e garantir um abastecimento de água mais estável para a comunidade. Dada a alta densidade populacional e o acesso moderado e inadequado à água existente, a melhoria da infraestrutura hídrica é uma clara prioridade.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar sistemas agrossilvipastoris é uma prioridade para Vitória de Santo Anto Antão devido às significativas emissões do uso da terra na cidade. Esta ação pode ajudar a sequestrar carbono, mitigando assim as altas emissões do uso da terra. Além disso, pode melhorar a segurança alimentar, que é uma área de impacto chave com alto risco de secas e inundações na cidade. Esta abordagem também apoia a biodiversidade, uma área que, embora atualmente com menor risco, beneficia de práticas integradas de gestão da terra.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",

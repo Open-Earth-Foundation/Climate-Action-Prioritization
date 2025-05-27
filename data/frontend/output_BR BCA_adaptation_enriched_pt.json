@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Estabelecer um plano de preparação e medidas de resposta a emergências é crucial para Barcarena devido à sua alta vulnerabilidade a eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor e inundações, que impactam severamente a saúde pública, a infraestrutura e a segurança alimentar. Um plano abrangente ajudará a mitigar os efeitos devastadores desses perigos, protegendo a população e os serviços essenciais. Essa abordagem proativa é fundamental para construir resiliência e garantir a segurança da comunidade.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nDesenvolver diagnósticos e restaurar as Zonas Especiais de Interesse Social (ZEIS) é uma prioridade para Barcarena. A cidade enfrenta desafios significativos com acesso inadequado à água e saneamento, indicando a necessidade de melhoria nos serviços públicos e infraestrutura. Abordar essas zonas pode melhorar diretamente as condições de vida de populações vulneráveis. Essa ação se alinha com o fator de renda moderada baixa do município, sugerindo que intervenções direcionadas nessas áreas teriam um impacto positivo substancial no bem-estar socioeconômico.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Barcarena está localizada em um bioma de floresta tropical, tornando a conservação de áreas protegidas crucial para a manutenção do equilíbrio ecológico. A cidade enfrenta riscos significativos de secas e ondas de calor, que podem impactar severamente a biodiversidade. O fortalecimento desses programas é essencial para mitigar os efeitos das mudanças climáticas no ambiente natural. Essa ação ajuda a preservar os ecossistemas únicos e os serviços que eles fornecem à comunidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "O acesso à saúde é uma prioridade crítica para Barcarena, especialmente considerando os altos riscos associados aos impactos na saúde pública de ondas de calor, doenças e inundações. Os desafios existentes na cidade com acesso inadequado à água e saneamento exacerbam ainda mais as vulnerabilidades de saúde. Melhorar o acesso à saúde pode mitigar as graves consequências para a saúde pública desses perigos. Esta ação aborda diretamente o bem-estar da população e constrói resiliência contra crises de saúde relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -306,7 +306,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Barcarena enfrenta riscos significativos para a segurança alimentar, tanto de secas quanto de inundações, com altas pontuações de risco normalizado para ambos os perigos. Melhorar o armazenamento e a distribuição de alimentos pode ajudar a mitigar esses impactos, garantindo um abastecimento alimentar mais estável durante e após eventos climáticos extremos. Esta ação aborda diretamente uma vulnerabilidade crítica na resiliência da cidade às mudanças climáticas. É uma prioridade porque melhora a capacidade da comunidade de lidar com interrupções nos sistemas alimentares, que são essenciais para o bem-estar público.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -382,7 +382,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Português:**\n\nIncentivar práticas sustentáveis de uso da terra é uma prioridade para Barcarena, dado o seu bioma de floresta tropical e as significativas emissões provenientes do uso da terra. Esta ação pode ajudar a mitigar o impacto de riscos climáticos como secas e inundações, que afetam gravemente a segurança alimentar e os recursos hídricos. Também aborda preocupações com a biodiversidade, que são particularmente relevantes em um ambiente de floresta tropical. A implementação dessas práticas pode levar a uma cidade mais resiliente, protegendo tanto seus ativos naturais quanto o bem-estar de sua população.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -456,7 +456,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido ao alto risco da cidade para a segurança alimentar, tanto por secas quanto por inundações. Melhorar as práticas agrícolas e pesqueiras pode aumentar a resiliência contra esses perigos climáticos. Dado o impacto significativo na segurança alimentar, esta ação aborda diretamente uma vulnerabilidade crítica. Ajuda a garantir um abastecimento alimentar estável para a população, o que é essencial para o bem-estar geral da comunidade. Portanto, investir nessas melhorias é um passo crucial para a adaptação climática.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -533,7 +533,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A manutenção e revitalização das matas ciliares é uma ação crucial para Barcarena. Dado o bioma de floresta tropical da cidade e os riscos significativos de inundações e secas, essas florestas desempenham um papel vital na mitigação desses perigos. Elas ajudam a estabilizar o solo, prevenir a erosão e regular o fluxo de água, o que aborda diretamente os altos riscos à infraestrutura e à segurança alimentar decorrentes de inundações e secas. Esta ação também apoia a biodiversidade, que é uma área de impacto chave para os perigos de seca e ondas de calor na cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -606,7 +606,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma prioridade crítica para Barcarena. A cidade enfrenta riscos muito elevados de ondas de calor e doenças, ambos com impacto direto na saúde pública. Um sistema de saúde aprimorado pode responder melhor ao aumento da demanda por serviços médicos durante crises de saúde relacionadas ao clima. Esta ação ajudará a mitigar as graves consequências para a saúde pública das mudanças climáticas, garantindo o bem-estar da população.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -682,7 +682,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Barcarena enfrenta riscos significativos de saúde pública decorrentes de ondas de calor, doenças e inundações, conforme indicado por altos escores de risco normalizados. Melhorar a disponibilidade de infraestrutura de saúde é crucial para abordar essas vulnerabilidades existentes e aumentar a capacidade da cidade de responder a crises de saúde. Esta ação apoiará diretamente o bem-estar da população, garantindo melhor acesso a cuidados médicos e serviços de emergência. Priorizar a infraestrutura de saúde é essencial para construir uma comunidade resiliente, capaz de suportar os desafios de saúde atuais e futuros relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -756,7 +756,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade devido à alta vulnerabilidade da cidade a vários eventos climáticos extremos, incluindo secas, ondas de calor e inundações, que impactam significativamente a saúde pública, a infraestrutura e a segurança alimentar. Um programa de apoio financeiro pode ajudar os moradores e a cidade a se recuperarem dos danos econômicos causados por esses eventos. Essa medida proativa pode construir resiliência e reduzir os custos de longo prazo associados à resposta a desastres. Ela também aborda as necessidades imediatas da população afetada por esses riscos climáticos.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -833,7 +833,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Barcarena enfrenta riscos significativos de inundações, que impactam severamente a infraestrutura e a segurança alimentar. Um sistema de monitoramento hidrológico com estações de telemetria é crucial para fornecer avisos antecipados e dados em tempo real. Este sistema pode ajudar a cidade a se preparar e mitigar os efeitos devastadores das inundações. A implementação desta ação aumentará a resiliência da cidade e protegerá seus ativos críticos e sua população.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -905,7 +905,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é uma ação crucial para Barcarena. A cidade enfrenta desafios significativos com acesso inadequado à água e saneamento, indicando uma população vulnerável. Além disso, a cidade experimenta altos riscos de secas, ondas de calor e inundações, que podem exacerbar as desigualdades sociais existentes e impactar a saúde pública e a segurança alimentar. As redes de segurança social podem fornecer apoio essencial aos moradores, ajudando-os a lidar com os impactos desses perigos e melhorando a resiliência geral. Esta ação aborda diretamente os fatores socioeconômicos e os riscos à saúde pública identificados nos dados da cidade.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -979,7 +979,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma prioridade para Barcarena devido ao seu potencial para melhorar a segurança alimentar, especialmente dado o alto risco de inundações que afetam esta área. Esta ação também pode contribuir para a biodiversidade local e melhorar a saúde pública através do fornecimento de produtos frescos. Além disso, alinha-se com práticas de uso sustentável da terra, o que é benéfico para uma cidade localizada em um bioma de floresta tropical. Esta iniciativa oferece uma maneira prática e acessível de construir a resiliência da comunidade contra os impactos climáticos.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1051,7 +1051,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido aos altos riscos da cidade relacionados à infraestrutura e à saúde pública, decorrentes de várias ameaças. Barcarena enfrenta desafios significativos com acesso inadequado à água e saneamento, que são exacerbados pelos impactos climáticos. A realocação e a restauração ambiental podem abordar diretamente a vulnerabilidade das comunidades em áreas de alto risco. Esta medida proativa ajuda a proteger os residentes e a infraestrutura crítica de futuros desastres relacionados ao clima.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1122,7 +1122,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nThis action addresses food security, which is a key impact area for Barcarena, particularly due to floods and droughts. Reducing food waste and promoting sustainable diets can alleviate pressure on food systems. This is especially relevant given the city's tropical rainforest biome, where resource management is crucial. While not directly addressing the highest risks like public health or infrastructure, it contributes to overall resilience and resource efficiency.\n\n**Portuguese Translation:**\n\nEsta ação aborda a segurança alimentar, que é uma área de impacto chave para Barcarena, particularmente devido a inundações e secas. A redução do desperdício de alimentos e a promoção de dietas sustentáveis podem aliviar a pressão sobre os sistemas alimentares. Isso é especialmente relevante dado o bioma de floresta tropical da cidade, onde a gestão de recursos é crucial. Embora não aborde diretamente os riscos mais elevados, como saúde pública ou infraestrutura, contribui para a resiliência geral e a eficiência dos recursos.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1198,7 +1198,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Barcarena devido ao alto risco de inundações que impactam a infraestrutura e a segurança alimentar. Essa ação pode ajudar a gerenciar o escoamento de águas pluviais, reduzindo a carga sobre os sistemas de drenagem existentes. Além disso, as áreas verdes podem mitigar os efeitos das ondas de calor, que representam um risco significativo para a saúde pública e a infraestrutura da cidade. Embora não aborde diretamente o acesso à água ou o saneamento, essa ação contribui para a resiliência urbana geral e a saúde ambiental.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido ao acesso inadequado à água na cidade, que é muito elevado, indicando uma necessidade crítica de melhoria da infraestrutura hídrica. Dados os altos riscos associados às secas que impactam os recursos hídricos e a segurança energética, aprimorar a captação e o armazenamento de água é crucial para a resiliência. Além disso, o bioma de floresta tropical da cidade sugere que a gestão eficaz da água é vital para manter o equilíbrio ecológico e apoiar a população local. A implementação desta ação abordará diretamente os desafios imediatos da escassez de água e reforçará a capacidade da cidade de suportar futuros impactos climáticos.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1346,7 +1346,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Barcarena, dado o seu bioma de floresta tropical e os riscos significativos para a biodiversidade decorrentes de secas e ondas de calor. Essa abordagem pode ajudar a mitigar os impactos das mudanças climáticas, aproveitando os sistemas naturais. É particularmente relevante para uma cidade que enfrenta altos riscos para os recursos hídricos e a segurança alimentar devido às secas, pois ecossistemas saudáveis podem melhorar a retenção de água e a fertilidade do solo. Priorizar essa ação também pode apoiar a saúde pública, que é altamente vulnerável a ondas de calor e doenças, fornecendo resfriamento natural e regulação de doenças. Investir na adaptação baseada em ecossistemas alinha-se com o contexto ambiental da cidade e aborda múltiplos impactos-chave identificados na Avaliação de Risco Climático (CCRA).",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar os sistemas agrossilvipastoris é uma ação relevante para Barcarena, dado o seu bioma de floresta tropical e as significativas emissões provenientes do uso da terra. Essa abordagem pode ajudar a mitigar as mudanças climáticas, sequestrando carbono e reduzindo o desmatamento. Também oferece benefícios para a segurança alimentar e a biodiversidade, que são impactos-chave identificados na avaliação de risco climático da cidade. Embora não seja a mais alta prioridade, contribui para um setor agrícola mais sustentável e resiliente.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",

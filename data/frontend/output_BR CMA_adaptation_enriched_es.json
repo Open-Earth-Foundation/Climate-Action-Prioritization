@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Establecer un plan de preparación y respuesta ante emergencias es crucial para Cametá, dada su alta vulnerabilidad a diversos fenómenos meteorológicos extremos. La ciudad se enfrenta a riesgos significativos por sequías, olas de calor, inundaciones y deslizamientos de tierra, todos los cuales tienen puntuaciones de riesgo normalizadas altas para impactos clave como la salud pública, la infraestructura y la seguridad alimentaria. Un plan de emergencia sólido puede mitigar las graves consecuencias de estos peligros, protegiendo vidas y servicios críticos. Esta medida proactiva es esencial para una ciudad con una alta proporción de población de bajos ingresos y un acceso ya inadecuado a los servicios públicos, ya que estos factores pueden exacerbar los impactos de los desastres.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Establecer un Plan de Preparación y Medidas de Respuesta de Emergencia en caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Here's the Spanish translation:\n\nDesarrollar diagnósticos y restaurar las Zonas de Especial Interés Social (ZEIS) es una alta prioridad para Cametá. La ciudad enfrenta desafíos significativos con altas poblaciones de bajos ingresos y un acceso muy deficiente al agua, además de un saneamiento inadecuado. Abordar las áreas ZEIS directamente apunta a estas vulnerabilidades, mejorando las condiciones de vida y la salud pública para las comunidades más afectadas. Esta acción es crucial para un desarrollo urbano equitativo y la resiliencia en una ciudad con sustanciales disparidades socioeconómicas.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desarrollar diagnósticos y restaurar áreas de Zonas de Interés Social Especial (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nFortalecer los programas de control y conservación de las áreas protegidas es crucial para Cametá, dado su bioma de selva tropical y las importantes emisiones derivadas del uso del suelo. Proteger estas áreas ayuda a mantener la biodiversidad, que actualmente está en riesgo tanto por las sequías como por las olas de calor. Además, los ecosistemas saludables pueden proporcionar defensas naturales contra los impactos climáticos como las inundaciones, que representan un alto riesgo para la seguridad alimentaria y la infraestructura de la ciudad. Esta acción apoya la resiliencia a largo plazo del entorno natural de la ciudad y de sus habitantes.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer los programas de control y conservación de áreas protegidas",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Mejorar el almacenamiento y la distribución de alimentos es una acción crítica para Cametá, especialmente dado el alto riesgo para la seguridad alimentaria que representan tanto las sequías como las inundaciones. La población de bajos ingresos de la ciudad es particularmente vulnerable a las interrupciones en el suministro de alimentos. Mejorar estos sistemas puede generar resiliencia contra los impactos climáticos, asegurando un acceso más estable a los alimentos para los residentes. Esta acción aborda directamente una vulnerabilidad clave identificada en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Mejoras en el almacenamiento/distribución de alimentos",
@@ -307,7 +307,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Las mejoras agrícolas y pesqueras son una prioridad para Cametá debido a los altos riesgos asociados con la seguridad alimentaria, derivados tanto de las sequías como de las inundaciones. La ciudad enfrenta desafíos significativos para asegurar un suministro estable de alimentos, lo que hace que las intervenciones en este sector sean cruciales. La mejora de las prácticas agrícolas y pesqueras puede aumentar la resiliencia ante estos peligros climáticos. Esta acción aborda directamente una vulnerabilidad crítica identificada en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Mejoras en granjas/pesquerías",
@@ -384,7 +384,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "El acceso a la atención médica es una prioridad fundamental para Cametá, especialmente dado el alto puntaje de riesgo normalizado de impactos en la salud pública debido a olas de calor, enfermedades e inundaciones. Mejorar el acceso a la atención médica puede mitigar directamente estos riesgos al garantizar atención médica oportuna y medidas preventivas. La alta población de bajos ingresos de la ciudad subraya aún más la necesidad de servicios de atención médica accesibles y asequibles. Esta acción es esencial para proteger el bienestar y la resiliencia de la comunidad frente a los peligros climáticos actuales y futuros.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acceso a la atención médica",
@@ -459,7 +459,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción aborda la disponibilidad de infraestructura de salud, una necesidad crítica dado el alto riesgo de la ciudad a los impactos en la salud pública debido a las olas de calor, enfermedades e inundaciones. Mejorar la infraestructura de salud puede aumentar significativamente la capacidad de la ciudad para responder a estas crisis de salud relacionadas con el clima. Dada la alta vulnerabilidad de la población, particularmente con altas tasas de bajos ingresos, los servicios de salud robustos son esenciales. Esta acción apoya directamente el bienestar y la resiliencia de la comunidad frente a los desafíos climáticos actuales y futuros.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidad de infraestructura sanitaria",
@@ -533,7 +533,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "La conservación y revitalización de los bosques ribereños es crucial para Cametá debido a su bioma de selva tropical y a las importantes emisiones derivadas del uso del suelo. Estos bosques desempeñan un papel vital en la regulación de los recursos hídricos, una esfera de impacto clave para las sequías en la ciudad. Además, las zonas ribereñas sanas pueden ayudar a mitigar los efectos de las inundaciones, un peligro importante que afecta a la seguridad alimentaria y a las infraestructuras. Esta acción apoya la salud de los ecosistemas y su resiliencia frente a los impactos del cambio climático.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Mantenimiento y Revitalización de Bosques Ribereños",
@@ -606,7 +606,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "La creación de un programa de apoyo financiero para eventos climáticos extremos es una acción de alta prioridad para Cametá. La ciudad enfrenta riesgos significativos de diversas amenazas, incluyendo sequías, olas de calor, inundaciones y deslizamientos de tierra, que impactan severamente la salud pública, la infraestructura y la seguridad alimentaria. Dada la alta vulnerabilidad de la población debido a los bajos ingresos y el acceso inadecuado a los servicios públicos, dicho programa proporcionaría un apoyo crucial. Ayudaría a los residentes a recuperarse de los efectos devastadores de estos eventos, mejorando así la resiliencia general de la ciudad. Esta iniciativa aborda directamente la necesidad urgente de adaptación y preparación ante desastres en una comunidad altamente susceptible.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Creación de un Programa de Apoyo Financiero para Abordar Eventos Climáticos Extremos",
@@ -683,7 +683,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Fortalecer la red de atención médica es una prioridad crítica para Cametá, dada la alta vulnerabilidad de la ciudad a los impactos en la salud relacionados con el clima. La ciudad enfrenta riesgos significativos por olas de calor y enfermedades, los cuales tienen un impacto directo y severo en la salud pública. Con un nivel muy alto de acceso inadecuado al agua y un saneamiento deficiente, la población ya está predispuesta a crisis de salud. Mejorar la infraestructura y los servicios de atención médica abordará directamente estas vulnerabilidades, asegurando que la comunidad pueda afrontar y recuperarse mejor de los desafíos de salud inducidos por el clima.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer la red de atención médica para atender a las víctimas del clima",
@@ -758,7 +758,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Please find the Spanish translation below:\n\nCametá tiene emisiones por uso del suelo muy elevadas, lo que indica un impacto significativo de las prácticas actuales de gestión de la tierra. Fomentar el uso sostenible del suelo aborda directamente esta importante fuente de emisiones. Dado el bioma de selva tropical de la ciudad, proteger y restaurar estos ecosistemas es crucial tanto para la mitigación del clima como para la biodiversidad. Esta acción también puede contribuir a la seguridad alimentaria y la gestión de los recursos hídricos, que son áreas clave de impacto para la ciudad.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Fomentar prácticas sostenibles de uso de la tierra",
@@ -832,7 +832,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Aquí tienes la traducción al español:\n\nCametá se enfrenta a riesgos significativos por inundaciones, que afectan tanto a la infraestructura como a la seguridad alimentaria. Un sistema de monitoreo hidrológico con estaciones de telemetría es crucial para proporcionar alertas tempranas y datos en tiempo real. Esto permite una mejor preparación y respuesta ante eventos de inundación, protegiendo vidas y medios de subsistencia. Dado el alto riesgo de inundaciones y la población de bajos ingresos de la ciudad, esta acción es una prioridad para construir resiliencia y reducir la vulnerabilidad.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoreo Hidrológico con Estaciones de Telemetría",
@@ -904,7 +904,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de huertos urbanos es una acción valiosa para Cametá. Esta iniciativa puede mejorar la seguridad alimentaria local, lo cual es una preocupación importante dada la alta puntuación de riesgo normalizado para la seguridad alimentaria debido a las inundaciones. Además, los huertos urbanos pueden contribuir a la biodiversidad, un área donde la ciudad enfrenta riesgos tanto por sequías como por olas de calor. Esta acción también se alinea con los esfuerzos para mejorar la salud pública, ya que el acceso a productos frescos puede impactar positivamente el bienestar de la comunidad. Finalmente, los huertos urbanos pueden ayudar a mitigar el efecto isla de calor urbano, lo cual es relevante dado el alto riesgo de olas de calor en la ciudad.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementación de huertos urbanos",
@@ -976,7 +976,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción aborda el cambio de comportamiento en las dietas y el desperdicio de alimentos, lo que puede contribuir a reducir las emisiones y mejorar la seguridad alimentaria. Si bien es importante, otras acciones podrían tener un impacto más directo e inmediato en los riesgos climáticos más apremiantes de la ciudad, como los relacionados con la salud pública, la infraestructura y la seguridad energética, que muestran puntuaciones de riesgo normalizadas muy altas. La ciudad también enfrenta desafíos significativos con el acceso inadecuado al agua y al saneamiento, lo que sugiere que los servicios públicos fundamentales pueden necesitar una atención más urgente. Por lo tanto, si bien es beneficiosa, esta acción no es la máxima prioridad dadas las vulnerabilidades específicas y los desafíos existentes de la ciudad.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Cambio de comportamiento en dietas y desperdicio de alimentos",
@@ -1052,7 +1052,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Las redes de seguridad social son cruciales para Cametá, dada su alta población de bajos ingresos y sus importantes riesgos climáticos. La ciudad se enfrenta a un acceso muy deficiente al agua y a un saneamiento deficiente, lo que agrava las vulnerabilidades. Además, Cametá es muy susceptible a los impactos en la salud pública de las olas de calor, las enfermedades y las inundaciones, así como a los problemas de seguridad alimentaria derivados de las sequías y las inundaciones. La implementación de redes de seguridad social puede proporcionar un apoyo esencial a las poblaciones vulnerables, ayudándolas a afrontar los efectos inmediatos y a largo plazo del cambio climático y a mejorar la resiliencia general.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de seguridad social",
@@ -1126,7 +1126,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad debido a la alta vulnerabilidad de la ciudad a los peligros climáticos, particularmente inundaciones y deslizamientos de tierra, que impactan significativamente la infraestructura y la salud pública. Dado el alto porcentaje de hogares de bajos ingresos y el acceso inadecuado a los servicios básicos, la reubicación y la restauración ambiental son cruciales para proteger a las poblaciones vulnerables. Esta iniciativa aborda directamente los riesgos que plantean estos peligros, mejorando la resiliencia y la seguridad de la comunidad. También se alinea con la necesidad de mejorar las condiciones de vida y reducir la carga sobre los sistemas de salud pública en áreas propensas a la degradación ambiental.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Reubicación y Restauración Ambiental en Áreas Vulnerables",
@@ -1197,7 +1197,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de pavimentos permeables y el aumento de las áreas verdes en las carreteras es una acción crucial para Cametá. Esta iniciativa aborda directamente el alto riesgo de inundaciones de la ciudad, como lo indican las significativas puntuaciones de riesgo normalizado para la infraestructura y la seguridad alimentaria debido a las inundaciones. Al mejorar la gestión del agua de lluvia, puede mitigar el impacto de las fuertes precipitaciones, lo cual es particularmente importante dado el bioma de selva tropical. Además, el aumento de las áreas verdes puede ayudar a reducir el impacto de las olas de calor, un peligro con puntuaciones de riesgo normalizado muy altas para la salud pública y la seguridad energética. Esta acción también contribuye a la biodiversidad, que está en riesgo tanto por las sequías como por las olas de calor.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeables y aumentar las áreas verdes en las vías públicas",
@@ -1269,7 +1269,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "La adaptación basada en ecosistemas es una estrategia crucial para Cametá, dado su bioma de selva tropical y sus altas emisiones por uso del suelo. Este enfoque aprovecha los sistemas naturales para desarrollar resiliencia frente a los impactos climáticos, lo cual es particularmente relevante para una ciudad que enfrenta múltiples peligros como sequías, olas de calor e inundaciones. Al proteger y restaurar los ecosistemas, la ciudad puede mejorar sus defensas naturales y apoyar la biodiversidad. Esta acción también se alinea con la reducción de las significativas emisiones por uso del suelo, promoviendo prácticas sostenibles que benefician tanto al medio ambiente como a la comunidad.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptación basada en ecosistemas",
@@ -1356,7 +1356,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Here's the Spanish translation:\n\nCametá enfrenta desafíos significativos con un acceso inadecuado al agua, lo cual esta acción aborda directamente. Dado el alto riesgo de sequías que impactan los recursos hídricos y la seguridad alimentaria, la captación y el almacenamiento de agua son cruciales para la resiliencia. Esta acción también apoya la salud pública al mejorar la disponibilidad de agua, especialmente importante en una ciudad con una alta población de bajos ingresos. La implementación de la captación y el almacenamiento de agua puede mitigar los impactos de los peligros climáticos y mejorar la capacidad de adaptación general de la ciudad.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/almacenamiento de agua",
@@ -1432,7 +1432,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "La acción de Preservación y Recuperación de Cuerpos de Agua es una alta prioridad para Cametá. La ciudad enfrenta un acceso inadecuado al agua muy alto y un saneamiento inadecuado alto, lo que indica desafíos significativos relacionados con el agua. Además, la ciudad experimenta altos riesgos por sequías e inundaciones, que impactan directamente los recursos hídricos y la seguridad alimentaria. Proteger y restaurar los cuerpos de agua es crucial para mejorar la salud pública, asegurar la disponibilidad de agua y mitigar los impactos de los peligros climáticos.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservación y Recuperación de Cuerpos de Agua",

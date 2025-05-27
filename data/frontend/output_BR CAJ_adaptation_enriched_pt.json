@@ -7,7 +7,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Cajazeiras enfrenta riscos significativos para a segurança alimentar tanto de secas quanto de inundações, com pontuações de risco normalizadas de 0,54 e 0,68, respetivamente. Melhorar o armazenamento e a distribuição de alimentos aborda diretamente essas vulnerabilidades, aumentando a resiliência a interrupções relacionadas ao clima. Dada a alta população de baixa renda da cidade, garantir o acesso consistente a alimentos é crucial para a estabilidade social e o bem-estar. Esta ação ajuda a mitigar os impactos de eventos climáticos extremos na cadeia de suprimentos de alimentos, o que é uma necessidade crítica para a comunidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -83,7 +83,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido à alta população de baixa renda da cidade, indicando uma necessidade significativa de apoio e desenvolvimento social. A restauração das Zonas Especiais de Interesse Social (ZEIS) aborda diretamente as condições de vida das comunidades vulneráveis. A melhoria dessas áreas pode levar a um melhor acesso a serviços e a uma melhor qualidade de vida para os moradores. Isso se alinha com os fatores socioeconômicos da cidade e visa mitigar as desigualdades existentes.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -157,7 +157,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cajazeiras enfrenta riscos significativos de eventos climáticos extremos, particularmente secas e ondas de calor, que apresentam altos índices de risco normalizado para recursos hídricos e saúde pública. O estabelecimento de um plano abrangente de preparação e resposta a emergências é crucial para mitigar esses impactos. Dada a alta população de baixa renda da cidade, medidas de emergência eficazes são ainda mais vitais para proteger as comunidades vulneráveis. Esta ação aborda diretamente os perigos climáticos críticos e visa construir resiliência contra choques futuros.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -234,7 +234,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Cajazeiras enfrenta riscos significativos para a segurança alimentar tanto de secas quanto de inundações, com pontuações de risco normalizadas de 0,54 e 0,68, respetivamente. A melhoria das explorações agrícolas e pesqueiras aborda diretamente estas vulnerabilidades, aumentando a resiliência e a produtividade face aos perigos climáticos. Dada a elevada população de baixa renda da cidade, o fortalecimento dos sistemas alimentares também pode contribuir para a redução da pobreza e a melhoria dos meios de subsistência. Esta ação é crucial para garantir um abastecimento alimentar estável e apoiar o bem-estar económico da comunidade.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -311,7 +311,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Cajazeiras, especialmente dado o alto índice de risco normalizado para impactos na saúde pública tanto de secas quanto de ondas de calor. A grande população de baixa renda da cidade agrava ainda mais as vulnerabilidades, tornando o acesso à saúde essencial para a resiliência. Abordar esta ação melhorará diretamente o bem-estar e a capacidade adaptativa da comunidade. É crucial para mitigar o custo humano dos perigos climáticos e garantir acesso equitativo a serviços vitais.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -386,7 +386,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cajazeiras enfrenta riscos significativos para a saúde pública tanto de secas quanto de ondas de calor, com pontuações de risco normalizadas de 0,99 para cada. Além disso, a saúde pública é moderadamente impactada por doenças e deslizamentos de terra. Melhorar a disponibilidade de infraestrutura de saúde é crucial para abordar essas vulnerabilidades de alta prioridade para a saúde pública. Esta ação aumentará a capacidade da cidade de responder a crises de saúde exacerbadas por perigos climáticos, protegendo sua população. Dados os altos riscos para a saúde pública, esta ação é um investimento crítico para a resiliência da cidade.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -460,7 +460,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cajazeiras enfrenta desafios significativos, incluindo altas populações de baixa renda e acesso inadequado moderado à água, exacerbados por graves riscos de seca. As redes de segurança social são cruciais para proteger as populações vulneráveis dos impactos desses perigos climáticos e estressores socioeconômicos. A implementação de tais programas pode fornecer apoio essencial, garantindo que as necessidades básicas sejam atendidas em tempos de crise. Essa ação aborda diretamente as vulnerabilidades socioeconômicas e os altos riscos climáticos da cidade, tornando-a uma prioridade para a construção de resiliência.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -534,7 +534,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cajazeiras está localizada em um bioma desértico, tornando seus ecossistemas particularmente vulneráveis aos impactos das mudanças climáticas. O fortalecimento de programas de controle e conservação de áreas protegidas é crucial para a preservação da biodiversidade neste ambiente frágil. Dado o alto risco de secas e ondas de calor, proteger essas áreas pode ajudar a manter o equilíbrio ecológico e fornecer amortecedores naturais contra os perigos climáticos. Esta ação apoia a resiliência ambiental a longo prazo e pode mitigar a degradação adicional dos recursos naturais.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -607,7 +607,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Cajazeiras enfrenta riscos significativos de segurança alimentar, particularmente devido a secas e inundações, tornando as intervenções no sistema alimentar altamente relevantes. A mudança de comportamento nas dietas e no desperdício de alimentos pode contribuir diretamente para a redução da insegurança alimentar, otimizando o uso de recursos e minimizando perdas. Dada a alta população de baixa renda da cidade, a redução do desperdício de alimentos também pode aliviar os encargos econômicos das famílias. Esta ação está alinhada com o enfrentamento das principais vulnerabilidades identificadas na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -683,7 +683,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Português:**\n\nCajazeiras é um bioma desértico com alto risco de seca, tornando a gestão dos recursos hídricos crítica. As matas ciliares são vitais para manter a qualidade e a quantidade da água, especialmente em regiões áridas. A sua revitalização pode ajudar a mitigar os impactos severos das secas nos recursos hídricos e na segurança alimentar. Esta ação apoia a saúde e a resiliência dos ecossistemas contra os perigos climáticos, o que é crucial para uma cidade que enfrenta desafios ambientais significativos.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -756,7 +756,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Cajazeiras enfrenta riscos significativos de eventos climáticos extremos, particularmente secas e ondas de calor, que impactam severamente os recursos hídricos e a saúde pública. Um programa de apoio financeiro é crucial para ajudar a comunidade a se recuperar e se adaptar a esses perigos recorrentes. Dada a alta população de baixa renda da cidade, tal programa proporcionaria um alívio essencial e construiria resiliência. Esta iniciativa aborda diretamente as vulnerabilidades mais prementes relacionadas ao clima identificadas nos dados da cidade.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -833,7 +833,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos à saúde pública identificados em Cajazeiras, particularmente de ondas de calor, doenças e inundações. Fortalecer a rede de saúde é crucial para responder eficazmente aos impactos na saúde desses perigos climáticos. Dado o fator de baixa renda \"alto\" da cidade, as populações vulneráveis provavelmente serão desproporcionalmente afetadas, tornando o acesso robusto à saúde ainda mais crítico. Medidas proativas na infraestrutura de saúde mitigarão o sofrimento e reduzirão a carga sobre a comunidade durante emergências relacionadas ao clima.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -909,7 +909,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Cajazeiras, dadas as suas significativas emissões provenientes do uso da terra, que são o maior contribuinte para o total de emissões da cidade. O bioma da cidade é desértico, tornando-a particularmente vulnerável à degradação da terra se práticas insustentáveis continuarem. Esta ação pode ajudar a mitigar o impacto das secas, um grande perigo com altas pontuações de risco para os recursos hídricos e a segurança alimentar. Ao promover o uso sustentável da terra, a cidade pode melhorar sua resiliência aos impactos das mudanças climáticas e proteger seus recursos naturais.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -983,7 +983,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Cajazeiras enfrenta riscos significativos de secas, sendo os recursos hídricos uma área de impacto fundamental. Um sistema de monitoramento hidrológico é crucial para compreender a disponibilidade de água e prever futuras escassezes. Este sistema pode fornecer alertas precoces, permitindo melhores estratégias de gestão e alocação de água. Dada a alta pontuação de risco para o impacto da seca nos recursos hídricos, esta ação é uma prioridade para a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1055,7 +1055,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A implementação de hortas urbanas é uma ação valiosa para Cajazeiras, especialmente dado o alto risco de segurança alimentar da cidade devido às secas. As hortas urbanas podem aumentar a produção local de alimentos, reduzindo a dependência de fontes externas e melhorando a resiliência aos impactos climáticos. Essa iniciativa também oferece co-benefícios como o engajamento comunitário, a ecologização de espaços urbanos e a potencial melhoria da qualidade do ar local. Embora não seja a prioridade máxima, contribui para múltiplos objetivos de sustentabilidade e aborda uma vulnerabilidade chave.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Cajazeiras enfrenta riscos significativos de secas e ondas de calor, impactando os recursos hídricos e a saúde pública. Dada a alta população de baixa renda da cidade e o acesso moderado inadequado à água, a realocação de populações vulneráveis para longe de áreas de alto risco é crucial para sua segurança e bem-estar. A restauração ambiental nessas áreas também pode ajudar a mitigar futuros impactos climáticos e melhorar a resiliência geral. Esta ação aborda diretamente os perigos climáticos críticos e as vulnerabilidades socioeconômicas dentro da cidade.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1198,7 +1198,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias urbanas é uma ação crucial para Cajazeiras. Esta cidade enfrenta riscos significativos de secas e ondas de calor, impactando os recursos hídricos e a saúde pública. As superfícies permeáveis podem ajudar a gerenciar o escoamento da água da chuva, reabastecendo as águas subterrâneas e mitigando os efeitos das ilhas de calor urbanas. O aumento das áreas verdes contribuirá ainda mais para o resfriamento e poderá melhorar a qualidade do ar, abordando diretamente as principais vulnerabilidades climáticas em um bioma desértico com alta população de baixa renda.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cajazeiras é um bioma desértico com alta população de baixa renda e acesso moderado e inadequado à água. A adaptação baseada em ecossistemas é crucial para uma cidade que enfrenta riscos significativos de seca, conforme indicado pela alta pontuação de risco normalizado para recursos hídricos. Esta ação pode ajudar a restaurar e proteger os sistemas naturais, o que, por sua vez, pode aumentar a disponibilidade de água e a resiliência aos impactos climáticos. Dados os fatores socioeconômicos da cidade, esta abordagem também pode proporcionar co-benefícios, como a melhoria dos meios de subsistência e da segurança alimentar. Priorizar esta ação alinha-se com o enfrentamento das vulnerabilidades ambientais e sociais mais prementes da cidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1357,7 +1357,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "**Português:**\n\nCajazeiras enfrenta um risco muito elevado de secas, impactando significativamente os recursos hídricos. A implementação de soluções de captação e armazenamento de água aborda diretamente essa vulnerabilidade crítica. Dada a inadequação moderada do acesso à água na cidade, esta ação é crucial para melhorar a segurança hídrica para a população. Priorizar esta ação ajudará a mitigar as graves consequências da seca para a comunidade e seus serviços essenciais.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cajazeiras é um bioma desértico com alta população de baixa renda e emissões significativas do uso da terra. Incentivar sistemas agrossilvipastoris pode ajudar a resolver problemas de segurança alimentar, que são um impacto chave das secas. Esta ação também contribui para a gestão sustentável da terra, mitigando potencialmente as altas emissões do uso da terra. Dada a vulnerabilidade da cidade às secas e seus fatores socioeconômicos, esta ação é uma prioridade relevante.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",

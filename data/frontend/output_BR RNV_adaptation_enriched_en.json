@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Ribeir\u00e3o das Neves given its high risks from various extreme weather events. The city faces significant public health risks from heatwaves, diseases, floods, and landslides, as well as infrastructure and food security impacts from floods and droughts. A comprehensive emergency response plan can mitigate these severe consequences, protecting lives and critical services. This proactive measure is essential for building resilience against the city's most pressing climate hazards.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Ribeir\u00e3o das Neves is a grassland/savanna biome, making the conservation of protected areas crucial for maintaining ecological balance. Strengthening these programs directly addresses biodiversity risks, which are present in the city's climate risk assessment. This action helps to mitigate the impacts of hazards like droughts and heatwaves on natural ecosystems. Protecting these areas can also indirectly support water resources and food security by preserving natural systems that regulate these vital services.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant public health risks identified in Ribeir\u00e3o das Neves. The city faces extremely high normalized risk scores for public health impacts from heatwaves, landslides, and floods. Strengthening the healthcare network is crucial to effectively respond to these climate-related health emergencies. This proactive measure will help protect the vulnerable population from the direct health consequences of climate change hazards. Investing in healthcare infrastructure and capacity is essential for resilience in the face of these documented threats.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -233,7 +233,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is a crucial action for Ribeir\u00e3o das Neves. Given the city's 'very_low' low-income factor and 'very_low' inadequate water and sanitation access, these zones likely house vulnerable populations. Improving these areas can directly address critical social and environmental inequities. This action can enhance public health and infrastructure resilience, especially considering the high risks from heatwaves, diseases, landslides, and floods identified in the city's CCRA.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -307,7 +307,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Ribeir\u00e3o das Neves. The city faces significant risks from droughts and floods, which severely impact food security and water resources. Sustainable land use can help mitigate these hazards by improving soil health, water retention, and reducing erosion. This action directly addresses key vulnerabilities identified in the city's climate risk assessment, making it crucial for long-term resilience.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -381,7 +381,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Ribeir\u00e3o das Neves, especially given the high normalized risk scores for public health impacts from heatwaves, diseases, and floods. Improving healthcare access can directly mitigate these risks and enhance the city's resilience to climate-related health crises. This action is essential for protecting the well-being of the population, particularly vulnerable groups. Prioritizing healthcare access ensures that the city can effectively respond to and manage the health consequences of climate change.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -456,7 +456,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Improving food storage and distribution is a critical action for Ribeir\u00e3o das Neves, especially given the high risk of floods impacting food security. The city faces a normalized risk score of 0.956 for food security due to floods, indicating a severe vulnerability. Enhancing these systems can mitigate the impact of such hazards, ensuring a more stable food supply for the population. This action directly addresses a major climate-related vulnerability, making it a high priority for the city's resilience.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -532,7 +532,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Ribeir\u00e3o das Neves faces significant risks from floods, impacting public health, food security, and infrastructure. Maintaining and revitalizing riparian forests is crucial for mitigating these flood risks by stabilizing riverbanks and absorbing excess water. This action also supports biodiversity, which is a key impact area for the city. Given the high normalized risk scores for flood-related impacts, this action directly addresses critical vulnerabilities and enhances the city's resilience.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -605,7 +605,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the city's significant risks from multiple hazards. Ribeir\u00e3o das Neves faces extremely high risks from heatwaves, landslides, and floods, all of which severely impact public health. Relocation and environmental restoration can directly mitigate these risks by moving populations out of dangerous zones and stabilizing vulnerable areas. Given the high population density and very low access to public services, proactive measures like this are crucial for protecting residents and improving overall resilience.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -676,7 +676,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a valuable action for Ribeir\u00e3o das Neves. This initiative can enhance food security, which is a significant concern given the high normalized risk score for floods and droughts impacting food security. Additionally, urban gardens can contribute to public health by providing fresh produce and green spaces, addressing the very high public health risks from heatwaves, diseases, and floods. This action also aligns with improving the socio-economic factors in the city, particularly for areas with very low income, by offering opportunities for local food production and community engagement.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -748,7 +748,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant risk to food security from both droughts and floods in Ribeir\u00e3o das Neves. The city faces a very high normalized risk score for food security due to droughts (0.823) and an even higher score due to floods (0.956). Improving farms and fisheries can enhance resilience to these hazards, ensuring a more stable food supply for the population. Given the city's grassland/savanna biome, which is susceptible to such climate impacts, this action directly addresses a critical vulnerability.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -825,7 +825,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Ribeir\u00e3o das Neves faces significant risks from extreme weather events, particularly heatwaves, floods, and droughts, which severely impact public health and food security. A financial support program is crucial to help the community recover and adapt to these frequent and intense events. This initiative directly addresses the high normalized risk scores associated with these hazards, providing a vital safety net for vulnerable populations. Implementing such a program will enhance the city's resilience and reduce the socio-economic burden of climate-related disasters.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -902,7 +902,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is crucial given the high risks to public health identified in Ribeir\u00e3o das Neves. The city faces significant public health risks from heatwaves, diseases, and floods, all scoring very high in the CCRA. Improving health infrastructure can enhance the city's capacity to respond to these health crises. This makes the action a priority for protecting the well-being of the population.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -976,7 +976,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a significant concern for Ribeir\u00e3o das Neves, particularly due to the high risk of floods and droughts. Promoting behavior change in diets and reducing food waste can directly mitigate these risks by improving resource efficiency and resilience within the food system. Given the city's very low-income population, this action could also contribute to economic stability by reducing household expenses related to food. Furthermore, it aligns with broader sustainability goals by reducing waste emissions, which are substantial in this city.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1052,7 +1052,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Ribeir\u00e3o das Neves faces significant public health risks from heatwaves, diseases, and floods, all scoring very high in the CCRA. Social safety nets are crucial for protecting vulnerable populations during these extreme events. Given the city's 'very_low' low-income factor, these nets can provide essential support, ensuring basic needs are met and health outcomes are improved. This action directly addresses the immediate well-being of residents, making it a high priority for resilience building.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1126,7 +1126,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Ribeir\u00e3o das Neves faces significant risks from floods, with high normalized risk scores for infrastructure, food security, and public health. Implementing permeable pavements and increasing green areas can help manage stormwater runoff, reducing the severity of flooding and its impacts. This directly addresses critical vulnerabilities identified in the city's climate risk assessment. Furthermore, green infrastructure can offer co-benefits such as urban cooling, which is relevant given the city's high public health risk from heatwaves.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1198,7 +1198,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Ribeir\u00e3o das Neves faces significant risks from floods, with high normalized risk scores for infrastructure, food security, and public health. A hydrological monitoring system is crucial for early warning and effective disaster management. This system can provide real-time data, enabling proactive measures to protect lives and critical assets. Implementing this action will directly address the city's vulnerability to extreme weather events, enhancing overall resilience.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Ribeir\u00e3o das Neves given its significant risks from droughts, heatwaves, and floods, which severely impact public health, food security, and infrastructure. This approach leverages natural systems to mitigate these hazards, offering sustainable and cost-effective solutions. By restoring and protecting ecosystems, the city can enhance its resilience to climate change impacts. This action aligns with the city's need to address multiple high-risk areas simultaneously, providing broad benefits across environmental and social sectors.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1357,7 +1357,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Ribeir\u00e3o das Neves faces significant risks from droughts and floods, impacting water resources and public health. The city also has very low access to adequate water and sanitation, exacerbating these issues. Preserving and recovering water bodies directly addresses these vulnerabilities by improving water availability and quality. This action is crucial for enhancing the city's resilience to climate hazards and improving public health outcomes.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",
@@ -1429,7 +1429,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Ribeir\u00e3o das Neves faces significant risks from droughts, impacting water resources and food security. Implementing water capture and storage solutions directly addresses these critical vulnerabilities. Given the city's very low access to adequate water, this action is crucial for improving resilience. Prioritizing this action will help secure essential resources for the population and mitigate future drought impacts.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",

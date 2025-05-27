@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Establecer un plan de preparación y respuesta ante emergencias es crucial para Manaos, dada su alta vulnerabilidad a diversos fenómenos meteorológicos extremos. La ciudad se enfrenta a riesgos significativos de sequías, olas de calor, inundaciones y deslizamientos de tierra, todos los cuales tienen puntuaciones de riesgo normalizadas altas en múltiples impactos clave como la salud pública, la infraestructura y la seguridad energética. Un plan integral ayudará a mitigar las graves consecuencias de estos peligros, protegiendo tanto a la población como a los sistemas urbanos críticos. Esta medida proactiva es esencial paraAumentar la resiliencia en una ciudad frecuentemente expuesta a desastres relacionados con el clima.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Establecer un Plan de Preparación y Medidas de Respuesta de Emergencia en caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Here's the Spanish translation:\n\nDesarrollar diagnósticos y restaurar las Zonas de Especial Interés Social (ZEIS) es una prioridad para Manaos. La ciudad enfrenta riesgos significativos de diversas amenazas, incluyendo inundaciones, olas de calor y sequías, que afectan desproporcionadamente a las poblaciones vulnerables. Mejorar estas zonas puede aumentar la resiliencia y los resultados de salud pública para las comunidades de bajos ingresos. Esta acción aborda directamente los factores socioeconómicos de la ciudad y tiene como objetivo mitigar los impactos del cambio climático en sus residentes más susceptibles.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desarrollar diagnósticos y restaurar áreas de Zonas de Interés Social Especial (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nManaos está situada dentro de un bioma de selva tropical, lo que hace que la conservación de las áreas protegidas sea crucial para mantener el equilibrio ecológico. El fortalecimiento de estos programas aborda directamente la vulnerabilidad de la ciudad a peligros como sequías y olas de calor, que impactan significativamente la biodiversidad. Proteger estas áreas ayuda a preservar las defensas naturales contra los impactos del cambio climático y apoya la resiliencia general del ecosistema. Esta acción es una prioridad porque salvaguarda recursos naturales críticos y contribuye al bienestar a largo plazo de la ciudad y su entorno.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer los programas de control y conservación de áreas protegidas",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Mejorar el almacenamiento y la distribución de alimentos es una prioridad para Manaos debido al riesgo significativo que representan para la seguridad alimentaria de la ciudad tanto las sequías como las inundaciones. Las sequías tienen un alto puntaje de riesgo normalizado de 0.66, mientras que las inundaciones también representan una amenaza sustancial con un puntaje de 0.79. La mejora de estos sistemas puede ayudar a mitigar los impactos de estos peligros, asegurando un suministro de alimentos más estable para la población. Esta acción aborda directamente una vulnerabilidad crítica identificada en la evaluación de riesgos del cambio climático de la ciudad.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Mejoras en el almacenamiento/distribución de alimentos",
@@ -307,7 +307,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Las acciones para fortalecer la red de atención médica son cruciales para responder eficazmente al aumento de las cargas de salud que causarán los fenómenos climáticos. Esta acción aborda directamente la vulnerabilidad de la ciudad a las crisis de salud relacionadas con el clima, asegurando que la población reciba la atención médica necesaria. Dados los altos puntajes de riesgo normalizados para los impactos en la salud pública de varios peligros, esta acción es una prioridad crítica para la resiliencia de la ciudad.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer la red de atención médica para atender a las víctimas del clima",
@@ -382,7 +382,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nEl acceso a la atención médica es una prioridad crítica para Manaos, especialmente dada la vulnerabilidad de la ciudad a diversos peligros climáticos. La ciudad enfrenta altos riesgos por olas de calor, inundaciones y enfermedades, todo lo cual puede afectar gravemente la salud pública. Mejorar el acceso a la atención médica garantiza que la población pueda recibir atención médica oportuna y adecuada, mitigando las consecuencias para la salud de estos eventos. Esta acción aborda directamente los importantes riesgos para la salud pública identificados en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acceso a la atención médica",
@@ -457,7 +457,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "La ciudad de Manaos está ubicada en un bioma de selva tropical, lo que hace que los bosques de ribera sean cruciales para la salud y la estabilidad del ecosistema. La ciudad se enfrenta a importantes riesgos de sequías e inundaciones, los cuales pueden mitigarse con zonas ribereñas sanas. Estos bosques ayudan a regular el flujo del agua, a prevenir la erosión y a mantener la calidad del agua, abordando directamente impactos clave como los recursos hídricos y la infraestructura. Su revitalización es una medida proactiva para mejorar la resiliencia de la ciudad frente a los peligros climáticos.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Mantenimiento y Revitalización de Bosques Ribereños",
@@ -530,7 +530,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas sostenibles de uso de la tierra es una acción de alta prioridad para Manaos. La ciudad está ubicada dentro de un bioma de selva tropical, lo que la hace particularmente vulnerable a la degradación de la tierra. Dadas las significativas emisiones por el uso de la tierra, esta acción aborda directamente un contribuyente clave a la huella ambiental de la ciudad. La implementación de prácticas sostenibles puede ayudar a mitigar los riesgos climáticos, proteger la biodiversidad y apoyar la salud ecológica a largo plazo de la región. Esta acción es crucial para fomentar la resiliencia y asegurar el desarrollo sostenible de Manaos.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Fomentar prácticas sostenibles de uso de la tierra",
@@ -604,7 +604,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Manaus se enfrenta a riesgos significativos para la seguridad alimentaria tanto por sequías como por inundaciones, como lo indican las altas puntuaciones de riesgo normalizado. La mejora de las granjas y pesquerías aborda directamente estas vulnerabilidades alA mejorar la resiliencia y la productividad. Esta acción puede ayudar a estabilizar el suministro local de alimentos, lo cual es crucial para una ciudad con una gran población. Además, apoya losA los medios de vida de quienes dependen de estos sectores, contribuyendo al bienestar general de la comunidad.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Mejoras en granjas/pesquerías",
@@ -681,7 +681,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Manaos se enfrenta a riesgos significativos derivados de fenómenos meteorológicos extremos, como sequías, olas de calor e inundaciones, todos ellos con puntuaciones de riesgo normalizadas elevadas en diversos impactos clave como la salud pública, las infraestructuras y la seguridad energética. Un programa de apoyo financiero es crucial para ayudar a la ciudad y a sus residentes a recuperarse de los efectos devastadores de estos eventos. Esta acción aborda directamente la vulnerabilidad de la ciudad a los peligros climáticos, proporcionando una red de seguridad para su población y servicios críticos. Es una acción de alta prioridad porqueGfomenta la resiliencia yGmitiga las consecuencias socioeconómicas del cambio climático, especialmenteGteniendo en cuenta la población de muy bajos ingresos de la ciudad. Un programa de este tipo puedeGevitar una mayor desestabilización y apoyar los esfuerzos de recuperación a largo plazo.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Creación de un Programa de Apoyo Financiero para Abordar Eventos Climáticos Extremos",
@@ -758,7 +758,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Garantizar la disponibilidad de infraestructura de salud es crucial para Manaos, especialmente dada la vulnerabilidad de la ciudad a diversas amenazas climáticas. La ciudad enfrenta altos riesgos por olas de calor, enfermedades, inundaciones y deslizamientos de tierra, todo lo cual puede afectar significativamente la salud pública. Una infraestructura de salud sólida es esencial para responder eficazmente a estas crisis de salud y proporcionar la atención necesaria a la población. Esta acción aborda directamente la necesidad crítica de proteger la salud pública frente a los impactos del cambio climático.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidad de infraestructura sanitaria",
@@ -832,7 +832,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción aborda la necesidad crítica de reubicar poblaciones de áreas vulnerables, lo cual es particularmente relevante dados los altos riesgos de inundaciones, deslizamientos de tierra y olas de calor que afectan la infraestructura y la salud pública de Manaos. Al restaurar el medio ambiente en estas áreas desocupadas, la ciudad puede mejorar sus defensas naturales y reducir futuros daños relacionados con el clima. Esta medida proactiva ayuda a proteger tanto las vidas humanas como los sistemas ecológicos, contribuyendo a la resiliencia urbana a largo plazo. Es una prioridad porque mitiga directamente los impactos físicos y sociales de los peligros climáticos.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Reubicación y Restauración Ambiental en Áreas Vulnerables",
@@ -903,7 +903,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Las redes de seguridad social son cruciales para Manaos, dada su población de bajos ingresos \"muy_baja\". Estos programas pueden proporcionar apoyo esencial durante los desastres relacionados con el clima, que son frecuentes en la ciudad, incluyendo sequías, inundaciones y olas de calor. Al reforzar las redes de seguridad social, Manaos puede mejorar la resiliencia de sus residentes más vulnerables, asegurando que tengan recursos para afrontar y recuperarse de los impactos climáticos. Esta acción aborda directamente las vulnerabilidades socioeconómicas exacerbadas por el cambio climático, lo que la convierte en una alta prioridad para la ciudad.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de seguridad social",
@@ -977,7 +977,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Manaos se enfrenta a riesgos significativos derivados de sequías e inundaciones, ambos con un grave impacto en los recursos hídricos y la infraestructura. Un sistema de monitoreo hidrológico es crucial para proporcionar alertas tempranas y datos en tiempo real para gestionar estos peligros de manera efectiva. Este enfoque proactivo puede mitigar las graves consecuencias de los eventos climáticos extremos en los sistemas críticos de la ciudad y la salud pública. La implementación de un sistema de este tipo mejorará la resiliencia de la ciudad a los impactos del cambio climático, que ya son evidentes en las altas puntuaciones de riesgo normalizado para estos peligros.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoreo Hidrológico con Estaciones de Telemetría",
@@ -1049,7 +1049,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de pavimentos permeables y el aumento de las áreas verdes en las carreteras es una prioridad para Manaus. Esta acción aborda directamente el alto riesgo de inundaciones de la ciudad, ya que las superficies permeables ayudan a gestionar la escorrentía de aguas pluviales y a reducir la carga sobre los sistemas de drenaje. Además, el aumento de las áreas verdes puede mitigar los impactos de las olas de calor, que también representan un riesgo significativo para la salud pública y la infraestructura en Manaus. Esta medida contribuye a la resiliencia urbana al mejorar la gestión del agua y reducir los efectos de isla de calor urbano.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeables y aumentar las áreas verdes en las vías públicas",
@@ -1121,7 +1121,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de huertos urbanos puede contribuir a la seguridad alimentaria, que es un área de impacto clave para Manaos, especialmente considerando la vulnerabilidad de la ciudad a las sequías e inundaciones. Esta acción también promueve la producción local de alimentos, lo que podría reducir las emisiones asociadas con el transporte de alimentos. Además, los espacios verdes urbanos pueden ayudar a mitigar los impactos de las olas de calor, que son un peligro significativo para la salud pública y la infraestructura en Manaos. Si bien no es la máxima prioridad, ofrece múltiples beneficios colaterales para la ciudad.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementación de huertos urbanos",
@@ -1193,7 +1193,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción, centrada en el cambio de comportamiento en las dietas y el desperdicio de alimentos, es una prioridad para Manaos debido a su potencial para abordar las preocupaciones sobre la seguridad alimentaria. La ciudad se enfrenta a un riesgo moderado por las sequías, que pueden afectar significativamente las cadenas de suministro de alimentos. Reducir el desperdicio de alimentos contribuye directamente a una utilización más eficiente de los recursos y disminuye la carga sobre los sistemas alimentarios. Además, los cambios en los patrones dietéticos pueden reducir indirectamente la huella ambiental asociada con la producción de alimentos, ofreciendo un beneficio holístico a la resiliencia de la ciudad.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Cambio de comportamiento en dietas y desperdicio de alimentos",
@@ -1269,7 +1269,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "La adaptación basada en ecosistemas es una acción crucial para Manaos, dado su bioma de selva tropical y los altos riesgos asociados con sequías e inundaciones. Estos peligros impactan significativamente los recursos hídricos, la seguridad alimentaria y la salud pública, todo lo cual puede mitigarse a través de ecosistemas saludables. Proteger y restaurar los sistemas naturales puede mejorar la resiliencia contra estos impactos climáticos. Este enfoque también apoya la biodiversidad, que es altamente vulnerable al cambio climático en esta región.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptación basada en ecosistemas",
@@ -1356,7 +1356,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Manaos enfrenta riesgos significativos debido a las sequías, que impactan severamente los recursos hídricos y la seguridad energética. La implementación de soluciones de captación y almacenamiento de agua aborda directamente estas vulnerabilidades al asegurar un suministro de agua más estable. Esta acción es crucial para mitigar los efectos de los períodos secos prolongados y mejorar la resiliencia de la ciudad. Además, puede ayudar a salvaguardar la salud pública y la seguridad alimentaria, que también se ven amenazadas por la escasez de agua.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/almacenamiento de agua",
@@ -1432,7 +1432,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Manaos enfrenta riesgos significativos relacionados con los recursos hídricos, particularmente por sequías e inundaciones, los cuales tienen puntuaciones de riesgo normalizado altas. La ciudad también presenta un acceso inadecuado al agua moderado, lo que indica vulnerabilidades existentes. La preservación y recuperación de los cuerpos de agua aborda directamente estos problemas al mejorar la disponibilidad y calidad del agua, y al aumentar la resiliencia frente a eventos climáticos extremos. Esta acción es crucial para salvaguardar la salud pública, la seguridad alimentaria y la infraestructura, todos los cuales se ven altamente afectados por los peligros relacionados con el agua.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservación y Recuperación de Cuerpos de Agua",

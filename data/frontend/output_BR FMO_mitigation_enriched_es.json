@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una alta prioridad para Formosa. Esta acción aborda directamente las importantes emisiones por el uso de la tierra, que son el mayor contribuyente a las emisiones totales de la ciudad. Al integrar árboles con cultivos y ganado, la agrosilvicultura puede secuestrar carbono, mejorar la salud del suelo yAumentar la biodiversidad. Este enfoque también ofrece beneficios para la seguridad alimentaria y la gestión de los recursos hídricos, que son impactos clave que enfrentan altos riesgos de sequías en Formosa.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -79,7 +79,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Fortalecer los mecanismos para el control de la deforestación es una alta prioridad para Formosa. La ciudad tiene emisiones por uso de suelo muy altas, lo que indica una deforestación significativa. Esta acción aborda directamente uno de los principales contribuyentes a las emisiones generales de la ciudad. Controlar la deforestación ayudará a mitigar el cambio climático y a proteger el bioma local, que es de pastizales/sabana.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -151,7 +151,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la reforestación urbana y los corredores verdes es una acción de alta prioridad para Formosa. La ciudad se enfrenta a importantes riesgos derivados de sequías y olas de calor, que afectan a la salud pública, los recursos hídricos y la biodiversidad. El aumento de las zonas verdes puede ayudar a mitigar estos impactos proporcionando sombra, reduciendo los efectos de isla de calor urbano y mejorando la retención de agua. Esta acción también se alinea con la lucha contra las importantes emisiones derivadas del uso del suelo de la ciudad, contribuyendo a la resiliencia climática general y a la salud medioambiental.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -223,7 +223,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Here's the Spanish translation:\n\nEstablecer Programas Municipales de Pago por Servicios Ambientales (PSA) es una prioridad para Formosa. Esta acción aborda directamente las significativas emisiones por uso del suelo de la ciudad, que son el mayor contribuyente a sus emisiones totales. Al incentivar la gestión sostenible del suelo, los programas de PSA pueden ayudar a mitigar estas emisiones y proteger ecosistemas vitales. Además, dados los altos riesgos asociados con las sequías que impactan los recursos hídricos y la seguridad alimentaria, los PSA pueden apoyar la preservación de sistemas naturales que regulan los ciclos del agua y mantienen la productividad agrícola.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Aquí tienes la traducción al español:\n\nFormosa se enfrenta a riesgos significativos por las sequías, que afectan a los recursos hídricos y a la seguridad alimentaria. Facilitar la transferencia de tecnología para prácticas de conservación aborda directamente estas vulnerabilidades al promover una gestión sostenible de la tierra y el agua. Esta acción puede ayudar a mitigar las graves consecuencias de la sequía, que actualmente son factores de alto riesgo para la ciudad. Al mejorar la conservación, la ciudad puede aumentar su resiliencia a los impactos del cambio climático y proteger los recursos esenciales.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -367,7 +367,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque Formosa enfrenta riesgos significativos de seguridad alimentaria, particularmente por sequías e inundaciones. Las acciones de Asistencia Técnica y Extensión Rural (ATER) pueden apoyar directamente a los agricultores en la adaptación a estos impactos climáticos, mejorando las prácticas agrícolas y aumentando la resiliencia. Dados los factores socioeconómicos de bajos ingresos de la ciudad, dicho apoyo es crucial para las poblaciones vulnerables. Al fortalecer el sector agrícola, esta acción contribuye a la seguridad alimentaria general y la estabilidad económica frente al cambio climático.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -439,7 +439,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "La promoción de la agricultura orgánica es una prioridad para Formosa, especialmente dadas las importantes emisiones derivadas del uso del suelo en la ciudad. Esta acción puede ayudar a mitigar dichas emisiones al fomentar prácticas agrícolas más sostenibles. Además, puede mejorar la seguridad alimentaria, que es un área de impacto clave con alto riesgo de sequías en Formosa. Esta iniciativa también se alinea con la mejora de la biodiversidad, otra área afectada por las sequías y las olas de calor. En general, ofrece un enfoque multifacético para abordar los desafíos ambientales y de seguridad alimentaria.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -511,7 +511,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "La promoción de prácticas agrícolas sostenibles es una alta prioridad para Formosa. La ciudad enfrenta riesgos significativos para la seguridad alimentaria debido a sequías e inundaciones, las cuales pueden afectar gravemente la producción agrícola. Las prácticas sostenibles pueden mejorar la resiliencia a estos peligros, asegurando una producción de alimentos más estable. Dadas las sustanciales emisiones por el uso de la tierra, esta acción también ofrece una oportunidad crucial para mitigar el impacto ambiental. Además, puede apoyar a la población de bajos ingresos al fomentar medios de vida agrícolas más resilientes y potencialmente más rentables.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -583,7 +583,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar las prácticas de agricultura regenerativa es una acción de alta prioridad para Formosa. La ciudad enfrenta riesgos significativos por sequías, que impactan tanto los recursos hídricos como la seguridad alimentaria. La agricultura regenerativa puede mejorar la salud del suelo, aumentar la retención de agua e incrementar la resiliencia a las condiciones de sequía. Este enfoque aborda directamente las vulnerabilidades críticas identificadas en la evaluación de riesgos climáticos de la ciudad, convirtiéndolo en una inversión crucial para la sostenibilidad a largo plazo.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -655,7 +655,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Please translate the following text to Spanish:\nThis action is a priority because Formosa is a grassland/savanna biome, suggesting a significant agricultural sector, including livestock. Agroforestry practices can enhance biodiversity, improve soil health, and sequester carbon, which are crucial for a city with substantial land use emissions. Given the city's low-income socio-economic factors, incentives can encourage adoption and provide economic benefits to local farmers. This approach directly addresses environmental sustainability while supporting the local economy.\n\n**Spanish Translation:**\n\nEsta acción es una prioridad porque Formosa es un bioma de pastizales/sabana, lo que sugiere un sector agrícola significativo, incluida la ganadería. Las prácticas agroforestales pueden mejorar la biodiversidad, la salud del suelo y el secuestro de carbono, lo cual es crucial para una ciudad con emisiones sustanciales por el uso de la tierra. Dados los factores socioeconómicos de bajos ingresos de la ciudad, los incentivos pueden fomentar la adopción y proporcionar beneficios económicos a los agricultores locales. Este enfoque aborda directamente la sostenibilidad ambiental al tiempo que apoya la economía local.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -727,7 +727,7 @@
     "actionId": "icare_0127",
     "actionName": "Accelerate Environmental Regularization of Rural Properties",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda la regularización ambiental en propiedades rurales, lo que puede ayudar a mitigar las emisiones por el uso del suelo, un contribuyente significativo a las emisiones totales de la ciudad. Dada la gran extensión territorial de Formosa y sus sustanciales emisiones por el uso del suelo, esta acción es altamente relevante. También puede contribuir a mejores prácticas de gestión del suelo, reduciendo potencialmente los riesgos asociados con sequías e inundaciones que impactan la seguridad alimentaria y los recursos hídricos. Al asegurar prácticas ambientales adecuadas, la ciudad puede mejorar su resiliencia a los peligros climáticos y proteger su capital natural.",
     "action": {
       "ActionID": "icare_0127",
       "ActionName": "Acelerar la Regularización Ambiental de Propiedades Rurales",
@@ -799,7 +799,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la maquinaria agrícola de bajas emisiones es una prioridad debido a las importantes emisiones por el uso del suelo de la ciudad. Formosa tiene emisiones por el uso del suelo muy altas, lo que indica una contribución sustancial de las prácticas agrícolas. Reducir las emisiones en este sector aborda directamente una fuente importante de la huella de carbono general de la ciudad. Esta acción puede ayudar a mitigar los impactos del cambio climático y promover prácticas agrícolas más sostenibles dentro de la región.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Fomentar el uso de maquinaria agrícola de bajas emisiones",
@@ -871,7 +871,7 @@
     "actionId": "ipcc_0061",
     "actionName": "Soil Carbon Management in Croplands and Grasslands",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad debido a las importantes emisiones por uso del suelo de la ciudad, que son el mayor contribuyente a sus emisiones totales. La implementación de la gestión del carbono en el suelo en tierras de cultivo y pastizales aborda directamente esta importante fuente. Dado que el bioma de Formosa es de pastizal/sabana, esta acción se alinea bien con el contexto ambiental local. La mejora de la salud del suelo también puede ofrecer beneficios colaterales para la seguridad alimentaria, que es un área de impacto clave con alto riesgo de sequías en Formosa.",
     "action": {
       "ActionID": "ipcc_0061",
       "ActionName": "Gestión del Carbono del Suelo en Tierras de Cultivo y Pastizales",
@@ -942,7 +942,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente la seguridad alimentaria, que es un área de impacto clave para Formosa, especialmente dado el alto riesgo de sequías e inundaciones. Al priorizar los productos agroecológicos locales, la ciudad puede mejorar la resiliencia de sus sistemas alimentarios frente a los peligros climáticos. Esto también apoya las economías locales y las prácticas agrícolas sostenibles, contribuyendo al bienestar general de la comunidad. Además, se alinea con los factores socioeconómicos de bajos ingresos de la ciudad al crear potencialmente mercados estables para los productores locales.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar el control agroecológico de plagas es una acción relevante para Formosa, especialmente dadas las importantes emisiones por el uso del suelo de la ciudad. Este enfoque puede reducir la dependencia de los pesticidas sintéticos, que a menudo tienen una alta huella de carbono e impactos ambientales negativos. Al fomentar prácticas agrícolas sostenibles, la ciudad puede mejorar la salud del suelo y la biodiversidad, contribuyendo a la resiliencia general del ecosistema. Esta acción también se alinea con los esfuerzos para mejorar la seguridad alimentaria, un área de impacto clave para Formosa que enfrenta riesgos de sequía. Por lo tanto, es un paso valioso hacia un sector agrícola más sostenible y resiliente al clima.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Formosa enfrenta riesgos significativos para la seguridad alimentaria tanto por sequías como por inundaciones, lo que hace que la producción local de alimentos sea crucial para la resiliencia. Fomentar las prácticas agroecológicas puede mejorar la sostenibilidad y estabilidad del suministro de alimentos. Las cadenas de suministro cortas reducen las emisiones del transporte y pueden mejorar el acceso a alimentos frescos y saludables para la comunidad. Esta acción aborda directamente vulnerabilidades clave identificadas en la evaluación de riesgos de la ciudad.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Formosa dadas las importantes emisiones por uso del suelo de la ciudad. Estos programas pueden ayudar a promover prácticas agrícolas sostenibles, que son cruciales para reducir las grandes emisiones por uso del suelo. Además, con los altos riesgos para la seguridad alimentaria derivados de sequías e inundaciones, fomentar sistemas agrícolas resilientes es esencial. Esta acción puede contribuir tanto a la mitigación del cambio climático como a los esfuerzos de adaptación dentro de la ciudad.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Formosa enfrenta riesgos ambientales significativos, particularmente sequías que impactan los recursos hídricos y la seguridad alimentaria. Los incentivos fiscales ecológicos pueden fomentar el uso sostenible de la tierra y la gestión de los recursos, lo cual es crucial dadas las altas emisiones por el uso del suelo en la ciudad. Al promover prácticas ambientalmente responsables, esta acción puede ayudar a mitigar los graves impactos de los peligros climáticos y apoyar la resiliencia a largo plazo de la ciudad. Se alinea con la necesidad de abordar las causas fundamentales de la degradación ambiental y fomentar una economía más sostenible.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -1302,7 +1302,7 @@
     "actionId": "icare_0045",
     "actionName": "Promote organic and agroecological agriculture in the rural areas",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Fomentar la agricultura orgánica y agroecológica es una prioridad para Formosa dadas sus importantes emisiones por el uso del suelo. Esta acción aborda directamente la mayor fuente de emisiones de la ciudad, contribuyendo a la mitigación climática general. Además, puede mejorar la seguridad alimentaria, que es un área de impacto clave con alto riesgo de sequías. Este enfoque también apoya la biodiversidad, un área de impacto afectada por sequías y olas de calor. Finalmente, se alinea con las prácticas de gestión sostenible de la tierra, que son cruciales para una ciudad con una gran huella agrícola.",
     "action": {
       "ActionID": "icare_0045",
       "ActionName": "Promover la agricultura orgánica y agroecológica en las áreas rurales",
@@ -1374,7 +1374,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción promueve el transporte sostenible, lo cual es crucial dadas las altas emisiones de transporte de la ciudad. Fomentar el uso compartido de bicicletas, especialmente con bicicletas eléctricas, puede ayudar a reducir la dependencia de los combustibles fósiles y mejorar la calidad del aire. Aunque no aborda directamente los riesgos climáticos más apremiantes de la ciudad, como las sequías o las olas de calor, contribuye a la sostenibilidad urbana general. Esta iniciativa también se alinea con los esfuerzos para crear entornos urbanos más habitables y accesibles. Por lo tanto, es un paso valioso hacia una ciudad más verde.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",

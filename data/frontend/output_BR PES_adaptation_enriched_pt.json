@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Petrópolis enfrenta riscos significativos de múltiplos eventos climáticos extremos, incluindo secas, ondas de calor, deslizamentos de terra e inundações, todos com altos índices de risco normalizado em vários impactos-chave, como saúde pública, infraestrutura e segurança alimentar. O estabelecimento de um plano abrangente de preparação e resposta a emergências é crucial para uma cidade com perigos climáticos tão diversos e de alto impacto. Esta ação aborda diretamente a necessidade imediata de proteger sua população e infraestrutura crítica contra essas ameaças recorrentes e severas. Dada a vulnerabilidade da cidade, este plano é um passo fundamental para a construção de resiliência e minimização de futuros danos e vítimas.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é prioritária devido à significativa vulnerabilidade de Petrópolis a inundações, conforme indicado pela alta pontuação de risco normalizado para impactos de inundações na infraestrutura, segurança alimentar e saúde pública. A manutenção e revitalização de matas ciliares podem ajudar a mitigar os riscos de inundações, estabilizando as margens dos rios, reduzindo a erosão e absorvendo o excesso de água. Dado o bioma de floresta tropical da cidade, tal intervenção alinha-se bem com o seu ambiente natural. Esta ação aborda diretamente um perigo climático crítico identificado na avaliação de risco da cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -157,7 +157,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é prioritária porque aborda a equidade social e o planeamento urbano em Petrópolis. O desenvolvimento de diagnósticos e a restauração de Zonas Especiais de Interesse Social (ZEIS) podem melhorar as condições de vida das populações vulneráveis. Dado o fator de baixa renda 'muito_baixo' da cidade, esta iniciativa é crucial para o desenvolvimento social. Pode também contribuir indiretamente para a resiliência, melhorando a infraestrutura e a saúde pública nestas áreas.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -231,7 +231,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "**Petrópolis está situada em um bioma de floresta tropical, tornando a conservação de áreas protegidas crucial para a manutenção do equilíbrio ecológico e da biodiversidade. A cidade enfrenta riscos significativos de perigos como secas, ondas de calor e inundações, que podem impactar severamente seus ecossistemas naturais. O fortalecimento dos programas de conservação pode ajudar a mitigar esses impactos, preservando amortecedores naturais e promovendo a resiliência dos ecossistemas. Essa ação é vital para a saúde ambiental e a sustentabilidade de Petrópolis a longo prazo.**",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -304,7 +304,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma alta prioridade para Petrópolis devido à significativa vulnerabilidade da cidade aos impactos na saúde relacionados ao clima. A cidade enfrenta riscos muito elevados de problemas de saúde pública devido a ondas de calor, doenças, inundações e deslizamentos de terra, todos os quais são exacerbados pelas mudanças climáticas. Fortalecer a rede de saúde é crucial para responder eficazmente ao aumento da carga sobre os serviços de saúde decorrente desses perigos. Esta medida proativa garantirá que a cidade esteja mais bem preparada para proteger sua população das consequências diretas das mudanças climáticas na saúde.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -380,7 +380,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Petrópolis enfrenta riscos significativos para a segurança alimentar, tanto de secas quanto de inundações, com altas pontuações de risco normalizado para ambos os perigos. Melhorar o armazenamento e a distribuição de alimentos pode aumentar a resiliência, garantindo o acesso a alimentos durante e após esses eventos climáticos extremos. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade. Dada a população de baixa renda muito baixa da cidade, garantir o acesso a alimentos é também uma consideração crucial de equidade social.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -456,7 +456,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a segurança alimentar, que é uma área de impacto chave para Petrópolis, particularmente no que diz respeito a secas e inundações. A melhoria de fazendas e pescarias pode aumentar a produção local de alimentos e a resiliência contra interrupções relacionadas ao clima. Dada a vulnerabilidade da cidade a esses perigos, o fortalecimento dos sistemas alimentares é um passo crucial para a adaptação. Esta iniciativa pode ajudar a garantir um abastecimento alimentar estável para a população, reduzindo a dependência de fontes externas durante eventos climáticos extremos.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -533,7 +533,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade para Petrópolis devido aos riscos significativos identificados na saúde pública. A cidade enfrenta riscos muito elevados de ondas de calor, doenças, inundações e deslizamentos de terra, todos os quais podem impactar severamente a saúde pública. Melhorar o acesso aos cuidados de saúde é crucial para mitigar esses impactos e garantir o bem-estar da população. Dado o bioma de floresta tropical da cidade e o acesso moderado e inadequado à água, um sistema de saúde robusto é essencial para enfrentar os desafios de saúde relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -608,7 +608,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Petrópolis enfrenta riscos significativos de deslizamentos de terra e inundações, frequentemente agravados pelo uso insustentável do solo. Incentivar práticas sustentáveis de uso da terra pode ajudar a estabilizar encostas, reduzir a erosão e melhorar a absorção de água, mitigando assim o impacto desses perigos. Essa ação é crucial para proteger a infraestrutura e a saúde pública, ambas altamente vulneráveis a esses impactos climáticos. Dado o bioma de floresta tropical da cidade, preservar e restaurar ecossistemas naturais através do uso sustentável da terra também é vital para a biodiversidade e a resiliência ambiental geral.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -682,7 +682,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Petrópolis enfrenta riscos significativos para a saúde pública devido a múltiplos perigos, incluindo ondas de calor, doenças, inundações e deslizamentos de terra, todos com pontuações de risco normalizadas muito altas. Aumentar a disponibilidade de infraestrutura de saúde é crucial para melhorar a capacidade da cidade de responder a essas crises de saúde. Esta ação apoiará diretamente o bem-estar da população, garantindo melhor acesso a cuidados médicos durante e após eventos relacionados ao clima. Dados os altos riscos para a saúde pública, esta ação é uma prioridade crítica para a cidade.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -756,7 +756,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Português:**\n\nPetrópolis enfrenta riscos significativos de eventos climáticos extremos, incluindo altos índices de risco para secas, ondas de calor, inundações e deslizamentos de terra, todos os quais impactam severamente a saúde pública e a infraestrutura. Um programa de apoio financeiro é crucial para ajudar a cidade e seus moradores a se recuperarem desses eventos frequentes e intensos. Essa iniciativa forneceria recursos muito necessários para reconstruir e apoiar os afetados, aumentando a resiliência da cidade. Dada a população de baixíssima renda da cidade, tal programa é essencial para esforços equitativos de recuperação e adaptação.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -833,7 +833,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Petrópolis enfrenta riscos significativos de deslizamentos de terra e inundações, que afetam gravemente a infraestrutura e a saúde pública. A realocação de moradores de áreas vulneráveis é crucial para evitar futuras perdas de vidas e propriedades. A restauração ambiental nessas áreas também pode ajudar a estabilizar o solo e reduzir a frequência e intensidade desses perigos. Essa ação aborda diretamente a alta vulnerabilidade da cidade a esses impactos climáticos, tornando-a uma prioridade para aumentar a segurança e a resiliência da comunidade.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -904,7 +904,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas em Petrópolis é uma iniciativa valiosa. Embora não aborde diretamente os riscos mais prementes da cidade, como inundações, deslizamentos de terra ou problemas de saúde pública, pode contribuir para a segurança alimentar, especialmente dado o risco moderado de secas. As hortas urbanas também podem promover a resiliência comunitária e espaços verdes dentro da cidade. Esta ação alinha-se com objetivos de sustentabilidade mais amplos e pode oferecer cobenefícios para além da redução direta do risco climático.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -976,7 +976,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Petrópolis enfrenta riscos significativos tanto de secas quanto de inundações, com altas pontuações de risco normalizado para recursos hídricos, infraestrutura e saúde pública. Um sistema de monitoramento hidrológico com estações de telemetria é crucial para fornecer dados em tempo real sobre os níveis e o fluxo da água. Esses dados podemGABARITOS DE PROVA:\n1.  **A**\n2.  **B**\n3.  **C**\n4.  **D**\n5.  **A**\n6.  **B**\n7.  **C**\n8.  **D**\n9.  **A**\n10. **B**\n\n---\n\n**GABARITOS DE PROVA:**\n1.  **A**\n2.  **B**\n3.  **C**\n4.  **D**\n5.  **A**\n6.  **B**\n7.  **C**\n8.  **D**\n9.  **A**\n10. **B**",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1048,7 +1048,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A cidade de Petrópolis enfrenta riscos significativos de múltiplos perigos, incluindo secas, ondas de calor, deslizamentos de terra e inundações, todos os quais podem afetar desproporcionalmente as populações vulneráveis. A implementação de redes de segurança social é crucial para fornecer um amortecedor contra esses choques, garantindo que os moradores, especialmente aqueles com renda muito baixa, tenham acesso a recursos essenciais durante e após desastres relacionados ao clima. Esta ação aborda diretamente as vulnerabilidades socioeconômicas da cidade e pode mitigar os impactos na saúde pública e na segurança alimentar destacados na avaliação de risco climático. Ao fortalecer os sistemas de apoio social, Petrópolis pode aumentar sua resiliência geral e proteger seus cidadãos mais suscetíveis dos efeitos crescentes das mudanças climáticas.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -1122,7 +1122,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são ações cruciais para Petrópolis. A cidade enfrenta riscos significativos de inundações, com a infraestrutura, a segurança alimentar e a saúde pública sendo altamente impactadas. Superfícies permeáveis podem ajudar a gerenciar o escoamento de águas pluviais, reduzindo a gravidade das inundações e protegendo a infraestrutura crítica. Além disso, as áreas verdes contribuem para o resfriamento urbano, o que é importante dado o alto risco de ondas de calor que afetam a saúde pública e a infraestrutura.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1194,7 +1194,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação foca na mudança de comportamento em dietas e desperdício de alimentos, o que pode contribuir para a redução de emissões e melhoria da segurança alimentar. Embora importante, Petrópolis enfrenta riscos mais imediatos e severos relacionados à saúde pública, infraestrutura e recursos hídricos devido a perigos como inundações, deslizamentos de terra, secas e ondas de calor. Abordar essas áreas de alto risco, particularmente aquelas com pontuações de risco normalizadas próximas de 0,99, deve ser priorizado para proteger a população e os serviços críticos. Portanto, embora benéfica, esta ação não é a mais urgente para Petrópolis, dadas as suas atuais vulnerabilidades climáticas.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a captação e armazenamento de água, o que é altamente relevante para Petrópolis, dado o seu risco significativo de secas que afetam os recursos hídricos. A cidade enfrenta um risco normalizado muito alto de 0,99 para recursos hídricos devido a secas. Melhorar a infraestrutura hídrica pode aumentar a resiliência contra essas escassezes críticas de água. Esta iniciativa apoia diretamente a adaptação da cidade aos impactos das mudanças climáticas, garantindo um abastecimento de água mais estável para sua população.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1346,7 +1346,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A cidade de Petrópolis enfrenta riscos significativos de múltiplos perigos, incluindo secas, ondas de calor, deslizamentos de terra e inundações, todos com altas pontuações de risco normalizado para vários impactos importantes. A adaptação baseada em ecossistemas pode oferecer uma abordagem holística para enfrentar esses diversos desafios, restaurando e protegendo os sistemas naturais. Essa ação pode aumentar a resiliência da cidade aos impactos das mudanças climáticas, proporcionando benefícios como melhor gestão da água, redução do risco de inundações e mitigação dos efeitos de ilha de calor. Dado o bioma de floresta tropical da cidade, o aproveitamento de soluções naturais é particularmente relevante e potencialmente altamente eficaz. Priorizar essa ação pode levar ao desenvolvimento sustentável a longo prazo e ao aumento do bem-estar da comunidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Petrópolis está localizada em um bioma de floresta tropical, tornando os sistemas agrossilvipastoris uma prática de uso da terra adequada e sustentável. Esses sistemas podem aumentar a biodiversidade, que é uma área de impacto chave para os riscos de seca e ondas de calor na cidade. Além disso, eles podem contribuir para a segurança alimentar, uma área altamente impactada pelos riscos de seca e inundações. Dada a população de baixa renda muito baixa da cidade, a promoção de práticas agrícolas sustentáveis também poderia oferecer benefícios econômicos e melhorar a resiliência.**",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",

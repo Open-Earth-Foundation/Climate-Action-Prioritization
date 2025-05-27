@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a high-priority action for Miranda. This approach can significantly enhance food security, which is a key impact area with a moderate risk score from droughts and floods. It also contributes to biodiversity, an area with moderate risk from both droughts and heatwaves. Furthermore, agroforestry can improve water resource management, addressing a critical impact area with a high risk from droughts. This action aligns well with the city's grassland/savanna biome, promoting sustainable land use and potentially reducing the substantial land use emissions.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -79,7 +79,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a high-priority action for Miranda. This initiative directly addresses the significant land use emissions, which are the largest contributor to the city's total emissions. By increasing green spaces, it can also help mitigate the impacts of heatwaves, a hazard with a high risk score for infrastructure and public health. Furthermore, it can enhance biodiversity, which is currently at risk from both droughts and heatwaves. This action offers multiple co-benefits, improving environmental health and urban resilience.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -151,7 +151,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Strengthening mechanisms for deforestation control is a high priority for Miranda, given the significant land use emissions. The city's biome is grassland/savanna, which is particularly vulnerable to deforestation and land degradation. Controlling deforestation directly addresses a major source of emissions and helps preserve the natural environment. This action is crucial for mitigating climate change impacts and protecting biodiversity in the region.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -223,7 +223,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Facilitating technology transfer for conservation practices is a crucial action for Miranda. Given the city's significant land use emissions and its grassland/savanna biome, promoting sustainable land management is essential. This action can help mitigate environmental degradation and support the long-term health of the ecosystem. It aligns with the need to address the city's high total emissions, particularly those from land use, by fostering more sustainable practices.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -295,7 +295,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Miranda due to the city's significant land use emissions and its grassland/savanna biome. These programs can incentivize sustainable land management practices, which are crucial for mitigating climate change and preserving biodiversity. Given the high normalized risk scores for droughts impacting water resources and food security, PES can also support ecosystem health that underpins these vital services. This action directly addresses the environmental challenges faced by Miranda, promoting long-term resilience and sustainability.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -367,7 +367,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Conducting Technical Assistance and Rural Extension (ATER) actions is a priority for Miranda, especially given its significant land use emissions. This action can help implement sustainable agricultural practices, which are crucial for a city with a large grassland/savanna biome. By improving rural practices, the city can mitigate environmental impacts and enhance resilience. This initiative supports the local economy while addressing key environmental challenges.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -439,7 +439,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Supporting regenerative agriculture practices is a priority for Miranda given its significant land use emissions, which are the largest contributor to the city's total emissions. This action directly addresses the root cause of these emissions by promoting sustainable farming methods. Furthermore, the city's biome is grassland/savanna, which can greatly benefit from practices that improve soil health and carbon sequestration. This initiative also aligns with addressing food security and water resource impacts, both of which are key climate risks for Miranda, particularly concerning droughts.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -511,7 +511,7 @@
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Promoting organic farming is a relevant action for Miranda, especially considering the city's significant land use emissions. This initiative can help mitigate these emissions by fostering more sustainable agricultural practices. Furthermore, it could enhance food security, which is a key impact area for Miranda, particularly given the city's vulnerability to droughts and floods. This action also aligns with the city's grassland/savanna biome, potentially supporting biodiversity and ecosystem health. Overall, it presents a multi-faceted approach to address environmental and food security concerns.",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -583,7 +583,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Promoting sustainable agricultural practices is a high priority for Miranda. The city faces significant risks from droughts, which severely impact water resources and food security. Given that Miranda's biome is grassland/savanna, agricultural practices are likely a major component of its land use, and unsustainable methods could exacerbate these climate hazards. This action directly addresses key vulnerabilities by fostering resilience in food production and water management, which are critical for the well-being of the population and the local economy.",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -655,7 +655,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Miranda's significant land use emissions suggest a need for sustainable land management. Agroforestry practices can help mitigate these emissions by sequestering carbon and improving soil health. Given the city's grassland/savanna biome, integrating trees into livestock systems can also enhance biodiversity and provide additional ecosystem services. This action aligns with addressing environmental concerns and promoting resilient agricultural practices in the region.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -727,7 +727,7 @@
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Encouraging the use of low-emission agricultural machinery is a priority for Miranda due to the city's significant land use emissions. With land use emissions being the largest contributor to the city's total emissions, addressing this sector is crucial for climate action. This action directly targets a major source of greenhouse gases, aligning with the need to reduce the city's overall carbon footprint. By promoting cleaner agricultural practices, Miranda can make substantial progress towards its environmental goals.",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -799,7 +799,7 @@
         "actionId": "icare_0127",
         "actionName": "Accelerate Environmental Regularization of Rural Properties",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Accelerating environmental regularization of rural properties is a priority for Miranda given the significant land use emissions, which are the largest contributor to the city's total emissions. This action directly addresses the environmental impact of rural activities, which is crucial for a city with a large area and a grassland/savanna biome. Furthermore, it can help mitigate risks related to droughts and floods, which are identified hazards impacting water resources and food security. Improving environmental practices in rural areas is essential for the long-term sustainability and resilience of the city.",
         "action": {
             "ActionID": "icare_0127",
             "ActionName": "Accelerate Environmental Regularization of Rural Properties",
@@ -871,7 +871,7 @@
         "actionId": "ipcc_0061",
         "actionName": "Soil Carbon Management in Croplands and Grasslands",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Miranda has a significant grassland/savanna biome, indicating a strong potential for soil carbon management. This action directly addresses land use emissions, which are exceptionally high in Miranda, representing the largest source of emissions. By enhancing soil carbon, the city can mitigate these emissions and improve ecosystem health. This makes the action a high priority for environmental sustainability and climate resilience.",
         "action": {
             "ActionID": "ipcc_0061",
             "ActionName": "Soil Carbon Management in Croplands and Grasslands",
@@ -942,7 +942,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Prioritizing locally produced agroecological products can significantly enhance food security, which is a key impact area for Miranda, especially given its vulnerability to droughts and floods. This action supports local economies and promotes sustainable agricultural practices, aligning with the city's grassland/savanna biome. Furthermore, it can contribute to reducing land use emissions by potentially decreasing the carbon footprint associated with long-distance transportation of food. This initiative also indirectly supports public health by providing healthier food options and reducing exposure to harmful chemicals often associated with conventional agriculture.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -1014,7 +1014,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a priority for Miranda, especially given the city's significant land use emissions. This action can help reduce the reliance on synthetic pesticides, which often have a high carbon footprint associated with their production and application. Furthermore, it supports sustainable agricultural practices that can enhance soil health and biodiversity, contributing to overall ecosystem resilience. By fostering healthier agricultural systems, this initiative can indirectly support food security, which is a key impact area for Miranda, particularly concerning droughts and floods. This action aligns with a holistic approach to climate resilience by addressing both mitigation and adaptation aspects within the agricultural sector.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1086,7 +1086,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a priority for Miranda, given its significant land use emissions. These incentives can encourage sustainable land management practices, which are crucial for reducing the city's largest source of emissions. By promoting ecological preservation and restoration, this action can also help mitigate risks to biodiversity, a key impact area identified in the city's climate risk assessment. Furthermore, such initiatives can foster a more resilient local economy by valuing natural capital. This action aligns with the city's need to address environmental challenges through economic mechanisms.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1158,7 +1158,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for Miranda. This action can enhance food security, which is a key impact area with moderate to high risk from both droughts and floods. It also aligns with the city's grassland/savanna biome, promoting sustainable land use practices. Furthermore, it can contribute to reducing land use emissions, which are currently very high in Miranda. This initiative supports local resilience and economic stability.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1230,7 +1230,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for Miranda, a city with a significant grassland/savanna biome and substantial land use emissions. This action can help promote sustainable agricultural practices, which are crucial for mitigating environmental impact in a region heavily reliant on land use. By encouraging eco-friendly farming, it can also contribute to biodiversity preservation and potentially improve food security. Given the city's moderate low-income population, such programs could also offer economic benefits to local farmers. This initiative aligns with addressing the city's environmental challenges and fostering long-term resilience.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1302,7 +1302,7 @@
         "actionId": "ipcc_0053",
         "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Afforestation, reforestation, and forest ecosystem restoration are crucial for Miranda given its significant land use emissions. These activities directly address the largest source of emissions in the city, which is land use. Furthermore, they can help mitigate the impacts of droughts and heatwaves, which are identified hazards in the city's CCRA, by improving water retention and reducing temperatures. This action also supports biodiversity, an impact area already at risk from both droughts and heatwaves. Prioritizing this action offers multiple co-benefits for both climate mitigation and adaptation.",
         "action": {
             "ActionID": "ipcc_0053",
             "ActionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
@@ -1374,7 +1374,7 @@
         "actionId": "c40_0042",
         "actionName": "Biodiversity Expansion",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action focuses on biodiversity expansion, which is a relevant concern for Miranda given its grassland/savanna biome. The city faces risks to biodiversity from both droughts and heatwaves, as indicated by the CCRA data. Expanding biodiversity can enhance ecosystem resilience, helping the city better adapt to these climate hazards. This proactive measure supports the long-term ecological health and stability of the region.",
         "action": {
             "ActionID": "c40_0042",
             "ActionName": "Biodiversity Expansion",

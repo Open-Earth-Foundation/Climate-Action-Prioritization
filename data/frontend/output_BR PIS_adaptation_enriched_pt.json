@@ -7,7 +7,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é prioritária porque aborda diretamente a restauração das Zonas Especiais de Interesse Social (ZEIS). Dada a alta população de baixa renda da cidade e os problemas significativos com saneamento inadequado, melhorar essas áreas é crucial para a saúde e o bem-estar públicos. A restauração dessas zonas pode levar a melhores condições de vida e redução da vulnerabilidade para as populações mais em risco. Isso se alinha com a necessidade da cidade de mitigar os riscos associados à saúde pública, especialmente considerando os altos índices de risco normalizado para ondas de calor, doenças e inundações.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -81,7 +81,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Fortalecer os programas de controle e conservação das áreas protegidas é uma prioridade para Palmeira dos Índios. O bioma da cidade é classificado como desértico, tornando seus ecossistemas naturais particularmente vulneráveis. Proteger essas áreas é crucial para manter a biodiversidade, que está em risco tanto por secas quanto por ondas de calor. Dada a alta população de baixa renda da cidade, esses esforços de conservação também podem contribuir para meios de subsistência sustentáveis e gestão de recursos para comunidades vulneráveis.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -154,7 +154,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Estabelecer um plano de resposta a emergências para eventos climáticos extremos é crucial para Palmeira dos Índios. A cidade enfrenta riscos significativos de ondas de calor, inundações e secas, que podem impactar severamente a saúde pública, a segurança alimentar e a infraestrutura. Um plano abrangente ajudará a mitigar esses riscos e a proteger a população. Dados os altos escores de risco normalizado para a saúde pública devido a ondas de calor e doenças, e para a segurança alimentar devido a inundações, esta ação é de alta prioridade. Garantirá que a cidade esteja mais bem preparada para responder a futuros desastres relacionados ao clima.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -231,7 +231,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma prioridade crítica para Palmeira dos Índios. A cidade enfrenta riscos significativos de ondas de calor, que possuem uma pontuação de risco normalizado muito alta para a saúde pública. Além disso, doenças e deslizamentos de terra também representam ameaças substanciais à saúde pública. Um sistema de saúde aprimorado é essencial para responder eficazmente a essas emergências de saúde relacionadas ao clima e proteger o bem-estar da população.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -307,7 +307,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma prioridade para Palmeira dos Índios, especialmente dado o alto risco de insegurança alimentar devido a secas e inundações. Essas hortas podem aumentar a produção local de alimentos, proporcionando um abastecimento alimentar mais resiliente para a comunidade. Além disso, podem contribuir para a saúde pública, oferecendo acesso a produtos frescos e promovendo estilos de vida mais saudáveis. Essa ação também se alinha aos esforços para melhorar o bem-estar geral dos moradores em uma cidade que enfrenta desafios socioeconômicos significativos.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -379,7 +379,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido ao alto risco da cidade a vários perigos, particularmente inundações e deslizamentos de terra, que impactam diretamente a infraestrutura e a saúde pública. Dada a alta porcentagem da população com saneamento inadequado, a realocação e a restauração ambiental podem melhorar significativamente as condições de vida e reduzir a vulnerabilidade. Os fatores socioeconômicos de baixa renda da cidade também sugerem que muitos moradores podem viver em moradias precárias, tornando-os mais suscetíveis a riscos ambientais. Abordar essas questões por meio desta ação pode levar a melhorias substanciais na segurança e no bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -450,7 +450,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Palmeira dos Índios. A cidade enfrenta riscos significativos de ondas de calor e doenças, ambos com impacto direto na saúde pública. Com uma alta pontuação de risco normalizado para a saúde pública devido a ondas de calor (0.99) e doenças (0.99), melhorar o acesso à saúde é essencial para mitigar esses impactos. Além disso, a alta população de baixa renda da cidade e o acesso inadequado (moderado a alto) a serviços de água e saneamento sugerem uma população vulnerável que se beneficiaria grandemente de uma infraestrutura e serviços de saúde aprimorados. Abordar esta ação melhorará diretamente o bem-estar e a resiliência da comunidade contra os desafios de saúde atuais e futuros.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -525,7 +525,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorar o armazenamento e a distribuição de alimentos é uma alta prioridade para Palmeira dos Índios. A cidade enfrenta riscos significativos para a segurança alimentar devido a inundações, conforme indicado por uma pontuação de risco normalizado muito alta. Dado o bioma desértico da cidade, sistemas alimentares eficientes são cruciais para a resiliência. Esta ação aborda diretamente uma vulnerabilidade crítica, garantindo melhor acesso a alimentos para a população. Priorizar esta ação ajudará a mitigar os impactos dos perigos climáticos no bem-estar da comunidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -601,7 +601,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Palmeira dos Índios. Esta ação aborda diretamente o alto risco de inundações na cidade, conforme indicado pela significativa pontuação de risco normalizado para segurança alimentar e infraestrutura devido a inundações. Ao melhorar a gestão da água da chuva, pode-se mitigar o impacto de chuvas intensas, o que é crucial dada a vulnerabilidade da cidade. Além disso, o aumento de áreas verdes pode ajudar a reduzir o impacto das ondas de calor, uma grande preocupação de saúde pública na cidade. Esta ação também contribui para a resiliência urbana geral e o bem-estar ambiental.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -673,7 +673,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos de segurança alimentar identificados em Palmeira dos Índios, particularmente decorrentes de secas e inundações. A melhoria das fazendas e pescarias pode aprimorar diretamente a produção local de alimentos e a resiliência contra esses perigos. Dado o bioma \"desértico\" da cidade, práticas agrícolas sustentáveis são cruciais para a segurança alimentar a longo prazo. Esta iniciativa também pode contribuir para a economia local e melhorar os meios de subsistência dos moradores.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -750,7 +750,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A disponibilidade de infraestrutura de saúde é uma prioridade crítica para Palmeira dos Índios. A cidade enfrenta riscos significativos de ondas de calor e doenças, ambos com uma alta pontuação de risco normalizado para a saúde pública. Com uma alta proporção de residentes de baixa renda e acesso inadequado à água e saneamento de moderado a alto, a população é particularmente vulnerável. Melhorar a infraestrutura de saúde é essencial para enfrentar esses desafios de saúde pública existentes e construir resiliência contra futuros impactos climáticos.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -824,7 +824,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma prioridade para Palmeira dos Índios, especialmente dadas as suas significativas emissões provenientes do uso da terra. O bioma da cidade é classificado como deserto, o que torna a gestão da terra crucial para a estabilidade ambiental e a preservação dos recursos. A implementação dessas práticas pode ajudar a mitigar os altos riscos associados às secas, que impactam severamente os recursos hídricos e a segurança alimentar. Além disso, o uso sustentável da terra pode contribuir para a redução das emissões totais e para a melhoria da resiliência da cidade aos impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -898,7 +898,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Palmeira dos Índios, especialmente considerando seu bioma desértico e o alto risco de secas. Essa abordagem pode ajudar a mitigar os impactos da escassez de água e da insegurança alimentar, que são preocupações significativas para a cidade. Ao restaurar e proteger os ecossistemas naturais, a cidade pode aumentar sua resiliência aos perigos das mudanças climáticas. Essa ação também apoia a biodiversidade, que atualmente apresenta baixo risco, mas poderia ser ainda mais protegida por meio de tais iniciativas.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -985,7 +985,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Palmeira dos Índios está localizada em um bioma semiárido e enfrenta riscos significativos de secas, que impactam os recursos hídricos e a segurança alimentar. A manutenção e revitalização das matas ciliares podem ajudar a mitigar esses impactos, melhorando a retenção de água, reduzindo a erosão e apoiando os ecossistemas locais. Essa ação é crucial para aumentar a resiliência da cidade às condições de seca e proteger recursos naturais vitais. Dados os altos riscos associados às secas, essa ação é uma prioridade para o bem-estar ambiental e socioeconômico da cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -1058,7 +1058,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Portuguese:Esta ação, focada na mudança de comportamento em dietas e desperdício alimentar, é uma prioridade dados os significativos riscos de segurança alimentar da cidade, particularmente devido a inundações. A redução do desperdício alimentar pode aliviar diretamente a pressão sobre os sistemas alimentares e melhorar a resiliência. Além disso, a alta proporção de famílias de baixa renda sugere que a utilização eficiente de alimentos e a redução do desperdício poderiam ter impactos positivos substanciais nos orçamentos domésticos e no bem-estar geral. Embora não aborde diretamente os riscos mais graves para a saúde pública decorrentes de ondas de calor e doenças, esta ação contribui para um ambiente urbano mais sustentável e resiliente.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1134,7 +1134,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Palmeira dos Índios enfrenta riscos significativos de secas e inundações, que impactam os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico pode fornecer dados cruciais para alerta precoce e gestão eficaz da água. Essa abordagem proativa é essencial para uma cidade com acesso inadequado moderado à água e saneamento altamente inadequado, pois pode ajudar a mitigar os impactos de eventos climáticos extremos. O monitoramento aprimorado também pode apoiar um melhor planejamento para infraestrutura e saúde pública, que também são vulneráveis a esses perigos.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1206,7 +1206,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de redes de segurança social é uma ação crucial para Palmeira dos Índios. A cidade enfrenta desafios significativos, incluindo uma alta população de baixa renda e acesso inadequado a serviços públicos, particularmente saneamento. As redes de segurança social podem fornecer apoio essencial a comunidades vulneráveis, ajudando a mitigar os impactos dessas disparidades socioeconômicas. Além disso, dados os altos riscos de perigos como secas, ondas de calor e inundações, esses programas podem oferecer um amortecedor vital contra choques relacionados ao clima, melhorando a resiliência geral da comunidade. Esta ação aborda diretamente o bem-estar da população e pode aliviar pressões exacerbadas por estressores ambientais.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -1280,7 +1280,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Palmeira dos Índios enfrenta riscos significativos de eventos climáticos extremos, incluindo altos riscos de ondas de calor e inundações que afetam a saúde pública e a segurança alimentar. Um programa de apoio financeiro é crucial para ajudar a comunidade a se recuperar e se adaptar a esses perigos recorrentes. Esta iniciativa pode proporcionar o tão necessário alívio e construir resiliência contra futuros choques climáticos. Abordar esses impactos é vital para o bem-estar e a estabilidade da população da cidade.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1357,7 +1357,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A cidade de Palmeira dos Índios está localizada em um bioma semiárido e enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar. A cidade também possui um acesso inadequado à água em nível moderado, evidenciando vulnerabilidades existentes. A preservação e recuperação de corpos d'água são cruciais para mitigar esses riscos relacionados à seca e melhorar a disponibilidade de água para a população. Esta ação aborda diretamente uma necessidade ambiental e social crítica dentro da cidade.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservação e Recuperação de Corpos Hídricos",
@@ -1429,7 +1429,7 @@
     "actionId": "ipcc_0087",
     "actionName": "Infrastructure retrofitting",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A requalificação da infraestrutura é uma ação crucial para Palmeira dos Índios, especialmente dados os altos riscos associados a ondas de calor, inundações e deslizamentos de terra. A cidade enfrenta uma vulnerabilidade infraestrutural significativa, conforme indicado por altas pontuações de risco normalizado para esses perigos. A requalificação da infraestrutura existente pode aumentar a sua resiliência contra esses impactos climáticos, protegendo serviços e bens essenciais. Esta medida proativa é vital para salvaguardar o bem-estar da comunidade e garantir a estabilidade urbana a longo prazo.",
     "action": {
       "ActionID": "ipcc_0087",
       "ActionName": "Retrofitting de infraestrutura",

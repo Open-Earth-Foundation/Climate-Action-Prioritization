@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response measures is crucial for Sorocaba given its high risks from extreme weather events. The city faces significant infrastructure and public health risks from heatwaves, landslides, and floods, all scoring 0.99 in normalized risk. A comprehensive plan would help mitigate these severe impacts, protecting both citizens and critical infrastructure. This proactive approach is essential for a city with such diverse and high-scoring climate hazards.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses the development and restoration of Special Social Interest Zones (ZEIS). Given that Sorocaba has a \"very_low\" rating for low income, improving these areas can significantly benefit vulnerable populations. Enhancing these zones can lead to better living conditions and access to services for residents. This initiative aligns with the city's need to improve socio-economic factors and public well-being.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -158,7 +158,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Strengthening programs for control and conservation of protected areas is a priority for Sorocaba. The city's biome is tropical rainforest, which is a critical ecosystem requiring protection. Given the city's exposure to hazards like droughts, heatwaves, and floods, conserving these areas can help mitigate some of their impacts. Healthy ecosystems provide natural defenses and support biodiversity, which is at risk from these hazards. This action contributes to the long-term resilience and environmental health of Sorocaba.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -231,7 +231,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's vulnerability to floods, as indicated by the high normalized risk score for infrastructure, public health, and food security impacts from floods. Riparian forests play a crucial role in flood control by stabilizing riverbanks, reducing erosion, and absorbing excess water. Their maintenance and revitalization can significantly mitigate the severe impacts of flooding on the city's infrastructure and public health. This measure also supports biodiversity, which is a key impact area for both droughts and heatwaves in Sorocaba.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -304,7 +304,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Sorocaba due to the city's significant risks from multiple hazards. The city faces extreme risks from heatwaves, landslides, and floods, all of which severely impact infrastructure and public health. Relocation and environmental restoration in vulnerable areas directly addresses these critical issues by moving populations out of harm's way and mitigating environmental degradation that exacerbates these hazards. Given the high normalized risk scores for infrastructure and public health across several hazards, this action is crucial for protecting both the city's physical assets and its residents' well-being.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -375,7 +375,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a valuable action for Sorocaba. This initiative can enhance local food security, especially given the city's vulnerability to floods impacting food supply. Additionally, urban gardens contribute to biodiversity and can help mitigate the urban heat island effect, which is crucial as the city faces high risks from heatwaves. This action also promotes community engagement and green spaces within the urban environment.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -447,7 +447,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a crucial action for Sorocaba. The city faces significant risks from hazards like floods, landslides, and droughts, which can be exacerbated by unsustainable land use. Given the high population density and the presence of a tropical rainforest biome, protecting and managing land effectively is vital for environmental stability and public safety. This action can help mitigate the impacts of these hazards, improve resilience, and contribute to the overall well-being of the community.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -521,7 +521,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a significant concern for Sorocaba, particularly due to the high risk of floods. Floods can severely disrupt food supply chains and damage agricultural land, leading to food shortages. Improving food storage and distribution can mitigate these impacts by ensuring a more resilient food system. This proactive measure helps safeguard the population's access to essential resources during and after climate-related events.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -597,7 +597,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Strengthening the healthcare network is a critical priority for Sorocaba. The city faces significant risks from heatwaves, landslides, and floods, all of which can severely impact public health. With multiple hazards posing a high risk to public health, an enhanced healthcare system is essential to manage the increased demand for medical services. This action directly addresses the city's vulnerability to climate-related health crises, ensuring the population receives adequate care during extreme events.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -673,7 +673,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Sorocaba, especially given the city's vulnerability to various hazards. The city faces significant risks from heatwaves, landslides, and floods, all of which can severely impact public health. Ensuring robust healthcare access is essential to mitigate the health consequences of these events. This action directly addresses the high normalized risk scores for public health impacts from these hazards, making it a vital investment in community well-being and resilience.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -748,7 +748,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a high-priority action for Sorocaba. The city faces significant risks from floods, with infrastructure and public health being highly vulnerable. This action directly addresses these flood risks by improving stormwater management and reducing runoff. Additionally, increasing green areas can help mitigate the impacts of heatwaves, another significant hazard for Sorocaba's infrastructure and public health.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -820,7 +820,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a key impact for Sorocaba, particularly concerning droughts and floods. Improving farms and fisheries can enhance local food production and resilience against these hazards. Given the city's tropical rainforest biome, sustainable agricultural practices are crucial. This action can contribute to strengthening the local economy and ensuring a stable food supply for the population.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -897,7 +897,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Sorocaba given its tropical rainforest biome and the significant risks identified in the CCRA. The city faces high risks from droughts, heatwaves, landslides, and floods, all of which can be mitigated or exacerbated by the health of its ecosystems. Protecting and restoring natural habitats can enhance the city's resilience to these hazards, for instance, by improving water retention during floods or providing cooling effects during heatwaves. This action directly addresses multiple key impacts such as water resources, public health, and infrastructure, making it a high priority for climate adaptation.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -984,7 +984,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "The city of Sorocaba faces significant risks from extreme weather events, including high-risk scores for infrastructure and public health due to heatwaves, landslides, and floods. A financial support program is crucial to help the city and its residents recover from the impacts of these events. This action directly addresses the immediate aftermath of climate hazards, providing essential resources for rebuilding and supporting affected communities. Given the high normalized risk scores across multiple hazards, this program is a vital component of climate resilience.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1061,7 +1061,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is a crucial action for Sorocaba, especially given the city's 'very_low' socio-economic factors. These programs can provide essential support to vulnerable populations, helping to mitigate the impacts of various hazards. By strengthening social safety nets, the city can enhance its overall resilience and reduce the disproportionate burden of climate change on its most disadvantaged residents. This action directly addresses the well-being of the community, which is fundamental for sustainable development.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1135,7 +1135,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action addresses behaviour change in diets and food waste, which can contribute to reducing emissions and improving food security. While important, the city of Sorocaba faces more immediate and severe risks from hazards like heatwaves, landslides, and floods, which have high normalized risk scores for infrastructure and public health. Therefore, this action is not a top priority compared to interventions that directly address these critical vulnerabilities. Focusing on infrastructure resilience and public health measures against these hazards would yield more immediate and significant benefits for the city.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1211,7 +1211,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's significant risk from droughts, which directly impact water resources. Preserving and recovering water bodies is crucial for maintaining water supply and mitigating the effects of water scarcity. Given the high population density, ensuring adequate water access is vital for public health and overall urban resilience. This initiative will help the city adapt to climate change impacts and secure essential resources for its inhabitants.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",
@@ -1283,7 +1283,7 @@
         "actionId": "icare_0172",
         "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Developing and implementing a Municipal Risk Reduction Plan (PMRR) is crucial for Sorocaba given the high risks identified for infrastructure, public health, and food security due to hazards like heatwaves, landslides, and floods. Identifying vulnerable population groups within this plan ensures that adaptation efforts are equitable and reach those most affected by climate impacts. This action provides a foundational framework for proactive climate resilience, allowing the city to strategically address its specific vulnerabilities. Prioritizing this plan will enable Sorocaba to mitigate the severe consequences of future climate events and protect its citizens.",
         "action": {
             "ActionID": "icare_0172",
             "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
@@ -1355,7 +1355,7 @@
         "actionId": "ipcc_0087",
         "actionName": "Infrastructure retrofitting",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Infrastructure retrofitting is a critical action for Sorocaba given the high risks identified for infrastructure from heatwaves, landslides, and floods. The city's CCRA highlights a normalized risk score of 0.99 for infrastructure across these hazards, indicating extreme vulnerability. Implementing this action would directly address these significant risks, enhancing the resilience of essential urban systems. Prioritizing this action is crucial to protect the city's physical assets and ensure continuity of services in the face of climate change impacts.",
         "action": {
             "ActionID": "ipcc_0087",
             "ActionName": "Infrastructure retrofitting",
@@ -1428,7 +1428,7 @@
         "actionId": "icare_0161",
         "actionName": "Expand reforestation and degraded area recovery projects",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Expanding reforestation and degraded area recovery projects is a crucial action for Sorocaba. The city's biome is tropical rainforest, making it susceptible to the impacts of deforestation and land degradation. This action directly addresses biodiversity loss, which is a key impact identified in the city's climate risk assessment, particularly concerning droughts and heatwaves. Furthermore, healthy ecosystems can mitigate the effects of hazards like floods and landslides, both of which pose significant infrastructure and public health risks to Sorocaba. Prioritizing this action contributes to the city's resilience and environmental well-being.",
         "action": {
             "ActionID": "icare_0161",
             "ActionName": "Expand reforestation and degraded area recovery projects",

@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de um pedágio urbano é uma prioridade para Cuiabá, dadas as significativas emissões provenientes do transporte, que são as mais altas entre todas as categorias de emissão. Esta ação aborda diretamente uma das principais fontes da pegada de carbono da cidade. Ao desencorajar o uso de veículos particulares, pode levar à redução do congestionamento do tráfego e à melhoria da qualidade do ar. Além disso, a receita gerada poderia ser reinvestida em infraestruturas de transporte público sustentáveis, oferecendo benefícios a longo prazo para a saúde ambiental e econômica da cidade.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A adoção de biometano em frotas públicas é uma prioridade para Cuiabá devido às significativas emissões do setor de transporte, que são as mais altas entre todas as categorias de emissão. Esta ação aborda diretamente uma das principais fontes de gases de efeito estufa, contribuindo para a redução geral das emissões. Ao fazer a transição do transporte público para o biometano, a cidade pode melhorar a qualidade do ar e reduzir sua pegada de carbono. Esta iniciativa também se alinha com os objetivos de desenvolvimento sustentável, promovendo fontes de energia mais limpas na infraestrutura urbana.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação promove o transporte sustentável, o que é crucial dadas as significativas emissões de transporte da cidade. Incentivar o compartilhamento de bicicletas, especialmente com bicicletas elétricas, pode ajudar a reduzir a dependência de veículos movidos a combustíveis fósseis. Esta iniciativa também contribui para a saúde pública, promovendo a atividade física e reduzindo a poluição do ar. Ela se alinha com os esforços para melhorar a habitabilidade urbana e reduzir a pegada de carbono geral da cidade.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque a expansão dos sistemas de transporte público de massa sobre trilhos pode reduzir significativamente as emissões do setor de transportes, que são um dos principais contribuintes para as emissões totais da cidade. Cuiabá possui emissões de transporte muito elevadas, indicando uma forte necessidade de soluções de transporte sustentáveis. A melhoria da infraestrutura de transporte público também pode aliviar o congestionamento do tráfego e melhorar a qualidade do ar, beneficiando a saúde pública. Esta iniciativa alinha-se com a necessidade da cidade de reduzir a sua pegada de carbono e melhorar a mobilidade urbana.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá possui emissões de transporte muito elevadas, tornando as emissões veiculares um contribuinte significativo para a pegada de carbono geral da cidade. Abordar as emissões veiculares é crucial para melhorar a qualidade do ar e a saúde pública, especialmente dado o tamanho da população da cidade. Reduzir essas emissões alinha-se com metas climáticas mais amplas e pode levar a um ambiente urbano mais sustentável. Portanto, esta ação é uma prioridade para mitigar os impactos das mudanças climáticas e melhorar a habitabilidade urbana.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -373,7 +373,7 @@
     "actionId": "icare_0075",
     "actionName": "Set carbon emissions reduction targets for industrial sectors",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Definir metas de redução de emissões de carbono para os setores industriais é uma prioridade para Cuiabá, dadas as significativas emissões dos processos industriais. Esta ação aborda diretamente uma das principais fontes de gases de efeito estufa, contribuindo para os esforços gerais de mitigação das mudanças climáticas. A redução dessas emissões também pode levar à melhoria da qualidade do ar e a benefícios para a saúde pública dos moradores da cidade. É crucial para promover práticas industriais sustentáveis e alinhar-se com objetivos ambientais mais amplos.",
     "action": {
       "ActionID": "icare_0075",
       "ActionName": "Definir metas de redução de emissões de carbono para setores industriais",
@@ -445,7 +445,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A priorização da aquisição de produtos agroecológicos produzidos localmente em compras públicas é um passo crucial para Cuiabá. Essa ação apoia diretamente os agricultores locais e fortalece a economia regional. Ela também promove práticas agrícolas sustentáveis, que podem ajudar a mitigar os altos riscos de segurança alimentar da cidade associados a secas e inundações. Além disso, pode contribuir para a redução das emissões do uso da terra, incentivando sistemas alimentares mais localizados. Essa iniciativa se alinha com a construção de uma cadeia de suprimentos de alimentos mais resiliente e ambientalmente consciente para a cidade.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -517,7 +517,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de sistemas agroflorestais é uma prioridade para Cuiabá devido à significativa vulnerabilidade da cidade a secas, que impactam severamente os recursos hídricos, a segurança alimentar e a biodiversidade. A agrofloresta pode aumentar a retenção de água, melhorar a saúde do solo e diversificar a produção agrícola, construindo assim resiliência contra esses perigos. Considerando os altos escores de risco normalizado para impactos relacionados à seca, esta ação aborda diretamente desafios ambientais e socioeconômicos críticos. Além disso, alinha-se com práticas de uso sustentável da terra, contribuindo para o bem-estar ecológico e comunitário a longo prazo.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroflorestais",
@@ -589,7 +589,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção da reflorestação urbana e de corredores verdes é uma ação de alta prioridade para Cuiabá. A cidade enfrenta riscos significativos de ondas de calor, que impactam a saúde pública, a infraestrutura e a biodiversidade. O aumento das áreas verdes pode ajudar a mitigar o efeito de ilha de calor urbana, proporcionando benefícios de arrefecimento e melhorando a qualidade do ar. Esta ação também apoia a biodiversidade, que é severamente impactada tanto por secas quanto por ondas de calor na cidade. Além disso, pode melhorar a qualidade de vida geral dos residentes.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover o Reflorestamento Urbano e Corredores Verdes",
@@ -661,7 +661,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção do controle agroecológico de pragas é uma prioridade para Cuiabá devido ao alto risco de secas que impactam a segurança alimentar. Essa ação pode aumentar a resiliência agrícola, reduzindo a dependência de insumos externos e promovendo ecossistemas mais saudáveis. Ela aborda diretamente a vulnerabilidade da cidade a riscos climáticos, contribuindo para sistemas alimentares mais sustentáveis. Além disso, alinha-se com objetivos ambientais mais amplos, minimizando o uso de produtos químicos nocivos. Isso a torna um passo crucial para a adaptação climática e a segurança alimentar na região.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -733,7 +733,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os mecanismos de controle do desmatamento é uma alta prioridade para Cuiabá, dado o seu bioma de campos/savana e as significativas emissões provenientes do uso da terra. O desmatamento contribui diretamente para as mudanças climáticas e pode exacerbar perigos como as secas, que já são uma grande preocupação para os recursos hídricos e a segurança alimentar na cidade. Esta ação ajuda a mitigar esses riscos, preservando os ecossistemas naturais. Ela também se alinha com a necessidade da cidade de abordar suas substanciais emissões provenientes do uso da terra, tornando-a um passo crucial em direção à sustentabilidade ambiental.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -805,7 +805,7 @@
     "actionId": "icare_0078",
     "actionName": "Develop and implement industrial waste management programs",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá possui emissões significativas de processos industriais, contribuindo substancialmente para suas emissões totais. A implementação de programas de gestão de resíduos industriais aborda diretamente essa fonte, levando a uma redução nas emissões gerais. Essa ação é crucial para mitigar o impacto ambiental da cidade e promover práticas industriais sustentáveis. Dadas as altas emissões industriais, este programa é um passo necessário em direção a uma economia mais verde.",
     "action": {
       "ActionID": "icare_0078",
       "ActionName": "Desenvolver e implementar programas de gestão de resíduos industriais",
@@ -877,7 +877,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma prioridade para Cuiabá, dadas as suas significativas emissões provenientes do uso da terra e o elevado risco à biodiversidade decorrente de secas e ondas de calor. Esta ação pode incentivar a proteção e restauração de ecossistemas, que são cruciais para mitigar os impactos climáticos e preservar o capital natural. Ao valorizar os serviços ambientais, a cidade pode promover práticas sustentáveis de gestão da terra e aumentar a sua resiliência contra os perigos climáticos. Esta abordagem também se alinha com a abordagem dos fatores socioeconômicos de baixíssimo rendimento da cidade, criando potencialmente novas oportunidades econômicas para as comunidades locais envolvidas na conservação.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -949,7 +949,7 @@
     "actionId": "icare_0074",
     "actionName": "Support research into carbon-neutral manufacturing technologies",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação não é uma alta prioridade para Cuiabá. Os principais riscos climáticos da cidade estão relacionados a secas, ondas de calor e inundações, impactando recursos hídricos, saúde pública e infraestrutura. Embora o apoio a tecnologias de fabricação neutras em carbono seja benéfico para a redução de emissões a longo prazo, ele não aborda diretamente os perigos climáticos imediatos e severos enfrentados pela cidade. As emissões de processos industriais da cidade são significativas, mas outros perigos representam ameaças mais imediatas para a população e sistemas críticos. Portanto, os recursos poderiam ser melhor alocados para ações que mitiguem diretamente esses riscos prementes.",
     "action": {
       "ActionID": "icare_0074",
       "ActionName": "Apoiar a pesquisa em tecnologias de fabricação neutras em carbono",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A tradução para o português é:\n\nEsta ação, focada na Assistência Técnica e Extensão Rural (ATER), é uma prioridade para Cuiabá devido às significativas emissões de uso da terra da cidade. A melhoria das práticas agrícolas através da ATER pode mitigar diretamente essas emissões. Além disso, dados os altos riscos associados às secas que impactam a segurança alimentar e os recursos hídricos, a ATER pode ajudar a construir resiliência no setor agrícola. Esta abordagem proativa apoia a gestão sustentável da terra e a adaptação aos impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é uma prioridade porque aborda diretamente a necessidade crítica de práticas de conservação em Cuiabá. Dado o bioma da cidade como campo/savana e os seus elevados riscos relacionados com recursos hídricos, segurança alimentar e biodiversidade devido a secas, facilitar a transferência de tecnologia para a conservação é crucial. Esta iniciativa pode ajudar a mitigar os impactos severos dos perigos climáticos, promovendo a gestão sustentável da terra e da água. Apoia a resiliência a longo prazo e a proteção ambiental, que são vitais para o bem-estar futuro da cidade.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Essa ação é uma prioridade para Cuiabá devido aos altos índices de risco da cidade para a segurança alimentar, impactados tanto por secas quanto por inundações. Incentivar a produção agroecológica local pode melhorar a segurança alimentar, diversificando as fontes de alimentos locais e reduzindo a dependência de cadeias de suprimentos externas, que são vulneráveis a riscos climáticos. Essa abordagem também promove práticas sustentáveis de uso da terra, que podem mitigar os impactos de secas e inundações nos sistemas agrícolas. Além disso, o fortalecimento das cadeias de suprimentos curtas pode melhorar a resiliência do sistema alimentar contra interrupções relacionadas ao clima, garantindo um acesso mais consistente a alimentos para a população.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar políticas de energia renovável é uma prioridade para Cuiabá, dadas suas significativas emissões totais, particularmente de processos industriais e transporte. Embora não aborde diretamente os altos riscos da cidade relacionados a secas, ondas de calor e inundações, a redução da dependência de combustíveis fósseis contribui para a resiliência climática a longo prazo. Esta ação ajuda a mitigar as causas profundas das mudanças climáticas, o que, por sua vez, pode diminuir a intensidade e a frequência de eventos climáticos extremos. Portanto, é um passo crucial em direção a um futuro mais sustentável e resiliente para a cidade.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Apoiar práticas agrícolas regenerativas é uma prioridade para Cuiabá devido ao alto risco da cidade com secas, que impactam severamente os recursos hídricos e a segurança alimentar. A agricultura regenerativa pode melhorar a saúde do solo, a retenção de água e a biodiversidade, tornando o setor agrícola mais resiliente a choques climáticos. Dadas as significativas emissões de uso da terra em Cuiabá, esta ação também oferece um caminho para sequestrar carbono e reduzir a pegada ambiental geral da cidade. Esta abordagem alinha-se com a necessidade de abordar tanto a adaptação quanto a mitigação climática de forma holística.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoiar Práticas de Agricultura Regenerativa",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá enfrenta emissões significativas relacionadas ao uso da terra, indicando a necessidade de uma gestão sustentável do solo. Práticas agroflorestais podem ajudar a mitigar essas emissões através do sequestro de carbono e da melhoria da saúde do solo. Esta ação também apoia a biodiversidade, que é uma área de impacto chave para Cuiabá, especialmente no que diz respeito a secas e ondas de calor. A implementação de incentivos para a agrofloresta em sistemas pecuários pode contribuir para um setor agrícola mais resiliente e ecologicamente correto na cidade.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Criar Incentivos para Práticas de Agroflorestas em Sistemas de Pecuária",

@@ -7,7 +7,7 @@
     "actionId": "c40_0035",
     "actionName": "Waste Efficiency",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es de alta prioridad debido a la importante contribución de las emisiones de residuos al total de emisiones de la ciudad. Abordar la eficiencia en la gestión de residuos puede conducir a reducciones sustanciales en la huella de carbono general. Dada la demografía de bajos ingresos de la ciudad, la gestión eficiente de residuos también puede mejorar la salud pública y las condiciones de vida. Además, la gestión eficaz de residuos puede mitigar los impactos ambientales y potencialmente crear oportunidades económicas a través del reciclaje y la recuperación de recursos.",
     "action": {
       "ActionID": "c40_0035",
       "ActionName": "Eficiencia en el manejo de residuos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de un peaje urbano puede reducir significativamente las emisiones del transporte, que son un importante contribuyente a las emisiones totales de Fortaleza. Esta acción aborda directamente una fuente sustancial de gases de efecto invernadero, alineándose con los objetivos de mitigación climática. Al desalentar el uso de vehículos privados, también puede aliviar la congestión del tráfico y mejorar la calidad del aire, beneficiando la salud pública. Además, los ingresos generados por los peajes pueden reinvertirse en infraestructura de transporte público sostenible, fomentando un entorno urbano más resiliente y respetuoso con el medio ambiente.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -155,7 +155,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción promueve el transporte sostenible, lo cual es crucial para Fortaleza dadas sus importantes emisiones relacionadas con el transporte. Fomentar el uso compartido de bicicletas, especialmente con bicicletas eléctricas, puede ayudar a reducir la dependencia de los combustibles fósiles y mejorar la calidad del aire. Esta iniciativa también se alinea con los esfuerzos para crear entornos urbanos más habitables y accesibles. Priorizar esta acción contribuye a una ciudad más verde y a mejores resultados de salud pública.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -227,7 +227,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La adopción de biometano en flotas públicas es una acción relevante para Fortaleza, especialmente considerando las importantes emisiones de transporte de la ciudad. Esta iniciativa aborda directamente una fuente principal de gases de efecto invernadero, contribuyendo a la reducción general de emisiones. Si bien no es la máxima prioridad, ofrece un paso tangible hacia la movilidad urbana sostenible. La implementación de esta acción también puede sentar un precedente para una adopción más amplia de combustibles más limpios dentro de la ciudad.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -299,7 +299,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Establecer ecoparques en Fortaleza es una prioridad debido a la alta densidad de población de la ciudad y a los importantes riesgos para la biodiversidad derivados tanto de las sequías como de las olas de calor. Estos parques pueden servir como infraestructura verde crucial, mitigando los efectos de las islas de calor urbanas y proporcionando servicios ecosistémicos esenciales. También ofrecen espacios recreativos, mejorando la salud pública y el bienestar en una ciudad con poblaciones de bajos ingresos. Además, los ecoparques pueden contribuir a la gestión de los recursos hídricos y a la seguridad alimentaria, abordando impactos clave identificados en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Establecer eco-parques.",
@@ -371,7 +371,7 @@
     "actionId": "c40_0036",
     "actionName": "Landfill Management",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "La gestión de los vertederos es una acción crítica para Fortaleza, dado que las emisiones de residuos son el mayor contribuyente a las emisiones totales de la ciudad. Mejorar la gestión de los vertederos puede reducir significativamente estas emisiones, abordando directamente una de las principales fuentes de la huella de carbono de la ciudad. Esta acción también tiene beneficios colaterales para la salud pública y la calidad ambiental, que son consideraciones importantes para una ciudad densamente poblada como Fortaleza. Priorizar esta acción conducirá a mejoras sustanciales en el perfil de sostenibilidad de la ciudad.",
     "action": {
       "ActionID": "c40_0036",
       "ActionName": "Gestión de Vertederos",
@@ -448,7 +448,7 @@
     "actionId": "c40_0040",
     "actionName": "Volume-Based Collection",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nFortaleza enfrenta importantes emisiones de residuos, lo cual esta acción aborda directamente. La implementación de la recolección basada en el volumen puede incentivar a los residentes a reducir la generación de residuos. Este enfoque promueve prácticas sostenibles de gestión de residuos y puede conducir a una disminución en las emisiones generales. Priorizar esta acción contribuye a una ciudad más limpia y ambientalmente responsable.",
     "action": {
       "ActionID": "c40_0040",
       "ActionName": "Recolección Basada en Volumen",
@@ -524,7 +524,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "This action supports cooperatives of recyclable material collectors, which can significantly reduce waste emissions. Fortaleza has very high waste emissions, making this a critical area for intervention. By formalizing and supporting these cooperatives, the city can improve its waste management infrastructure and promote a circular economy. This initiative also has the potential to create jobs and improve livelihoods for vulnerable populations.\n\n**Spanish Translation:**\n\nEsta acción apoya a las cooperativas de recolectores de material reciclable, lo que puede reducir significativamente las emisiones de residuos. Fortaleza tiene emisiones de residuos muy altas, lo que convierte a esta en un área crítica para la intervención. Al formalizar y apoyar a estas cooperativas, la ciudad puede mejorar su infraestructura de gestión de residuos y promover una economía circular. Esta iniciativa también tiene el potencial de crear empleos y mejorar los medios de vida de las poblaciones vulnerables.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar un proyecto para apoyar a las cooperativas de recolectores de materiales reciclables",
@@ -596,7 +596,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nFortaleza tiene emisiones de transporte significativas, lo que indica una gran necesidad de alternativas sostenibles. La expansión de los sistemas de transporte masivo sobre rieles aborda directamente esta situación al ofrecer un modo de transporte eficiente y con bajas emisiones de carbono. Esta acción puede reducir la dependencia de los vehículos privados, disminuyendo así tanto las emisiones como la congestión del tráfico. Además, la mejora de la accesibilidad al transporte público beneficia a la gran población, especialmente a aquellos en áreas de bajos ingresos, al mejorar la conectividad y las oportunidades económicas.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -668,7 +668,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar políticas de energía renovable a nivel municipal es un paso crucial para Fortaleza. Esta acción aborda directamente los altos riesgos de seguridad energética de la ciudad, particularmente aquellos exacerbados por sequías y olas de calor. Al promover las energías renovables, Fortaleza puede reducir su dependencia de las fuentes de energía tradicionales, que a menudo contribuyen a emisiones significativas. Esta iniciativa también se alinea con objetivos más amplios de resiliencia climática, fomentando un futuro energético más sostenible y seguro para la ciudad.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
@@ -740,7 +740,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente la seguridad alimentaria, un área de impacto clave para Fortaleza, especialmente dado el alto riesgo de sequías. Al priorizar los productos agroecológicos locales, la ciudad puede mejorar la resiliencia de su cadena de suministro de alimentos. Esto también apoya las economías locales y las prácticas agrícolas sostenibles, que son cruciales para una ciudad con poblaciones de bajos ingresos y un bioma desértico. Además, puede contribuir a reducir la huella de carbono general de la ciudad al minimizar las emisiones de transporte asociadas con la distribución de alimentos.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -812,7 +812,7 @@
     "actionId": "ipcc_0080",
     "actionName": "Avoiding, Minimising, and Recycling Waste",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "**Fortaleza** se enfrenta a importantes emisiones de residuos, lo que hace que esta acción sea muy relevante. Reducir, reutilizar y reciclar los residuos aborda directamente una de las principales fuentes de las emisiones totales de la ciudad. Esta iniciativa también puede mejorar la salud pública y la calidad ambiental al reducir la carga de los vertederos y la contaminación. La implementación de esta acción es crucial para el desarrollo urbano sostenible y los esfuerzos de mitigación del cambio climático.",
     "action": {
       "ActionID": "ipcc_0080",
       "ActionName": "Evitando, Minimizar y Reciclar Residuos",
@@ -886,7 +886,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Aumentar el atractivo del sistema de autobuses municipales es una prioridad para Fortaleza. Esta acción aborda directamente las emisiones del transporte, que contribuyen significativamente a las emisiones totales de la ciudad. Fomentar el transporte público puede reducir la dependencia de los vehículos privados, lo que lleva a una mejor calidad del aire y a una menor congestión del tráfico. Esta iniciativa también apoya el desarrollo urbano sostenible y puede mejorar la calidad de vida de los residentes.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
@@ -958,7 +958,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Afrontar las emisiones vehiculares es crucial para Fortaleza, dadas sus significativas emisiones provenientes del transporte. Reducir estas emisiones mejorará la calidad del aire, beneficiando la salud pública en una ciudad densamente poblada. Esta acción también contribuye a la resiliencia climática general al disminuir la huella de carbono de la ciudad. Priorizar esta acción se alinea con los esfuerzos para mitigar los impactos del cambio climático y mejorar la sostenibilidad urbana.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",
@@ -1037,7 +1037,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "**Fortaleza se enfrenta a importantes emisiones relacionadas con el transporte, lo que convierte a las rutas para vehículos sostenibles en una acción relevante. Si bien no aborda directamente los riesgos climáticos más apremiantes de la ciudad, como las sequías o las olas de calor, esta acción contribuye a la reducción general de emisiones. Priorizar rutas para vehículos sostenibles puede fomentar su adopción y mejorar la calidad del aire. Esta iniciativa apoya una estrategia más amplia para la sostenibilidad urbana y la mitigación del cambio climático.**",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementación de rutas priorizadas para vehículos sostenibles.",
@@ -1109,7 +1109,7 @@
     "actionId": "icare_0109",
     "actionName": "Promote Energy Recovery from Biogas in Landfills",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la recuperación de energía a partir del biogás en los vertederos es una acción crucial para Fortaleza. La ciudad tiene importantes emisiones de residuos, lo que indica un gran volumen de residuos orgánicos que pueden producir metano. La captura y utilización de este biogás aborda directamente una importante fuente de emisiones de gases de efecto invernadero. Además, proporciona una fuente de energía renovable, lo que contribuye a la seguridad energética y, potencialmente, a la reducción de la dependencia de los combustibles fósiles. Esta acción ofrece un doble beneficio de protección ambiental y generación de recursos.",
     "action": {
       "ActionID": "icare_0109",
       "ActionName": "Promover la Recuperación de Energía a partir de Biogás en Vertederos",
@@ -1181,7 +1181,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Modernizar puertos y aeropuertos con tecnologías de cero emisiones es un paso crucial para Fortaleza, dadas sus importantes emisiones relacionadas con el transporte. Esta acción aborda directamente uno de los principales contribuyentes a la huella de carbono de la ciudad. Al invertir en tecnologías más limpias, Fortaleza puede reducir la contaminación del aire y mejorar la salud pública. Además, posiciona a la ciudad como líder en infraestructura sostenible, lo que podría atraer inversiones verdes y fomentar el crecimiento económico. Esta iniciativa se alinea con los esfuerzos globales para descarbonizar el sector del transporte, convirtiéndola en una acción de alta prioridad para la resiliencia climática.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernización de puertos y aeropuertos con tecnologías de cero emisiones",
@@ -1253,7 +1253,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fortaleza enfrenta riesgos significativos por las sequías, que impactan los recursos hídricos y la seguridad alimentaria. Promover el control agroecológico de plagas puede mejorar la resiliencia agrícola frente a estos desafíos climáticos. Esta acción apoya la producción sostenible de alimentos, lo cual es crucial para una ciudad con poblaciones de bajos ingresos. También se alinea con la mitigación de los impactos en la seguridad alimentaria identificados en la evaluación de riesgos climáticos de la ciudad. Por lo tanto, esta acción es una prioridad para construir un sistema alimentario más resiliente y sostenible en Fortaleza.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1325,7 +1325,7 @@
     "actionId": "c40_0025",
     "actionName": "Truck Emissions",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Spanish:\nAbordar las emisiones de los camiones es un paso crucial para mejorar la calidad del aire y la salud pública en Fortaleza. Dada la significativa emisión de gases de efecto invernadero del transporte en la ciudad, reducir las emisiones de los camiones puede tener un impacto positivo sustancial. Esta acción se alinea con esfuerzos más amplios para mitigar el cambio climático y crear un entorno urbano más saludable. Priorizar esta acción contribuye a una ciudad más sostenible y habitable para sus residentes.",
     "action": {
       "ActionID": "c40_0025",
       "ActionName": "Emisiones de Camiones",
@@ -1402,7 +1402,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "La integración de las energías renovables en los sistemas municipales de agua es una acción de alta prioridad para Fortaleza. La ciudad se enfrenta a importantes riesgos de sequías, que afectan gravemente a los recursos hídricos. La utilización de energía renovable para los sistemas de agua puede mejorar la resiliencia y garantizar un suministro de agua más estable, especialmente dado el acceso tan bajo a agua adecuada. Esta acción aborda directamente las vulnerabilidades críticas identificadas en la evaluación de riesgos climáticos de la ciudad, lo que la convierte en un paso crucial hacia la adaptación climática y la mejora de los servicios públicos.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energías renovables en los sistemas de agua municipales",

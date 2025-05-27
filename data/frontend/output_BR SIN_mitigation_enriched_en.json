@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a high priority for Sinop, especially given the city's significant land use emissions and high risks related to drought impacting water and food security. This action directly addresses these vulnerabilities by promoting sustainable land management practices. Agroforestry can enhance biodiversity, improve soil health, and increase resilience to climate hazards like droughts. Furthermore, it can contribute to carbon sequestration, helping to mitigate the city's substantial land use emissions.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -79,7 +79,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a high-priority action for Sinop. The city faces significant risks from heatwaves, impacting public health and infrastructure, which can be mitigated by increased green spaces. Additionally, Sinop's biome is tropical rainforest, making reforestation a natural and impactful intervention for biodiversity and ecosystem health. This action also aligns with addressing the high land use emissions by restoring natural carbon sinks. Finally, the city's very low-income population could benefit from improved urban environments and reduced heat stress.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -151,7 +151,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Sinop is located in a tropical rainforest biome, making it highly susceptible to the impacts of deforestation. The city also has very high land use emissions, indicating significant land-use change, which is often linked to deforestation. Strengthening control mechanisms can help mitigate these emissions and protect the vital ecosystem. This is crucial for the city's environmental sustainability and resilience against climate change impacts.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -223,7 +223,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Sinop has significant land use emissions, indicating a strong agricultural or forestry sector. Technical Assistance and Rural Extension (ATER) actions can help implement sustainable practices in these sectors, potentially reducing emissions and improving land management. Given the city's high risks related to droughts impacting water resources and food security, ATER could also promote climate-resilient agricultural techniques. This would directly address key vulnerabilities and contribute to the city's overall climate adaptation and mitigation efforts.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -295,7 +295,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Sinop has significant land use emissions, indicating a need for improved land management. Facilitating technology transfer for conservation practices can directly address these emissions by promoting sustainable land use. Given the city's tropical rainforest biome, protecting and restoring these ecosystems is crucial for both climate mitigation and biodiversity. This action supports the city's environmental resilience and contributes to broader sustainability goals.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -367,7 +367,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Sinop given its significant land use emissions and high biodiversity risk from droughts and heatwaves. This action can incentivize the protection and restoration of ecosystems, which are crucial for mitigating climate change impacts and preserving natural capital. By valuing environmental services, the city can foster sustainable land management practices and enhance its resilience against climate hazards. This approach aligns with the city's need to address its substantial land use emissions and protect its tropical rainforest biome.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -439,7 +439,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Sinop faces significant risks from droughts, impacting water resources, food security, and biodiversity. Promoting agroforestry practices can enhance ecosystem resilience and mitigate these drought-related impacts. Additionally, the city has very low low-income factors, suggesting that such incentives could be effectively adopted by the local population. This initiative aligns with addressing key climate vulnerabilities identified in the city's risk assessment.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -511,7 +511,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Promoting sustainable agricultural practices is a high priority for Sinop given the city's significant land use emissions. These practices can help mitigate the substantial environmental impact of current land use. Furthermore, the city faces high risks related to food security and water resources due to droughts, which sustainable agriculture can help address. This action aligns with the need to build resilience against climate hazards while reducing emissions. Therefore, it is a crucial step towards a more sustainable and secure future for Sinop.",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -583,7 +583,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Supporting regenerative agriculture practices is a high priority for Sinop, given its significant land use emissions. This action directly addresses a major contributor to the city's total emissions. Furthermore, the city faces high risks from droughts impacting water resources and food security, which regenerative agriculture can help mitigate. Improving soil health and water retention through these practices can build resilience against these climate hazards. This action aligns with the city's need to reduce emissions and adapt to climate change impacts.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -655,7 +655,7 @@
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Promoting organic farming is a priority for Sinop given its significant land use emissions, which are the largest contributor to the city's total emissions. This action can help mitigate these emissions by fostering more sustainable agricultural practices. Additionally, with high risks related to food security and droughts, organic farming can enhance resilience and reduce reliance on water-intensive conventional methods. This initiative also aligns with addressing biodiversity risks, as organic practices often support healthier ecosystems. Therefore, this action is crucial for both climate mitigation and adaptation in Sinop.",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -727,7 +727,7 @@
         "actionId": "icare_0127",
         "actionName": "Accelerate Environmental Regularization of Rural Properties",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Sinop has significant land use emissions, indicating a need for better environmental management. Accelerating environmental regularization of rural properties can help mitigate these emissions and improve land management practices. Given the city's biome is tropical rainforest, protecting these areas is crucial for biodiversity and ecosystem services. This action directly addresses the environmental challenges posed by land use in the region.",
         "action": {
             "ActionID": "icare_0127",
             "ActionName": "Accelerate Environmental Regularization of Rural Properties",
@@ -799,7 +799,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "The implementation of an urban toll is a relevant action for Sinop, given the city's significant transportation emissions. This measure can help reduce traffic congestion and encourage the use of more sustainable modes of transport. While not directly addressing the high risks from droughts, heatwaves, and floods, it contributes to overall urban sustainability. Prioritizing this action can lead to a reduction in the city's carbon footprint and improve air quality.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -870,7 +870,7 @@
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Sinop has very high land use emissions, indicating a significant agricultural footprint. Encouraging low-emission agricultural machinery directly addresses this major source of emissions. Reducing these emissions is crucial for the city's overall climate goals. This action also aligns with the city's biome, which is tropical rainforest, suggesting a need for sustainable agricultural practices.",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -942,7 +942,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action promotes sustainable transportation, which is crucial for Sinop given its high transportation emissions. Encouraging bike-sharing, especially with electric bikes, can significantly reduce the city's carbon footprint. While not directly addressing the city's most pressing climate risks like droughts or heatwaves, it contributes to overall climate mitigation efforts. This initiative also aligns with improving urban mobility and potentially public health. Therefore, it is a valuable action for the city's long-term sustainability.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -1014,7 +1014,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it supports local economies and promotes sustainable agricultural practices. By prioritizing agroecological products, the city can enhance food security and reduce its environmental footprint. This approach also fosters community resilience and can improve public health outcomes. Furthermore, it aligns with efforts to diversify local food systems and reduce reliance on external supply chains.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -1086,7 +1086,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "The adoption of biomethane in public fleets is a relevant action for Sinop, given the significant transportation emissions in the city. This initiative directly addresses a major contributor to the city's carbon footprint. By transitioning public fleets to biomethane, Sinop can reduce its reliance on fossil fuels and improve air quality. This action aligns with broader sustainability goals and can serve as a visible commitment to environmental responsibility within the community. While not the highest priority, it offers a tangible step towards decarbonization.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -1158,7 +1158,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for Sinop given the high risks associated with droughts impacting both water resources and food security. This action can enhance local food resilience and reduce dependence on external supply chains, which are vulnerable to climate shocks. Furthermore, it aligns with the city's very low-income demographic by potentially creating local economic opportunities and improving access to fresh, affordable food. This approach also supports biodiversity, which is highly impacted by droughts in the region.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1230,7 +1230,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a priority for Sinop. This action can encourage sustainable practices and resource conservation within the city. Given Sinop's significant land use emissions and its biome as a tropical rainforest, such incentives are crucial for environmental protection. This initiative can help mitigate the high risks associated with droughts and floods, which severely impact water resources and food security. Furthermore, it aligns with efforts to address the very low socio-economic factors and high inadequate sanitation, promoting broader community well-being.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1302,7 +1302,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it supports sustainable agricultural practices, which can enhance food security and reduce environmental impact. Given the city's significant land use emissions, promoting agroecological certification can contribute to mitigating these emissions. Furthermore, it can build resilience against climate hazards like droughts, which pose a high risk to water resources and food security in Sinop. This initiative aligns with efforts to improve the city's overall environmental sustainability and climate adaptation.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1374,7 +1374,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a relevant action for Sinop, given its significant land use emissions and the high risk to food security from droughts and floods. This approach can enhance agricultural resilience and reduce reliance on chemical inputs, which aligns with sustainable land management. While not directly addressing the most critical immediate risks like public health from heatwaves or inadequate sanitation, it contributes to long-term environmental health and food system stability. The city's tropical rainforest biome also suggests a need for practices that protect biodiversity, which agroecological methods can support.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",

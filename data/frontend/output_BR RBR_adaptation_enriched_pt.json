@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A elaboração de um plano de preparação e medidas de resposta a emergências é crucial para Rio Branco, dada a sua alta vulnerabilidade a eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor e inundações, que impactam severamente a saúde pública, a infraestrutura e a segurança alimentar. Um plano de emergência robusto pode mitigar esses impactos, proteger vidas e reduzir perdas econômicas. Essa abordagem proativa é essencial para construir resiliência em uma cidade com alto índice de acesso inadequado à água e um bioma de floresta tropical, que é suscetível a mudanças climáticas.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Fortalecer os programas de controle e conservação das áreas protegidas é crucial para Rio Branco, dado o seu bioma de floresta tropical. Esta ação aborda diretamente a biodiversidade, que é impactada tanto por secas quanto por ondas de calor, conforme indicado pela avaliação de risco climático da cidade. Proteger essas áreas também pode mitigar as emissões do uso da terra, que são um contribuinte significativo para as emissões totais da cidade. Esta ação ajuda a preservar o ambiente natural e os seus serviços ecossistêmicos, que são vitais para a resiliência a longo prazo da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -157,7 +157,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "O desenvolvimento de diagnósticos e a restauração das Zonas Especiais de Interesse Social (ZEIS) são uma prioridade para Rio Branco. Esta ação aborda diretamente os fatores socioeconômicos, particularmente o status de \"baixa renda\", melhorando as condições de vida em áreas vulneráveis. Também pode mitigar indiretamente os riscos associados a serviços públicos inadequados, como o acesso à água, ao promover comunidades mais resilientes. Além disso, ao focar nessas zonas específicas, a ação pode contribuir para um desenvolvimento urbano mais equitativo, o que é crucial para uma cidade com um tamanho populacional significativo. Esta iniciativa se alinha com o objetivo mais amplo de aumentar a resiliência urbana e melhorar o bem-estar de seus moradores.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A melhoria do armazenamento e distribuição de alimentos é uma prioridade para Rio Branco, especialmente dado o alto risco de secas que afetam a segurança alimentar. Sistemas eficientes podem ajudar a mitigar os efeitos das interrupções no fornecimento de alimentos relacionadas ao clima. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade. Ao fortalecer a infraestrutura alimentar, a cidade pode aumentar sua resiliência a futuros choques climáticos e garantir um acesso mais estável a alimentos para sua população.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -307,7 +307,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Rio Branco, especialmente dado o alto risco de impactos na saúde pública decorrentes de ondas de calor, doenças e inundações. Melhorar o acesso à saúde pode mitigar os efeitos desses perigos na população. Esta ação aborda diretamente a vulnerabilidade da cidade a crises de saúde relacionadas ao clima. Priorizar esta ação aumentará a resiliência da cidade e protegerá seus cidadãos.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -382,7 +382,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorias na agricultura e pesca são uma prioridade para Rio Branco devido aos altos riscos associados a secas e inundações na segurança alimentar. O bioma da cidade é de floresta tropical, que é suscetível a mudanças na disponibilidade de água, impactando a produção agrícola e pesqueira. Abordar esses setores pode aumentar a resiliência contra os impactos climáticos e garantir o sustento da população. A melhoria das práticas agrícolas e pesqueiras também pode contribuir para a gestão sustentável dos recursos na região.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -459,7 +459,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A manutenção e revitalização das florestas ripárias são cruciais para Rio Branco, especialmente dado o seu alto risco de inundações e secas. Essas florestas atuam como barreiras naturais, mitigando os impactos das inundações e conservando água durante os períodos de seca. Elas também desempenham um papel vital na proteção dos recursos hídricos, que já estão sob estresse devido ao acesso inadequado na cidade. Esta ação aborda diretamente múltiplos impactos-chave identificados na avaliação de risco climático da cidade, incluindo recursos hídricos, segurança alimentar e infraestrutura.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -532,7 +532,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de um programa de apoio financeiro é crucial para Rio Branco, dada a sua alta vulnerabilidade a eventos climáticos extremos como secas, ondas de calor e inundações, que impactam significativamente a saúde pública, a infraestrutura e a segurança alimentar. Tal programa forneceria recursos essenciais para a recuperação e adaptação, mitigando as graves perturbações económicas e sociais causadas por estes perigos. Ajudaria também a atender a população de baixa renda da cidade, que é frequentemente afetada de forma desproporcional por desastres relacionados ao clima. Esta medida proativa pode construir resiliência e proteger as comunidades mais vulneráveis face aos crescentes riscos climáticos.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -609,7 +609,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é crucial para Rio Branco, dados os altos riscos associados aos impactos na saúde pública de ondas de calor, doenças e inundações. A cidade enfrenta desafios significativos de saúde, conforme indicado pelas altas pontuações de risco normalizado para esses perigos. Melhorar a infraestrutura e os serviços de saúde abordará diretamente as necessidades imediatas das vítimas do clima. Esta ação é uma prioridade para proteger o bem-estar da população diante das crescentes ameaças à saúde relacionadas ao clima.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -685,7 +685,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please find the Portuguese translation below:\n\nEsta ação é uma alta prioridade para Rio Branco devido aos significativos riscos à saúde pública identificados na avaliação de risco de mudanças climáticas da cidade. A cidade enfrenta altas pontuações de risco normalizado para impactos na saúde pública decorrentes de ondas de calor, doenças e inundações. A melhoria da infraestrutura de saúde aborda diretamente essas vulnerabilidades, aprimorando a capacidade da cidade de responder a crises de saúde relacionadas ao clima. Dados os desafios existentes, o fortalecimento da infraestrutura de saúde é crucial para proteger o bem-estar da população.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -759,7 +759,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Rio Branco, dadas as suas significativas emissões provenientes do uso da terra. A maior fonte de emissões da cidade é o uso da terra, indicando uma necessidade crítica de intervenção nesta área. A implementação de práticas sustentáveis pode abordar diretamente este grande contribuinte para a pegada de carbono da cidade. Esta ação é crucial para mitigar os impactos das mudanças climáticas e promover a saúde ambiental em um bioma de floresta tropical. Também ajudará a proteger a biodiversidade, que é moderadamente impactada por secas e ondas de calor na região.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -833,7 +833,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas em Rio Branco é uma prioridade devido ao alto risco de secas na cidade, que impactam a segurança alimentar. As hortas urbanas podem melhorar a produção local de alimentos, reduzindo a dependência de fontes externas e aumentando a resiliência a choques climáticos. Esta iniciativa também se alinha com o bioma de floresta tropical da cidade, podendo promover a biodiversidade e espaços verdes dentro do ambiente urbano. Além disso, pode contribuir para o bem-estar da comunidade e potencialmente mitigar alguns impactos das ondas de calor, proporcionando microclimas mais frescos.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -905,7 +905,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Rio Branco enfrenta riscos significativos de inundações, com altas pontuações de risco normalizado para infraestrutura e segurança alimentar. Um sistema de monitoramento hidrológico pode fornecer avisos antecipados cruciais, permitindo a preparação e esforços de mitigação em tempo hábil. Isso é especialmente importante dada a alta inadequação do acesso à água na cidade, que poderia ser exacerbada por eventos de inundação. A implementação de tal sistema abordaria diretamente essas vulnerabilidades, protegendo tanto a infraestrutura quanto o bem-estar da população.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -977,7 +977,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "As redes de segurança social são cruciais para Rio Branco, especialmente considerando seus fatores socioeconômicos de baixa renda. Esses programas podem fornecer apoio essencial às populações vulneráveis, ajudando-as a lidar com os impactos das mudanças climáticas e outros choques. Ao fortalecer as redes de segurança social, a cidade pode aumentar a resiliência da comunidade e reduzir as desigualdades. Esta ação aborda diretamente o bem-estar dos moradores, que é fundamental para o desenvolvimento sustentável.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -1051,7 +1051,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é uma área de impacto fundamental para o Rio Branco, particularmente no que diz respeito a secas e inundações. A redução do desperdício de alimentos e a mudança de hábitos alimentares podem mitigar a vulnerabilidade da cidade a esses perigos. Embora não seja a mais alta prioridade, contribui para a resiliência geral e a gestão de recursos. Esta ação também se alinha com objetivos de sustentabilidade mais amplos, ao reduzir a pegada ambiental associada à produção e consumo de alimentos.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é a seguinte:\n\nEsta ação é uma prioridade devido à alta vulnerabilidade da cidade a vários perigos climáticos, incluindo inundações e deslizamentos de terra, que impactam significativamente a infraestrutura e a saúde pública. A realocação de moradores dessas áreas aborda diretamente as preocupações imediatas de segurança e reduz riscos futuros. A restauração ambiental complementa isso, mitigando as causas subjacentes desses perigos, como o desmatamento, que pode exacerbar inundações e erosão. Dados os altos escores de risco normalizado para infraestrutura e saúde pública devido a inundações e deslizamentos de terra, esta ação visa diretamente áreas críticas de preocupação. Ela também se alinha com os fatores socioeconômicos de baixa renda da cidade, protegendo populações vulneráveis.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1198,7 +1198,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias urbanas é uma ação crucial para Rio Branco. Esta cidade enfrenta riscos significativos de inundações, que impactam severamente a infraestrutura e a segurança alimentar. As superfícies permeáveis podem ajudar a gerenciar o escoamento de á águas pluviais, reduzindo a carga sobre os sistemas de drenagem e mitigando os impactos das inundações. Além disso, as áreas verdes contribuem para o resfriamento urbano, o que é vital dados os altos riscos associados às ondas de calor para a saúde pública e a infraestrutura. Esta ação também apoia a biodiversidade, uma área identificada como estando em risco tanto de secas quanto de ondas de calor.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Rio Branco, dado o seu bioma de floresta tropical e as altas emissões provenientes do uso da terra. Proteger e restaurar ecossistemas naturais pode aumentar significativamente a resiliência da cidade aos impactos das mudanças climáticas, como secas e inundações, que representam altos riscos. Essa abordagem também apoia a biodiversidade, que é moderadamente impactada por ondas de calor e secas. Além disso, ecossistemas saudáveis podem contribuir para a melhoria dos recursos hídricos e da segurança alimentar, ambos altamente vulneráveis a secas nesta região. Investir em soluções baseadas na natureza oferece múltiplos co-benefícios para a cidade e seus habitantes.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1357,7 +1357,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Ações como esta são prioritárias devido ao alto índice de acesso inadequado à água na cidade. A implementação de soluções de captação e armazenamento de água pode abordar diretamente essa vulnerabilidade crítica. Considerando os riscos significativos de secas que afetam os recursos hídricos, esta ação oferece uma medida de adaptação crucial. Ela aumentará a resiliência da cidade aos impactos das mudanças climáticas, garantindo um abastecimento de água mais estável para sua população. Essa abordagem proativa é essencial para melhorar a saúde pública e o bem-estar geral em Rio Branco.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar os sistemas agrossilvipastoris é uma ação relevante para Rio Branco, dadas as suas significativas emissões provenientes do uso da terra. Essa abordagem pode ajudar a mitigar as mudanças climáticas através do sequestro de carbono e da redução do desmatamento. Também oferece benefícios para a segurança alimentar e a biodiversidade, que são impactos-chave identificados na avaliação de risco climático da cidade. Embora não seja a mais alta prioridade, contribui para uma estratégia de gestão da terra mais sustentável.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",

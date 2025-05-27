@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Sobral faces significant risks from various extreme weather events, including droughts, heatwaves, and floods, all of which have high normalized risk scores across multiple key impacts. Establishing a comprehensive plan for preparation and emergency response is crucial to mitigate the severe consequences of these hazards on public health, infrastructure, and essential services. This proactive measure will enhance the city's resilience and protect its population and assets from future climate-related disasters. Given the high frequency and intensity of these risks, this action is a top priority for the city.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Sobral is located in a desert biome, making its ecosystems particularly vulnerable to climate change impacts. Strengthening programs for control and conservation of protected areas is crucial for preserving biodiversity and maintaining ecological balance in such a fragile environment. This action helps mitigate the effects of hazards like droughts and heatwaves, which significantly impact water resources, food security, and public health. Protecting these areas can also enhance the city's resilience to future climate shocks, ensuring long-term sustainability for its population and natural assets.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is crucial for Sobral, especially given its moderate low-income population. This action directly addresses social equity and can improve living conditions for vulnerable communities. By focusing on these areas, the city can enhance resilience and access to services, which is vital for a city facing multiple climate hazards. This initiative supports a more inclusive and sustainable urban development.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -231,7 +231,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Sobral faces significant drought risks, which severely impact water resources and food security. Improving food storage and distribution is crucial to mitigate the effects of these droughts and ensure a stable food supply for the population. This action directly addresses a critical vulnerability identified in the city's climate risk assessment. By enhancing food systems, Sobral can build resilience against future climate shocks and protect its residents from food shortages. This makes the action a high priority for the city.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -307,7 +307,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action focuses on improving farms and fisheries, which is highly relevant for Sobral given its significant risks to food security from droughts and floods. Enhancing agricultural practices can build resilience against these climate hazards, ensuring more stable food production for the population. Furthermore, improvements in this sector can contribute to the local economy and livelihoods, especially in a city with moderate low-income factors. This action directly addresses critical vulnerabilities identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -384,7 +384,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical action for Sobral, especially considering the high risks associated with public health due to heatwaves, diseases, and floods. Improving healthcare access can significantly mitigate the impacts of these hazards on the population. Given the city's moderate low-income status, ensuring equitable access to health services is crucial for vulnerable communities. This action directly addresses the well-being of citizens and builds resilience against climate-related health challenges. Therefore, it is a high priority for the city.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -459,7 +459,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Maintaining and revitalizing riparian forests is crucial for Sobral, a city facing significant drought risks. Healthy riparian zones can help regulate water flow, reduce erosion, and improve water quality, which are vital for a city with high water resource vulnerability. This action also supports biodiversity, an area impacted by both droughts and heatwaves in Sobral. Furthermore, it can contribute to mitigating the effects of floods, another hazard the city experiences, by stabilizing riverbanks and absorbing excess water.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -532,7 +532,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a crucial action for Sobral, given its desert biome and significant land use emissions. This initiative can help mitigate the high risks associated with droughts, which severely impact water resources, food security, and energy security. By promoting sustainable practices, the city can enhance its resilience to climate change impacts and protect its biodiversity. This action directly addresses a key contributor to the city's overall emissions profile.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -606,7 +606,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Strengthening the healthcare network is a critical priority for Sobral. The city faces significant risks from heatwaves, floods, and diseases, all of which can severely impact public health. With high normalized risk scores for these hazards, an improved healthcare system is essential to manage the increased demand for medical services. This action directly addresses the vulnerability of the population to climate-related health crises, ensuring better preparedness and response.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -682,7 +682,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant risks Sobral faces from various hazards, including floods, landslides, and heatwaves, all of which have high normalized risk scores for infrastructure and public health. Relocation and environmental restoration directly address the vulnerability of communities in these high-risk areas. By moving people from dangerous zones and restoring the environment, the city can mitigate the impacts of these hazards. This proactive measure will enhance the safety and resilience of the population, particularly those in low-income areas who may be disproportionately affected.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -753,7 +753,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Improving the availability of health infrastructure is a critical action for Sobral. The city faces significant risks from heatwaves, diseases, and floods, all of which can severely impact public health. Enhanced health infrastructure would improve the city's capacity to respond to these health crises. This action directly addresses the high public health risks identified in the city's climate change risk assessment. Therefore, it is a high-priority action to protect the well-being of Sobral's population.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -827,7 +827,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Social safety nets are crucial for Sobral, a city with moderate low-income factors and high risks from droughts and heatwaves impacting public health and food security. These nets can provide essential support to vulnerable populations during climate-related crises, mitigating the socio-economic impacts of hazards. By strengthening social safety nets, the city can enhance its resilience and ensure that its residents are better equipped to cope with the challenges posed by climate change. This action directly addresses the well-being of the community, which is paramount given the city's exposure to multiple climate hazards.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -901,7 +901,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "The creation of a financial support program is crucial for Sobral given its high vulnerability to extreme weather events like droughts, heatwaves, and floods, which significantly impact public health, infrastructure, and food security. Such a program would provide much-needed relief and resources to residents and businesses affected by these hazards. It would also help the city build resilience and recover more effectively from future climate-related disasters. This proactive measure can mitigate the socio-economic impacts and support the community in adapting to a changing climate.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -978,7 +978,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Sobral faces significant risks from droughts and floods, both of which heavily impact water resources and infrastructure. A hydrological monitoring system with telemetry stations is crucial for providing real-time data on water levels and flow. This information enables early warning systems, allowing the city to prepare for and mitigate the impacts of these hazards. Such a system directly addresses the high normalized risk scores associated with droughts and floods, making it a priority for enhancing resilience and protecting critical infrastructure and public health.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1050,7 +1050,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens in Sobral is a priority due to the city's significant vulnerability to droughts, which severely impact food security. Urban gardens can enhance local food production, reducing reliance on external food sources and increasing resilience to climate shocks. This initiative also promotes community engagement and green spaces, which can have positive impacts on public health and biodiversity, both of which are also at risk from climate hazards like heatwaves.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1122,7 +1122,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a crucial action for Sobral. This city faces significant risks from heatwaves and floods, both of which can be mitigated by this action. Permeable surfaces help manage stormwater runoff, reducing flood impacts, while green areas combat the urban heat island effect, improving public health and infrastructure resilience during heatwaves. Given the high normalized risk scores for these hazards, this action directly addresses critical vulnerabilities. Furthermore, it contributes to biodiversity, which is also impacted by heatwaves in Sobral.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1194,7 +1194,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Sobral faces significant risks from droughts, impacting water and food security. Promoting behaviour change in diets and reducing food waste can alleviate pressure on water resources and food supply chains, making the city more resilient to these hazards. This action also contributes to reducing overall emissions, aligning with broader climate goals. Given the city's desert biome and high drought risk, conserving resources through dietary changes and waste reduction is a practical and impactful step. This initiative can also improve public health outcomes by encouraging healthier eating habits.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Sobral is a desert biome with a very high risk of droughts impacting water resources, food security, and energy security. Implementing water capture and storage solutions is crucial for building resilience against these severe and frequent drought conditions. This action directly addresses the city's most pressing climate hazard, ensuring a more stable water supply for its population and various sectors. Prioritizing this action will mitigate the widespread negative impacts of water scarcity on the community.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1346,7 +1346,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial strategy for Sobral, given its desert biome and high risks from droughts and heatwaves. These hazards severely impact water resources, food security, and public health, making natural solutions vital. Implementing ecosystem-based approaches can enhance the city's resilience by restoring natural systems that regulate water, reduce heat, and protect biodiversity. This action directly addresses multiple high-priority climate risks identified for Sobral, offering a sustainable path to adaptation.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Sobral faces extremely high risks from droughts, impacting water resources, food security, and energy security. Preserving and recovering water bodies is crucial for mitigating these severe drought impacts and ensuring water availability for the population and various sectors. Given the city's desert biome and high drought risk, this action directly addresses a critical vulnerability. It will help build resilience against future water scarcity and support the overall well-being of the community.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",

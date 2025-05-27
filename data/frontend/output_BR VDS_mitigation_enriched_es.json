@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de un peaje urbano puede reducir significativamente las emisiones del transporte, que son uno de los principales contribuyentes a las emisiones totales de la ciudad. Al desalentar el uso de vehículos privados, puede aliviar la congestión del tráfico y mejorar la calidad del aire. Esta acción también se alinea con la necesidad de la ciudad de gestionar su alta densidad de población y los impactos ambientales asociados. Además, los ingresos generados por los peajes pueden reinvertirse en infraestructura de transporte público sostenible, ofreciendo beneficios a largo plazo para la resiliencia climática y el desarrollo urbano de la ciudad.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque promueve el transporte sostenible, lo que puede ayudar a reducir las importantes emisiones de transporte de la ciudad. Con una alta densidad de población, fomentar el uso compartido de bicicletas, especialmente las eléctricas, ofrece una alternativa viable al transporte motorizado. Esta iniciativa también se alinea con los esfuerzos para mejorar la movilidad urbana y la salud pública al fomentar la actividad física. Puede contribuir a un entorno urbano más verde y potencialmente aliviar la congestión del tráfico.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "La adopción de biometano en las flotas públicas es una prioridad para Vitória de Santo Antão debido a las importantes emisiones del transporte en la ciudad, que son las más altas entre todas las categorías de emisión. Esta acción aborda directamente una de las principales fuentes de gases de efecto invernadero, contribuyendo a la reducción general de emisiones. Al hacer la transición de las flotas públicas a biometano, la ciudad puede mejorar la calidad del aire y reducir su dependencia de los combustibles fósiles. Esta iniciativa también se alinea con los objetivos de desarrollo sostenible al promover fuentes de energía más limpias dentro de la infraestructura urbana.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de sistemas agroforestales es una prioridad para Vitória de Santo Antão, una ciudad con un bioma de selva tropical y emisiones significativas por el uso del suelo. Esta acción puede ayudar a mitigar el cambio climático mediante la captura de carbono y la reducción de la deforestación. Además, puede mejorar la seguridad alimentaria, que es un área de impacto clave para la ciudad, especialmente dado su alto riesgo de sequías e inundaciones. Este enfoque también apoya la biodiversidad, un área donde la ciudad enfrenta riesgos tanto por sequías como por olas de calor. En general, la agrosilvicultura ofrece una solución multifacética que aborda aspectos ambientales, sociales y económicos relevantes para los desafíos de la ciudad.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -294,7 +294,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Here's the Spanish translation:\n\nEl fortalecimiento de los mecanismos para el control de la deforestación es una prioridad para Vitória de Santo Antão debido a las significativas emisiones por el uso del suelo, que contribuyen sustancialmente a las emisiones totales de la ciudad. El control de la deforestación aborda directamente esta importante fuente de gases de efecto invernadero. Además, dado el bioma de selva tropical de la ciudad, la preservación de estos ecosistemas es crucial para la biodiversidad y la regulación climática. Esta acción también ayuda a mitigar los riesgos asociados con sequías e inundaciones, que son impactos clave identificados en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -366,7 +366,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Establecer programas municipales de Pago por Servicios Ambientales (PSA) es una prioridad porque puede incentivar prácticas sostenibles de gestión de la tierra. Esta acción aborda directamente la degradación ambiental y puede ayudar a mitigar los riesgos asociados con el cambio climático, como las sequías y las inundaciones, que son preocupaciones importantes para Vitória de Santo Antão. Al valorar los servicios ecosistémicos, también puede contribuir a la resiliencia a largo plazo de la ciudad y potencialmente mejorar la seguridad alimentaria e hídrica. Este enfoque fomenta una relación más sostenible entre la comunidad y sus recursos naturales.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -438,7 +438,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es prioritaria porque facilita la transferencia de tecnología para prácticas de conservación, lo que puede abordar directamente la alta vulnerabilidad de la ciudad a las sequías e inundaciones. Al implementar técnicas avanzadas de conservación, Vitória de Santo Antão puede gestionar mejor sus recursos hídricos y mejorar la seguridad alimentaria, ambos significativamente afectados por los peligros climáticos. Además, dado el bioma de selva tropical de la ciudad, las prácticas de conservación son cruciales para mantener la biodiversidad y la salud del ecosistema. Este enfoque proactivo ayuda a construir resiliencia contra futuros impactos climáticos, alineándose con las necesidades de desarrollo sostenible de la ciudad.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -510,7 +510,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque Vitória de Santo Antão enfrenta riesgos significativos para la seguridad alimentaria tanto por sequías como por inundaciones. La realización de acciones de Asistencia Técnica y Extensión Rural (ATER) puede apoyar directamente a los agricultores locales y las prácticas agrícolas, mejorando la resiliencia a estos peligros climáticos. Dada la alta proporción de residentes de bajos ingresos en la ciudad, dicho apoyo es crucial para proteger los medios de vida y garantizar el acceso a los alimentos. La mejora de las técnicas y conocimientos agrícolas puede mitigar los impactos de los eventos climáticos extremos en la producción de alimentos. Este enfoque proactivo ayuda a construir un sistema alimentario más sostenible y seguro para la comunidad.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -582,7 +582,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad debido a las importantes emisiones del transporte en Vitória de Santo Antão, que son las más altas entre todas las categorías de emisión. La expansión de los sistemas de transporte público en tren aborda directamente este problema al proporcionar una alternativa más sostenible al uso de vehículos privados. Esto puede conducir a una reducción sustancial de la huella de carbono general de la ciudad. Además, la mejora del transporte público puedeAumentar la accesibilidad para la numerosa población de bajos ingresos, contribuyendo a la equidad social.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -654,7 +654,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque aborda directamente la seguridad alimentaria, que es un área de impacto clave para Vitória de Santo Antão, particularmente en lo que respecta a sequías e inundaciones. Al priorizar los productos agroecológicos locales, la ciudad puede mejorar su resiliencia a las interrupciones relacionadas con el clima en las cadenas de suministro de alimentos. Esto también apoya las economías locales y las prácticas agrícolas sostenibles, contribuyendo al bienestar general de la comunidad. Además, se alinea con los esfuerzos para reducir la huella ambiental general de la ciudad mediante la promoción de sistemas alimentarios más sostenibles.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -726,7 +726,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "La promoción de la reforestación urbana y los corredores verdes es una prioridad para Vitória de Santo Antão debido al bioma de selva tropical de la ciudad, que puede beneficiarse en gran medida de una mejor infraestructura verde. Esta acción puede ayudar a mitigar los impactos de las olas de calor, que representan un riesgo significativo para la salud pública. Además, el aumento de los espacios verdes puede mejorar la calidad del aire y proporcionar servicios ecosistémicos, contribuyendo a la resiliencia urbana general. Dada la escasez moderada de acceso al agua en la ciudad, la reforestación también puede ayudar en la retención y gestión del agua.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -798,7 +798,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Abordar las emisiones vehiculares es un paso crucial para mejorar la calidad del aire y la salud pública en Vitória de Santo Antão. Dada la importancia de las emisiones del transporte, esta acción se dirige directamente a una fuente principal de contaminación. La reducción de estas emisiones también puede contribuir a mitigar los impactos del cambio climático. Priorizar esta acción se alinea con los esfuerzos para crear un entorno urbano más saludable y sostenible para los residentes.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",
@@ -877,7 +877,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas agrícolas sostenibles es una prioridad para Vitória de Santo Antão debido a los importantes riesgos de la ciudad relacionados con la seguridad alimentaria, particularmente por sequías e inundaciones. La ciudad también enfrenta altos riesgos para los recursos hídricos debido a las sequías, lo que impacta directamente la agricultura. Dada la alta proporción de residentes de bajos ingresos, garantizar la seguridad alimentaria a través de métodos agrícolas resilientes es crucial para el bienestar de la comunidad. Esta acción puede ayudar a mitigar los impactos de los peligros climáticos en el sistema alimentario local y apoyar a la población vulnerable.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -949,7 +949,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la producción agroecológica local y las cadenas de suministro cortas es una prioridad para Vitória de Santo Antão. Esta acción puede mejorar la seguridad alimentaria, que es un área de impacto clave con altas puntuaciones de riesgo tanto por sequías como por inundaciones. También apoya las economías locales, lo cual es crucial dada la alta población de bajos ingresos de la ciudad. Además, puede contribuir a reducir las emisiones asociadas con el transporte y el uso de la tierra, lo que se alinea con las importantes emisiones de la ciudad en estos sectores. Este enfoque fomenta la resiliencia contra los peligros climáticos al tiempo que aborda las vulnerabilidades socioeconómicas.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es prioritaria porque Vitória de Santo Antão se enfrenta a importantes riesgos de sequías, que repercuten directamente en la seguridad alimentaria y los recursos hídricos. La promoción de prácticas agroforestales en los sistemas ganaderos puede mejorar la resiliencia de los paisajes agrícolas a las condiciones de sequía. Este enfoque ayuda a diversificar los ingresos agrícolas, mejorar la salud del suelo y conservar el agua, todo lo cual es crucial para una ciudad con una alta proporción de población de bajos ingresos y un acceso moderado inadecuado al agua. Mediante la integración de árboles con la ganadería, la ciudad puede mitigar los efectos del cambio climático en su sector agrícola y apoyar medios de vida sostenibles.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar las prácticas de agricultura regenerativa es una prioridad para Vitória de Santo Antão debido al alto riesgo de sequías en la ciudad, que impactan significativamente tanto los recursos hídricos como la seguridad alimentaria. La agricultura regenerativa puede mejorar la salud del suelo, la retención de agua y la biodiversidad, haciendo que el sector agrícola sea más resiliente a los choques climáticos. Dado el bioma de selva tropical de la ciudad, estas prácticas también pueden ayudar a mantener el equilibrio ecológico y reducir las emisiones por el uso de la tierra. Además, con una alta proporción de residentes de bajos ingresos, mejorar la seguridad alimentaria a través de métodos agrícolas sostenibles es crucial para el bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción apoya la implementación de incentivos fiscales ecológicos, que pueden fomentar prácticas sostenibles dentro de la ciudad. Dado el bioma de selva tropical de la ciudad y varios riesgos climáticos, promover la preservación ecológica es crucial. Dichos incentivos pueden ayudar a mitigar la degradación ambiental y fomentar un ecosistema urbano más resiliente. Este enfoque se alinea con los objetivos de sostenibilidad a largo plazo para Vitória de Santo Antão.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el control agroecológico de plagas es una acción relevante para Vitória de Santo Antão, especialmente considerando la vulnerabilidad de la ciudad a las sequías y su impacto en la seguridad alimentaria. Al reducir la dependencia de los pesticidas químicos, esta acción puede mejorar la resiliencia de los sistemas agrícolas. También se alinea con prácticas sostenibles que pueden mejorar la salud del suelo y la retención de agua, lo cual es crucial en una región que enfrenta desafíos en cuanto a los recursos hídricos. Además, puede contribuir a la preservación de la biodiversidad, un área donde la ciudad muestra cierto riesgo debido a los peligros climáticos.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Vitória de Santo Antão dada su alta vulnerabilidad a las sequías, que impactan significativamente tanto los recursos hídricos como la seguridad alimentaria. Estos programas pueden mejorar la resiliencia agrícola y diversificar las fuentes de alimentos, abordando directamente los riesgos de seguridad alimentaria de la ciudad. Además, con una alta proporción de residentes de bajos ingresos, tales iniciativas pueden empoderar a los agricultores locales y mejorar los medios de vida, fomentando el desarrollo sostenible. Esta acción se alinea con la necesidad de la ciudad de desarrollar resiliencia contra los peligros climáticos y mejorar las condiciones socioeconómicas.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la agricultura orgánica es una acción relevante para Vitória de Santo Antão, especialmente considerando el alto riesgo de la ciudad en cuanto a seguridad alimentaria debido a sequías e inundaciones. Las prácticas de agricultura orgánica pueden mejorar la salud del suelo y la retención de agua, haciendo que los sistemas agrícolas sean más resilientes a estos peligros. Además, puede contribuir a la seguridad alimentaria local al diversificar las fuentes de alimentos y reducir la dependencia de insumos externos. Esta acción también se alinea con el bioma de selva tropical de la ciudad, promoviendo el uso sostenible de la tierra y potencialmente reduciendo las emisiones por el uso de la tierra con el tiempo. Si bien no aborda directamente los riesgos más altos, ofrece un enfoque fundamental para la adaptación climática y el bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",

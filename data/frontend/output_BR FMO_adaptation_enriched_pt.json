@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A elaboração de um plano de preparação e resposta a emergências é crucial para Formosa, dados os seus elevados riscos decorrentes de múltiplos eventos climáticos extremos. A cidade enfrenta ameaças significativas de secas, ondas de calor, deslizamentos de terra e inundações, todos com altas pontuações de risco normalizado para vários impactos-chave. Um plano abrangente ajudará a mitigar as consequências graves desses perigos na saúde pública, infraestrutura e segurança alimentar. Esta medida proativa é essencial para proteger a população e os sistemas críticos da cidade.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda diretamente a equidade social e o planeamento urbano em Formosa. Desenvolver e restaurar Zonas Especiais de Interesse Social (ZEIS) pode melhorar as condições de vida das populações vulneráveis. Isto é particularmente relevante dado o fator socioeconómico \"baixo\" da cidade para rendimentos baixos. Ao focar-se nestas áreas, a cidade pode melhorar o acesso a serviços essenciais e infraestruturas, contribuindo para a resiliência urbana geral e o bem-estar.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Formosa enfrenta riscos significativos à biodiversidade tanto por secas quanto por ondas de calor, conforme indicado pelos dados do CCRA. O fortalecimento dos programas de controle e conservação de áreas protegidas aborda diretamente essas vulnerabilidades ambientais. A proteção dessas áreas pode ajudar a preservar ecossistemas que são cruciais para a resiliência da cidade contra os impactos climáticos. Esta ação é uma prioridade porque salvaguarda os recursos naturais e a biodiversidade, que são essenciais para o bem-estar a longo prazo da cidade e de seus habitantes.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -231,7 +231,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos de saúde pública identificados em Formosa. A cidade enfrenta riscos muito elevados de ondas de calor e doenças, e um risco notável de inundações, todos os quais podem levar a um aumento da demanda sobre os serviços de saúde. Fortalecer a rede de saúde é crucial para responder eficazmente a esses impactos na saúde relacionados ao clima. Esta medida proativa aumentará a resiliência da cidade e protegerá sua população das consequências adversas para a saúde das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -307,7 +307,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade devido ao alto risco da cidade para a segurança alimentar, tanto por secas quanto por inundações. Melhorar o armazenamento e a distribuição de alimentos pode ajudar a mitigar os impactos desses perigos, garantindo um suprimento alimentar mais estável para a população. Dados os fatores socioeconômicos de baixa renda da cidade, aprimorar a segurança alimentar é crucial para o bem-estar da comunidade. Esta iniciativa aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -383,7 +383,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Formosa enfrenta emissões significativas relacionadas ao uso da terra, que são o maior contribuinte para suas emissões totais. Incentivar práticas sustentáveis de uso da terra aborda diretamente essa importante fonte de gases de efeito estufa. Essa ação também pode ajudar a mitigar os altos riscos associados a secas e inundações, que impactam severamente a segurança alimentar e os recursos hídricos. Dado o status de baixa renda da cidade, as práticas sustentáveis também podem oferecer benefícios econômicos e melhorar a resiliência para populações vulneráveis.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -457,7 +457,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso a cuidados de saúde é uma ação crucial para Formosa, especialmente dados os altos riscos associados aos impactos na saúde pública de ondas de calor, doenças e inundações. Melhorar o acesso aos cuidados de saúde pode abordar diretamente as vulnerabilidades destacadas por esses perigos. Esta ação é uma prioridade porque aumenta a capacidade da cidade de responder a crises de saúde e fornece serviços essenciais à sua população. Além disso, com um fator socioeconômico de baixa renda, garantir acesso adequado aos cuidados de saúde é vital para o bem-estar e a resiliência da comunidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -532,7 +532,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Formosa enfrenta riscos significativos para a segurança alimentar, tanto de secas quanto de inundações, com altas pontuações de risco normalizado para ambos os perigos. A melhoria das práticas agrícolas e pesqueiras pode abordar diretamente essas vulnerabilidades, aumentando a resiliência a eventos climáticos extremos. Esta ação é crucial para salvaguardar o abastecimento alimentar local e apoiar os meios de subsistência daqueles que dependem da agricultura e da pesca. Dados os fatores socioeconômicos de baixa renda da cidade, o fortalecimento da segurança alimentar é um passo fundamental para o bem-estar geral da comunidade.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -609,7 +609,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido ao alto risco de secas na cidade, que impactam severamente os recursos hídricos e a segurança alimentar. A revitalização das matas ciliares pode ajudar a mitigar esses impactos, melhorando a retenção de água e a estabilidade do solo. Dadas as significativas emissões provenientes do uso da terra, esta ação também oferece co-benefícios para o sequestro de carbono. Além disso, pode melhorar a biodiversidade, que também está em risco devido a secas e ondas de calor.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -682,7 +682,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Formosa enfrenta riscos significativos de secas, ondas de calor e inundações, que podem impactar severamente a saúde pública e a segurança alimentar. A cidade também possui uma população de baixa renda, tornando-a particularmente vulnerável a esses impactos climáticos. Redes de segurança social são cruciais para proteger as populações mais vulneráveis durante e após desastres relacionados ao clima. Esta ação ajuda a garantir que as necessidades básicas sejam atendidas e oferece um amortecedor contra choques econômicos causados pelas mudanças climáticas.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -756,7 +756,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação aborda a disponibilidade de infraestrutura de saúde, que é crucial dados os altos riscos à saúde pública decorrentes de ondas de calor, doenças e inundações em Formosa. Melhorar a infraestrutura de saúde pode aumentar a capacidade da cidade de responder a esses impactos na saúde relacionados ao clima. Embora não seja a prioridade absoluta, é uma área significativa para investimento para proteger o bem-estar da população. Esta ação apoia a resiliência da cidade contra futuros desafios climáticos.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -830,7 +830,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido ao alto risco da cidade a vários perigos, particularmente inundações e deslizamentos de terra, que impactam severamente a infraestrutura. A realocação e a restauração ambiental abordam diretamente a vulnerabilidade das populações nessas áreas de alto risco. Ao restaurar o meio ambiente, a cidade pode mitigar impactos futuros e aumentar a resiliência contra desastres relacionados ao clima. Essa abordagem proativa protege tanto vidas humanas quanto infraestruturas críticas de danos recorrentes.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -901,7 +901,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Formosa enfrenta riscos significativos de eventos climáticos extremos, particularmente secas e ondas de calor, que impactam severamente os recursos hídricos, a segurança alimentar e a saúde pública. Um programa de apoio financeiro é crucial para ajudar a cidade e seus moradores a se recuperarem desses eventos frequentes e intensos. Esta iniciativa pode proporcionar o alívio tão necessário e facilitar esforços de reconstrução mais rápidos. Também ajuda a construir resiliência contra futuros choques climáticos, protegendo populações vulneráveis e infraestruturas críticas.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -978,7 +978,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Formosa. Esta ação aborda diretamente os altos riscos da cidade relacionados à infraestrutura, particularmente devido a ondas de calor e inundações. Superfícies permeáveis podem mitigar os efeitos das ilhas de calor urbanas e melhorar a gestão da água da chuva, reduzindo os impactos das inundações. As áreas verdes também melhoram a biodiversidade e a saúde pública, que são áreas de impacto chave para Formosa. Dadas as significativas emissões de uso do solo da cidade, esta ação também contribui para o sequestro de carbono e a melhoria ambiental geral.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A implementação de hortas urbanas é uma ação valiosa para Formosa. Essa iniciativa pode melhorar a segurança alimentar local, especialmente dada a vulnerabilidade da cidade a secas que afetam o abastecimento de alimentos. Também promove o envolvimento da comunidade e espaços verdes, contribuindo para um ambiente urbano mais saudável. Além disso, as hortas urbanas podem ajudar a mitigar o efeito de ilha de calor urbana, o que é relevante considerando o alto risco da cidade a ondas de calor.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1122,7 +1122,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Formosa enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico é crucial para compreender a disponibilidade de água e prever condições de seca. Essa abordagem proativa pode ajudar a cidade a gerenciar seus recursos hídricos de forma mais eficaz. A implementação de tal sistema é uma prioridade para mitigar os altos riscos associados à escassez de água e garantir o bem-estar da população.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1194,7 +1194,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a segurança alimentar, que é uma área de impacto chave para Formosa, particularmente devido a secas e inundações. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode mitigar diretamente estes riscos. Dados os fatores socioeconómicos de baixa renda da cidade, a gestão eficiente dos recursos alimentares é crucial. Esta ação pode contribuir para um sistema alimentar mais resiliente para a comunidade.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Formosa enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar. A implementação de soluções de captação e armazenamento de água aborda diretamente essas áreas de alto risco. Dado o baixo acesso da cidade a serviços públicos, particularmente o acesso inadequado à água, esta ação também pode melhorar a prestação de serviços essenciais. Além disso, pode ajudar a mitigar os impactos mais amplos da seca na segurança energética e na biodiversidade.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1346,7 +1346,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Formosa, dada a sua significativa vulnerabilidade a secas e inundações, que impactam severamente os recursos hídricos e a segurança alimentar. Esta abordagem pode ajudar a mitigar os altos riscos associados a esses perigos, restaurando e protegendo ecossistemas naturais. Além disso, pode aumentar a biodiversidade, que também está em risco devido a impactos climáticos como ondas de calor. Priorizar esta ação construirá resiliência contra múltiplas ameaças climáticas e apoiará a sustentabilidade a longo prazo da cidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Formosa enfrenta riscos significativos de secas, que afetam os recursos hídricos e a segurança alimentar. Incentivar sistemas agrossilvipastoris pode aumentar a resiliência das práticas agrícolas a essas condições de seca. Essa abordagem integra árvores, culturas e gado, o que pode melhorar a saúde do solo, a retenção de água e a biodiversidade. Tais sistemas também podem contribuir para o sequestro de carbono, alinhando-se com objetivos climáticos mais amplos. Portanto, esta ação é uma prioridade para a construção da resiliência climática e o apoio ao uso sustentável da terra na Formosa.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",

@@ -7,7 +7,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses the conservation of protected areas, which is crucial for maintaining biodiversity and ecosystem services. Gravata\u00ed faces risks to biodiversity from both droughts and heatwaves, making conservation efforts vital. Strengthening these programs can help mitigate the impacts of climate change on natural habitats. Protecting these areas can also indirectly support water resources and public health by preserving natural systems.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -80,7 +80,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Gravata\u00ed given its high risks from various extreme weather events. The city faces significant public health risks from floods, landslides, and heatwaves, as well as infrastructure risks from floods and landslides. A comprehensive emergency response plan can mitigate these impacts, protecting both citizens and critical infrastructure. This proactive measure is essential for building resilience against future climate-related hazards.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -157,7 +157,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant risks Gravata\u00ed faces from various hazards. The city has very high normalized risk scores for public health impacts from landslides and floods, and moderate inadequate water access. Relocation and environmental restoration in vulnerable areas directly addresses these critical issues by reducing exposure to hazards and improving environmental conditions. This proactive measure can mitigate the severe consequences of climate-related events on the population and infrastructure. Investing in this action will enhance the city's resilience and protect its most vulnerable residents.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -228,7 +228,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "The city of Gravata\u00ed faces significant risks from floods, particularly impacting public health and infrastructure. Maintaining and revitalizing riparian forests can help mitigate these flood risks by stabilizing riverbanks and absorbing excess water. This action also contributes to biodiversity, which is a key impact area for both drought and heatwave hazards in the city. Given the city's grassland/savanna biome, this action aligns with ecological restoration efforts that can enhance overall resilience.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -301,7 +301,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Gravata\u00ed. The city has significant land use emissions, indicating a need for improved practices. Furthermore, the city is vulnerable to hazards like droughts and floods, which can be exacerbated by unsustainable land use. Implementing this action can help mitigate these risks and improve overall resilience. This action directly addresses environmental sustainability and climate adaptation.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -375,7 +375,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the city's significant vulnerability to floods, as indicated by the very high normalized risk score for public health and infrastructure impacts from floods. A hydrological monitoring system can provide crucial early warnings, allowing for timely evacuation and preparedness measures. This proactive approach can significantly mitigate the severe consequences of flooding on public health and critical infrastructure. Therefore, implementing this system is essential for enhancing the city's resilience to climate-related hazards.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -447,7 +447,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action focuses on developing diagnostics and restoring Special Social Interest Zones (ZEIS). Given Gravata\u00ed's 'very_low' low-income factor, addressing these zones is crucial for improving living conditions for vulnerable populations. While not directly climate-related, enhancing these areas can indirectly contribute to resilience by improving community infrastructure and well-being. This action aligns with a holistic approach to urban development, considering both social equity and environmental factors. Prioritizing these zones can lead to more equitable and sustainable urban growth.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -521,7 +521,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant public health risks identified in Gravata\u00ed. The city faces very high normalized risk scores for public health impacts from both landslides and floods, as well as a notable risk from diseases. Strengthening the healthcare network is crucial to effectively respond to these climate-related health emergencies. This proactive measure will enhance the city's resilience and protect its population from the direct health consequences of climate change.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -597,7 +597,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant public health risks identified in Gravata\u00ed. The city faces very high normalized risk scores for public health impacts from both landslides and floods, as well as a moderate risk from heatwaves. Enhancing health infrastructure is crucial to improve the city's capacity to respond to these climate-related health emergencies. Given the existing challenges, strengthening health services will directly benefit the population's well-being and resilience. This proactive measure can mitigate the severe consequences of climate hazards on public health.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -671,7 +671,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Improving food storage and distribution is a critical action for Gravata\u00ed, especially given the city's vulnerability to floods and droughts, which directly impact food security. The city has a moderate risk score for food security due to droughts and a lower, but still present, risk from floods. Enhancing these systems can mitigate the impact of climate hazards on food availability and access for the population. This action helps build resilience against future climate shocks, ensuring a more stable food supply for residents. Prioritizing this action will directly address a key impact area identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -747,7 +747,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens can significantly contribute to food security, especially in a city like Gravata\u00ed which faces moderate risks from droughts and floods impacting food supply. This action also promotes local food production, reducing transportation emissions and enhancing community resilience. Furthermore, urban gardens can improve public health by providing access to fresh produce and green spaces. This initiative aligns with sustainable urban development goals and can foster community engagement.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -819,7 +819,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Gravata\u00ed, especially given the high normalized risk scores for public health impacts from various hazards. The city faces significant risks from diseases (0.696897964169382), landslides (0.985094689080747), and floods (0.99), all of which directly threaten public health. Improving healthcare access can mitigate the severe consequences of these events, ensuring timely medical attention and better health outcomes for the population. This action is essential for building resilience and protecting the well-being of Gravata\u00ed's residents against current and future climate-related health challenges.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -894,7 +894,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a crucial action for Gravata\u00ed. This city faces significant risks from floods, with infrastructure and public health being highly impacted. Permeable surfaces can help manage stormwater runoff, reducing the burden on drainage systems and mitigating flood risks. Increased green areas also contribute to urban cooling, which is beneficial given the city's exposure to heatwaves. This action directly addresses multiple climate hazards and improves urban resilience.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -966,7 +966,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Gravata\u00ed faces a moderate risk of inadequate water access, and droughts are a key impact with a high normalized risk score. Implementing water capture and storage solutions directly addresses these vulnerabilities. This action can improve water security for the population and mitigate the effects of future drought events. Prioritizing this action will enhance the city's resilience to climate-related water challenges.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1042,7 +1042,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a key impact area for Gravata\u00ed, particularly concerning droughts and floods. Improving farms and fisheries can enhance local food production and resilience against climate-related disruptions. Given the city's grassland/savanna biome, sustainable agricultural practices are crucial for long-term food stability. Prioritizing this action can directly mitigate risks associated with food supply chains and support the local economy.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -1119,7 +1119,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Gravata\u00ed faces significant risks from extreme weather events, particularly floods and landslides, which have high normalized risk scores for public health and infrastructure. A financial support program is crucial to help the city and its residents recover from the devastating impacts of these events. This action can provide immediate relief and aid in rebuilding efforts, reducing the long-term socio-economic burden. It also demonstrates a proactive approach to climate resilience, ensuring the community is better prepared for future climate shocks.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1196,7 +1196,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action, focusing on behaviour change in diets and food waste, is a priority due to its potential to significantly reduce emissions. Food systems contribute substantially to greenhouse gas emissions, and addressing consumption patterns can have a broad impact. Furthermore, reducing food waste can alleviate pressure on waste management systems, which is particularly relevant given the city's waste emissions. This action also indirectly supports food security, which is a key impact area for Gravata\u00ed, especially concerning droughts and floods.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1272,7 +1272,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is a crucial action for Gravata\u00ed. The city faces significant risks, particularly in public health due to landslides and floods, and has very low income levels. Social safety nets can provide essential support to vulnerable populations, helping them cope with the impacts of climate hazards and improving overall resilience. This action directly addresses the socio-economic vulnerabilities and high public health risks identified in the city data. Prioritizing social safety nets ensures that the most affected residents receive necessary assistance, fostering a more equitable and resilient community.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1346,7 +1346,7 @@
         "actionId": "icare_0172",
         "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Developing and implementing a Municipal Risk Reduction Plan is crucial for Gravata\u00ed, especially given the high normalized risk scores for public health impacts from landslides and floods. Identifying vulnerable population groups will ensure targeted support and resource allocation. This proactive measure will enhance the city's resilience to future climate hazards. Prioritizing this action will lead to a more prepared and protected community.",
         "action": {
             "ActionID": "icare_0172",
             "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
@@ -1418,7 +1418,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial strategy for Gravata\u00ed, given its significant risks from various hazards. The city faces high risks from floods, landslides, and droughts, all of which can be mitigated through healthy ecosystems. Investing in natural infrastructure can protect public health and critical infrastructure, which are highly vulnerable. This action supports long-term resilience by leveraging nature's protective services.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",

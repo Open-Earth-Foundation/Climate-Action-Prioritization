@@ -7,7 +7,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar políticas de energía renovable es una alta prioridad para Manaos. La ciudad se enfrenta a riesgos significativos por sequías y olas de calor, que pueden afectar la seguridad energética. La transición a las energías renovables puede mejorar la resiliencia energética y reducir la dependencia de fuentes vulnerables. Esta acción también se alinea con esfuerzos más amplios de mitigación del cambio climático al reducir las sustanciales emisiones de energía estacionaria de la ciudad.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
@@ -79,7 +79,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "La integración de energías renovables en los sistemas municipales de agua es una prioridad para Manaus. La ciudad se enfrenta a riesgos significativos relacionados con los recursos hídricos debido a las sequías, que tienen una puntuación de riesgo normalizado muy alta. Esta acción puede mejorar la resiliencia y la sostenibilidad del suministro de agua al reducir la dependencia de las fuentes de energía tradicionales, que pueden ser vulnerables a los impactos climáticos. Además, se alinea con laK aborda lasK preocupaciones de seguridad energética, otra área de alto riesgo identificada para Manaus. Al adoptar energías renovables, la ciudad puede mejorar su resiliencia climática general y garantizar un acceso más estable a los servicios esenciales.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energías renovables en los sistemas de agua municipales",
@@ -151,7 +151,7 @@
     "actionId": "icare_0038",
     "actionName": "Promote community solar farms",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar las granjas solares comunitarias en Manaos es una prioridad porque aborda directamente el alto riesgo de seguridad energética de la ciudad, particularmente el derivado de las sequías que afectan gravemente a la energía hidroeléctrica. Esta acción diversifica la matriz energética, reduciendo la dependencia de una única fuente y mejorando la resiliencia frente a los peligros climáticos. Además, puede contribuir a reducir las sustanciales emisiones de energía estacionaria de la ciudad, lo que se alinea con objetivos más amplios de mitigación climática. Esta iniciativa también empodera a las comunidades al proporcionar acceso a energía limpia y, potencialmente, reducir los costos de la energía.",
     "action": {
       "ActionID": "icare_0038",
       "ActionName": "Promover granjas solares comunitarias",
@@ -222,7 +222,7 @@
     "actionId": "icare_0033",
     "actionName": "Install biodigesters in rural properties",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La instalación de biodigestores en propiedades rurales de Manaos es una prioridad debido a la importante actividad agrícola de la ciudad y al potencial de conversión de residuos en energía. Esta acción puede ayudar a reducir las emisiones derivadas del uso del suelo, que contribuyen notablemente al total de emisiones de la ciudad. Además, puede mejorar la seguridad energética y, potencialmente, mitigar los impactos en los recursos hídricos al gestionar los residuos agrícolas de forma más eficaz. Esta iniciativa se alinea con la gestión de los riesgos climáticos relacionados con la energía y el agua, así como con el apoyo al bioma de la ciudad.",
     "action": {
       "ActionID": "icare_0033",
       "ActionName": "Instalar biodigestores en propiedades rurales",
@@ -293,7 +293,7 @@
     "actionId": "icare_0105",
     "actionName": "Reduce technical losses in energy distribution networks",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Reducir las pérdidas técnicas en las redes de distribución de energía es una prioridad para Manaus. La ciudad enfrenta altos riesgos relacionados con la seguridad energética debido tanto a sequías como a olas de calor, según indican los datos del CCRA. Minimizar estas pérdidas puede mejorar la fiabilidad y la eficiencia del suministro de energía, abordando directamente estas vulnerabilidades. Esta acción contribuye a un sistema energético más resiliente, lo cual es crucial para una ciudad que experimenta impactos energéticos significativos relacionados con el clima.",
     "action": {
       "ActionID": "icare_0105",
       "ActionName": "Reducir las pérdidas técnicas en las redes de distribución de energía",
@@ -365,7 +365,7 @@
     "actionId": "icare_0011",
     "actionName": "Provide tax incentives for renewable energy in residential projects",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque promueve la adopción de energía renovable en proyectos residenciales, lo que puede ayudar a reducir la huella de carbono general de la ciudad. Al ofrecer incentivos fiscales, la ciudad anima a los ciudadanos a invertir en soluciones energéticas sostenibles, contribuyendo a un medio ambiente más limpio. Esta iniciativa se alinea con los esfuerzos para mitigar el cambio climático y mejorar la seguridad energética. Además, puede aliviar potencialmente la presión sobre la infraestructura energética existente.",
     "action": {
       "ActionID": "icare_0011",
       "ActionName": "Proporcionar incentivos fiscales para la energía renovable en proyectos residenciales",
@@ -437,7 +437,7 @@
     "actionId": "icare_0040",
     "actionName": "Adopt solar-powered street lighting in rural areas",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "La adopción de alumbrado público alimentado por energía solar en las zonas rurales es una acción beneficiosa para Manaos. Aunque no aborda directamente los riesgos climáticos más apremiantes de la ciudad, como las sequías o las inundaciones, contribuye a la seguridad energética y reduce la dependencia de las fuentes de energía tradicionales. Esta acción también puede mejorar la seguridad pública y la calidad de vida en las zonas rurales, que pueden tener un acceso limitado a una electricidad fiable. Además, se alinea con objetivos de sostenibilidad más amplios al reducir la huella de carbono de la ciudad, aunque en un sector menos impactante en comparación con las emisiones industriales o del transporte.",
     "action": {
       "ActionID": "icare_0040",
       "ActionName": "Adoptar iluminación de calles con energía solar en áreas rurales",
@@ -509,7 +509,7 @@
     "actionId": "icare_0097",
     "actionName": "Support Distributed Energy Generation in Residences and Businesses",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar la generación de energía distribuida es una prioridad para Manaos, dados sus altos riesgos de seguridad energética derivados tanto de sequías como de olas de calor. Esta acción puede ayudar a diversificar las fuentes de energía de la ciudad, reduciendo la dependencia de una red centralizada que es vulnerable a los impactos climáticos. Al empoderar a las residencias y empresas para que generen su propia energía, la ciudad puede mejorar su resiliencia energética. Esto también se alinea con la necesidad de abordar las altas emisiones generales, ya que la generación distribuida a menudo implica fuentes renovables.",
     "action": {
       "ActionID": "icare_0097",
       "ActionName": "Apoyar la Generación de Energía Distribuida en Residencias y Negocios",
@@ -581,7 +581,7 @@
     "actionId": "icare_0008",
     "actionName": "Develop Smart Grids and Energy Storage Systems",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Manaos se enfrenta a riesgos significativos derivados de las olas de calor y las sequías, que pueden afectar gravemente la seguridad energética. El desarrollo de redes inteligentes y sistemas de almacenamiento de energía aborda directamente estas vulnerabilidades al mejorar la resiliencia de la red y asegurar un suministro eléctrico estable. Esta acción es crucial para mitigar las altas puntuaciones de riesgo normalizado asociadas con la seguridad energética bajo escenarios tanto de sequía como de ola de calor. Además, apoya la adaptación climática general de la ciudad al reducir la dependencia de infraestructuras energéticas potencialmente vulnerables durante eventos climáticos extremos.",
     "action": {
       "ActionID": "icare_0008",
       "ActionName": "Desarrollar Redes Inteligentes y Sistemas de Almacenamiento de Energía",
@@ -653,7 +653,7 @@
     "actionId": "icare_0010",
     "actionName": "Promote Net-Zero and Green Building Certifications",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar las certificaciones de edificios ecológicos y de cero emisiones netas es un paso crucial hacia el desarrollo urbano sostenible en Manaos. Esta acción aborda directamente las importantes emisiones de energía estacionaria de la ciudad, que contribuyen sustancialmente a sus emisiones totales. Al fomentar las prácticas de construcción ecológica, Manaos puede reducir el consumo de energía y promover el uso de fuentes de energía renovables en su infraestructura. Esta iniciativa también se alinea con objetivos más amplios de resiliencia climática al fomentar una construcción y operación de edificios más respetuosas con el medio ambiente.",
     "action": {
       "ActionID": "icare_0010",
       "ActionName": "Promover Certificaciones de Edificios Verdes y de Cero Emisiones Netas",
@@ -725,7 +725,7 @@
     "actionId": "icare_0027",
     "actionName": "Create financing programs for local renewable energy projects",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Manaos se enfrenta a importantes riesgos para la seguridad energética derivados tanto de las sequías como de las olas de calor, como indican las altas puntuaciones de riesgo normalizado. La creación de programas de financiación para proyectos locales de energía renovable aborda directamente estas vulnerabilidades al diversificar el suministro de energía y reducir la dependencia de fuentes sensibles al clima. Esta acción puede mejorar la resiliencia de la ciudad a los impactos climáticos y contribuir a un futuro energético más estable. Además, se alinea con la reducción de las sustanciales emisiones de energía estacionaria de la ciudad.",
     "action": {
       "ActionID": "icare_0027",
       "ActionName": "Crear programas de financiamiento para proyectos locales de energía renovable",
@@ -797,7 +797,7 @@
     "actionId": "icare_0046",
     "actionName": "Make efforts to promote socioeconomic development and improve the quality of life in the city from the perspective of a circular economy and zero carbon emissions.",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque aborda la necesidad fundamental de desarrollo sostenible en Manaos. Al promover una economía circular y apuntar a cero emisiones de carbono, aborda tanto los desafíos ambientales como los socioeconómicos. Este enfoque holístico puede conducir a una mejor calidad de vida para los residentes, al mismo tiempo que mitiga las importantes emisiones y los riesgos climáticos de la ciudad. Sienta las bases para la resiliencia y la prosperidad a largo plazo en una región altamente vulnerable a los impactos climáticos.",
     "action": {
       "ActionID": "icare_0046",
       "ActionName": "Hacer esfuerzos para promover el desarrollo socioeconómico y mejorar la calidad de vida en la ciudad desde la perspectiva de una economía circular y cero emisiones de carbono.",
@@ -869,7 +869,7 @@
     "actionId": "icare_0006",
     "actionName": "Expand rural electrification with renewable energy",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "La expansión de la electrificación rural con energía renovable es una prioridad para Manaos. Esta acción puede mejorar el acceso a servicios esenciales y elevar la calidad de vida de las poblaciones rurales. También contribuye a reducir la dependencia de los combustibles fósiles, lo que se alinea con los esfuerzos de mitigación del cambio climático. Además, puede reforzar la seguridad energética, que es un área de impacto clave para Manaos, especialmente dado el alto riesgo de sequías que afectan los recursos hídricos y energéticos.",
     "action": {
       "ActionID": "icare_0006",
       "ActionName": "Expandir la electrificación rural con energía renovable",
@@ -941,7 +941,7 @@
     "actionId": "icare_0026",
     "actionName": "Offer time-of-use tariffs for electricity consumption",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Manaos se enfrenta a riesgos significativos para la seguridad energética tanto por sequías como por olas de calor, como indican las altas puntuaciones de riesgo normalizado. La implementación de tarifas por tiempo de uso puede incentivar un consumo de electricidad más eficiente, particularmente durante los períodos de máxima demanda. Esto puede ayudar a estabilizar la red energética y reducir la presión sobre la infraestructura, que también es muy vulnerable a las olas de calor. Al gestionar la demanda de manera más efectiva, la ciudad puede mejorar su resiliencia a las interrupciones energéticas relacionadas con el clima.",
     "action": {
       "ActionID": "icare_0026",
       "ActionName": "Ofrecer tarifas de tiempo de uso para el consumo de electricidad",
@@ -1013,7 +1013,7 @@
     "actionId": "icare_0022",
     "actionName": "Set municipal energy efficiency targets",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Establecer objetivos municipales de eficiencia energética es un paso crucial para Manaos. Esta acción aborda directamente las importantes emisiones de energía estacionaria de la ciudad, que contribuyen sustancialmente a su perfil de emisiones totales. Al establecer objetivos claros, Manaos puede impulsar iniciativas para reducir el consumo de energía en varios sectores. Este enfoque proactivo no solo mitigará los impactos del cambio climático, sino que también fomentará el desarrollo sostenible dentro de la ciudad.",
     "action": {
       "ActionID": "icare_0022",
       "ActionName": "Establecer objetivos de eficiencia energética municipal",
@@ -1085,7 +1085,7 @@
     "actionId": "icare_0002",
     "actionName": "Encourage the Use of the Brazilian Labeling Program for Buildings",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción, que fomenta el uso del Programa Brasileño de Etiquetado de Edificios, es una prioridad moderada para Manaus. Si bien la eficiencia de los edificios es importante para reducir el consumo de energía y las emisiones, otros riesgos climáticos como las sequías, las olas de calor y las inundaciones representan amenazas más inmediatas y graves para la infraestructura y la salud pública de la ciudad. La ciudad también enfrenta desafíos significativos con el acceso inadecuado al agua y poblaciones de muy bajos ingresos, lo que sugiere que la provisión de servicios básicos y la resiliencia a eventos climáticos extremos podrían ser preocupaciones más apremiantes. Por lo tanto, si bien es beneficiosa, esta acción podría no ser la intervención más crítica en este momento.",
     "action": {
       "ActionID": "icare_0002",
       "ActionName": "Fomentar el uso del Programa Brasileño de Etiquetado para Edificios",
@@ -1156,7 +1156,7 @@
     "actionId": "icare_0116",
     "actionName": "Mobilize efforts to promote the production and distribution of energy from renewable sources and distributed generation, as well as improve efficiency.",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Manaos tiene emisiones totales significativas, y la promoción de la energía renovable y la eficiencia aborda directamente una fuente importante de estas emisiones. Reducir la dependencia de los combustibles fósiles también mitigará los riesgos asociados con la seguridad energética, que es un impacto clave identificado en la evaluación de riesgos climáticos de la ciudad. Además, mejorar la eficiencia energética puede generar beneficios económicos y reducir la huella de carbono general de la ciudad. Esta acción se alinea con la necesidad de la ciudad de desarrollar resiliencia contra los impactos del cambio climático.",
     "action": {
       "ActionID": "icare_0116",
       "ActionName": "Movilizar esfuerzos para promover la producción y distribución de energía a partir de fuentes renovables y generación distribuida, así como mejorar la eficiencia.",
@@ -1228,7 +1228,7 @@
     "actionId": "icare_0041",
     "actionName": "Support R&D in low-carbon technologies",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Spanish:\nApoyar la I+D en tecnologías bajas en carbono es una estrategia crucial a largo plazo para Manaos. Si bien no aborda directamente los riesgos climáticos inmediatos como sequías o inundaciones, fomenta la innovación que puede conducir a soluciones sostenibles. Esta acción ayuda a diversificar la matriz energética de la ciudad y a reducir su huella de carbono general. Invertir en dichas tecnologías también puede crear nuevas oportunidades económicas y mejorar la resiliencia de la ciudad frente a futuros desafíos climáticos.",
     "action": {
       "ActionID": "icare_0041",
       "ActionName": "Apoyar la I+D en tecnologías de bajas emisiones de carbono",
@@ -1300,7 +1300,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "La adopción de biometano en las flotas públicas es una prioridad para Manaos debido a su potencial para reducir significativamente las emisiones del transporte. Las emisiones del transporte contribuyen sustancialmente al total de emisiones de la ciudad, lo que hace que esta acción sea impactante. La utilización de biometano puede ayudar a diversificar las fuentes de energía de la ciudad para el transporte, lo que podría mejorar la seguridad energética. Esta iniciativa se alinea con objetivos climáticos más amplios al promover alternativas de combustible más limpias. Además, puede sentar un precedente para las prácticas sostenibles dentro del sector público, fomentando una adopción más amplia.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -1372,7 +1372,7 @@
     "actionId": "icare_0012",
     "actionName": "Expand Solar Energy in Public Facilities and Remote Areas",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "La expansión de la energía solar en instalaciones públicas y áreas remotas es una prioridad para Manaos debido a los altos riesgos de seguridad energética que enfrenta la ciudad, derivados tanto de sequías como de olas de calor. Esta acción aborda directamente estas vulnerabilidades al diversificar la matriz energética y reducir la dependencia de fuentes tradicionales. Además, puede mejorar el acceso a energía confiable en áreas remotas, que actualmente pueden enfrentar desafíos. La implementación de soluciones solares también puede contribuir a reducir las emisiones generales de la ciudad, lo que se alinea con objetivos climáticos más amplios. Esta iniciativa ofrece un camino sostenible para mejorar la resiliencia y la independencia energética de Manaos.",
     "action": {
       "ActionID": "icare_0012",
       "ActionName": "Expandir la energía solar en instalaciones públicas y áreas remotas",

@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de portagens urbanas pode reduzir significativamente as emissões dos transportes, que são um dos principais contribuintes para as emissões totais da cidade. Esta ação alinha-se com a necessidade de combater as alterações climáticas e melhorar a qualidade do ar. Ao desencorajar o uso de veículos privados, pode também aliviar o congestionamento do tráfego e promover modos de transporte mais sustentáveis. Isso a torna uma ação de alta prioridade para a sustentabilidade urbana.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A adoção do biometano nas frotas públicas é uma ação prioritária para Montes Claros. Esta iniciativa aborda diretamente as significativas emissões de transporte da cidade, que são um dos principais contribuintes para suas emissões totais. Ao fazer a transição para o biometano, a cidade pode reduzir sua pegada de carbono e melhorar a qualidade do ar. Esta ação se alinha com os esforços globais para descarbonizar o transporte urbano e promover fontes de energia sustentáveis.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque promove o transporte sustentável, o que pode reduzir significativamente as substanciais emissões de transporte da cidade. Incentivar o compartilhamento de bicicletas, especialmente com bicicletas elétricas, oferece uma alternativa acessível e ecologicamente correta aos veículos tradicionais. Esta iniciativa também pode melhorar a saúde pública, promovendo a atividade física e reduzindo a poluição do ar. Além disso, alinha-se com os esforços para criar ambientes urbanos mais habitáveis e verdes.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A expansão dos sistemas de transporte público sobre trilhos é um passo crucial para Montes Claros, dadas as suas significativas emissões de transporte. Esta ação aborda diretamente um dos principais contribuintes para a pegada de carbono geral da cidade. Ao fornecer alternativas eficientes e sustentáveis aos veículos particulares, pode aliviar o congestionamento do tráfego e melhorar a qualidade do ar. Além disso, uma rede de transporte público robusta melhora a mobilidade urbana e a acessibilidade para os moradores.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Aumentar a atratividade do sistema municipal de ônibus é uma alta prioridade para Montes Claros. A cidade possui emissões de transporte muito elevadas, indicando uma dependência significativa de veículos particulares. Promover o transporte público pode reduzir diretamente essas emissões, contribuindo para a mitigação das mudanças climáticas. Além disso, um sistema de ônibus aprimorado podeAumentar a atratividade do sistema municipal de ônibus é uma alta prioridade para Montes Claros. A cidade possui emissões de transporte muito elevadas, indicando uma dependência significativa de veículos particulares. Promover o transporte público pode reduzir diretamente essas emissões, contribuindo para a mitigação das mudanças climáticas. Além disso, um sistema de ônibus aprimorado pode melhorar a acessibilidade para a população de baixa renda, abordando as disparidades socioeconômicas. Esta ação também apoia indiretamente a saúde pública, reduzindo a poluição do ar causada por veículos.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",
@@ -366,7 +366,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma ação crucial para Montes Claros. A cidade enfrenta riscos significativos de secas, que afetam os recursos hídricos e a segurança alimentar, e também de inundações. Os programas de PSA podem incentivar práticas sustentáveis de manejo da terra que protegem os ecossistemas, o que, por sua vez, pode ajudar a regular os ciclos da água, reduzir a erosão e mitigar os impactos tanto das secas quanto das inundações. Dados os fatores socioeconômicos de baixa renda da cidade e o acesso muito limitado a serviços públicos como água e saneamento, tais programas também podem proporcionar benefícios econômicos às comunidades locais, ao mesmo tempo em que abordam desafios ambientais críticos. Esta ação apoia diretamente a resiliência climática, promovendo soluções naturais para problemas ambientais urgentes.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -438,7 +438,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção do reflorestamento urbano e dos corredores verdes é uma prioridade para Montes Claros devido à significativa vulnerabilidade da cidade a ondas de calor, que impactam severamente a saúde pública e a infraestrutura. O aumento das áreas verdes pode mitigar o efeito de ilha de calor urbana, proporcionando benefícios cruciais de resfriamento. Além disso, dado o bioma de campo/savana da cidade, essas iniciativas podem melhorar a biodiversidade e os serviços ecossistêmicos. Esta ação também apoia a melhoria da qualidade do ar e da habitabilidade urbana geral, contribuindo para o bem-estar da população.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover o Reflorestamento Urbano e Corredores Verdes",
@@ -510,7 +510,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de sistemas agroflorestais é uma ação de alta prioridade para Montes Claros, dada a significativa vulnerabilidade da cidade às secas, que impactam severamente os recursos hídricos e a segurança alimentar. A agrofloresta pode aumentar a retenção de umidade do solo, reduzir a erosão e melhorar a biodiversidade, abordando diretamente os principais riscos climáticos. Essa abordagem também apoia o uso sustentável da terra, o que é crucial para uma cidade com substanciais emissões provenientes do uso da terra. Ao integrar árvores com culturas e gado, ela oferece uma solução resiliente aos impactos das mudanças climáticas, ao mesmo tempo em que potencialmente melhora os meios de subsistência locais.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroflorestais",
@@ -582,7 +582,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A facilitação da transferência de tecnologia para práticas de conservação é uma ação de alta prioridade para Montes Claros. A cidade enfrenta riscos significativos de secas, que impactam os recursos hídricos e a segurança alimentar, e também de inundações, que afetam a infraestrutura e a segurança alimentar. A implementação de práticas de conservação pode mitigar diretamente esses riscos, melhorando a gestão da água e a saúde do solo. Esta ação apoia a resiliência a longo prazo contra os perigos climáticos, o que é crucial para uma cidade com acesso muito baixo a água e saneamento adequados.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -654,7 +654,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque Montes Claros é uma cidade com um setor agrícola significativo, e os serviços de extensão rural podem melhorar diretamente as práticas agrícolas. Dado o alto risco de secas que afetam a segurança alimentar, aumentar a resiliência agrícola através da assistência técnica é crucial. Isso pode levar a um uso mais sustentável da terra e potencialmente mitigar algumas das emissões do uso da terra. Além disso, apoiar as comunidades rurais pode abordar fatores socioeconômicos como a baixa renda, contribuindo para o bem-estar geral da comunidade.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -726,7 +726,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Priorizar produtos agroecológicos de produção local nas compras públicas é crucial para Montes Claros, especialmente dado o alto risco à segurança alimentar da cidade devido a secas e inundações. Essa ação pode aumentar a resiliência do sistema alimentar local e reduzir a dependência de cadeias de suprimentos externas. Também apoia os agricultores locais e promove práticas agrícolas sustentáveis, que são vitais para uma cidade com um bioma significativo de campo/savana. Além disso, pode contribuir para a economia local e melhorar o acesso a alimentos para a população, abordando os fatores socioeconômicos de baixa renda da cidade.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -798,7 +798,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar a produção agroecológica local e as cadeias de abastecimento curtas é uma prioridade para Montes Claros, especialmente dado o alto risco da cidade à segurança alimentar devido a secas e inundações. Essa ação pode aumentar a resiliência alimentar local, diversificando as práticas agrícolas e reduzindo a dependência de fontes externas de alimentos. Também apoia o uso sustentável da terra, o que é crucial para uma cidade com emissões significativas relacionadas ao uso da terra. Além disso, pode contribuir para a economia local e melhorar os meios de vida, particularmente em uma região com populações de baixa renda.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -870,7 +870,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os mecanismos de controle do desmatamento é uma ação crucial para Montes Claros. A cidade enfrenta riscos significativos de secas, que impactam severamente os recursos hídricos e a segurança alimentar. O desmatamento agrava esses problemas ao reduzir a capacidade da terra de reter água e aumentar a erosão do solo. Portanto, controlar o desmatamento é essencial para mitigar os impactos das secas e proteger os recursos naturais da cidade. Esta ação apoia diretamente a estabilidade ambiental e o bem-estar da população.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -942,7 +942,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A redução das emissões veiculares é um passo crucial para Montes Claros, dada a contribuição significativa do transporte para as emissões totais da cidade. A diminuição dessas emissões melhorará diretamente a qualidade do ar, o que tem implicações positivas para a saúde pública. Além disso, a mitigação das emissões do transporte alinha-se com objetivos climáticos mais amplos e pode aprimorar o perfil de sustentabilidade da cidade. Esta ação é uma prioridade porque aborda uma das principais fontes de gases de efeito estufa e poluentes locais.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Promover o controle agroecológico de pragas é uma ação crucial para Montes Claros, uma cidade que enfrenta riscos significativos de seca que impactam a segurança alimentar. Esta iniciativa apoia diretamente práticas agrícolas sustentáveis, que são vitais para aumentar a resiliência face às mudanças climáticas. Ao reduzir a dependência de pesticidas químicos, pode também contribuir para a melhoria da saúde pública e da biodiversidade, sendo ambas áreas de impacto chave para a cidade. Esta ação ajuda a construir um sistema alimentar mais robusto e ambientalmente amigável para a comunidade.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Montes Claros enfrenta riscos significativos de secas, impactando tanto os recursos hídricos quanto a segurança alimentar. A promoção de práticas agroflorestais em sistemas pecuários pode aumentar a resiliência das terras agrícolas a essas condições de seca. Essa ação ajuda a diversificar a renda da propriedade e a melhorar a saúde do solo, o que é crucial para a sustentabilidade a longo prazo. Além disso, contribui para o sequestro de carbono, alinhando-se com objetivos ambientais mais amplos para a cidade.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Criar Incentivos para Práticas de Agroflorestas em Sistemas de Pecuária",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de rotas priorizadas para veículos sustentáveis é um passo crucial para a redução das emissões de transporte em Montes Claros. Dado que as emissões de transporte são um contribuinte significativo para as emissões totais da cidade, esta ação aborda diretamente uma importante fonte de poluição. Ao promover o transporte sustentável, a cidade pode melhorar a qualidade do ar e a saúde pública. Esta iniciativa também se alinha com objetivos mais amplos de sustentabilidade urbana e resiliência climática.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A modernização de portos e aeroportos com tecnologias de emissão zero é um passo crucial para reduzir a pegada de carbono geral da cidade, particularmente das emissões de transporte, que são substanciais. Esta ação aborda diretamente uma fonte significativa de gases de efeito estufa, contribuindo para os esforços de mitigação das alterações climáticas. Embora a cidade enfrente altos riscos de secas e inundações, a redução de emissões é uma estratégia fundamental de longo prazo para a resiliência climática. Investir em tal infraestrutura também promove o desenvolvimento sustentável e pode atrair indústrias verdes, fomentando o crescimento económico.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Apoiar programas de certificação agroecológica é uma ação relevante para Montes Claros, dadas as suas significativas emissões de uso da terra agrícola e o alto risco para a segurança alimentar decorrente de secas e inundações. Esses programas podem promover práticas agrícolas sustentáveis, que são cruciais para mitigar os impactos climáticos e aumentar a resiliência. Ao incentivar a agroecologia, a cidade pode reduzir a sua pegada ambiental e melhorar a viabilidade a longo prazo dos seus sistemas alimentares. Esta ação alinha-se com a necessidade de abordar tanto a mitigação como a adaptação às mudanças climáticas numa região que enfrenta desafios climáticos severos.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma prioridade para Montes Claros. Essa ação pode encorajar práticas sustentáveis e gestão de recursos dentro da cidade. Dada a vulnerabilidade da cidade a perigos como secas e inundações, tais incentivos poderiam promover a resiliência. Além disso, com emissões significativas do uso da terra, políticas que incentivem a responsabilidade ecológica são cruciais. Essa ação pode ajudar a alinhar as atividades econômicas com os objetivos de proteção ambiental.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",

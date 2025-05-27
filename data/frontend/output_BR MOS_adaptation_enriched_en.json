@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Mossor\u00f3 given its high vulnerability to multiple extreme weather events. The city faces significant risks from droughts, heatwaves, and floods, all of which have high normalized risk scores across various key impacts like public health, infrastructure, and food security. A comprehensive plan can mitigate the severe consequences of these hazards, protecting its population and critical services. This proactive measure is essential for building resilience and ensuring the safety of the community.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Strengthening programs for control and conservation of protected areas is a priority for Mossor\u00f3, especially given its desert biome and high biodiversity risk from droughts and heatwaves. Protecting these areas can help preserve critical ecosystems and mitigate the impacts of climate change on local flora and fauna. This action supports the city's resilience by safeguarding natural resources that are vital for environmental stability. It also aligns with broader efforts to maintain ecological balance in a region vulnerable to climate-related hazards.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is a crucial action for Mossor\u00f3. Given the city's low-income socio-economic factors and existing challenges with inadequate public services, improving these zones can directly address social inequities. This action can enhance living conditions, access to essential services, and overall urban resilience for vulnerable populations. Prioritizing these areas is vital for fostering inclusive and sustainable urban development in Mossor\u00f3.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -231,7 +231,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 faces significant risks to food security due to droughts and floods, both of which have high normalised risk scores. Improving food storage and distribution can directly mitigate these impacts by ensuring a more stable food supply during and after extreme weather events. Given the city's low-income population, enhancing food systems is crucial for resilience and public well-being. This action addresses a critical vulnerability identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -307,7 +307,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Strengthening the healthcare network is a critical priority for Mossor\u00f3 due to the high risks associated with climate hazards. The city faces significant public health risks from heatwaves, diseases, and floods, all of which can overwhelm existing healthcare infrastructure. Given the city's desert biome and low elevation, these hazards are particularly impactful. Enhancing the healthcare network will improve the city's resilience and ability to respond effectively to climate-induced health crises, protecting its population.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -383,7 +383,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a crucial action for Mossor\u00f3, especially considering the high risks associated with public health due to heatwaves, diseases, and floods. Improving healthcare access can significantly enhance the city's resilience to these climate hazards. A robust healthcare system is essential for managing health crises and ensuring the well-being of the population. This action directly addresses a critical vulnerability identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -458,7 +458,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a priority for Mossor\u00f3 given its significant land use emissions. With a desert biome and high risks from droughts, sustainable land use can help mitigate these impacts. This action can also contribute to food security, which is highly impacted by droughts in the city. Implementing these practices can improve the city's resilience to climate change and support its overall environmental health.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -532,7 +532,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Maintaining and revitalizing riparian forests is crucial for Mossor\u00f3, especially given its desert biome and high risks associated with water resources and droughts. Healthy riparian zones can help regulate water flow, reduce erosion, and improve water quality, which are vital for a city experiencing very low access to adequate water. This action also supports biodiversity, which is at risk from both droughts and heatwaves in the region. Investing in these natural defenses can mitigate several key climate impacts identified for Mossor\u00f3.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -605,7 +605,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Farm/fishery improvements are a high priority for Mossor\u00f3, especially given the city's significant vulnerability to droughts, which severely impact both water resources and food security. Enhancing agricultural and fishery practices can build resilience against these climate hazards. Such improvements can lead to more sustainable food production and better livelihoods for the community. This action directly addresses critical impacts identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -682,7 +682,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Ensuring the availability of health infrastructure is a critical priority for Mossor\u00f3. The city faces significant risks from heatwaves, diseases, and floods, all of which can severely impact public health. Adequate health infrastructure is essential to respond effectively to these hazards and protect the well-being of the population. Given the high normalized risk scores for public health impacts from these climate hazards, strengthening health services is a proactive measure to build resilience. This action directly addresses a fundamental need for the city's residents in the face of climate change.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -756,7 +756,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 faces significant risks from multiple hazards, including droughts, heatwaves, and floods, all of which have high normalized risk scores for infrastructure and public health. The city also has a low-income population and very low access to adequate water, exacerbating vulnerabilities. Relocation and environmental restoration in vulnerable areas directly addresses these critical issues by protecting residents and restoring ecosystems. This action is a priority because it mitigates the impacts of climate hazards and improves living conditions for the most susceptible populations.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -827,7 +827,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a valuable action for Mossor\u00f3, a city facing significant challenges related to food security due to droughts. Urban gardens can enhance local food production, reducing reliance on external food sources and improving resilience to climate impacts. This initiative also offers co-benefits such as community engagement, greening urban spaces, and potentially improving local air quality. While not directly addressing the highest-risk hazards like water scarcity or public health from heatwaves, it contributes to overall urban sustainability and food system resilience.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -899,7 +899,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 faces significant risks from extreme weather events, including droughts, heatwaves, and floods, which severely impact public health, infrastructure, and food security. A financial support program is crucial for the city to build resilience and recover from these frequent and intense events. Given the city's low-income population and existing vulnerabilities like inadequate water access, such a program can provide essential relief and aid in adaptation efforts. This action directly addresses the high normalized risk scores associated with multiple hazards, making it a high priority for protecting the community and its assets.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -976,7 +976,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 faces significant risks from droughts and floods, impacting water resources, food security, and infrastructure. A Hydrological Monitoring System with Telemetry Stations is crucial for effective early warning and management of these hazards. This system would provide real-time data, enabling proactive responses to extreme weather events. Given the city's desert biome and existing water access issues, improving hydrological monitoring is a high priority for resilience.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1048,7 +1048,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Social safety nets are crucial for Mossor\u00f3, a city with a low-income population and significant climate risks. The city faces high risks from droughts, heatwaves, and floods, which can severely impact public health and food security. These hazards disproportionately affect vulnerable populations, making social safety nets essential for resilience. Implementing such measures can help protect livelihoods and ensure basic needs are met during climate-related crises.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1122,7 +1122,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a priority for Mossor\u00f3. This action directly addresses the high risks associated with floods, which are a significant concern for infrastructure and food security in the city. Permeable surfaces help manage stormwater runoff, reducing the likelihood and severity of flooding. Additionally, green areas can mitigate the impacts of heatwaves, another high-risk hazard identified for public health and infrastructure. This action contributes to urban resilience by improving water management and cooling the urban environment.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1194,7 +1194,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a critical concern for Mossor\u00f3, especially given the high risk of droughts impacting this key area. Promoting behaviour change in diets and reducing food waste can directly mitigate the impacts of food scarcity. This is particularly relevant for a city with low-income populations, where efficient resource use is paramount. By reducing waste, the city can improve resilience against climate-related food system disruptions.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Mossor\u00f3 is a desert biome with significant drought risks impacting water resources, food security, and energy security. The city also reports very low access to adequate water, indicating a critical need for improved water management. Implementing water capture and storage solutions directly addresses these vulnerabilities by enhancing water availability and resilience. This action is crucial for mitigating the severe impacts of droughts and improving public health and well-being in the community.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1346,7 +1346,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Mossor\u00f3, especially given its desert biome and high risks associated with droughts and heatwaves. This approach can help mitigate impacts on water resources, food security, and public health, which are all severely threatened. By restoring and protecting natural ecosystems, the city can enhance its resilience to climate change. This action supports multiple key impacts identified in the CCRA, making it a holistic and beneficial investment for the city's future.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "The city of Mossor\u00f3 faces significant risks related to water resources, particularly from droughts, as indicated by a very high normalized risk score. Additionally, the city experiences very low access to adequate water and low access to sanitation. Preserving and recovering water bodies is crucial for improving water availability and quality, directly addressing these critical vulnerabilities. This action supports the city's resilience against future climate impacts and enhances public health by improving water access and sanitation.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",

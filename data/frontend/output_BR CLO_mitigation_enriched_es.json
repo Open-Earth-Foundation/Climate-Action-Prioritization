@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de peajes urbanos es una acción prioritaria para Campo Largo. Esta medida puede reducir significativamente las emisiones del transporte, que actualmente son la mayor fuente de emisiones en la ciudad. Al desalentar el uso de vehículos privados, puede aliviar la congestión del tráfico y mejorar la calidad del aire. Esta acción también se alinea con la necesidad de la ciudad de abordar los riesgos climáticos, ya que la reducción de emisiones contribuye a la resiliencia climática general. Además, los ingresos generados podrían reinvertirse en infraestructura de transporte público, ofreciendo alternativas sostenibles para los ciudadanos.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción promueve el transporte sostenible, lo cual es crucial dadas las importantes emisiones de transporte de la ciudad. Fomentar el uso compartido de bicicletas, especialmente las eléctricas, puede ayudar a reducir la dependencia de los combustibles fósiles y mejorar la calidad del aire. Si bien no aborda directamente los mayores riesgos climáticos de la ciudad, como las inundaciones o la salud pública, contribuye a la sostenibilidad urbana general. Esta iniciativa también se alinea con los esfuerzos para crear espacios urbanos más habitables y respetuosos con el medio ambiente. Por lo tanto, es un paso valioso hacia un futuro más verde para Campo Largo.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "La adopción de biometano en las flotas públicas es una prioridad para Campo Largo, ya que aborda directamente las emisiones del transporte, que son la mayor fuente de emisiones en la ciudad. Esta acción contribuye a reducir la huella de carbono general de la ciudad y a mejorar la calidad del aire. Al hacer la transición a una fuente de combustible renovable, la ciudad puede mejorar su seguridad energética y promover prácticas sostenibles. Esta iniciativa se alinea con objetivos climáticos más amplios y demuestra un compromiso con la gestión ambiental.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La expansión de los sistemas de transporte público masivo sobre rieles es una acción de alta prioridad para Campo Largo. Esta iniciativa aborda directamente las importantes emisiones del transporte, que son el mayor contribuyente a las emisiones totales de la ciudad. Al proporcionar un transporte público eficiente, puede reducir la dependencia de los vehículos privados, disminuyendo así tanto las emisiones como la congestión del tráfico. Esta acción también apoya el desarrollo urbano sostenible y mejora la accesibilidad para los residentes.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -294,7 +294,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Abordar las emisiones vehiculares es una alta prioridad para Campo Largo. Las emisiones del transporte son el mayor contribuyente a las emisiones totales de la ciudad, lo que indica un área significativa para la intervención. Reducir estas emisiones mejorará directamente la calidad del aire y la salud pública. Esta acción también se alinea con objetivos climáticos más amplios al disminuir la huella de carbono de la ciudad. Por lo tanto, centrarse en las emisiones vehiculares es crucial para obtener beneficios ambientales y de salud.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",
@@ -373,7 +373,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nPromover el sistema municipal de autobuses es una prioridad porque las emisiones del transporte contribuyen significativamente a las emisiones totales de la ciudad. Fomentar el uso del transporte público puede reducir directamente estas emisiones. Esta acción también se alinea con los objetivos de desarrollo urbano sostenible al reducir potencialmente la congestión del tráfico y mejorar la calidad del aire. Aunque no aborda directamente los mayores riesgos climáticos como las inundaciones o la salud pública, contribuye a la sostenibilidad ambiental general. Por lo tanto, esta acción es un paso valioso hacia una ciudad más verde.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
@@ -445,7 +445,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una prioridad para Campo Largo debido a los importantes riesgos asociados con las sequías, que impactan severamente los recursos hídricos y la seguridad alimentaria. La agroforestería puede mejorar la retención de agua, la salud del suelo y diversificar la producción agrícola, lo que a su vez fortalece la resiliencia frente a estos peligros. Esta acción también contribuye a la biodiversidad, que es otra área de impacto clave afectada por las sequías. Dado que la ciudad se encuentra en un bioma de selva tropical, estos sistemas se adaptan bien al entorno local y pueden ofrecer beneficios ecológicos y económicos a largo plazo.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -517,7 +517,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción se centra en la modernización de puertos y aeropuertos con tecnologías de cero emisiones. Aunque es importante para reducir las emisiones del transporte, la principal fuente de emisiones de Campo Largo es el transporte, pero la ciudad también se enfrenta a riesgos significativos de inundaciones y sequías que afectan a la infraestructura y la salud pública. El bajo acceso de la ciudad a los servicios públicos de agua y saneamiento también sugiere la necesidad de mejoras de infraestructura más fundamentales. Por lo tanto, aunque beneficiosa, esta acción puede no ser la prioridad más urgente dadas las otras vulnerabilidades apremiantes y necesidades de infraestructura de la ciudad.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernización de puertos y aeropuertos con tecnologías de cero emisiones",
@@ -589,7 +589,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Please see the Spanish translation below:\n\nEsta acción es una prioridad porque las emisiones del transporte son el mayor contribuyente a las emisiones totales de la ciudad. Promover el uso sostenible y racional del transporte motorizado individual aborda directamente esta importante fuente. Reducir estas emisiones es crucial para los objetivos climáticos generales de la ciudad. Esta iniciativa también puede conducir a una mejor calidad del aire y beneficios para la salud pública.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Fomentar y promover medidas para el uso sostenible y racional del transporte motorizado individual",
@@ -661,7 +661,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque las emisiones del transporte contribuyen significativamente al total de emisiones de la ciudad. La implementación de rutas priorizadas para vehículos sostenibles aborda directamente este problema al promover modos de transporte más limpios. Reducir las emisiones del transporte es crucial para mejorar la calidad del aire y mitigar los impactos del cambio climático. Esta iniciativa también puede fomentar un cambio de los vehículos que dependen de combustibles fósiles, promoviendo un entorno urbano más sostenible.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementación de rutas priorizadas para vehículos sostenibles.",
@@ -733,7 +733,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar políticas de energía renovable es una prioridad para Campo Largo dadas sus importantes emisiones totales, particularmente las provenientes del transporte y el uso del suelo. Si bien el riesgo actual de seguridad energética de la ciudad por olas de calor y sequías es bajo, las medidas proactivas pueden mitigar futuras vulnerabilidades. La transición hacia las energías renovables reducirá la huella de carbono de la ciudad y mejorará la independencia energética. Esta acción se alinea con los objetivos de sostenibilidad a largo plazo y puede contribuir a un sistema energético más resiliente.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
@@ -805,7 +805,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "La promoción de la reforestación urbana y los corredores verdes es una prioridad para Campo Largo. Esta acción puede ayudar a mitigar los impactos de las olas de calor, que representan un riesgo para la salud pública y la infraestructura. Además, puede contribuir a la biodiversidad, que actualmente se encuentra en riesgo debido a las sequías y las olas de calor. Si bien no aborda directamente los riesgos más altos como inundaciones o enfermedades, esta acción ofrece amplios beneficios ambientales que pueden mejorar la resiliencia general de la ciudad.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -877,7 +877,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción, \"Facilitar la transferencia de tecnología para prácticas de conservación\", es una prioridad porque puede ayudar a mitigar la vulnerabilidad de la ciudad a diversos peligros climáticos. Campo Largo se enfrenta a riesgos significativos derivados de sequías, inundaciones y olas de calor, que afectan a los recursos hídricos, la seguridad alimentaria y la salud pública. Al promover prácticas de conservación mediante la transferencia de tecnología, la ciudad puede mejorar su resiliencia y adaptarse a estos desafíos ambientales. Este enfoque proactivo puede conducir a una gestión más sostenible de los recursos y a una mejora general del bienestar de la población.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -949,7 +949,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción, centrada en la Asistencia Técnica y Extensión Rural (ATER), es prioritaria dadas las importantes emisiones por uso del suelo de la ciudad. La mejora de las prácticas agrícolas a través de ATER puede mitigar directamente estas emisiones. Además, la ciudad se enfrenta a altos riesgos relacionados con la seguridad alimentaria debido a sequías e inundaciones, problemas que ATER puede ayudar a abordar promoviendo métodos agrícolas resilientes. Aunque no es la acción mejor clasificada, su potencial para abordar tanto las vulnerabilidades ambientales como las socioeconómicas la hace importante. Esta iniciativa puede fomentar la gestión sostenible de la tierra y mejorar la capacidad de adaptación del sector agrícola.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "La integración de energías renovables en los sistemas municipales de agua es una prioridad para Campo Largo debido al considerable riesgo de sequías que enfrenta la ciudad, las cuales impactan directamente en los recursos hídricos. Esta acción puede mejorar la resiliencia del suministro de agua al diversificar las fuentes de energía y reducir la dependencia de redes potencialmente vulnerables. Además, se alinea con los esfuerzos para mitigar el cambio climático al disminuir las emisiones generales de la ciudad, contribuyendo a un futuro más sostenible. Esta iniciativa también apoya la infraestructura de la ciudad, que enfrenta altos riesgos de diversas amenazas, al modernizar sistemas críticos.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energías renovables en los sistemas de agua municipales",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción, que prioriza los productos agroecológicos locales en las compras públicas, es importante para Campo Largo. Puede mejorar la seguridad alimentaria, que es un área de impacto clave tanto para las sequías como para las inundaciones en la ciudad. Además, apoya las economías locales y promueve prácticas agrícolas sostenibles. Si bien no aborda directamente los riesgos más altos, como la salud pública por enfermedades o la infraestructura por inundaciones, contribuye a la resiliencia en áreas relacionadas.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Fortalecer los mecanismos de control de la deforestación es una prioridad para Campo Largo, dadas sus importantes emisiones por el uso del suelo. Estas emisiones contribuyen sustancialmente al perfil de emisiones totales de la ciudad. Controlar la deforestación puede ayudar a mitigar estas emisiones y proteger el bioma de selva tropical de la ciudad. Esta acción es crucial para la sostenibilidad ambiental y los esfuerzos de mitigación del cambio climático.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la agricultura orgánica es una acción relevante para Campo Largo, especialmente considerando la vulnerabilidad de la ciudad a las sequías, que impactan la seguridad alimentaria. Las prácticas de agricultura orgánica a menudo mejoran la salud del suelo y la retención de agua, haciendo que los sistemas agrícolas sean más resilientes a los choques climáticos. Esta iniciativa también puede contribuir a reducir las emisiones por el uso del suelo, que son un componente notable de las emisiones totales de la ciudad. Además, se alinea con objetivos de sostenibilidad más amplios al fomentar ecosistemas más saludables y potencialmente diversificar las fuentes de alimentos locales.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Establecer Programas Municipales de Pago por Servicios Ambientales (PSA) es una prioridad para Campo Largo. Esta acción puede ayudar a proteger los recursos naturales de la ciudad, los cuales son cruciales dado el alto riesgo de sequías que impactan los recursos hídricos. Al incentivar la protección ambiental, también puede contribuir a la seguridad alimentaria, otra área vulnerable a las sequías. Además, los programas de PSA pueden mejorar la biodiversidad, que está en riesgo tanto por las sequías como por las olas de calor. Esta iniciativa apoya un enfoque proactivo hacia la resiliencia climática al valorar los servicios ecosistémicos.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción apoya los programas de certificación agroecológica, que pueden mejorar la seguridad alimentaria y el uso sostenible de la tierra. Dada la vulnerabilidad de la ciudad a las sequías que afectan la seguridad alimentaria, esta iniciativa es relevante. También se alinea con el bioma de selva tropical de la ciudad, promoviendo prácticas que podrían mitigar las emisiones por el uso de la tierra. Aunque no es la máxima prioridad, contribuye a la resiliencia a largo plazo y a la salud ambiental. Esta acción puede ayudar a diversificar las prácticas agrícolas y reducir la dependencia de métodos que requieren un uso intensivo del agua.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",

@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nLa implementación de un peaje urbano es una acción de alta prioridad para Río de Janeiro. Esta medida puede reducir significativamente la congestión del tráfico, lo que a su vez disminuye las emisiones del transporte, un contribuyente importante a las emisiones totales de la ciudad. Al desalentar el uso de vehículos privados, promueve el transporte público y la movilidad activa, lo que lleva a una mejora en la calidad del aire y la salud pública. Además, los ingresos generados por los peajes pueden reinvertirse en el desarrollo urbano sostenible y la infraestructura pública, beneficiando a toda la ciudad.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción promueve el transporte sostenible, lo cual es crucial para Río de Janeiro dadas sus altas emisiones de transporte. Fomentar el uso compartido de bicicletas, especialmente las eléctricas, puede ayudar a reducir la dependencia de los combustibles fósiles y mejorar la calidad del aire. Esta iniciativa también se alinea con los esfuerzos para crear espacios urbanos más habitables y respetuosos con el medio ambiente. Aunque no aborda directamente los peligros climáticos más apremiantes de la ciudad, como inundaciones o deslizamientos de tierra, contribuye a la resiliencia climática general al reducir la huella de carbono de la ciudad.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nLa adopción de biometano en las flotas públicas es un paso significativo hacia la reducción de las emisiones del transporte, que son un contribuyente importante a las emisiones totales de la ciudad. Esta acción aborda directamente una fuente sustancial de gases de efecto invernadero, alineándose con los objetivos de mitigación climática. Al hacer la transición del transporte público a una fuente de combustible renovable, la ciudad puede mejorar la calidad del aire y sentar un ejemplo para una adopción más amplia de prácticas sostenibles. Esta iniciativa también mejora la seguridad energética al diversificar las fuentes de combustible y reducir la dependencia de los combustibles fósiles.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "c40_0035",
     "actionName": "Waste Efficiency",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La eficiencia en la gestión de residuos es una acción crucial para Río de Janeiro, dadas las importantes emisiones de residuos de la ciudad, que son las más altas entre todas las categorías de emisión. Abordar la gestión de residuos puede conducir a reducciones sustanciales en la huella de carbono general de la ciudad. Mejorar la eficiencia en la gestión de residuos también puede tener co-beneficios positivos para la salud pública y la calidad ambiental. Priorizar esta acción se alinea con la necesidad de abordar las principales fuentes de emisiones. Esta iniciativa contribuirá a un entorno urbano más sostenible y resiliente.",
     "action": {
       "ActionID": "c40_0035",
       "ActionName": "Eficiencia en el manejo de residuos",
@@ -299,7 +299,7 @@
     "actionId": "c40_0036",
     "actionName": "Landfill Management",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "La gestión de los vertederos es una acción crítica para Río de Janeiro debido a las altas emisiones de residuos de la ciudad, que son el mayor contribuyente a sus emisiones totales. Una gestión eficaz de los vertederos puede reducir significativamente estas emisiones, abordando directamente una importante fuente de impacto ambiental. Además, una gestión adecuada de los residuos puede mitigar los riesgos para la salud pública y mejorar el saneamiento urbano general, especialmente dado el muy bajo acceso de la ciudad a los servicios públicos en algunas zonas. Priorizar esta acción generará importantes beneficios ambientales y de salud pública para la ciudad.",
     "action": {
       "ActionID": "c40_0036",
       "ActionName": "Gestión de Vertederos",
@@ -376,7 +376,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nImplementar un proyecto para apoyar a las cooperativas de recolectores de material reciclable es una iniciativa valiosa para Río de Janeiro. Esta acción aborda directamente la gestión de residuos, que es una fuente significativa de emisiones en la ciudad. Al formalizar y apoyar a estas cooperativas, se pueden mejorar las tasas de reciclaje y reducir el volumen de residuos enviados a los vertederos. Además, tiene el potencial de crear oportunidades económicas y mejorar los medios de vida para un segmento vulnerable de la población.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar un proyecto para apoyar a las cooperativas de recolectores de materiales reciclables",
@@ -448,7 +448,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Establecer ecoparques en Río de Janeiro es una prioridad debido al bioma de selva tropical de la ciudad y a los importantes riesgos para la biodiversidad derivados de diversas amenazas. Si bien no abordan directamente los mayores riesgos, como la infraestructura y la salud pública, derivados de inundaciones y deslizamientos de tierra, los ecoparques pueden contribuir a la resiliencia del ecosistema. Pueden ayudar a mitigar algunos impactos del cambio climático, como las olas de calor, al proporcionar espacios verdes que reducen los efectos de isla de calor urbano. Además, ofrecen oportunidades para la conservación y la educación pública, apoyando indirectamente la salud y el bienestar ambiental a largo plazo.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Establecer eco-parques.",
@@ -520,7 +520,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "La expansión de los sistemas de transporte público masivo sobre rieles es una acción de alta prioridad para Río de Janeiro. Esta iniciativa aborda directamente las importantes emisiones del transporte de la ciudad, que son un contribuyente principal a sus emisiones totales. Mejorar la infraestructura del transporte público puede reducir la dependencia de los vehículos privados, lo que lleva a un aire más limpio y a una menor congestión del tráfico. Dada la alta densidad de población de la ciudad, un transporte público masivo eficiente es crucial para el desarrollo urbano sostenible y para mejorar la calidad de vida de sus residentes.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -592,7 +592,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Abordar las emisiones vehiculares es una acción de alta prioridad para Río de Janeiro. La ciudad tiene emisiones significativas provenientes del transporte, lo que contribuye sustancialmente a sus emisiones totales. Reducir estas emisiones mejorará la calidad del aire, beneficiando la salud pública y el medio ambiente. Esta acción se alinea con la necesidad de la ciudad de mitigar los impactos del cambio climático y mejorar la sostenibilidad urbana.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",
@@ -671,7 +671,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar políticas de energía renovable a nivel municipal es una acción de alta prioridad para Río de Janeiro. Esta iniciativa aborda directamente las importantes emisiones totales de la ciudad, particularmente las provenientes de la energía estacionaria y el transporte. Al promover las energías renovables, la ciudad puede reducir su dependencia de los combustibles fósiles, lo que lleva a una disminución sustancial de las emisiones de gases de efecto invernadero. Esta acción también contribuye a la seguridad energética a largo plazo y puede fomentar el desarrollo económico mediante la creación de empleos verdes. Dada la vulnerabilidad de la ciudad a los peligros climáticos, la transición a la energía limpia es un paso crucial paraAumentar la resiliencia.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
@@ -743,7 +743,7 @@
     "actionId": "icare_0079",
     "actionName": "Implement energy audits in industrial plants",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de auditorías energéticas en plantas industriales es un paso crucial para reducir las importantes emisiones de procesos industriales de la ciudad. Dado que las emisiones de procesos industriales contribuyen sustancialmente al total de emisiones, esta acción se dirige directamente a una fuente principal. Al identificar ineficiencias, estas auditorías pueden generar ahorros energéticos sustanciales y una reducción en la huella de carbono general de la ciudad. Esta acción se alinea con el objetivo más amplio de mitigar los impactos del cambio climático y promover prácticas industriales sostenibles dentro de Río de Janeiro.",
     "action": {
       "ActionID": "icare_0079",
       "ActionName": "Implementar auditorías energéticas en plantas industriales",
@@ -815,7 +815,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción se centra en implementar rutas priorizadas para vehículos sostenibles, lo que aborda directamente las emisiones del transporte. Dado que las emisiones del transporte contribuyen significativamente al total de emisiones de la ciudad, esta iniciativa es crucial para reducir la huella de carbono general. Al promover el transporte sostenible, también puede aliviar la congestión del tráfico y mejorar la calidad del aire, beneficiando la salud pública. Esta acción se alinea con la necesidad de la ciudad de mitigar los impactos del cambio climático y mejorar las condiciones de vida urbana.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementación de rutas priorizadas para vehículos sostenibles.",
@@ -887,7 +887,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nEsta acción, que prioriza los productos agroecológicos locales en las compras públicas, es importante para Río de Janeiro. Puede mejorar la seguridad alimentaria, que es un área de impacto clave para la ciudad, especialmente dado su alto riesgo de sequías e inundaciones. Apoyar la producción agroecológica local también contribuye al uso sostenible de la tierra y puede reducir las emisiones asociadas con el transporte de alimentos a larga distancia. Si bien no es la máxima prioridad, se alinea con la construcción de un sistema alimentario más resiliente y sostenible para la ciudad.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -959,7 +959,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Establecer Programas Municipales de Pago por Servicios Ambientales (PSA) es un paso crucial para Río de Janeiro. Dado el bioma de selva tropical de la ciudad y las significativas emisiones por el uso del suelo, proteger y restaurar los ecosistemas naturales es vital. Los programas de PSA incentivan a los propietarios a conservar y gestionar sus tierras de manera que proporcionen beneficios ambientales, como la captura de carbono, la purificación del agua y la protección de la biodiversidad. Esta acción aborda directamente los desafíos ambientales de la ciudad y contribuye a la sostenibilidad a largo plazo. También puede ayudar a mitigar los riesgos asociados con sequías e inundaciones, que son peligros significativos para Río de Janeiro.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -1031,7 +1031,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Aumentar el atractivo del sistema de autobuses municipales es un paso crucial para promover el transporte sostenible en Río de Janeiro. Esta acción puede ayudar a reducir las importantes emisiones de transporte de la ciudad, que actualmente son muy elevadas. Al fomentar el uso del transporte público, se puede aliviar la congestión del tráfico y mejorar la calidad del aire. Esta iniciativa también apoya objetivos climáticos más amplios al alejarse de la dependencia del vehículo privado. Por lo tanto, es una prioridad para fomentar un entorno urbano más respetuoso con el medio ambiente.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
@@ -1103,7 +1103,7 @@
     "actionId": "icare_0075",
     "actionName": "Set carbon emissions reduction targets for industrial sectors",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Establecer objetivos de reducción de emisiones de carbono para los sectores industriales es un paso crucial para Río de Janeiro. La ciudad tiene importantes emisiones de procesos industriales, lo que indica una gran necesidad de intervenciones específicas en esta área. Reducir estas emisiones contribuye directamente a los objetivos climáticos generales de la ciudad y mejora la calidad del aire. Esta acción aborda una fuente importante de gases de efecto invernadero, lo que la convierte en una iniciativa de alta prioridad para la sostenibilidad ambiental.",
     "action": {
       "ActionID": "icare_0075",
       "ActionName": "Establecer objetivos de reducción de emisiones de carbono para los sectores industriales",
@@ -1175,7 +1175,7 @@
     "actionId": "c40_0040",
     "actionName": "Volume-Based Collection",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Río de Janeiro se enfrenta a importantes emisiones de residuos, que contribuyen sustancialmente a sus emisiones totales. La implementación de la recogida basada en el volumen puede incentivar a los residentes y a las empresas a reducir la generación de residuos, disminuyendo así las emisiones generales de residuos. Esta acción aborda directamente una de las principales fuentes del impacto ambiental de la ciudad. Priorizar esta acción puede conducir a un sistema de gestión de residuos más sostenible y contribuir a los objetivos climáticos de la ciudad.",
     "action": {
       "ActionID": "c40_0040",
       "ActionName": "Recolección Basada en Volumen",
@@ -1251,7 +1251,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar los incentivos fiscales ecológicos es un paso crucial hacia el desarrollo sostenible en Río de Janeiro. Estos incentivos pueden fomentar prácticas respetuosas con el medio ambiente entre empresas y particulares, promoviendo una economía más verde. Dada la importante cifra de emisiones totales de la ciudad, estas políticas pueden ayudar a reducir la contaminación y promover la eficiencia de los recursos. Aunque no es la máxima prioridad, contribuye a una estrategia más amplia para la mejora del medio ambiente y la resiliencia climática. Esta acción también puede ayudar a diversificar el enfoque de la ciudad en la acción climática más allá de las reducciones directas de emisiones.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -1323,7 +1323,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Apoyar los programas de certificación agroecológica es una acción relevante para Río de Janeiro, especialmente considerando la vulnerabilidad de la ciudad a los impactos en la seguridad alimentaria derivados de sequías e inundaciones. Estos programas pueden mejorar los sistemas alimentarios locales y la resiliencia. Aunque no es la máxima prioridad según los riesgos más graves de la ciudad, como la infraestructura y la salud pública debido a fenómenos meteorológicos extremos, contribuye a un suministro de alimentos más sostenible y seguro. Esta acción se alinea con la construcción de resiliencia a largo plazo contra las interrupciones alimentarias relacionadas con el clima. Es una iniciativa valiosa que apoya prácticas sostenibles y el bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1395,7 +1395,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar el control agroecológico de plagas es una acción valiosa para Río de Janeiro, ya que puede contribuir a la seguridad alimentaria y la salud pública al reducir la dependencia de los pesticidas químicos nocivos. Este enfoque se alinea con el bioma de la ciudad, que es la selva tropical, lo que sugiere la necesidad de prácticas agrícolas sostenibles. Si bien no aborda directamente los riesgos más apremiantes de la ciudad, como inundaciones o deslizamientos de tierra, apoya la salud y la resiliencia ambiental a largo plazo. La clasificación de prioridad de la acción indica su importancia dentro de un conjunto más amplio de iniciativas para la ciudad.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",

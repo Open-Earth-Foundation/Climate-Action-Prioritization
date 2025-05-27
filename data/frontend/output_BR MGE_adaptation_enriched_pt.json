@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "**Portuguese Translation:**\n\nEstabelecer um plano de preparação e resposta a emergências é crucial para Maranguape, dada a sua alta vulnerabilidade a eventos climáticos extremos como secas, ondas de calor e inundações. Esses perigos impactam significativamente os recursos hídricos, a segurança alimentar, a saúde pública e a infraestrutura. Um plano robusto ajudará a mitigar as consequências graves desses eventos, protegendo a população e os serviços essenciais. Essa medida proativa é fundamental para construir resiliência diante das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda diretamente a equidade social dentro da cidade. O desenvolvimento e a restauração de Zonas Especiais de Interesse Social podem melhorar as condições de vida para populações vulneráveis. Isso é particularmente relevante dado o status de baixa renda \"moderado\" da cidade e o acesso \"moderado\" inadequado ao saneamento. Ao focar nessas áreas, a cidade pode melhorar a saúde pública e a infraestrutura, que são impactos-chave identificados na avaliação de risco climático.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Maranguape enfrenta riscos significativos de segurança alimentar, particularmente devido a secas e inundações. Melhorar o armazenamento e a distribuição de alimentos pode ajudar a mitigar esses impactos, garantindo um suprimento alimentar mais estável. Dada a população de baixa renda moderada da cidade, aprimorar os sistemas alimentares também pode contribuir para a equidade social e a resiliência. Esta medida aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -234,7 +234,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "O fortalecimento de programas de controle e conservação de áreas protegidas é importante para Maranguape, especialmente dado o seu bioma \"desértico\". Esta ação pode ajudar a mitigar os altos riscos associados às secas, que impactam significativamente os recursos hídricos, a segurança alimentar e a segurança energética. A proteção dessas áreas também pode contribuir para a preservação da biodiversidade, que é moderadamente impactada tanto pelas secas quanto pelas ondas de calor. No geral, esta ação apoia a resiliência da cidade contra os perigos climáticos, salvaguardando os ecossistemas naturais.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -307,7 +307,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Maranguape, especialmente dados os altos escores de risco normalizados para impactos na saúde pública decorrentes de ondas de calor, doenças e deslizamentos de terra. Melhorar o acesso à saúde pode mitigar os efeitos desses perigos na população. Esta ação aborda diretamente a vulnerabilidade da cidade aos impactos climáticos relacionados à saúde. Garantir uma infraestrutura e serviços de saúde robustos é essencial para a resiliência da comunidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -382,7 +382,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido à significativa vulnerabilidade de Maranguape às secas, que impactam severamente os recursos hídricos e a segurança alimentar. A melhoria das fazendas e pescarias pode aumentar a resiliência contra esses perigos climáticos, garantindo uma produção alimentar mais estável. Dado o bioma desértico da cidade e o alto risco de seca, práticas agrícolas sustentáveis são cruciais para a adaptação. Esta iniciativa aborda diretamente os principais impactos identificados na avaliação de risco climático da cidade, tornando-a um passo vital em direção à resiliência climática.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -459,7 +459,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a disponibilidade de infraestrutura de saúde, o que é crucial dados os altos escores de risco normalizados para impactos na saúde pública decorrentes de ondas de calor, doenças e deslizamentos de terra em Maranguape. A melhoria da infraestrutura de saúde pode aumentar a capacidade da cidade de responder a esses desafios de saúde relacionados ao clima. Embora não seja a prioridade absoluta, é uma área significativa para investimento para proteger o bem-estar da população. Esta ação se alinha com a necessidade da cidade de reforçar sua resiliência contra vários riscos à saúde identificados na CCRA.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -533,7 +533,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é crucial para Maranguape, especialmente dada a população de baixa renda moderada da cidade e os riscos significativos de secas e ondas de calor. Esses perigos impactam severamente a saúde pública e a segurança alimentar, tornando as populações vulneráveis ainda mais suscetíveis. As redes de segurança social podem fornecer apoio essencial, mitigando os efeitos imediatos e de longo prazo dos desastres relacionados ao clima. Essa ação ajuda a construir resiliência, protegendo os membros mais vulneráveis da comunidade.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -607,7 +607,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção de práticas sustentáveis de uso da terra é uma alta prioridade para Maranguape. A cidade possui emissões significativas relacionadas ao uso da terra, indicando a necessidade de melhoria das práticas. Dado que o bioma da cidade é desértico e ela enfrenta altos riscos de secas, o uso sustentável da terra pode ajudar a mitigar esses impactos. Esta ação também pode contribuir para a segurança alimentar, que é altamente impactada por secas e inundações na região. No geral, esta ação aborda múltiplas vulnerabilidades ambientais e socioeconômicas.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -681,7 +681,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please find the Portuguese translation below:\n\nEsta ação aborda a segurança alimentar, que é uma área de impacto fundamental para Maranguape, particularmente devido a secas e inundações. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode mitigar diretamente esses riscos. Dada a população de renda moderada a baixa da cidade e os desafios existentes com acesso à água e saneamento, a gestão eficiente dos recursos alimentares é crucial. Esta iniciativa também pode apoiar indiretamente a saúde pública, melhorando os resultados nutricionais e reduzindo problemas relacionados ao desperdício.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -757,7 +757,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade devido à alta vulnerabilidade de Maranguape a eventos climáticos extremos, particularmente secas e ondas de calor, que impactam significativamente os recursos hídricos, a segurança alimentar, a segurança energética e a saúde pública. Um programa de apoio financeiro pode ajudar a cidade e seus moradores a se recuperarem e se adaptarem a esses riscos climáticos frequentes e severos. Essa medida proativa pode mitigar as interrupções socioeconômicas causadas por tais eventos, especialmente dada a população de baixa a moderada renda da cidade. Ao fornecer assistência financeira, o programa pode aumentar a resiliência da cidade e reduzir os custos de longo prazo associados ao alívio e recuperação de desastres.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -834,7 +834,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Portuguese:**\n\nMaranguape é uma cidade com bioma desértico e riscos significativos de seca, impactando os recursos hídricos, a segurança alimentar e a segurança energética. A manutenção e revitalização das matas ciliares são cruciais para a conservação da água e a saúde do ecossistema nesse ambiente. Essa ação pode ajudar a mitigar os impactos severos das secas, melhorando a retenção de água e reduzindo a erosão. Além disso, zonas ripárias saudáveis contribuem para a biodiversidade, que também está em risco devido às secas e ondas de calor na cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -907,7 +907,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido aos altos escores de risco normalizados para impactos na saúde pública decorrentes de várias ameaças, incluindo secas, ondas de calor, doenças e deslizamentos de terra. O fortalecimento da rede de saúde é crucial para Maranguape, uma cidade com uma população de renda moderada a baixa e desafios existentes em serviços públicos como saneamento. Medidas proativas na área da saúde aumentarão a resiliência da cidade e sua capacidade de responder eficazmente às crises de saúde relacionadas ao clima. Isso aborda diretamente as vulnerabilidades da cidade e o bem-estar de seus residentes.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -983,7 +983,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Maranguape enfrenta riscos significativos de secas e inundações, impactando os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico é crucial para o alerta precoce e a gestão eficaz desses perigos. Este sistema pode fornecer dados em tempo real, permitindo a tomada de medidas proativas para mitigar os impactos de eventos climáticos extremos. Dada a moderada inadequação do saneamento e o baixo acesso inadequado à água na cidade, melhorar a gestão da água através de tal sistema é uma alta prioridade.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1055,7 +1055,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A implementação de hortas urbanas em Maranguape é uma prioridade devido aos significativos riscos de segurança alimentar da cidade, exacerbados por secas e inundações. Essas hortas podem aumentar a produção local de alimentos, reduzindo a dependência de fontes externas e melhorando a resiliência. Além disso, podem contribuir para a saúde pública, fornecendo produtos frescos e promovendo o envolvimento da comunidade. Esta ação também se alinha com o enfrentamento do status de renda moderadamente baixa da cidade, oferecendo opções de alimentos acessíveis e potenciais oportunidades econômicas.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido aos riscos significativos da cidade decorrentes de várias ameaças, incluindo secas, ondas de calor e inundações. A realocação e a restauração ambiental podem proteger populações e infraestruturas vulneráveis dessas ameaças recorrentes. Dadas as altas pontuações de risco normalizado para a saúde pública e infraestrutura em múltiplos perigos, medidas proativas são cruciais. Esta ação aborda diretamente a necessidade de salvaguardar residentes e ativos críticos em áreas propensas a impactos ambientais.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1198,7 +1198,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é prioritária porque Maranguape enfrenta riscos significativos de inundações, conforme indicado pelas altas pontuações de risco normalizado para infraestrutura e segurança alimentar. A implementação de pavimentos permeáveis e o aumento de áreas verdes podem ajudar a gerenciar o escoamento de á águas pluviais, reduzindo o impacto das inundações na infraestrutura e no abastecimento de alimentos da cidade. Além disso, as áreas verdes podem oferecer co-benefícios como o resfriamento urbano, o que é relevante dada a exposição da cidade a ondas de calor. Esta medida aborda diretamente os riscos climáticos críticos identificados na avaliação de risco da cidade.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é de alta prioridade para Maranguape devido à significativa vulnerabilidade da cidade a secas, que impactam severamente os recursos hídricos. A implementação de soluções de captação e armazenamento de água aborda diretamente o risco climático mais crítico identificado. Dado o status de baixa renda \"moderado\" e o acesso \"baixo\" inadequado à água, melhorar a segurança hídrica é crucial para o bem-estar da população. Esta medida aumentará a resiliência contra a futura escassez de água, apoiando a saúde pública e a segurança alimentar a longo prazo.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1346,7 +1346,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Maranguape, especialmente dado o seu bioma desértico e o alto risco de secas. Essa abordagem pode ajudar a restaurar e proteger os sistemas naturais, o que, por sua vez, pode melhorar a segurança hídrica e a segurança alimentar, ambas severamente impactadas pelas secas na cidade. Além disso, ecossistemas saudáveis podem mitigar os efeitos das ondas de calor, outro perigo significativo para a saúde pública e a segurança energética em Maranguape. Priorizar essa ação apoia a resiliência da cidade contra múltiplos impactos climáticos.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque Maranguape está localizada em um bioma desértico e enfrenta riscos significativos de secas, impactando os recursos hídricos, a segurança alimentar e a segurança energética. Incentivar sistemas agrossilvipastoris pode ajudar a mitigar esses impactos, melhorando a saúde do solo, a retenção de água e a biodiversidade. Essa abordagem também pode contribuir para a segurança alimentar em uma região onde esta é uma área de impacto chave. Além disso, alinha-se com práticas de uso sustentável da terra, que são cruciais dadas as altas emissões de uso da terra da cidade.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",

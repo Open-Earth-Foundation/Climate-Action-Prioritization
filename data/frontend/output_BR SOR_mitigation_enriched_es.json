@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de un peaje urbano es una acción de alta prioridad para Sorocaba. Esta medida puede reducir significativamente las emisiones del transporte, que actualmente constituyen una gran parte del total de emisiones de la ciudad. Al desalentar el uso de vehículos privados, también puede aliviar la congestión del tráfico y mejorar la calidad del aire. Además, los ingresos generados por los peajes pueden reinvertirse en infraestructura de transporte público, promoviendo una movilidad urbana más sostenible.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción promueve el transporte sostenible, lo cual es crucial para reducir las significativas emisiones de transporte de la ciudad. Al fomentar el uso compartido de bicicletas, especialmente con bicicletas eléctricas, ofrece una alternativa accesible y ecológica a los vehículos tradicionales. Esto puede ayudar a aliviar la congestión del tráfico y mejorar la calidad del aire. Además, se alinea con esfuerzos más amplios para mejorar la movilidad urbana y la salud pública.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "La adopción de biometano en flotas públicas es una prioridad para Sorocaba debido a la significativa contribución del transporte a las emisiones totales de la ciudad. Con unas emisiones de transporte de 530.365,187 toneladas, esta acción aborda directamente una de las principales fuentes de gases de efecto invernadero. La implementación del biometano puede conducir a una reducción sustancial de estas emisiones, mejorando la calidad del aire y contribuyendo a los esfuerzos de mitigación del cambio climático. Esta iniciativa también promueve el uso de fuentes de energía renovables, lo que se alinea con los objetivos de sostenibilidad más amplios para la ciudad.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La expansión de los sistemas de transporte público masivo sobre rieles es un paso crucial para que Sorocaba reduzca sus importantes emisiones relacionadas con el transporte. Siendo las emisiones del transporte la categoría más alta, esta acción aborda directamente uno de los principales contribuyentes a las emisiones totales de la ciudad. La mejora de la infraestructura del transporte público también puede aliviar la congestión del tráfico y mejorar la movilidad urbana para los residentes. Esta iniciativa se alinea con los objetivos de desarrollo urbano sostenible al promover modos de transporte más limpios y eficientes.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -294,7 +294,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Abordar las emisiones vehiculares es una prioridad debido a la significativa contribución del transporte al total de emisiones de la ciudad. Con unas emisiones de transporte de 530.365,187 toneladas, este sector representa una porción sustancial de la huella de carbono de Sorocaba. Reducir estas emisiones puede mejorar la calidad del aire y los resultados de salud pública. Además, mitigar las emisiones vehiculares se alinea con objetivos climáticos más amplios y puedeG- mejorar el perfil de sostenibilidad de la ciudad.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",
@@ -373,7 +373,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción se centra en la modernización de puertos y aeropuertos con tecnologías de cero emisiones. Aunque es importante para reducir las emisiones del transporte, Sorocaba no tiene puerto y su aeropuerto no contribuye significativamente al perfil general de emisiones de la ciudad. La ciudad se enfrenta a riesgos climáticos más apremiantes relacionados con la infraestructura y la salud pública debido a peligros como olas de calor, deslizamientos de tierra e inundaciones. Por lo tanto, esta acción no es una prioridad principal para Sorocaba en este momento.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernización de puertos y aeropuertos con tecnologías de cero emisiones",
@@ -445,7 +445,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar políticas de energía renovable es una prioridad para Sorocaba dadas sus importantes emisiones totales. Si bien la ciudad enfrenta altos riesgos por diversas amenazas como inundaciones, deslizamientos de tierra y olas de calor, abordar las fuentes de energía puede contribuir a la resiliencia a largo plazo. Reducir la dependencia de los combustibles fósiles a través de políticas municipales se alinea con los objetivos climáticos globales. Esta acción ayuda a diversificar la cartera energética de la ciudad y puede generar beneficios económicos.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Fomentar políticas de energía renovable a nivel municipal",
@@ -517,7 +517,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es prioritaria porque aborda directamente las emisiones del transporte, que contribuyen significativamente al total de emisiones de la ciudad. Fomentar el transporte público puede reducir la dependencia de los vehículos privados, lo que lleva a una mejora de la calidad del aire y a una reducción de la congestión. Un sistema de autobuses más atractivo puede fomentar un cambio modal, beneficiando tanto al medio ambiente como a la movilidad urbana. Esta iniciativa se alinea con los objetivos de desarrollo urbano sostenible.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar el atractivo del sistema de autobuses municipales para promover este modo de transporte.",
@@ -589,7 +589,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque apoya las economías locales y promueve prácticas agrícolas sostenibles. Al priorizar los productos agroecológicos, la ciudad puede mejorar la seguridad alimentaria y reducir su huella ambiental. Este enfoque también contribuye a la resiliencia del sistema alimentario frente a las interrupciones relacionadas con el clima. Además, puede mejorar la salud pública al proporcionar acceso a opciones de alimentos más saludables.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -661,7 +661,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción se centra en implementar rutas priorizadas para vehículos sostenibles. Dado que las emisiones del transporte contribuyen significativamente al total de emisiones de la ciudad, esta iniciativa aborda directamente una importante fuente de contaminación. Promover el transporte sostenible puede ayudar a reducir la huella de carbono de la ciudad y mejorar la calidad del aire. Aunque no aborda directamente los riesgos climáticos de alto riesgo como inundaciones y olas de calor, la reducción de emisiones es crucial para la resiliencia climática a largo plazo y los esfuerzos de mitigación. Por lo tanto, esta acción es un paso valioso hacia un entorno urbano más sostenible.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementación de rutas priorizadas para vehículos sostenibles.",
@@ -733,7 +733,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Establecer ecoparques en Sorocaba es una prioridad debido al bioma de selva tropical de la ciudad, que puede beneficiarse de una mayor protección de la biodiversidad y de los espacios verdes. Si bien no abordan directamente los riesgos más altos, como la infraestructura y la salud pública, derivados de inundaciones y deslizamientos de tierra, los ecoparques pueden contribuir a la resiliencia ambiental general. También pueden ofrecer beneficios colaterales, como una mejor calidad del aire y oportunidades recreativas para la población. Esta acción apoya la salud ecológica a largo plazo y la sostenibilidad urbana.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Establecer eco-parques.",
@@ -805,7 +805,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar la implementación de incentivos fiscales ecológicos es una prioridad para Sorocaba. Esta acción puede fomentar prácticas sostenibles y la protección del medio ambiente dentro de la ciudad. Al proporcionar beneficios financieros para iniciativas ecoamigables, puede impulsar un cambio positivo en varios sectores. Este enfoque se alinea con la necesidad de la ciudad de abordar los riesgos climáticos y promover la salud ambiental a largo plazo. También puede fomentar un entorno urbano más resiliente y sostenible.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -877,7 +877,7 @@
     "actionId": "c40_0035",
     "actionName": "Waste Efficiency",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción aborda la eficiencia de los residuos, que es un área relevante para la reducción de emisiones en Sorocaba dadas las significativas emisiones de residuos. Mejorar la gestión de residuos puede conducir a un entorno urbano más sostenible. Aunque no es la máxima prioridad, contribuye a la resiliencia general de la ciudad. Centrarse en esta área también puede tener co-beneficios para la salud pública y la calidad ambiental.",
     "action": {
       "ActionID": "c40_0035",
       "ActionName": "Eficiencia en el manejo de residuos",
@@ -954,7 +954,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente las emisiones del transporte, que contribuyen significativamente al total de emisiones de la ciudad. Promover el uso sostenible y racional del transporte motorizado individual puede conducir a una reducción de estas emisiones. Aunque no es la máxima prioridad, contribuye a la resiliencia climática general y a la salud ambiental. Esta medida también puede aliviar la congestión del tráfico y mejorar la calidad del aire, beneficiando la salud pública.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Fomentar y promover medidas para el uso sostenible y racional del transporte motorizado individual",
@@ -1026,7 +1026,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar los programas de certificación agroecológica es una acción relevante para Sorocaba, dada la vulnerabilidad de la ciudad a las sequías que afectan la seguridad alimentaria. Si bien no es la máxima prioridad, promover prácticas agrícolas sostenibles puede mejorar la resiliencia frente a los peligros climáticos. Esta acción contribuye a la seguridad alimentaria a largo plazo y a la salud ambiental. Se alinea con los esfuerzos para mitigar los riesgos identificados en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1098,7 +1098,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la producción agroecológica local y las cadenas de suministro cortas es una prioridad para Sorocaba debido a la vulnerabilidad de la ciudad a las sequías, que afectan significativamente la seguridad alimentaria. Al promover sistemas alimentarios locales y sostenibles, la ciudad puede mejorar su resiliencia frente a las interrupciones del suministro de alimentos relacionadas con el clima. Esta acción también se alinea con el bioma de selva tropical de la ciudad, promoviendo prácticas que son ambientalmente racionales y contribuyen a la biodiversidad. Además, puede reducir las emisiones del transporte asociadas con la distribución de alimentos, contribuyendo a los esfuerzos generales de reducción de emisiones. Este enfoque fortalece las economías locales y proporciona opciones de alimentos frescos y saludables para la población.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1170,7 +1170,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Integrar las energías renovables en los sistemas municipales de agua es una acción crucial para Sorocaba. La ciudad se enfrenta a riesgos significativos derivados de las sequías, que impactan directamente en los recursos hídricos. Al utilizar energía renovable, el sistema hídrico puede volverse más resiliente y menos susceptible a los cortes de energía durante eventos climáticos extremos. Esta acción también contribuye a reducir las emisiones generales de la ciudad, lo que se alinea con objetivos climáticos más amplios. Además, puede mejorar la fiabilidad de los servicios públicos, lo cual es vital para una ciudad con una gran población.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energías renovables en los sistemas de agua municipales",
@@ -1242,7 +1242,7 @@
     "actionId": "c40_0036",
     "actionName": "Landfill Management",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "La gestión de vertederos es una acción crucial para Sorocaba. La ciudad tiene importantes emisiones de residuos, lo que contribuye a su huella de carbono general. Una gestión eficaz de los vertederos puede reducir estas emisiones y mitigar la contaminación ambiental. Esta acción también ayuda a mejorar la salud pública y la infraestructura al prevenir problemas asociados con la gestión deficiente de los residuos.",
     "action": {
       "ActionID": "c40_0036",
       "ActionName": "Gestión de Vertederos",
@@ -1319,7 +1319,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "A continuación, la traducción al español:\n\nPromover el control agroecológico de plagas es una acción relevante para Sorocaba, especialmente dado el bioma de selva tropical de la ciudad y el riesgo identificado para la seguridad alimentaria a causa de sequías e inundaciones. Esta iniciativa puede mejorar la resiliencia agrícola y reducir la dependencia de insumos químicos, lo que se alinea con prácticas sostenibles. Si bien no aborda directamente los riesgos más altos como la infraestructura y la salud pública derivados de las olas de calor, inundaciones y deslizamientos de tierra, contribuye a la salud ambiental a largo plazo y a la estabilidad del sistema alimentario. Esta acción apoya un enfoque proactivo para la adaptación climática al fomentar prácticas de uso de la tierra más sostenibles.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1391,7 +1391,7 @@
     "actionId": "icare_0065",
     "actionName": "Implementation of green hydrogen infrastructure for heavy vehicles.",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción se centra en implementar infraestructura de hidrógeno verde para vehículos pesados. Si bien contribuye a reducir las emisiones del transporte, no es la prioridad más urgente para Sorocaba. La ciudad enfrenta riesgos significativos por inundaciones, deslizamientos de tierra y olas de calor, que impactan directamente la infraestructura y la salud pública. Abordar estos peligros climáticos inmediatos y sus consecuencias debería tener prioridad sobre esta estrategia particular de reducción de emisiones en este momento.",
     "action": {
       "ActionID": "icare_0065",
       "ActionName": "Implementación de infraestructura de hidrógeno verde para vehículos pesados.",

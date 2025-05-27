@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Implementing an urban toll can significantly reduce transportation emissions, which are a major contributor to Goi\u00e2nia's total emissions. This action directly addresses the high transportation emissions by disincentivizing private vehicle use in congested areas. By reducing traffic, it can also alleviate infrastructure strain and improve air quality, benefiting public health. This measure aligns with efforts to create a more sustainable and resilient urban environment.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses transportation emissions, which are a significant contributor to Goi\u00e2nia's total emissions. Promoting bike-sharing, especially with electric bikes, offers a sustainable alternative to traditional vehicles. This can lead to a reduction in air pollution and improved public health. Furthermore, it aligns with efforts to create more livable and environmentally friendly urban spaces.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses transportation emissions, which are a significant contributor to the city's total emissions. By adopting biomethane in public fleets, Goi\u00e2nia can reduce its carbon footprint and improve air quality. This initiative also promotes the use of renewable energy sources, aligning with broader sustainability goals. Furthermore, it can set an example for private sector adoption, leading to wider environmental benefits. The action's focus on public services ensures a visible and impactful change within the community.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -222,7 +222,7 @@
         "actionId": "c40_0035",
         "actionName": "Waste Efficiency",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action addresses waste efficiency, which is a significant concern for Goi\u00e2nia given its high waste emissions. Reducing waste can directly lower the city's overall emissions profile. Furthermore, improved waste management can have positive impacts on public health and environmental quality. While not directly addressing the highest risks like droughts or heatwaves, it contributes to a more sustainable urban environment. Therefore, this action is a priority for improving the city's environmental footprint.",
         "action": {
             "ActionID": "c40_0035",
             "ActionName": "Waste Efficiency",
@@ -299,7 +299,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Expanding mass transit systems on rails is a priority for Goi\u00e2nia due to the city's significant transportation emissions. With transportation emissions being the largest contributor to the city's total emissions, this action directly addresses a major source of greenhouse gases. Improving public transport infrastructure can reduce reliance on private vehicles, leading to decreased air pollution and traffic congestion. This initiative aligns with sustainable urban development goals and can enhance the quality of life for residents.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -371,7 +371,7 @@
         "actionId": "icare_0091",
         "actionName": "Implementation of prioritized routes for sustainable vehicles.",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action focuses on implementing prioritized routes for sustainable vehicles, which directly addresses transportation emissions. Goi\u00e2nia has very high transportation emissions, making this a relevant area for intervention. By promoting sustainable transport, the city can work towards reducing its overall carbon footprint. This initiative also aligns with broader goals of urban sustainability and improved air quality.",
         "action": {
             "ActionID": "icare_0091",
             "ActionName": "Implementation of prioritized routes for sustainable vehicles.",
@@ -443,7 +443,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Addressing vehicle emissions is a significant priority for Goi\u00e2nia given the high transportation emissions. Reducing these emissions can improve air quality, which directly benefits public health. This action also contributes to overall climate resilience by lowering the city's carbon footprint. Furthermore, it aligns with efforts to mitigate climate change impacts, which are crucial for a city facing high risks from droughts, heatwaves, and floods.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -522,7 +522,7 @@
         "actionId": "icare_0122",
         "actionName": "Establish eco-parks.",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Establishing eco-parks in Goi\u00e2nia is a priority due to the city's grassland/savanna biome, which can benefit from enhanced biodiversity and green spaces. While not directly addressing the highest risks like droughts or heatwaves, eco-parks can contribute to ecosystem health and potentially mitigate some localized impacts. They can also offer recreational benefits to the population, improving quality of life. This action aligns with general urban sustainability and resilience efforts, even if it's not a primary climate adaptation measure for the most severe hazards identified.",
         "action": {
             "ActionID": "icare_0122",
             "ActionName": "Establish eco-parks.",
@@ -594,7 +594,7 @@
         "actionId": "c40_0040",
         "actionName": "Volume-Based Collection",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action, Volume-Based Collection, is a priority due to the city's significant waste emissions. Goi\u00e2nia has very high waste emissions, indicating a need for improved waste management strategies. Implementing volume-based collection can incentivize residents to reduce waste generation, thereby lowering overall emissions. This approach directly addresses a major source of the city's environmental impact. Reducing waste is crucial for environmental sustainability and can lead to a healthier urban environment.",
         "action": {
             "ActionID": "c40_0040",
             "ActionName": "Volume-Based Collection",
@@ -670,7 +670,7 @@
         "actionId": "icare_0053",
         "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action supports cooperatives of recyclable material collectors, which can significantly reduce waste emissions in Goi\u00e2nia. The city currently has very high waste emissions, indicating a strong need for improved waste management strategies. Empowering these cooperatives can lead to more efficient collection and processing of recyclables, contributing to a circular economy. This initiative also has the potential to create economic opportunities and improve livelihoods for the collectors, aligning with social development goals.",
         "action": {
             "ActionID": "icare_0053",
             "ActionName": "Implement a project to support cooperatives of recyclabe material collectors",
@@ -742,7 +742,7 @@
         "actionId": "c40_0036",
         "actionName": "Landfill Management",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Landfill management is a crucial action for Goi\u00e2nia, given that waste emissions contribute significantly to the city's total emissions. Improving landfill practices can directly reduce these emissions, leading to a more sustainable urban environment. This action also has co-benefits for public health and local ecosystems by mitigating pollution. Prioritizing this action addresses a substantial source of greenhouse gases and environmental degradation. Effective landfill management is a foundational step towards comprehensive climate action.",
         "action": {
             "ActionID": "c40_0036",
             "ActionName": "Landfill Management",
@@ -819,7 +819,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it addresses food security, which is a key impact area for Goi\u00e2nia, particularly concerning droughts and floods. By prioritizing locally produced agroecological products, the city can enhance its resilience to climate-related disruptions in food supply chains. This also supports local economies and sustainable agricultural practices, contributing to a more robust and self-sufficient food system. Furthermore, it aligns with the city's very low socio-economic factors, potentially providing economic opportunities for local farmers.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -891,7 +891,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies is a priority for Goi\u00e2nia given its significant total emissions, particularly from transportation and waste. While not directly addressing the high-risk climate hazards like droughts and heatwaves, this action contributes to long-term climate resilience by reducing the city's carbon footprint. Shifting towards renewable energy sources can also indirectly alleviate pressure on water resources, which are highly impacted by droughts in the region. This action supports a sustainable future for the city by promoting cleaner energy alternatives.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -963,7 +963,7 @@
         "actionId": "icare_0117",
         "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action aims to increase the attractiveness of the municipal bus system, which can help reduce transportation emissions. Goi\u00e2nia has significant transportation emissions, making this a relevant area for intervention. Promoting public transport can also alleviate traffic congestion and improve air quality. While not directly addressing the city's high risks from droughts, heatwaves, floods, and landslides, it contributes to overall urban sustainability. This action is a priority because it tackles a major source of emissions in the city.",
         "action": {
             "ActionID": "icare_0117",
             "ActionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
@@ -1035,7 +1035,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for Goi\u00e2nia given the city's significant risks related to food security and droughts. These programs can enhance agricultural resilience, promoting sustainable practices that conserve water and improve soil health. By fostering agroecological methods, the city can mitigate the impacts of climate change on its food systems. This action directly addresses vulnerabilities identified in the city's climate risk assessment, making it a relevant and impactful intervention.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1107,7 +1107,7 @@
         "actionId": "icare_0024",
         "actionName": "Integrate renewables into municipal water systems",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Integrating renewables into municipal water systems is a priority for Goi\u00e2nia due to the city's high risk from droughts, which severely impact water resources. This action can enhance the resilience of the water supply by diversifying energy sources and reducing reliance on a vulnerable grid. Furthermore, it aligns with addressing energy security concerns, which are also impacted by droughts and heatwaves. By ensuring a more robust and sustainable water system, the city can better mitigate the effects of climate hazards on its essential services and public health.",
         "action": {
             "ActionID": "icare_0024",
             "ActionName": "Integrate renewables into municipal water systems",
@@ -1179,7 +1179,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Goi\u00e2nia is a large city with a significant population, and rural extension services can support surrounding agricultural areas crucial for food security. Given the city's biome is grassland/savanna, which is often associated with agricultural activities, supporting rural communities through technical assistance can enhance resilience. Furthermore, the city faces high risks from droughts, which directly impact food security and water resources, making interventions that support agricultural practices and resource management highly relevant. Improving rural practices can also indirectly alleviate pressure on urban resources and infrastructure.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -1251,7 +1251,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Goi\u00e2nia faces high risks from droughts, impacting both water resources and food security. Encouraging local agroecological production and short supply chains can enhance food resilience and reduce dependence on external food sources, which are vulnerable to climate shocks. This approach also promotes sustainable land use practices, potentially mitigating the severity of drought impacts. Furthermore, it can strengthen the local economy and community self-sufficiency in the face of climate challenges.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1323,7 +1323,7 @@
         "actionId": "icare_0059",
         "actionName": "Modernization of ports and airports with zero-emission technologies",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action focuses on modernizing ports and airports with zero-emission technologies. While important for reducing emissions, Goi\u00e2nia is an inland city, meaning it does not have ports. The city's primary emissions sources are waste and transportation, suggesting that other actions might have a more direct and significant impact on its overall emissions profile. Therefore, this action may not be the most impactful priority for Goi\u00e2nia at this time.",
         "action": {
             "ActionID": "icare_0059",
             "ActionName": "Modernization of ports and airports with zero-emission technologies",
@@ -1395,7 +1395,7 @@
         "actionId": "icare_0097",
         "actionName": "Support Distributed Energy Generation in Residences and Businesses",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Supporting distributed energy generation in residences and businesses is a valuable action for Goi\u00e2nia. This initiative can help diversify the city's energy sources and reduce reliance on centralized grids. It also has the potential to lower energy costs for residents and businesses, contributing to economic resilience. Furthermore, increasing distributed generation can enhance energy security, which is particularly relevant given the city's vulnerability to droughts impacting energy security. While not directly addressing the highest risks, it contributes to a more robust and sustainable energy system.",
         "action": {
             "ActionID": "icare_0097",
             "ActionName": "Support Distributed Energy Generation in Residences and Businesses",

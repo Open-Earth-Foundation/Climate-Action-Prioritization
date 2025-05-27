@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Estabelecer um plano de preparação e resposta a emergências é crucial para Manaus, dada a sua alta vulnerabilidade a vários eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor, inundações e deslizamentos de terra, todos com altas pontuações de risco normalizado em múltiplos impactos-chave, como saúde pública, infraestrutura e segurança energética. Um plano abrangente ajudará a mitigar as graves consequências desses perigos, protegendo tanto a população quanto os sistemas urbanos críticos. Essa medida proativa é essencial para construir resiliência em uma cidade frequentemente exposta a desastres relacionados ao clima.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "**Desenvolver diagnósticos e restaurar as Zonas Especiais de Interesse Social (ZEIS) é uma prioridade para Manaus.** A cidade enfrenta riscos significativos de vários perigos, incluindo inundações, ondas de calor e secas, que afetam desproporcionalmente as populações vulneráveis. A melhoria dessas zonas pode aumentar a resiliência e os resultados de saúde pública para comunidades de baixa renda. Esta ação aborda diretamente os fatores socioeconômicos da cidade e visa mitigar os impactos das mudanças climáticas em seus moradores mais suscetíveis.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Manaus está situada em um bioma de floresta tropical, tornando a conservação de áreas protegidas crucial para a manutenção do equilíbrio ecológico. O fortalecimento desses programas aborda diretamente a vulnerabilidade da cidade a perigos como secas e ondas de calor, que impactam significativamente a biodiversidade. A proteção dessas áreas ajuda a preservar as defesas naturais contra os impactos das mudanças climáticas e apoia a resiliência geral do ecossistema. Esta ação é uma prioridade porque salvaguarda recursos naturais críticos e contribui para o bem-estar a longo prazo da cidade e do seu ambiente circundante.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Melhorar o armazenamento e a distribuição de alimentos é uma prioridade para Manaus devido ao risco significativo que a cidade enfrenta para a segurança alimentar, tanto por secas quanto por inundações. As secas apresentam um alto índice de risco normalizado de 0,66, enquanto as inundações também representam uma ameaça substancial com um índice de 0,79. Aprimorar esses sistemas pode ajudar a mitigar os impactos desses perigos, garantindo um suprimento alimentar mais estável para a população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -307,7 +307,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Manaus enfrenta riscos significativos de perigos climáticos como ondas de calor, inundações e deslizamentos de terra, todos com alto impacto na saúde pública. Fortalecer a rede de saúde é crucial para responder eficazmente ao aumento da carga de doenças que esses eventos causarão. Esta ação aborda diretamente a vulnerabilidade da cidade a crises de saúde relacionadas ao clima, garantindo que a população receba a atenção médica necessária. Dados os altos índices de risco normalizados para impactos na saúde pública de vários perigos, esta ação é uma prioridade crítica para a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -383,7 +383,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Manaus, especialmente dada a vulnerabilidade da cidade a vários riscos climáticos. A cidade enfrenta altos riscos de ondas de calor, inundações e doenças, todos os quais podem impactar severamente a saúde pública. Melhorar o acesso à saúde garante que a população possa receber atenção médica oportuna e adequada, mitigando as consequências para a saúde desses eventos. Esta ação aborda diretamente os significativos riscos de saúde pública identificados na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -458,7 +458,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Manaus está localizada em um bioma de floresta tropical húmida, tornando as florestas ripárias cruciais para a saúde e estabilidade do ecossistema. A cidade enfrenta riscos significativos de secas e inundações, ambos os quais podem ser mitigados por zonas ripárias saudáveis. Essas florestas ajudam a regular o fluxo de água, prevenir a erosão e manter a qualidade da água, abordando diretamente impactos importantes como recursos hídricos e infraestrutura. A sua revitalização é uma medida proativa para aumentar a resiliência da cidade contra os perigos climáticos.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -531,7 +531,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar práticas sustentáveis de uso da terra é uma ação de alta prioridade para Manaus. A cidade está localizada em um bioma de floresta tropical, tornando-a particularmente vulnerável à degradação da terra. Dadas as significativas emissões provenientes do uso da terra, esta ação aborda diretamente um dos principais contribuintes para a pegada ambiental da cidade. A implementação de práticas sustentáveis pode ajudar a mitigar os riscos climáticos, proteger a biodiversidade e apoiar a saúde ecológica de longo prazo da região. Esta ação é crucial para promover a resiliência e garantir o desenvolvimento sustentável de Manaus.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -605,7 +605,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Manaus enfrenta riscos significativos para a segurança alimentar tanto de secas quanto de inundações, conforme indicado por altas pontuações de risco normalizado. A melhoria de fazendas e pescarias aborda diretamente essas vulnerabilidades, aumentando a resiliência e a produtividade. Essa ação pode ajudar a estabilizar o abastecimento local de alimentos, o que é crucial para uma cidade com uma grande população. Além disso, apoia os meios de subsistência daqueles que dependem desses setores, contribuindo para o bem-estar geral da comunidade.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -682,7 +682,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Manaus enfrenta riscos significativos de eventos climáticos extremos, incluindo secas, ondas de calor e inundações, todos com altas pontuações de risco normalizado em vários impactos-chave, como saúde pública, infraestrutura e segurança energética. Um programa de apoio financeiro é crucial para ajudar a cidade e seus moradores a se recuperarem dos efeitos devastadores desses eventos. Esta ação aborda diretamente a vulnerabilidade da cidade a perigos climáticos, fornecendo uma rede de segurança para sua população e serviços críticos. É uma ação de alta prioridade porque constrói resiliência e mitiga as consequências socioeconômicas das mudanças climáticas, especialmente dada a população de renda muito baixa da cidade. Tal programa pode prevenir maior desestabilização e apoiar esforços de recuperação a longo prazo.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -759,7 +759,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Garantir a disponibilidade de infraestrutura de saúde é crucial para Manaus, especialmente dada a vulnerabilidade da cidade a vários riscos climáticos. A cidade enfrenta altos riscos de ondas de calor, doenças, inundações e deslizamentos de terra, todos os quais podem impactar significativamente a saúde pública. Uma infraestrutura de saúde robusta é essencial para responder eficazmente a essas crises de saúde e fornecer o cuidado necessário à população. Esta ação aborda diretamente a necessidade crítica de proteger a saúde pública diante dos impactos das mudanças climáticas.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -833,7 +833,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a necessidade crítica de realocar populações de áreas vulneráveis, o que é particularmente relevante dados os altos riscos de Manaus a inundações, deslizamentos de terra e ondas de calor que impactam a infraestrutura e a saúde pública. Ao restaurar o meio ambiente nessas áreas desocupadas, a cidade pode aprimorar suas defesas naturais e reduzir futuros danos relacionados ao clima. Essa medida proativa ajuda a proteger tanto vidas humanas quanto sistemas ecológicos, contribuindo para a resiliência urbana a longo prazo. É uma prioridade porque mitiga diretamente os impactos físicos e sociais dos perigos climáticos.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -904,7 +904,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "As redes de segurança social são cruciais para Manaus, dada a sua população de baixa renda \"muito_baixa\". Esses programas podem fornecer apoio essencial durante desastres relacionados ao clima, que são frequentes na cidade, incluindo secas, inundações e ondas de calor. Ao fortalecer as redes de segurança social, Manaus pode aumentar a resiliência de seus moradores mais vulneráveis, garantindo que eles tenham recursos para lidar e se recuperar dos impactos climáticos. Esta ação aborda diretamente as vulnerabilidades socioeconômicas exacerbadas pelas mudanças climáticas, tornando-a uma alta prioridade para a cidade.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -978,7 +978,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Manaus enfrenta riscos significativos de secas e inundações, ambos impactando severamente os recursos hídricos e a infraestrutura. Um sistema de monitoramento hidrológico é crucial para fornecer avisos antecipados e dados em tempo real para gerenciar esses perigos de forma eficaz. Essa abordagem proativa pode mitigar as graves consequências de eventos climáticos extremos nos sistemas críticos da cidade e na saúde pública. A implementação de tal sistema aumentará a resiliência da cidade aos impactos das mudanças climáticas, que já são evidentes nos altos índices de risco normalizado para esses perigos.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Manaus. Essa ação aborda diretamente o alto risco de inundações na cidade, pois as superfícies permeáveis ajudam a gerenciar o escoamento de águas pluviais e a reduzir a carga sobre os sistemas de drenagem. Além disso, o aumento de áreas verdes pode mitigar os impactos das ondas de calor, que também representam um risco significativo para a saúde pública e a infraestrutura em Manaus. Essa medida contribui para a resiliência urbana, melhorando a gestão da água e reduzindo os efeitos das ilhas de calor urbanas.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1122,7 +1122,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de hortas urbanas pode contribuir para a segurança alimentar, que é uma área de impacto chave para Manaus, especialmente considerando a vulnerabilidade da cidade a secas e inundações. Esta ação também promove a produção local de alimentos, potencialmente reduzindo as emissões associadas ao transporte de alimentos. Além disso, os espaços verdes urbanos podem ajudar a mitigar os impactos das ondas de calor, que são um perigo significativo para a saúde pública e a infraestrutura em Manaus. Embora não seja a mais alta prioridade, oferece múltiplos co-benefícios para a cidade.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1194,7 +1194,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação, focada na mudança de comportamento em dietas e no desperdício de alimentos, é uma prioridade para Manaus devido ao seu potencial para abordar preocupações com a segurança alimentar. A cidade enfrenta um risco moderado de secas, que podem impactar significativamente as cadeias de suprimentos de alimentos. A redução do desperdício de alimentos contribui diretamente para uma utilização mais eficiente dos recursos e diminui a carga sobre os sistemas alimentares. Além disso, mudanças nos padrões dietéticos podem indiretamente reduzir a pegada ambiental associada à produção de alimentos, oferecendo um benefício holístico para a resiliência da cidade.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Manaus, dado o seu bioma de floresta tropical e os altos riscos associados a secas e inundações. Esses perigos impactam significativamente os recursos hídricos, a segurança alimentar e a saúde pública, todos os quais podem ser mitigados por meio de ecossistemas saudáveis. Proteger e restaurar sistemas naturais pode aumentar a resiliência contra esses impactos climáticos. Essa abordagem também apoia a biodiversidade, que é altamente vulnerável às mudanças climáticas nesta região.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1357,7 +1357,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Manaus enfrenta riscos significativos de secas, que impactam severamente os recursos hídricos e a segurança energética. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades, garantindo um abastecimento de água mais estável. Essa ação é crucial para mitigar os efeitos de períodos de seca prolongados e aumentar a resiliência da cidade. Além disso, pode ajudar a salvaguardar a saúde pública e a segurança alimentar, que também são ameaçadas pela escassez de água.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Manaus enfrenta riscos significativos relacionados aos recursos hídricos, particularmente de secas e inundações, ambos com altos escores de risco normalizado. A cidade também possui acesso inadequado à água moderado, indicando vulnerabilidades existentes. Preservar e recuperar corpos d'água aborda diretamente essas questões, melhorando a disponibilidade e a qualidade da água, e aumentando a resiliência contra eventos climáticos extremos. Essa ação é crucial para salvaguardar a saúde pública, a segurança alimentar e a infraestrutura, todos altamente impactados por perigos relacionados à água.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservação e Recuperação de Corpos Hídricos",

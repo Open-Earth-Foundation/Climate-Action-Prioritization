@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de sistemas agroflorestais é uma ação de alta prioridade para Corumbá. Essa abordagem pode melhorar significativamente a segurança alimentar, que é uma área de impacto chave com alto risco de secas e inundações. Também contribui para a biodiversidade, uma área de impacto vulnerável tanto a secas quanto a ondas de calor. Além disso, a agrossilvicultura pode aprimorar a gestão dos recursos hídricos, abordando outra área de impacto crítica afetada pelas secas.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroflorestais",
@@ -79,7 +79,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Promover o reflorestamento urbano e corredores verdes é uma ação de alta prioridade para Corumbá. A cidade enfrenta riscos significativos de ondas de calor, impactando a saúde pública e a infraestrutura. Aumentar os espaços verdes pode ajudar a mitigar os efeitos das ilhas de calor urbanas, proporcionando benefícios de resfriamento e melhorando a qualidade do ar. Esta ação também apoia a biodiversidade, que é uma área de impacto chave para Corumbá, especialmente dado o bioma de campo/savana da cidade. Além disso, a infraestrutura verde pode contribuir para a gestão da água, o que é relevante dada a vulnerabilidade da cidade a secas e inundações.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover o Reflorestamento Urbano e Corredores Verdes",
@@ -151,7 +151,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade para Corumbá devido às significativas emissões provenientes do uso da terra, que são o maior contribuinte para as emissões totais da cidade. Fortalecer o controle do desmatamento aborda diretamente esta principal fonte de gases de efeito estufa. Dado o bioma da cidade como campo/savana, preservar esses ecossistemas é crucial para o sequestro de carbono e a biodiversidade. Esta ação ajudará a mitigar os impactos das mudanças climáticas e a proteger o ambiente natural de Corumbá.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -223,7 +223,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade para Corumbá devido às significativas emissões provenientes do uso da terra na cidade, que são as maiores contribuintes para suas emissões totais. As ações de Assistência Técnica e Extensão Rural (ATER) podem ajudar a implementar práticas sustentáveis de gestão da terra, abordando diretamente esta grande fonte de emissões. Dado o bioma de Corumbá como campo/savana, a ATER também pode promover práticas que aumentem o sequestro de carbono e reduzam a degradação do solo. Além disso, com altos riscos de secas afetando os recursos hídricos e a segurança alimentar, a ATER pode apoiar práticas agrícolas resilientes. Esta ação pode, portanto, contribuir tanto para os esforços de mitigação quanto de adaptação às mudanças climáticas em Corumbá.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma prioridade para Corumbá, dadas as suas significativas emissões provenientes do uso da terra. Esta ação aborda diretamente a grande contribuição do uso da terra para o total de emissões da cidade. Ao incentivar a gestão sustentável da terra, os programas de PSA podem ajudar a mitigar essas emissões e proteger os recursos naturais da cidade. Isso é particularmente relevante para uma cidade com bioma de campo/savana, onde as práticas de uso da terra podem ter um impacto ambiental substancial. Além disso, o PSA pode apoiar a biodiversidade, que está em risco devido a perigos como secas e ondas de calor em Corumbá.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -367,7 +367,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Corumbá é um bioma de campo/savana, que é altamente suscetível à degradação ambiental. Facilitar a transferência de tecnologia para práticas de conservação pode ajudar a mitigar as significativas emissões provenientes do uso da terra, que são o maior contribuinte para as emissões totais da cidade. Dados os altos riscos de secas e inundações que afetam os recursos hídricos e a segurança alimentar, a adoção de métodos avançados de conservação é crucial. Esta ação apoia a resiliência a longo prazo, promovendo a gestão sustentável da terra e protegendo os ativos naturais da cidade.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -439,7 +439,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar práticas agrícolas regenerativas é uma alta prioridade para Corumbá. A cidade enfrenta riscos significativos de secas, impactando tanto os recursos hídricos quanto a segurança alimentar. A agricultura regenerativa pode melhorar a saúde do solo, aumentar a retenção de água e a resiliência às condições de seca. Esta ação aborda diretamente as principais vulnerabilidades identificadas na avaliação de risco climático da cidade, tornando-a crucial para a sustentabilidade e segurança alimentar a longo prazo.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoiar Práticas de Agricultura Regenerativa",
@@ -511,7 +511,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção da agricultura orgânica é uma prioridade para Corumbá devido à significativa vulnerabilidade da cidade a secas, que impactam severamente tanto os recursos hídricos quanto a segurança alimentar. As práticas de agricultura orgânica frequentemente melhoram a saúde do solo e a retenção de água, tornando os sistemas agrícolas mais resilientes a condições de seca. Esta ação também pode contribuir para a biodiversidade, que é outra área de impacto chave para Corumbá, particularmente no que diz respeito a secas e ondas de calor. Além disso, dados os fatores socioeconômicos de baixa renda da cidade, as práticas agrícolas sustentáveis podem oferecer benefícios econômicos de longo prazo e estabilidade alimentar para a comunidade.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover a Agricultura Orgânica",
@@ -583,7 +583,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque Corumbá possui emissões significativas relacionadas ao uso da terra, indicando a necessidade de práticas de gestão da terra mais sustentáveis. A agrofloresta pode ajudar a mitigar essas emissões através do sequestro de carbono e da melhoria da saúde do solo. Além disso, dado que o bioma da cidade é de campos/savana, a integração de árvores em sistemas pecuários pode aumentar a biodiversidade e a resiliência do ecossistema. Esta abordagem também apoia a segurança alimentar, que é uma área de impacto chave para Corumbá, especialmente no que diz respeito às secas.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Criar Incentivos para Práticas de Agroflorestas em Sistemas de Pecuária",
@@ -655,7 +655,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção de práticas agrícolas sustentáveis é uma alta prioridade para Corumbá. A cidade enfrenta riscos significativos de secas, impactando tanto os recursos hídricos quanto a segurança alimentar. Dado que as emissões do uso da terra são o maior contribuinte para as emissões totais da cidade, esta ação aborda diretamente uma grande fonte de impacto ambiental. A implementação de práticas sustentáveis pode mitigar esses riscos e melhorar a resiliência da cidade às mudanças climáticas.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Práticas Agrícolas Sustentáveis",
@@ -727,7 +727,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque Corumbá possui emissões de uso da terra extremamente altas, que provavelmente estão ligadas a práticas agrícolas. Incentivar máquinas agrícolas de baixa emissão aborda diretamente uma fonte significativa das emissões totais da cidade. Reduzir essas emissões é crucial para os esforços gerais de mitigação climática da cidade. Embora não seja a mais bem classificada, seu impacto direto em uma importante fonte de emissão a torna importante.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Incentivar o Uso de Máquinas Agrícolas de Baixa Emissão",
@@ -799,7 +799,7 @@
     "actionId": "icare_0127",
     "actionName": "Accelerate Environmental Regularization of Rural Properties",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é prioritária porque aborda a regularização ambiental, que é crucial para uma cidade como Corumbá, com uma área territorial significativa e altas emissões decorrentes do uso da terra. Acelerar este processo pode ajudar a mitigar a degradação ambiental e promover práticas sustentáveis de gestão da terra. Dado o bioma da cidade como campo/savana, a regularização ambiental adequada é essencial para preservar a biodiversidade e a saúde do ecossistema. Esta ação também pode apoiar indiretamente a segurança alimentar e os recursos hídricos, garantindo o uso responsável da terra, especialmente considerando os altos riscos associados às secas nessas áreas.",
     "action": {
       "ActionID": "icare_0127",
       "ActionName": "Acelerar a Regularização Ambiental de Propriedades Rurais",
@@ -871,7 +871,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque apoia as economias locais e promove práticas agrícolas sustentáveis. Ao priorizar produtos agroecológicos, a cidade pode aumentar a segurança alimentar e reduzir a sua pegada ambiental. Esta abordagem também fomenta a resiliência da comunidade e pode melhorar a saúde pública através do acesso a opções alimentares mais saudáveis. Ela alinha-se com objetivos de sustentabilidade mais amplos, incentivando a biodiversidade e reduzindo a dependência da agricultura industrial.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -943,7 +943,7 @@
     "actionId": "ipcc_0061",
     "actionName": "Soil Carbon Management in Croplands and Grasslands",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação foca na gestão do carbono no solo, o que é crucial para Corumbá, dado o seu bioma de campo/savana e as significativas emissões provenientes do uso da terra. Melhorar a saúde do solo pode aumentar a capacidade da terra de sequestrar carbono, abordando diretamente uma grande fonte de emissões. Além disso, solos saudáveis podem melhorar a retenção de água, o que é vital para uma cidade que enfrenta altos riscos de seca. Esta ação também apoia a segurança alimentar, pois solos saudáveis são mais produtivos e resilientes aos impactos climáticos.",
     "action": {
       "ActionID": "ipcc_0061",
       "ActionName": "Gestão de Carbono do Solo em Terras Agrícolas e Pastagens",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma prioridade para Corumbá. Essa ação pode encorajar práticas sustentáveis e gestão de recursos dentro da cidade. Dadas as significativas emissões de uso da terra de Corumbá e seu bioma de campo/savana, tais incentivos poderiam ajudar a mitigar a degradação ambiental. Essa abordagem se alinha com a necessidade da cidade de abordar os riscos climáticos, particularmente aqueles relacionados a secas e inundações que impactam os recursos hídricos e a segurança alimentar.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Apoiar programas de certificação agroecológica é uma prioridade para Corumbá, dadas as suas significativas emissões provenientes do uso da terra. Esses programas podem ajudar a promover práticas agrícolas sustentáveis, que são cruciais para reduzir as substanciais emissões do uso da terra na cidade. Ao incentivar a agricultura ecologicamente correta, esta ação também pode contribuir para a preservação da biodiversidade no bioma de campos/savana. Além disso, alinha-se com a abordagem das preocupações com a segurança alimentar, especialmente considerando o alto risco de secas que afetam este setor. Esta iniciativa promove a resiliência e a sustentabilidade dentro do cenário agrícola.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é uma prioridade para Corumbá devido à alta vulnerabilidade da cidade às secas, que impactam significativamente os recursos hídricos e a segurança alimentar. Incentivar a produção agroecológica local pode melhorar a segurança alimentar, diversificando as fontes de alimentos locais e reduzindo a dependência de cadeias de suprimentos externas. Essa abordagem também promove práticas sustentáveis de uso da terra, que são cruciais dadas as substanciais emissões de uso da terra da cidade. Além disso, cadeias de suprimentos curtas podem melhorar a resiliência a interrupções relacionadas ao clima, garantindo um acesso mais estável aos alimentos para a população.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Promover o controle agroecológico de pragas é uma ação relevante para Corumbá, especialmente dadas as significativas emissões de uso da terra da cidade e o fato de seu bioma ser de campos/savana. Essa abordagem pode contribuir para práticas de manejo da terra mais sustentáveis, potencialmente reduzindo o impacto ambiental da agricultura. Embora não aborde diretamente os riscos climáticos mais urgentes da cidade, como secas e ondas de calor, ela apoia a saúde ecológica em geral. Essa ação se alinha com a construção de resiliência a longo prazo, promovendo ecossistemas mais saudáveis e potencialmente melhorando a segurança alimentar por meio de práticas sustentáveis. É uma iniciativa que vale a pena e que complementa outros esforços de adaptação e mitigação climática.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -1302,7 +1302,7 @@
     "actionId": "ipcc_0053",
     "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade para Corumbá devido às significativas emissões de uso da terra da cidade, que são as maiores contribuintes para suas emissões totais. A florestação, reflorestação e restauração de ecossistemas florestais abordam diretamente esta questão, aumentando o sequestro de carbono. Dado o bioma de Corumbá como campo/savana, estas atividades também podem ajudar a restaurar terras degradadas e a aumentar a biodiversidade. Além disso, ecossistemas florestais saudáveis podem mitigar os impactos de secas e inundações, que são riscos significativos para a cidade de acordo com sua Avaliação de Risco e Vulnerabilidade Climática (ARVC).",
     "action": {
       "ActionID": "ipcc_0053",
       "ActionName": "Aflorestamento, Reflorestamento e Restauração de Ecossistemas Florestais",
@@ -1374,7 +1374,7 @@
     "actionId": "icare_0045",
     "actionName": "Promote organic and agroecological agriculture in the rural areas",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Promover a agricultura orgânica e agroecológica é uma ação crucial para Corumbá. Dadas as significativas emissões de uso da terra da cidade, esta iniciativa aborda diretamente um dos principais contribuintes para a sua pegada de carbono. Além disso, com altos riscos para a segurança alimentar devido a secas e inundações, práticas agrícolas sustentáveis podem aumentar a resiliência e a estabilidade. Esta ação também se alinha com o bioma de campo/savana da cidade, promovendo práticas ambientalmente apropriadas para a região. É uma prioridade porque oferece uma abordagem multifacetada para a ação climática, beneficiando tanto o meio ambiente quanto o bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0045",
       "ActionName": "Promover a agricultura orgânica e agroecológica nas áreas rurais",

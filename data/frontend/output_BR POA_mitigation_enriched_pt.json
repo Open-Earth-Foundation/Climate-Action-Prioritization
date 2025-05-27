@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de portagens urbanas pode reduzir significativamente as emissões dos transportes, que são um dos principais contribuintes para as emissões totais da cidade. Esta ação também ajuda a aliviar o congestionamento do tráfego, melhorando a qualidade do ar e a saúde pública. Ao desencorajar o uso de veículos privados, pode promover modos de transporte mais sustentáveis. Isto alinha-se com a necessidade da cidade de abordar as suas elevadas emissões de transportes e melhorar a habitabilidade urbana.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação promove o transporte sustentável, o que é crucial para Porto Alegre, dadas as suas altas emissões de transporte. Incentivar o compartilhamento de bicicletas, especialmente as elétricas, pode reduzir significativamente a pegada de carbono da cidade. Também oferece uma alternativa saudável e acessível para os cidadãos, podendo aliviar o congestionamento do tráfego. Esta iniciativa alinha-se com os esforços para melhorar a mobilidade urbana e a qualidade ambiental.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adoção de biometano em frotas públicas é uma prioridade devido à contribuição significativa do transporte para as emissões totais da cidade. Com as emissões do transporte em 1.147.362,709, esta ação visa diretamente uma das principais fontes de gases de efeito estufa. A implementação do biometano pode levar a uma redução substancial na pegada de carbono da cidade. Esta iniciativa também promove o uso de fontes de energia renováveis, alinhando-se com objetivos de sustentabilidade mais amplos. Além disso, pode melhorar a qualidade do ar na cidade, beneficiando a saúde pública.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A expansão dos sistemas de transporte público de massa sobre trilhos é um passo crucial para Porto Alegre. A cidade possui emissões significativas relacionadas ao transporte, o que indica uma alta dependência de veículos particulares. Investir em metrôs, VLTs e monotrilhos pode reduzir significativamente essas emissões, oferecendo uma alternativa sustentável. Essa ação também ajuda a aliviar o congestionamento do tráfego e melhora a acessibilidade para os moradores, contribuindo para um ambiente urbano mais habitável e ecologicamente correto.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A seguinte ação aborda as emissões veiculares, que são uma contribuição significativa para as emissões totais da cidade, particularmente dentro do setor de transportes. A redução dessas emissões pode levar à melhoria da qualidade do ar e a benefícios para a saúde pública. Embora não seja o risco mais elevado, a mitigação das emissões de transportes é crucial para a resiliência climática geral e alinha-se com objetivos de sustentabilidade mais amplos. Esta ação apoia os esforços da cidade para a transição para um ambiente urbano mais limpo e sustentável.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -373,7 +373,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque as emissões provenientes dos transportes contribuem significativamente para o total de emissões da cidade. Incentivar o uso sustentável e racional do transporte motorizado individual pode reduzir diretamente essas emissões. Embora não seja a mais alta prioridade, abordar este setor é crucial para a ação climática geral. Também promove ambientes urbanos mais saudáveis, potencialmente reduzindo o congestionamento do tráfego e a poluição do ar.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Incentivar e promover medidas para o uso sustentável e racional do transporte motorizado individual",
@@ -445,7 +445,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese: Esta ação foca na modernização de portos e aeroportos com tecnologias de emissão zero. Embora importante para a redução das emissões do transporte, Porto Alegre enfrenta riscos mais imediatos e severos de perigos como inundações, deslizamentos de terra e ondas de calor, que possuem pontuações de risco normalizadas muito altas para infraestrutura e saúde pública. Abordar essas vulnerabilidades críticas deve ter precedência. As emissões do transporte da cidade são significativas, mas os impactos diretos dos perigos climáticos representam uma ameaça mais urgente para a população e a infraestrutura existente. Portanto, esta ação, embora benéfica, não é a mais alta prioridade dado o perfil de risco específico da cidade.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -517,7 +517,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca na implementação de rotas priorizadas para veículos sustentáveis, o que aborda diretamente as emissões do transporte. Porto Alegre possui emissões de transporte muito elevadas, tornando esta uma área crítica para intervenção. A redução dessas emissões contribui para a resiliência climática geral e para a melhoria da qualidade do ar. Priorizar a infraestrutura de transporte sustentável também pode incentivar uma mudança em relação aos veículos dependentes de combustíveis fósseis, promovendo benefícios ambientais a longo prazo. Esta iniciativa alinha-se com os esforços para criar um ambiente urbano mais sustentável.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",
@@ -589,7 +589,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Aumentar a atratividade do sistema municipal de ônibus é uma ação de alta prioridade para Porto Alegre. Essa iniciativa aborda diretamente as significativas emissões provenientes do transporte, que são o maior contribuinte para as emissões totais da cidade. Ao promover o transporte público, a cidade pode reduzir a dependência de veículos particulares, levando a uma melhor qualidade do ar e a uma menor pegada de carbono. Essa ação também se alinha a objetivos de sustentabilidade mais amplos, ao promover um sistema de mobilidade urbana mais eficiente e acessível para sua grande população.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",
@@ -661,7 +661,7 @@
     "actionId": "icare_0065",
     "actionName": "Implementation of green hydrogen infrastructure for heavy vehicles.",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação foca na implementação de infraestrutura de hidrogênio verde para veículos pesados. Embora contribua para a redução das emissões de transporte, que são significativas em Porto Alegre, a cidade enfrenta riscos mais imediatos e severos de perigos como inundações, deslizamentos de terra e ondas de calor, que possuem pontuações de risco normalizado muito altas para infraestrutura e saúde pública. Abordar essas vulnerabilidades críticas deve ter precedência. Portanto, esta ação não é uma prioridade máxima dado o perfil de risco climático atual da cidade.",
     "action": {
       "ActionID": "icare_0065",
       "ActionName": "Implementação de infraestrutura de hidrogênio verde para veículos pesados.",
@@ -733,7 +733,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação apoia a formalização e o fortalecimento da gestão de resíduos, o que pode levar à redução das emissões de resíduos. Ao capacitar cooperativas de catadores de materiais recicláveis, a cidade pode melhorar suas taxas de reciclagem e desviar mais resíduos de aterros sanitários. Esta iniciativa também tem impactos socioeconômicos positivos, proporcionando renda e oportunidades de emprego formal para populações vulneráveis. Embora não aborde diretamente os altos riscos da cidade relacionados a inundações, deslizamentos de terra e ondas de calor, ela contribui para a sustentabilidade e resiliência urbana geral. O foco da ação na gestão de resíduos é um passo valioso em direção a uma economia mais circular.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar um projeto para apoiar cooperativas de coletores de materiais recicláveis",
@@ -805,7 +805,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de ecoparques em Porto Alegre é uma prioridade devido às significativas emissões de uso do solo da cidade, que contribuem para sua pegada de carbono geral. Esses parques podem ajudar a sequestrar carbono, melhorar a qualidade do ar e aumentar a biodiversidade, abordando múltiplas preocupações ambientais. Além disso, podem oferecer espaços verdes para recreação e bem-estar, beneficiando a qualidade de vida da população. Essa ação se alinha aos esforços para mitigar os impactos das mudanças climáticas e promover o desenvolvimento urbano sustentável.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Estabelecer eco-parques.",
@@ -877,7 +877,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar políticas de energia renovável a nível municipal é um passo crucial para reduzir a pegada de carbono geral da cidade. Com emissões significativas provenientes de transportes e resíduos, a diversificação das fontes de energia pode contribuir para a sustentabilidade a longo prazo. Esta ação ajuda a mitigar as alterações climáticas, promovendo uma produção de energia mais limpa. Também se alinha com os esforços globais para fazer a transição dos combustíveis fósseis, promovendo um ambiente urbano mais resiliente e amigo do ambiente.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -949,7 +949,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda diretamente a necessidade de melhoria das práticas de conservação em Porto Alegre. Facilitar a transferência de tecnologia pode levar a uma gestão do solo mais eficaz e sustentável, o que é crucial para uma cidade com um bioma de campo/savana. Embora não esteja diretamente ligada aos maiores riscos, como inundações ou deslizamentos de terra, uma melhor conservação pode indiretamente mitigar alguns perigos ambientais. Esta iniciativa apoia a resiliência ambiental a longo prazo e o desenvolvimento sustentável dentro da cidade.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Here's the translation of the text to Portuguese:\n\nEsta ação promove sistemas alimentares locais e práticas agroecológicas, o que pode aumentar a segurança alimentar e reduzir a vulnerabilidade da cidade a interrupções na cadeia de suprimentos. Também apoia as economias locais e pode contribuir para um uso mais sustentável da terra. Embora não aborde diretamente os maiores riscos da cidade, como inundações ou deslizamentos de terra, ela constrói resiliência no setor alimentar. Esta iniciativa alinha-se com objetivos de sustentabilidade mais amplos e pode ter impactos positivos a longo prazo no bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma ação valiosa para Porto Alegre. Essa iniciativa pode incentivar práticas sustentáveis de gestão do solo, que são cruciais dado o bioma de campo/savana da cidade. Ao apoiar os serviços ambientais, pode contribuir indiretamente para mitigar os riscos associados a secas e inundações, que são perigos significativos para a cidade. Além disso, os programas de PSA podem melhorar a biodiversidade e a gestão dos recursos hídricos, alinhando-se com as principais áreas de impacto identificadas na avaliação de risco climático da cidade. Esta ação promove uma abordagem proativa para a gestão ambiental e a resiliência climática.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nThis action, focused on Technical Assistance and Rural Extension (ATER), is a lower priority for Porto Alegre. The city is a large urban center with a high population density, and its economy is not primarily agricultural. While some rural areas might exist within its broader municipality, the core challenges for Porto Alegre are more likely related to urban infrastructure, public health, and managing emissions from transportation and waste. Therefore, ATER actions would have a limited impact on the city's most pressing climate and socio-economic vulnerabilities.\n\n**Portuguese Translation:**\n\nEsta ação, focada em Assistência Técnica e Extensão Rural (ATER), é uma prioridade menor para Porto Alegre. A cidade é um grande centro urbano com alta densidade populacional, e sua economia não é predominantemente agrícola. Embora algumas áreas rurais possam existir dentro de seu município mais amplo, os desafios centrais para Porto Alegre estão mais provavelmente relacionados à infraestrutura urbana, saúde pública e gestão de emissões de transporte e resíduos. Portanto, as ações de ATER teriam um impacto limitado nas vulnerabilidades climáticas e socioeconômicas mais urgentes da cidade.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fomentar a produção agroecológica local e as cadeias de abastecimento curtas é uma ação crucial para Porto Alegre. Esta iniciativa aborda diretamente a segurança alimentar, identificada como uma área de impacto chave com risco significativo de secas e inundações. Ao promover a produção local, a cidade pode aumentar a sua resiliência a interrupções no abastecimento alimentar relacionadas com o clima. Além disso, pode contribuir para a redução das emissões de transporte associadas à distribuição de alimentos, alinhando-se com a necessidade da cidade de abordar as suas substanciais emissões de transporte. Esta ação também apoia as economias locais e promove práticas sustentáveis de uso da terra.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Apoiar incentivos fiscais ecológicos é um passo crucial para o desenvolvimento sustentável em Porto Alegre. Essa ação pode encorajar práticas ambientalmente amigáveis, oferecendo benefícios financeiros para a conservação e iniciativas verdes. Dada a vulnerabilidade da cidade a vários riscos climáticos, como inundações e deslizamentos de terra, promover o equilíbrio ecológico é essencial para a resiliência a longo prazo. Esses incentivos também podem ajudar a diversificar a economia local, fomentando indústrias verdes e criando novas oportunidades de emprego. Em última análise, essa ação contribui para um ambiente urbano mais sustentável e resiliente para todos os moradores.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar programas de certificação agroecológica é uma prioridade moderada para Porto Alegre. Embora a cidade enfrente riscos significativos de inundações e deslizamentos de terra que impactam a infraestrutura e a saúde pública, a segurança alimentar também é uma preocupação, particularmente em relação a secas e inundações. Esta ação poderia contribuir para sistemas alimentares mais resilientes e potencialmente mitigar alguns impactos na segurança alimentar. No entanto, dado o acesso muito baixo a serviços públicos de água e saneamento, e os altos riscos de outros perigos, esta ação pode não ser a prioridade mais imediata para a cidade.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",

@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the city's significant vulnerability to multiple extreme weather events. Cariacica faces high risks from heatwaves, landslides, and floods, all of which can have severe impacts on public health and infrastructure. Establishing a robust emergency response plan is crucial for protecting its population and critical systems. Given the high normalized risk scores for these hazards, proactive preparation is essential to mitigate potential damages and save lives.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's \"very_low\" socio-economic factors, indicating a significant need for social development. Restoring Special Social Interest Zones (ZEIS) directly addresses the well-being of vulnerable populations. Improving these areas can lead to better living conditions and access to essential services for low-income residents. This aligns with the broader goal of enhancing urban resilience and equity in Cariacica.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -158,7 +158,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's tropical rainforest biome, which indicates a rich biodiversity that needs protection. While the normalized risk score for biodiversity from droughts and heatwaves is low, strengthening conservation programs is a proactive measure to maintain ecological balance. Given the city's population density, preserving natural areas can also contribute to public well-being and ecosystem services. This action supports long-term environmental sustainability and resilience against future climate impacts.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -231,7 +231,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a significant concern for Cariacica, particularly due to the high risk of floods and droughts. Improving food storage and distribution can mitigate the impacts of these hazards on the food supply. Given the city's very low-income socio-economic factors, ensuring consistent access to food is crucial for the well-being of its population. This action directly supports resilience against climate-related disruptions to food systems.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -307,7 +307,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant risks from various hazards, including droughts, heatwaves, landslides, and floods, which impact key areas like water resources, food security, public health, and infrastructure. Encouraging sustainable land use practices is crucial for mitigating these risks. This action can help reduce the severity of impacts from hazards like floods and landslides by improving soil stability and water absorption. Furthermore, it can contribute to better water resource management and food security, which are highly vulnerable in this city.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -381,7 +381,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Access to health care is a critical priority for Cariacica, especially given the high normalized risk score for public health impacts from diseases and heatwaves. Improving healthcare access can directly mitigate these risks, enhancing the city's resilience to climate-related health challenges. This action is essential for protecting the well-being of the population, particularly in a city with very low socio-economic factors. Prioritizing this action ensures that vulnerable communities receive necessary medical support and preventative care.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -456,7 +456,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's tropical rainforest biome, which benefits greatly from healthy riparian forests. These forests play a crucial role in maintaining water quality and preventing soil erosion, which are vital given the city's existing water resource challenges. Furthermore, healthy riparian zones can mitigate the impacts of floods, a significant hazard for Cariacica as indicated by the high normalized risk score for infrastructure, food security, and public health due to floods. Investing in their maintenance and revitalization directly addresses multiple key impacts and hazards identified in the city's CCRA.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -529,7 +529,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant risks from multiple climate hazards, including heatwaves, diseases, floods, and landslides, all of which have a high normalized risk score for public health. Strengthening the healthcare network is crucial to effectively respond to the increased health burden from these events. Given the city's 'very_low' socio-economic factors, the population is likely more vulnerable to health impacts, making robust healthcare infrastructure essential. This action directly addresses critical public health vulnerabilities identified in the city's climate change risk assessment. Prioritizing this action will enhance the city's resilience and protect its citizens from the direct health consequences of climate change.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -605,7 +605,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant risks from extreme weather events, including high normalized risk scores for public health and infrastructure due to heatwaves, landslides, and floods. A financial support program would provide crucial resources for recovery and adaptation efforts. This action directly addresses the city's vulnerability to these hazards, which are likely to intensify with climate change. Such a program can help protect the population and critical infrastructure from the devastating impacts of these events.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -682,7 +682,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant risks from landslides and floods, with infrastructure and public health being highly vulnerable. The city also has very low access to public services, particularly water and sanitation. Relocation and environmental restoration in vulnerable areas directly addresses these critical hazards. This action is crucial for protecting lives, improving public health, and safeguarding essential infrastructure in the face of climate change impacts.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -753,7 +753,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant public health risks from heatwaves, diseases, and floods, with normalized risk scores of 0.873, 0.99, and 0.99 respectively. The city's very low-income population further exacerbates vulnerability to health crises. Improving health infrastructure is crucial to mitigate these high-impact hazards and protect the vulnerable population. This action directly addresses the most pressing public health concerns identified in the city's risk assessment.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -827,7 +827,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a significant concern for Cariacica, particularly due to the high risk of floods and droughts. Improving farms and fisheries can enhance local food production and resilience against climate-related disruptions. Given the city's very low-income population, strengthening food systems is crucial for community well-being and stability. This initiative can directly mitigate the impacts of climate hazards on the most vulnerable populations. Therefore, it is a high-priority action for the city.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -904,7 +904,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action, focusing on behaviour change in diets and food waste, is a priority due to its potential to address food security issues. Cariacica faces significant risks from droughts and floods, both of which severely impact food security. Reducing food waste can alleviate pressure on food supply chains and resources, making the city more resilient to climate-related disruptions. Furthermore, dietary changes can contribute to lower emissions from food production, aligning with broader climate goals. This action supports a more sustainable and secure food system for the city's population.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -980,7 +980,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant challenges, including very low-income levels and high risks across multiple sectors from various hazards. Social safety nets are crucial for protecting vulnerable populations, especially given the city's very low-income socio-economic factors. This action can mitigate the impacts of climate hazards like droughts, heatwaves, and floods, which severely affect public health and food security. By providing a safety net, the city can enhance resilience and ensure basic needs are met during and after climate-related disasters. This makes social safety nets a high-priority action for the well-being of Cariacica's residents.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1054,7 +1054,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant risks from floods and droughts, both of which severely impact water resources, food security, and public health. A hydrological monitoring system is crucial for early warning and effective management of these hazards. Given the high normalized risk scores for these impacts, this action directly addresses critical vulnerabilities. Implementing such a system will enhance the city's resilience to climate-related water challenges.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1126,7 +1126,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a valuable action for Cariacica. This initiative can enhance local food security, especially given the city's vulnerability to floods impacting food supply. It also promotes community engagement and green spaces, contributing to urban resilience. While not directly addressing the highest risks like public health from diseases or infrastructure from landslides/floods, it offers significant co-benefits for a city with very low income and some inadequate public services.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1198,7 +1198,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a priority for Cariacica. This action directly addresses the high risks associated with floods, which significantly impact infrastructure, food security, and public health in the city. By improving water absorption and reducing runoff, it can mitigate the severe consequences of heavy rainfall. This measure also contributes to urban cooling, which is beneficial given the high risk of heatwaves and their impact on public health and infrastructure.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant risks related to water resources, particularly from droughts, as indicated by a high normalized risk score. Implementing water capture and storage solutions directly addresses this vulnerability, enhancing the city's resilience to water scarcity. Given the \"very_low\" access to public services for inadequate water access, this action is crucial for improving basic necessities for the population. Furthermore, securing water resources can indirectly benefit food and energy security, which are also impacted by droughts in the city. This action is a priority to mitigate current and future climate impacts on essential services and livelihoods.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1346,7 +1346,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Cariacica faces significant risks from multiple hazards, including droughts, heatwaves, landslides, and floods, impacting various sectors like public health, infrastructure, and food security. Ecosystem-based adaptation can offer natural solutions to mitigate these risks, such as restoring wetlands to manage floods or reforesting areas to prevent landslides and improve water retention. Given the city's tropical rainforest biome, there is a strong potential for implementing such nature-based solutions effectively. This approach can also contribute to biodiversity protection, which is currently at low risk but could be further enhanced through ecosystem restoration.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "The city of Cariacica faces significant risks related to water resources, particularly from droughts, as indicated by a high normalized risk score. While the city has very low inadequate water access, preserving and recovering water bodies is crucial for long-term water security and resilience against future climate impacts. This action directly addresses a key vulnerability identified in the city's climate change risk assessment. Prioritizing this action will help ensure a sustainable water supply for the growing population and mitigate the impacts of climate change on water availability.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",

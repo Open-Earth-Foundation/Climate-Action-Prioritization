@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "S\u00e3o Jo\u00e3o de Meriti has very high transportation emissions, indicating a significant reliance on vehicles. Implementing an urban toll can help manage traffic congestion and reduce these emissions. This action could also generate revenue that can be reinvested into sustainable public transportation options. Given the city's high population density, reducing vehicle traffic is crucial for improving air quality and public health.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it promotes sustainable transportation in an urban area with high population density. Electric bike-sharing programs can significantly reduce transportation emissions, which are a major contributor to the city's total emissions. This initiative also aligns with efforts to improve air quality and public health by encouraging active mobility. Furthermore, it can alleviate traffic congestion and reduce reliance on fossil fuels, contributing to overall urban resilience.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action focuses on adopting biomethane in public fleets, which directly addresses transportation emissions. S\u00e3o Jo\u00e3o de Meriti has significant transportation emissions, making this a relevant area for intervention. Reducing these emissions contributes to overall climate mitigation efforts. While not directly addressing the city's high public health risks from heatwaves, diseases, floods, and landslides, it is a valuable step towards a more sustainable urban environment.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -222,7 +222,7 @@
         "actionId": "c40_0035",
         "actionName": "Waste Efficiency",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "S\u00e3o Jo\u00e3o de Meriti has very high waste emissions, contributing significantly to its total emissions. Implementing waste efficiency measures can directly reduce these emissions, improving the city's environmental footprint. This action also aligns with broader sustainability goals by promoting resource conservation and reducing landfill burden. Given the high population density, efficient waste management is crucial for public health and environmental quality. Therefore, prioritizing waste efficiency is a strategic step towards a more sustainable and resilient city.",
         "action": {
             "ActionID": "c40_0035",
             "ActionName": "Waste Efficiency",
@@ -299,7 +299,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Expanding mass transit systems on rails is a high-priority action for S\u00e3o Jo\u00e3o de Meriti. This city has very high transportation emissions, indicating a significant reliance on less sustainable modes of transport. Improving public transit infrastructure can reduce these emissions by encouraging a shift away from private vehicles. This action also aligns with the city's high population density, as efficient mass transit is crucial for managing urban mobility in densely populated areas. Therefore, this initiative is vital for both environmental sustainability and urban development.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -371,7 +371,7 @@
         "actionId": "icare_0021",
         "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "S\u00e3o Jo\u00e3o de Meriti has very high transportation emissions, indicating a significant reliance on motorized transport. While this action aims to promote sustainable use, its priority is moderate given the city's overall emissions profile. Other actions addressing more critical hazards or higher emission sources might be more impactful. However, reducing individual motorized transportation is a crucial step towards lowering the city's carbon footprint and improving air quality.",
         "action": {
             "ActionID": "icare_0021",
             "ActionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
@@ -443,7 +443,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "S\u00e3o Jo\u00e3o de Meriti has very high transportation emissions, making vehicle emissions a significant contributor to the city's overall carbon footprint. Addressing vehicle emissions is crucial for reducing air pollution and improving public health. This action directly targets a major source of greenhouse gases in the city. Implementing measures to reduce vehicle emissions will contribute to the city's climate goals and enhance urban sustainability.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -522,7 +522,7 @@
         "actionId": "c40_0040",
         "actionName": "Volume-Based Collection",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "S\u00e3o Jo\u00e3o de Meriti has significant waste emissions, contributing to its overall carbon footprint. Implementing volume-based collection can incentivize residents and businesses to reduce waste generation, thereby lowering these emissions. This action also promotes more efficient waste management practices, which can lead to better resource recovery and reduced landfill reliance. Given the city's high population density, optimizing waste collection is crucial for environmental sustainability and public health. Therefore, this action is a priority for improving the city's environmental performance.",
         "action": {
             "ActionID": "c40_0040",
             "ActionName": "Volume-Based Collection",
@@ -598,7 +598,7 @@
         "actionId": "icare_0059",
         "actionName": "Modernization of ports and airports with zero-emission technologies",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action focuses on modernizing ports and airports with zero-emission technologies. S\u00e3o Jo\u00e3o de Meriti is an inland city with no ports and no significant airport infrastructure. Therefore, this action is not relevant to the city's specific needs or geographical context. Prioritizing actions that address the city's high risks in public health from heatwaves, diseases, floods, and landslides would be more impactful.",
         "action": {
             "ActionID": "icare_0059",
             "ActionName": "Modernization of ports and airports with zero-emission technologies",
@@ -670,7 +670,7 @@
         "actionId": "c40_0036",
         "actionName": "Landfill Management",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Landfill management is a crucial action for S\u00e3o Jo\u00e3o de Meriti, given the significant waste emissions in the city. Effective management can reduce the environmental impact of waste and potentially mitigate public health risks associated with poorly managed sites. This action directly addresses a notable source of emissions, contributing to overall climate resilience. Prioritizing this action can lead to improved air quality and reduced land contamination, benefiting the local population.",
         "action": {
             "ActionID": "c40_0036",
             "ActionName": "Landfill Management",
@@ -747,7 +747,7 @@
         "actionId": "icare_0091",
         "actionName": "Implementation of prioritized routes for sustainable vehicles.",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action focuses on implementing prioritized routes for sustainable vehicles. Given that transportation emissions are the highest contributor to total emissions in S\u00e3o Jo\u00e3o de Meriti, this action directly addresses a significant source of pollution. By promoting sustainable transportation, the city can work towards reducing its carbon footprint and improving air quality. This initiative aligns with the city's need to mitigate climate change impacts and enhance urban sustainability.",
         "action": {
             "ActionID": "icare_0091",
             "ActionName": "Implementation of prioritized routes for sustainable vehicles.",
@@ -819,7 +819,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies is a crucial step towards reducing the city's overall carbon footprint. S\u00e3o Jo\u00e3o de Meriti has significant transportation and waste emissions, and diversifying its energy sources can help mitigate these. While not directly addressing the most pressing climate hazards like public health risks from heatwaves or floods, it contributes to long-term climate resilience. This action supports a sustainable future by promoting cleaner energy production within the municipality.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -891,7 +891,7 @@
         "actionId": "icare_0053",
         "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action supports cooperatives of recyclable material collectors, which can significantly improve waste management and reduce waste emissions in S\u00e3o Jo\u00e3o de Meriti. Given the city's substantial waste emissions, this initiative directly addresses a key environmental concern. Furthermore, it can create economic opportunities and improve livelihoods for low-income populations, aligning with the city's socio-economic factors. This project fosters a circular economy, promoting resource efficiency and sustainability within the community.",
         "action": {
             "ActionID": "icare_0053",
             "ActionName": "Implement a project to support cooperatives of recyclabe material collectors",
@@ -963,7 +963,7 @@
         "actionId": "icare_0122",
         "actionName": "Establish eco-parks.",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Establishing eco-parks in S\u00e3o Jo\u00e3o de Meriti is a valuable initiative, especially given the city's tropical rainforest biome. These parks can help preserve biodiversity and provide green spaces for recreation and environmental education. While not directly addressing the highest risks like public health impacts from heatwaves or floods, eco-parks contribute to overall urban resilience and well-being. They can also indirectly mitigate some climate impacts by improving air quality and reducing urban heat island effects. This action supports long-term sustainability and quality of life for the city's population.",
         "action": {
             "ActionID": "icare_0122",
             "ActionName": "Establish eco-parks.",
@@ -1035,7 +1035,7 @@
         "actionId": "icare_0117",
         "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Increasing the attractiveness of the municipal bus system is a priority for S\u00e3o Jo\u00e3o de Meriti. This action directly addresses the high transportation emissions in the city, which are a significant contributor to the total emissions. Promoting public transport can reduce reliance on private vehicles, leading to lower carbon emissions and improved air quality. Furthermore, an efficient and attractive bus system can enhance urban mobility for residents, especially in a densely populated area like S\u00e3o Jo\u00e3o de Meriti.",
         "action": {
             "ActionID": "icare_0117",
             "ActionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
@@ -1107,7 +1107,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Prioritizing locally produced agroecological products in public purchases is a valuable action for S\u00e3o Jo\u00e3o de Meriti. This initiative can bolster local food security, which is a key impact area for the city, especially given its vulnerability to droughts and floods. It also supports local economies and promotes sustainable agricultural practices. While not directly addressing the highest risks like public health impacts from heatwaves or diseases, it contributes to overall resilience and community well-being. This action aligns with a holistic approach to urban sustainability.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -1179,7 +1179,7 @@
         "actionId": "ipcc_0080",
         "actionName": "Avoiding, Minimising, and Recycling Waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority because waste emissions contribute significantly to the city's total emissions. Implementing strategies to avoid, minimize, and recycle waste directly addresses a substantial source of greenhouse gases. Reducing waste can also alleviate pressure on landfills and improve public health. This action aligns with sustainable development goals by promoting resource efficiency and environmental protection.",
         "action": {
             "ActionID": "ipcc_0080",
             "ActionName": "Avoiding, Minimising, and Recycling Waste",
@@ -1253,7 +1253,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for S\u00e3o Jo\u00e3o de Meriti due to the city's significant risk to food security from both droughts and floods. These programs can enhance local food production resilience and diversify agricultural practices. By promoting sustainable farming, the city can mitigate the impacts of climate hazards on its food supply. This action directly addresses a critical vulnerability identified in the city's risk assessment.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1325,7 +1325,7 @@
         "actionId": "icare_0024",
         "actionName": "Integrate renewables into municipal water systems",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Integrating renewables into municipal water systems is a crucial action for S\u00e3o Jo\u00e3o de Meriti. The city faces significant public health risks from both floods and droughts, which can impact water availability and quality. This action can enhance the resilience of water infrastructure, ensuring a more stable and sustainable water supply. By reducing reliance on traditional energy sources, it also contributes to lower operational costs and decreased emissions, aligning with broader climate goals.",
         "action": {
             "ActionID": "icare_0024",
             "ActionName": "Integrate renewables into municipal water systems",
@@ -1397,7 +1397,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a moderately important action for S\u00e3o Jo\u00e3o de Meriti. While not the highest priority, it can contribute to sustainable development by encouraging environmentally friendly practices. Such incentives can help diversify the city's economic activities and promote green initiatives. This action aligns with long-term resilience building, even if its immediate impact on critical risks like public health from heatwaves or floods is indirect. It is a valuable step towards fostering a more environmentally conscious urban environment.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",

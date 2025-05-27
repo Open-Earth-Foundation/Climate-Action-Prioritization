@@ -1,3 +1,19 @@
+"""
+This script translates the explanations in climate action JSON files.
+
+It translates the following field:
+- explanation
+
+The script automatically detects the target language from the filename suffix:
+- _es.json files are translated to Spanish
+- _pt.json files are translated to Portuguese
+
+Execute the script with the following command:
+python scripts/translate_explanations.py
+
+The script processes all matching files in the data/frontend directory.
+"""
+
 import os
 import json
 import glob

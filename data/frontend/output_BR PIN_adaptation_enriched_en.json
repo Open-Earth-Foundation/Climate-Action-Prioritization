@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Parintins given its high vulnerability to various extreme weather events. The city faces significant risks from droughts, heatwaves, and floods, all of which have high normalized risk scores for key impacts like public health and food security. A comprehensive plan can mitigate the severe consequences of these hazards, protecting the population and critical infrastructure. This proactive measure is essential for building resilience in a city with high low-income populations and existing challenges in public services like sanitation.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Parintins is located in a tropical rainforest biome, making biodiversity conservation crucial. Strengthening programs for protected areas directly addresses the high risk to biodiversity from both droughts and heatwaves, as indicated by the city's climate risk assessment. Given the significant land use emissions, protecting these areas can also contribute to carbon sequestration and overall environmental health. This action aligns with the need to preserve the natural capital of the region, which is vital for ecological balance and potentially for the well-being of the low-income population.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action focuses on Special Social Interest Zones (ZEIS), which are likely areas with high low-income populations and inadequate public services. Improving these areas can directly address social equity and resilience for vulnerable communities. Given the city's high low-income population and significant issues with inadequate sanitation, this action is crucial. Restoring and developing these zones can lead to better living conditions and reduced vulnerability to climate impacts. This makes it a high-priority action for the city.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -231,7 +231,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Parintins faces significant food security risks, particularly from droughts and floods, both of which have high normalized risk scores. Improving food storage and distribution can directly mitigate these risks by ensuring a more stable food supply. Given the city's high low-income population, enhancing food security is crucial for community well-being and resilience. This action directly addresses a critical vulnerability identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -307,7 +307,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Strengthening the healthcare network is a high priority for Parintins given the significant public health risks identified. The city faces high normalized risk scores for public health due to heatwaves, diseases, and floods. With a high low-income population, access to adequate healthcare is crucial for vulnerable communities. This action directly addresses the immediate and long-term health impacts of climate change on the city's residents.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -383,7 +383,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Farm/fishery improvements are a high priority for Parintins, especially given the city's significant risk to food security from both droughts and floods. Improving agricultural and fishery practices can enhance resilience to these climate hazards, ensuring a more stable food supply for the population. This action directly addresses a critical vulnerability identified in the city's climate risk assessment. Furthermore, with a high proportion of low-income residents, securing food sources is paramount for community well-being and stability. Investing in these improvements can lead to long-term benefits for the local economy and public health.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -460,7 +460,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Parintins, especially given the high risk of public health impacts from heatwaves, diseases, and floods. Improving healthcare access can mitigate the severe consequences of these hazards on the population. This action directly addresses the city's vulnerability to climate-related health crises. Prioritizing this action will enhance the city's resilience and protect its residents.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -535,7 +535,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Maintaining and revitalizing riparian forests is crucial for Parintins, a city in the Amazon biome. This action directly addresses the high risks associated with droughts and floods, which significantly impact food security and public health. Healthy riparian zones can mitigate these hazards by stabilizing riverbanks, improving water quality, and supporting biodiversity. Given the city's low access to public services and high low-income population, such environmental interventions also contribute to community resilience and well-being. This action is a priority because it offers a nature-based solution to multiple climate risks, aligning with the city's ecological context and socio-economic needs.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -608,7 +608,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Parintins given its significant land use emissions, which are the largest contributor to the city's total emissions. This action directly addresses the primary source of greenhouse gas emissions in the city. Furthermore, the city faces high risks from droughts impacting food security and water resources, which can be exacerbated by unsustainable land use. Implementing sustainable practices can help mitigate these risks and improve overall resilience. This action is crucial for both climate change mitigation and adaptation in Parintins.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -682,7 +682,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is crucial given the high normalized risk scores for public health impacts from heatwaves, diseases, and floods in Parintins. Improving health infrastructure can enhance the city's capacity to respond to these climate-related health challenges. With a significant portion of the population potentially vulnerable due to low income, robust health services are essential. Prioritizing this action will directly contribute to the well-being and resilience of the community against current and future climate threats.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -756,7 +756,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Parintins faces significant challenges with high low-income populations and inadequate public services, particularly sanitation. Social safety nets can directly address these vulnerabilities by providing essential support to the most affected communities. Given the high risks from hazards like droughts, heatwaves, and floods impacting public health and food security, these nets are crucial for building resilience. They can help mitigate the socio-economic impacts of climate change, ensuring basic needs are met during crises. Therefore, implementing social safety nets is a vital step towards protecting the well-being of the city's residents.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -830,7 +830,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Parintins faces significant risks from extreme weather events, including high-risk scores for droughts, heatwaves, and floods impacting public health, food security, and energy security. A financial support program can provide crucial aid to residents and businesses affected by these events, helping them recover and rebuild. Given the city's high low-income population, such a program is vital for protecting vulnerable communities. This initiative directly addresses the immediate and severe consequences of climate hazards, making it a critical component of climate resilience.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -907,7 +907,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high vulnerability to various water-related hazards, including droughts and floods, which significantly impact food security, public health, and water resources. A hydrological monitoring system can provide crucial early warnings and real-time data, enabling better preparedness and response to these events. Given the high normalized risk scores for these impacts, such a system is essential for protecting the population and critical resources. Implementing this technology will enhance the city's resilience against climate-related water challenges.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -979,7 +979,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a priority for Parintins, especially given the high risk to food security from both droughts and floods. Urban gardens can enhance local food production, reducing reliance on external food sources and improving resilience to climate impacts. This action also aligns with the city's high low-income population, potentially providing accessible and affordable food options. Furthermore, it can contribute to local greening efforts and community engagement.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1051,7 +1051,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action addresses the critical need for relocation and environmental restoration in vulnerable areas. Given Parintins' high risk scores for various hazards like droughts, heatwaves, and floods impacting public health and food security, protecting its most susceptible populations is paramount. The city's high low-income population further emphasizes the urgency of safeguarding these communities from environmental degradation and climate impacts. Prioritizing this action will enhance resilience and improve living conditions for those most at risk.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -1122,7 +1122,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a critical concern for Parintins, especially given the high normalized risk score for droughts and floods impacting food supply. Promoting behaviour change in diets and reducing food waste can directly mitigate these risks by increasing food availability and resilience. Furthermore, the city's high low-income population suggests that efficient food utilization is crucial for community well-being. This action also indirectly contributes to reducing land use emissions, which are a significant portion of the city's total emissions.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1198,7 +1198,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a valuable action for Parintins. This initiative can help manage stormwater runoff, which is crucial given the city's high risk from floods impacting food security and public health. Green infrastructure also contributes to mitigating the urban heat island effect, addressing the high public health and energy security risks associated with heatwaves. While not the top priority, this action offers multiple co-benefits for climate resilience and urban liveability.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the high risk of droughts impacting water resources, food security, and energy security in Parintins. Improving water capture and storage can mitigate these significant risks. Given the city's tropical rainforest biome, efficient water management is crucial for resilience. This action directly addresses critical vulnerabilities identified in the city's climate change risk assessment.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1346,7 +1346,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Parintins given its tropical rainforest biome and high land use emissions. This approach can help mitigate the significant risks identified, such as those to biodiversity from droughts and heatwaves. By restoring and protecting natural ecosystems, the city can enhance its resilience to climate impacts. This action also supports food and energy security, which are highly vulnerable to droughts in this region.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0190",
         "actionName": "Encourage agrosilvopastoral systems",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Encouraging agrosilvopastoral systems is a priority for Parintins given the city's high land use emissions. This action directly addresses the significant contribution of land use to the city's total emissions. Furthermore, with high risks to food security from both droughts and floods, these systems can offer more resilient agricultural practices. This approach also aligns with the city's tropical rainforest biome, promoting sustainable land management. It can help mitigate climate risks while supporting local livelihoods.",
         "action": {
             "ActionID": "icare_0190",
             "ActionName": "Encourage agrosilvopastoral systems",

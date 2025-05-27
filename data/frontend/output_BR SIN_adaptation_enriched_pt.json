@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido à significativa vulnerabilidade de Sinop a múltiplos eventos climáticos extremos. A cidade enfrenta altos escores de risco normalizado para secas que impactam os recursos hídricos, a segurança alimentar e a biodiversidade. Além disso, as ondas de calor representam um risco substancial para a saúde pública e a infraestrutura. O estabelecimento de um plano abrangente de preparação e resposta a emergências é crucial para mitigar os impactos severos desses perigos recorrentes e proteger a população e os sistemas críticos.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:Esta ação foca no desenvolvimento de diagnósticos e na restauração de Zonas Especiais de Interesse Social (ZEIS). Dado o fator de baixa renda 'muito_baixo' de Sinop e o saneamento inadequado 'alto', abordar as zonas de interesse social é crucial para melhorar as condições de vida. Embora a cidade enfrente altos riscos de secas e ondas de calor, esta ação visa diretamente a equidade social e o desenvolvimento urbano. A melhoria dessas zonas pode levar a melhores resultados de saúde pública e infraestrutura, que também são impactados por riscos climáticos. Portanto, esta ação é uma prioridade para aumentar a resiliência e o bem-estar das populações vulneráveis em Sinop.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Sinop enfrenta altos riscos à segurança alimentar tanto de secas quanto de inundações, com pontuações de risco normalizadas de 0,99 para ambos os perigos. A melhoria das fazendas e da pesca aborda diretamente essas vulnerabilidades, aumentando a resiliência e a produtividade. Dado o fator socioeconômico muito baixo de baixa renda, o fortalecimento dos sistemas alimentares locais também pode contribuir para a estabilidade econômica e os meios de subsistência. Esta ação se alinha com a necessidade crítica de garantir recursos alimentares diante de significativos perigos climáticos.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -235,7 +235,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A melhoria do armazenamento e distribuição de alimentos é uma alta prioridade para Sinop, uma vez que a cidade enfrenta riscos significativos para a segurança alimentar devido a secas e inundações. Ambos os perigos têm um índice de risco normalizado de 0,99 para a segurança alimentar, indicando uma vulnerabilidade muito alta. A melhoria desses sistemas pode construir resiliência contra esses impactos climáticos, garantindo um abastecimento alimentar mais estável para a população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -311,7 +311,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso a cuidados de saúde é uma prioridade crítica para Sinop, especialmente dados os altos escores de risco normalizados para impactos na saúde pública de ondas de calor e doenças. Melhorar o acesso a cuidados de saúde pode mitigar diretamente as consequências severas desses perigos na população. Além disso, o fator de baixa renda 'muito_baixo' da cidade sugere que uma parcela significativa da população já pode enfrentar barreiras para acessar serviços essenciais. Abordar essa ação pode aumentar a resiliência da cidade e proteger seus residentes vulneráveis de crises de saúde relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -386,7 +386,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a disponibilidade de infraestrutura de saúde, que é crucial para uma cidade como Sinop. A cidade enfrenta altos riscos de ondas de calor e doenças, ambos com impacto direto na saúde pública. Uma infraestrutura de saúde adequada é essencial para gerir eficazmente estes desafios de saúde pública. Melhorar esta infraestrutura pode aumentar a resiliência da cidade aos impactos na saúde relacionados com o clima e melhorar o bem-estar geral da sua população.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -460,7 +460,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é a seguinte:\n\nEsta ação é uma prioridade porque Sinop está localizada em um bioma de floresta tropical, que é altamente sensível à degradação ambiental. O fortalecimento dos programas de controle e conservação de áreas protegidas aborda diretamente os altos escores de risco normalizado para impactos na biodiversidade, tanto de secas quanto de ondas de calor. Dadas as significativas emissões de uso da terra em Sinop, proteger essas áreas é crucial para mitigar maiores danos ambientais e preservar o ecossistema. Esta ação também apoia indiretamente os recursos hídricos e a segurança alimentar, que são altamente impactados pelas secas na região.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -533,7 +533,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Sinop enfrenta desafios significativos com a saúde pública, particularmente no que diz respeito a ondas de calor e doenças, e também possui níveis de renda muito baixos. As redes de segurança social podem fornecer um apoio crucial às populações vulneráveis, ajudando-as a lidar com os impactos dos perigos climáticos e melhorando o bem-estar geral. Ao abordar as disparidades socioeconômicas, esta ação pode aumentar a resiliência da cidade às mudanças climáticas. Também pode apoiar indiretamente os esforços de adaptação, garantindo que as necessidades básicas sejam atendidas, permitindo que os moradores se preparem e se recuperem melhor de eventos relacionados ao clima. Isso a torna um componente vital de uma estratégia abrangente de ação climática para Sinop.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -607,7 +607,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos de saúde pública identificados em Sinop, particularmente de ondas de calor, secas e doenças. Fortalecer a rede de saúde é crucial para responder eficazmente aos impactos na saúde desses perigos climáticos. Dados os altos escores de risco normalizados para a saúde pública relacionados a esses eventos, um sistema de saúde aprimorado pode mitigar o sofrimento e salvar vidas. Esta medida proativa garante que a cidade esteja mais bem preparada para gerenciar as consequências na saúde de um clima em mudança.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -683,7 +683,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção de práticas sustentáveis de uso da terra é uma alta prioridade para Sinop, dadas as suas significativas emissões provenientes do uso da terra. O bioma da cidade é de floresta tropical, tornando-a particularmente vulnerável a práticas insustentáveis. Esta ação aborda diretamente uma das principais fontes de emissões e pode ajudar a proteger a biodiversidade crítica da região. Além disso, o uso sustentável da terra pode mitigar os riscos associados a secas e inundações, que são perigos de alto risco para Sinop.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -757,7 +757,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Sinop enfrenta riscos significativos de secas e inundações, impactando os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico é crucial para compreender e prever esses eventos. Esse sistema pode fornecer alertas precoces, permitindo que a cidade se prepare melhor e mitigue os impactos de eventos climáticos extremos. Dadas as altas pontuações de risco normalizado para os principais impactos relacionados tanto à seca quanto à inundação, esta ação aborda diretamente vulnerabilidades críticas.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -829,7 +829,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A presente ação aborda a mudança de comportamento nas dietas e no desperdício alimentar, o que pode contribuir para a redução de emissões e a melhoria da segurança alimentar. Embora Sinop enfrente altos riscos de secas que impactam a segurança alimentar, o impacto direto desta ação em riscos climáticos imediatos e de alta prioridade, como saneamento inadequado ou saúde pública devido a ondas de calor, pode ser menos direto. No entanto, ainda pode desempenhar um papel na sustentabilidade e resiliência gerais. As significativas emissões de uso do solo da cidade sugerem que os sistemas alimentares, incluindo o desperdício, são áreas relevantes para intervenção.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -905,7 +905,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A manutenção e revitalização das matas ciliares é uma ação crucial para Sinop. A cidade enfrenta altos riscos de secas, impactando os recursos hídricos e a segurança alimentar, e inundações, que também afetam a segurança alimentar e a infraestrutura. Matas ciliares saudáveis podem mitigar esses riscos ao estabilizar as margens dos rios, melhorar a qualidade da água e aumentar a biodiversidade. Dado o bioma de floresta tropical da cidade, esta ação se alinha bem com seu ambiente natural e pode proporcionar benefícios ecológicos significativos.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -978,7 +978,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é a seguinte:\n\nEsta ação é uma prioridade devido à alta vulnerabilidade de Sinop a eventos climáticos extremos, particularmente secas, ondas de calor e inundações, que impactam significativamente os recursos hídricos, a segurança alimentar, a saúde pública e a infraestrutura. Um programa de apoio financeiro pode fornecer ajuda crucial a residentes e empresas afetadas por esses perigos, ajudando-os a recuperar e reconstruir. Esta medida proativa pode mitigar as consequências socioeconômicas das mudanças climáticas, especialmente dada a população de baixíssima renda da cidade. Ao oferecer assistência financeira, a cidade pode aumentar sua resiliência e reduzir os custos de longo prazo associados à resposta e recuperação de desastres.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1055,7 +1055,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A implementação de hortas urbanas em Sinop é uma prioridade devido ao alto risco da cidade para impactos na segurança alimentar decorrentes de secas e inundações. As hortas urbanas podem aumentar a produção local de alimentos, reduzindo a dependência de sistemas alimentares externos e aumentando a resiliência a interrupções relacionadas ao clima. Esta ação também se alinha com o fator socioeconômico muito baixo da cidade para baixa renda, potencialmente fornecendo fontes de alimentos acessíveis e oportunidades econômicas para populações vulneráveis. Além disso, pode contribuir para a biodiversidade, que também está em alto risco de secas e ondas de calor em Sinop.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são prioridades para Sinop. A cidade enfrenta altos riscos de inundações, que podem ser mitigados por uma melhor gestão das águas pluviais. Esta ação também aborda o alto índice de risco normalizado para a infraestrutura devido a inundações. Além disso, o aumento das áreas verdes pode ajudar a mitigar os impactos na saúde pública decorrentes de ondas de calor, outro perigo de alto risco para a cidade. Esta ação contribui para a construção de um ambiente urbano mais resiliente.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1199,7 +1199,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação é prioritária devido ao alto risco de Sinop a secas, que impactam severamente os recursos hídricos e a segurança alimentar. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades críticas. Dado o acesso muito baixo a serviços de água adequados, esta ação é crucial para melhorar a resiliência e o bem-estar público. Ajudará a garantir um abastecimento de água mais estável para a população e as necessidades agrícolas, mitigando os efeitos de futuros eventos de seca.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1275,7 +1275,7 @@
     "actionId": "ipcc_0087",
     "actionName": "Infrastructure retrofitting",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A modernização da infraestrutura é uma prioridade para Sinop devido aos altos índices de risco normalizado associados a vários perigos que afetam a infraestrutura. A cidade enfrenta riscos significativos de ondas de calor e inundações, ambos podendo danificar gravemente a infraestrutura existente. A modernização pode aumentar a resiliência dos sistemas críticos, reduzindo futuras perdas econômicas e interrupções. Esta ação aborda diretamente a vulnerabilidade da cidade aos impactos na infraestrutura relacionados ao clima, tornando-a um investimento crucial para a estabilidade urbana a longo prazo.",
     "action": {
       "ActionID": "ipcc_0087",
       "ActionName": "Retrofitting de infraestrutura",
@@ -1348,7 +1348,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A tradução para o português é:\n\nEsta ação aborda a questão crítica das áreas vulneráveis, o que é particularmente relevante dados os altos riscos da cidade a vários perigos. Sinop enfrenta riscos significativos de secas, ondas de calor e inundações, impactando a saúde pública, a segurança alimentar e a infraestrutura. A realocação e a restauração ambiental podem mitigar esses impactos, afastando as populações do perigo e restaurando barreiras naturais. Esta medida proativa pode reduzir danos futuros e melhorar a resiliência geral contra desastres relacionados ao clima.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1419,7 +1419,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Sinop, dados os seus significativos riscos de biodiversidade decorrentes tanto de secas quanto de ondas de calor. Proteger e restaurar ecossistemas naturais pode aumentar a resiliência da cidade a esses perigos climáticos. Essa abordagem também se alinha com o enfrentamento dos altos índices de risco normalizado para recursos hídricos e segurança alimentar, já que ecossistemas saudáveis frequentemente apoiam essas áreas críticas. Além disso, considerando o bioma de floresta tropical da cidade, esta ação aproveita os ativos naturais para mitigar os impactos climáticos. Priorizar esta ação pode levar a múltiplos cobenefícios para o meio ambiente e a comunidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",

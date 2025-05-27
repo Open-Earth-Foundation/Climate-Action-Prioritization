@@ -7,7 +7,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é de alta prioridade para Coxim devido aos riscos significativos associados a secas e inundações na segurança alimentar. A melhoria das práticas agrícolas e pesqueiras pode mitigar diretamente esses impactos, garantindo um abastecimento alimentar mais estável para a população. Dado o bioma de campo/savana da cidade, práticas agrícolas sustentáveis são cruciais para a resiliência a longo prazo. Esta ação também se alinha com o enfrentamento do fator socioeconômico de baixa renda, potencialmente criando meios de subsistência mais estáveis.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -84,7 +84,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Please find the Portuguese translation below:\n\nUm Sistema de Monitoramento Hidrológico com Estações de Telemetria é uma prioridade para Coxim devido aos riscos significativos associados aos recursos hídricos e às secas. A cidade enfrenta uma alta pontuação de risco normalizado para recursos hídricos (0,562) e segurança alimentar (0,461) devido às secas. Este sistema forneceria dados cruciais para melhor gerenciar a disponibilidade de água e mitigar os impactos da seca tanto no meio ambiente quanto na população. O monitoramento aprimorado pode levar a estratégias de gestão hídrica mais eficazes, salvaguardando os recursos e o abastecimento alimentar da cidade.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -156,7 +156,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A melhoria do armazenamento e distribuição de alimentos é uma prioridade para Coxim devido aos riscos significativos que secas e inundações representam para a segurança alimentar. A cidade enfrenta pontuações de risco normalizado moderadas a altas para a segurança alimentar sob os perigos de seca e inundação. Aprimorar esses sistemas pode ajudar a mitigar os impactos desses eventos climáticos, garantindo um abastecimento alimentar mais estável para a população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -232,7 +232,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A melhoria do acesso aos cuidados de saúde é uma ação crucial para Coxim, especialmente dado o risco moderado da cidade a ondas de calor e doenças. Estes perigos impactam diretamente a saúde pública, tornando essencial uma infraestrutura de saúde robusta. Embora não seja a ação mais bem classificada, aborda o bem-estar e a resiliência fundamentais. Garantir o acesso adequado aos cuidados de saúde pode mitigar os impactos dos desafios de saúde relacionados com o clima e melhorar os resultados gerais de saúde da comunidade. Esta ação apoia a capacidade da cidade de responder eficazmente às crises de saúde atuais e futuras.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -307,7 +307,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a segurança alimentar, que é uma área de impacto chave para Coxim, particularmente no que diz respeito a secas e inundações. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode mitigar diretamente esses riscos. Dado o bioma de campo/savana da cidade, práticas alimentares sustentáveis são cruciais para a resiliência ambiental. Esta iniciativa também se alinha com esforços mais amplos para melhorar a gestão de recursos em uma região com desafios moderados de saneamento.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -383,7 +383,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é crucial para Coxim, especialmente considerando seus fatores socioeconômicos 'baixos'. Esses programas podem fornecer apoio essencial às populações vulneráveis, ajudando-as a lidar com os impactos de perigos climáticos como secas e inundações. Ao fortalecer as redes de segurança social, a cidade pode aumentar a resiliência da comunidade e reduzir o fardo desproporcional das mudanças climáticas sobre seus moradores mais desfavorecidos. Esta ação aborda diretamente o bem-estar humano e a equidade, que são fundamentais para o desenvolvimento sustentável.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -457,7 +457,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Estabelecer um plano de preparação e medidas de resposta a emergências é crucial para Coxim, dada a sua vulnerabilidade a vários eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor e inundações, que impactam setores-chave como recursos hídricos, segurança alimentar, saúde pública e infraestrutura. Um plano abrangente aumentaria a resiliência da cidade e a capacidade de proteger sua população e bens durante tais eventos. Essa abordagem proativa é essencial para mitigar os potenciais danos e interrupções causados por perigos relacionados ao clima.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -534,7 +534,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas em Coxim é uma prioridade devido ao risco moderado da cidade à segurança alimentar decorrente de secas e inundações. As hortas urbanas podem aumentar a produção local de alimentos, reduzindo a dependência de fontes externas e melhorando a resiliência a interrupções relacionadas ao clima. Esta iniciativa também oferece benefícios adicionais, como o envolvimento da comunidade, a melhoria da saúde pública através do acesso a produtos frescos e o potencial para o desenvolvimento econômico local. Dado o bioma de campo/savana da cidade, as hortas urbanas também podem contribuir para a biodiversidade local e para a criação de espaços verdes.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -606,7 +606,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Desenvolver diagnósticos e restaurar as Zonas Especiais de Interesse Social (ZEIS) é uma prioridade para Coxim. Esta ação aborda diretamente o fator socioeconômico \"baixo\" da cidade, indicando a necessidade de melhoria das condições de vida para populações vulneráveis. Ao focar nessas zonas, a cidade pode aprimorar a infraestrutura e os serviços públicos, que são cruciais dada a inadequação moderada no acesso ao saneamento. Esta iniciativa também pode mitigar indiretamente os riscos à saúde pública associados a condições de vida inadequadas, especialmente considerando a exposição da cidade a perigos como ondas de calor e doenças. No geral, esta ação contribui para a equidade social e a resiliência dentro da comunidade.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -680,7 +680,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Portuguese Translation:**\n\nIncentivar práticas sustentáveis de uso da terra é uma ação de alta prioridade para Coxim. A maior fonte de emissões da cidade é o uso da terra, indicando uma oportunidade significativa para mitigação. Além disso, o bioma da cidade é de campos/savana, que é particularmente vulnerável a práticas insustentáveis de uso da terra. Abordar isso por meio de métodos sustentáveis pode reduzir as emissões e proteger o ecossistema local. Esta ação aborda diretamente um grande desafio ambiental e contribui para a resiliência geral da cidade.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -754,7 +754,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A captação e armazenamento de água são uma prioridade para Coxim devido ao risco significativo de secas que afetam os recursos hídricos. O bioma de campo/savana da cidade é suscetível à escassez de água, tornando o acesso confiável à água crucial. Além disso, o acesso inadequado à água já é uma preocupação baixa, mas presente, indicando a necessidade de melhorias na infraestrutura. Investir na captação e armazenamento de água pode aumentar a resiliência contra futuros eventos de seca e garantir o abastecimento de água da cidade.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -830,7 +830,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação aborda a vulnerabilidade das comunidades, realocando-as de áreas de alto risco. Dada a exposição de Coxim a perigos como secas e inundações, que impactam a segurança alimentar e a saúde pública, este é um passo crucial. Além disso, o componente de restauração ambiental ajuda a mitigar riscos futuros e a melhorar a resiliência do ecossistema. Esta medida proativa protege tanto vidas humanas quanto recursos naturais, tornando-a uma intervenção de alta prioridade.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -901,7 +901,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorar a disponibilidade da infraestrutura de saúde é uma ação crucial para Coxim. A cidade enfrenta riscos moderados de ondas de calor e doenças, que impactam diretamente a saúde pública. Uma infraestrutura de saúde aprimorada pode melhorar a capacidade da cidade de responder a esses riscos relacionados à saúde. Esta ação é vital para proteger o bem-estar da população e construir resiliência contra os desafios de saúde relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -975,7 +975,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os programas de controle e conservação das áreas protegidas é uma prioridade para Coxim. O bioma da cidade é de campo/savana, que é frequentemente rico em biodiversidade e vulnerável à degradação. Dados os altos escores de risco normalizado para a biodiversidade devido tanto a secas (0,79) quanto a ondas de calor (0,68), proteger essas áreas é crucial. Esta ação aborda diretamente as ameaças significativas aos ecossistemas naturais da cidade e ajuda a preservar sua integridade ecológica.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -1048,7 +1048,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Coxim, especialmente dada a alta pontuação de risco normalizado para a biodiversidade, tanto de secas quanto de ondas de calor. Proteger e restaurar ecossistemas pode aumentar a resiliência da cidade a esses perigos climáticos. Essa abordagem também oferece co-benefícios, como a melhoria dos recursos hídricos e da segurança alimentar, que são impactos-chave identificados na avaliação de risco climático da cidade. Priorizar essa ação pode levar a benefícios sustentáveis de longo prazo para a comunidade e seu ambiente natural.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1135,7 +1135,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Coxim devido ao risco moderado de inundações na cidade. Esta ação aborda diretamente os principais impactos de \"infraestrutura\" e \"saúde pública\" associados às inundações, uma vez que superfícies permeáveis podem reduzir o escoamento de águas pluviais e melhorar a drenagem. Além disso, as áreas verdes podem ajudar a mitigar o efeito de ilha de calor urbana, o que é relevante dada a exposição da cidade a ondas de calor. Esta medida também contribui para a biodiversidade, que é um impacto chave afetado tanto por secas quanto por ondas de calor em Coxim.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1207,7 +1207,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A manutenção e revitalização das florestas ripárias são cruciais para Coxim, especialmente dado o bioma de campo/savana da cidade e os riscos significativos associados às secas. Zonas ripárias saudáveis podem ajudar a mitigar os impactos da seca nos recursos hídricos e na biodiversidade, que são identificados como impactos chave com altas pontuações de risco normalizado. Esta ação também apoia a saúde geral do ecossistema, o que é vital para uma cidade com uma grande área territorial e substanciais emissões provenientes do uso da terra. Priorizar esta ação pode levar à melhoria da qualidade da água, redução da erosão e aumento da biodiversidade, contribuindo para a resiliência da cidade contra os impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -1280,7 +1280,7 @@
     "actionId": "ipcc_0100",
     "actionName": "Efficient water use/demand",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A utilização eficiente da água é uma prioridade para Coxim devido ao risco significativo representado pelas secas, particularmente no que diz respeito aos recursos hídricos e à segurança alimentar. O bioma de campo/savana da cidade é suscetível à escassez de água, tornando os esforços de conservação cruciais. Abordar a demanda por água de forma proativa pode mitigar os impactos de futuros eventos de seca. Esta ação apoia diretamente a resiliência da comunidade e seus recursos essenciais.",
     "action": {
       "ActionID": "ipcc_0100",
       "ActionName": "Uso/demanda eficiente de água",
@@ -1355,7 +1355,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A criação de um programa de apoio financeiro é uma ação de alta prioridade para Coxim. A cidade enfrenta riscos significativos de eventos climáticos extremos, particularmente secas, que afetam os recursos hídricos e a segurança alimentar. Embora a população de baixa renda da cidade não esteja explicitamente ligada à vulnerabilidade financeira nos dados fornecidos, tal programa poderia fornecer apoio crucial a residentes e empresas afetadas por desastres relacionados ao clima. Esta medida proativa pode aumentar a resiliência e auxiliar nos esforços de recuperação, mitigando os impactos socioeconômicos de eventos futuros.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1432,7 +1432,7 @@
     "actionId": "icare_0182",
     "actionName": "Urban Afforestation and Green Spaces Implementation",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A arborização urbana e a implementação de espaços verdes são uma prioridade para Coxim devido ao bioma de campo/savana da cidade e aos riscos significativos para a biodiversidade decorrentes tanto de secas quanto de ondas de calor. O aumento da infraestrutura verde pode ajudar a mitigar esses impactos, proporcionando sombra, reduzindo os efeitos das ilhas de calor urbanas e melhorando a retenção de água local. Essa ação também apoia a resiliência ambiental geral da cidade e pode melhorar a saúde e o bem-estar públicos.",
     "action": {
       "ActionID": "icare_0182",
       "ActionName": "Implementação de Aflorestamento Urbano e Espaços Verdes",

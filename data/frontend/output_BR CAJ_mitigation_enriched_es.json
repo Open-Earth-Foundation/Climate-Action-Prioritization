@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una alta prioridad para Cajazeiras, dado su bioma desértico y sus importantes emisiones por el uso de la tierra. Esta acción aborda directamente la seguridad alimentaria y los recursos hídricos, que son impactos clave con altas puntuaciones de riesgo normalizado debido a las sequías. Al mejorar la salud del suelo y la retención de agua, la agrosilvicultura puede mitigar los efectos de la sequía y mejorar la resiliencia agrícola. Esto es crucial para una ciudad con una alta proporción de población de bajos ingresos, ya que puede contribuir a medios de vida sostenibles y a la producción de alimentos.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -79,7 +79,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "La promoción de la reforestación urbana y los corredores verdes es una acción de alta prioridad para Cajazeiras. Dado el bioma desértico de la ciudad y el alto riesgo de olas de calor, el aumento de los espacios verdes puede mitigar significativamente los efectos de isla de calor urbana. Esta acción también apoya la biodiversidad, que se ve afectada por las sequías y las olas de calor. Además, puede mejorar la salud pública al proporcionar ambientes más frescos y mejorar la calidad del aire, abordando los impactos clave identificados en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -151,7 +151,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Fortalecer los mecanismos para el control de la deforestación es una alta prioridad para Cajazeiras. La ciudad tiene emisiones significativas por el uso de la tierra, lo que indica que la deforestación podría ser un factor contribuyente. Controlar la deforestación puede ayudar a mitigar estas emisiones y proteger el medio ambiente local. Esta acción se alinea con la necesidad de la ciudad de abordar sus sustanciales emisiones por el uso de la tierra.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -223,7 +223,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Cajazeiras está ubicada en un bioma desértico y enfrenta riesgos significativos por sequías, lo que impacta los recursos hídricos y la seguridad alimentaria. La asistencia técnica y las acciones de extensión rural pueden ayudar a las comunidades locales a adaptarse a estos desafíos promoviendo prácticas agrícolas sostenibles y una gestión eficiente del agua. Dada la alta proporción de residentes de bajos ingresos, dicho apoyo es crucial para mejorar los medios de vida y la resiliencia. Esta acción aborda directamente las vulnerabilidades clave identificadas en la evaluación de riesgos del cambio climático de la ciudad.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Establecer Programas Municipales de Pago por Servicios Ambientales (PSA) es una acción de alta prioridad para Cajazeiras. Dado el bioma desértico de la ciudad y el significativo riesgo de sequía, proteger y restaurar los ecosistemas es crucial para la gestión de los recursos hídricos. Los programas de PSA pueden incentivar prácticas sostenibles de uso de la tierra que mejoren la disponibilidad de agua y mitiguen los impactos de la sequía. Esta acción se alinea con la necesidad de abordar el alto riesgo que representan las sequías para los recursos hídricos de la ciudad, como lo indica una puntuación de riesgo normalizada de 0.99.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -367,7 +367,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque Cajazeiras está ubicada en un bioma desértico y enfrenta riesgos significativos por sequías, lo que impacta los recursos hídricos y la seguridad alimentaria. Facilitar la transferencia de tecnología para prácticas de conservación puede abordar directamente estas vulnerabilidades al promover la gestión sostenible de la tierra y el agua. Dados los altos puntajes de riesgo normalizado para los impactos relacionados con la sequía, esta acción es crucial para construir resiliencia. Puede ayudar a la ciudad a adaptarse a sus desafiantes condiciones ambientales y proteger sus recursos naturales.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -439,7 +439,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar el control agroecológico de plagas es una prioridad para Cajazeiras dadas sus importantes emisiones por el uso de la tierra. Esta acción puede ayudar a reducir la dependencia de los pesticidas químicos, que a menudo tienen una alta huella de carbono asociada con su producción y aplicación. Además, se alinea con prácticas agrícolas sostenibles que pueden mejorar la salud del suelo y la biodiversidad, ambas cruciales en un bioma desértico. Al fomentar ecosistemas más saludables, esta acción apoya indirectamente la resiliencia contra peligros como las sequías, que afectan gravemente los recursos hídricos y la seguridad alimentaria en la ciudad.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -511,7 +511,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Priorizar los productos agroecológicos de producción local en las compras públicas es crucial para Cajazeiras, una ciudad con una alta proporción de residentes de bajos ingresos y riesgos significativos para la seguridad alimentaria debido a sequías e inundaciones. Esta acción puede fortalecer la economía local al apoyar a los agricultores y crear empleos, beneficiando directamente a las poblaciones vulnerables. También promueve prácticas agrícolas sostenibles, que son vitales para una ciudad en un bioma desértico que enfrenta graves impactos en los recursos hídricos debido a las sequías. Además, puede mejorar la seguridad alimentaria al diversificar las fuentes de alimentos locales y reducir la dependencia de las cadenas de suministro externas, haciendo que la ciudad sea más resiliente a los peligros climáticos.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -583,7 +583,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque Cajazeiras enfrenta riesgos significativos de seguridad alimentaria, particularmente debido a sequías e inundaciones. Fomentar la producción agroecológica local y las cadenas de suministro cortas puede mejorar la resiliencia alimentaria y reducir la dependencia de fuentes externas de alimentos. Este enfoque también se alinea con la alta población de bajos ingresos de la ciudad, lo que podría ofrecer beneficios económicos y un mejor acceso a alimentos nutritivos. Además, puede contribuir a prácticas sostenibles de uso de la tierra, lo cual es crucial dadas las altas emisiones por uso de la tierra de la ciudad.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -655,7 +655,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Cajazeiras es un bioma desértico con una alta población de bajos ingresos y emisiones significativas por el uso del suelo. Apoyar las prácticas de agricultura regenerativa puede ayudar a mejorar la salud del suelo y la retención de agua, lo cual es crucial dado el alto riesgo de sequías que afectan los recursos hídricos y la seguridad alimentaria. Esta acción también puede contribuir a reducir las emisiones por el uso del suelo y potencialmente mejorar las condiciones socioeconómicas de la comunidad al fomentar medios de vida sostenibles. Dada la vulnerabilidad de la ciudad a la sequía y su dependencia de las actividades basadas en la tierra, esta acción es una alta prioridad para construir resiliencia y promover la sostenibilidad ambiental.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -727,7 +727,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la agricultura orgánica es una acción relevante para Cajazeiras, especialmente dado el alto riesgo de sequías que afectan la seguridad alimentaria. Las prácticas de agricultura orgánica a menudo mejoran la salud del suelo y la retención de agua, lo que puede aumentar la resiliencia a las condiciones de sequía. Este enfoque también se alinea con el uso sostenible de la tierra, lo cual es crucial dadas las significativas emisiones por el uso de la tierra en la ciudad. Aunque no es la máxima prioridad, contribuye a la seguridad alimentaria a largo plazo y a la sostenibilidad ambiental.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -799,7 +799,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de un peaje urbano podría ayudar a gestionar la congestión del tráfico y reducir las emisiones del transporte en Cajazeiras. Dadas las importantes emisiones del transporte de la ciudad, esta acción podría contribuir a los esfuerzos generales de reducción de emisiones. Sin embargo, es necesaria una cuidadosa consideración de los impactos socioeconómicos, especialmente en una ciudad con altos factores de bajos ingresos. La efectividad de esta acción dependería de su diseño y de cómo se integre con las alternativas de transporte público.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -870,7 +870,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas agrícolas sostenibles es una prioridad para Cajazeiras dadas las importantes emisiones por uso del suelo, que son la categoría más alta de emisiones para la ciudad. La ciudad también enfrenta altos riesgos relacionados con la seguridad alimentaria debido a sequías e inundaciones, lo que hace que las prácticas agrícolas resilientes sean cruciales. Esta acción puede ayudar a mitigar estos riesgos al fomentar sistemas de producción de alimentos más sostenibles. Además, al ser un bioma desértico con una alta población de bajos ingresos, la agricultura sostenible puede mejorar los medios de vida y reducir la vulnerabilidad a los impactos climáticos.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -942,7 +942,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Cajazeiras tiene emisiones por uso del suelo muy elevadas, lo que sugiere la necesidad de reducir la dependencia de los vehículos privados. La promoción de programas de bicicletas compartidas, especialmente con bicicletas eléctricas, puede reducir significativamente las emisiones del transporte y mejorar la calidad del aire. Esta acción también se alinea con la alta densidad de población de la ciudad, lo que convierte el ciclismo en un modo de transporte viable y eficiente. Aunque no aborda directamente los principales riesgos climáticos de la ciudad, como las sequías y las olas de calor, la reducción de emisiones es una estrategia crucial de mitigación del clima a largo plazo. Esta iniciativa también puede mejorar la salud pública al fomentar la actividad física y reducir la exposición a la contaminación atmosférica.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Cajazeiras es un bioma desértico con una alta población de bajos ingresos y un acceso moderado e inadecuado al agua. La ciudad se enfrenta a importantes riesgos derivados de las sequías, que afectan a los recursos hídricos y a la seguridad alimentaria. La promoción de prácticas agroforestales puede mejorar la resiliencia a las sequías al mejorar la salud del suelo y la retención de agua, abordando directamente las vulnerabilidades clave. Esta acción apoya el uso sostenible de la tierra y puede contribuir a la seguridad alimentaria en una región altamente susceptible a los impactos climáticos.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Cajazeiras tiene importantes emisiones por el uso del suelo, que podrían compensarse parcialmente reduciendo las emisiones del transporte. La adopción de biometano en las flotas públicas aborda directamente las emisiones del transporte, ofreciendo una alternativa más limpia a los combustibles tradicionales. Aunque no es la máxima prioridad, esta acción contribuye a la reducción general de las emisiones. Se alinea con los esfuerzos para mejorar la calidad del aire y reducir la huella de carbono de la ciudad.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Cajazeiras enfrenta importantes desafíos ambientales, particularmente con las altas emisiones derivadas del uso del suelo. La implementación de incentivos fiscales ecológicos puede fomentar prácticas sostenibles de gestión del suelo y reducir estas emisiones. Dichos incentivos también pueden promover la conservación de la biodiversidad, que es un área de impacto clave para la ciudad, especialmente dado su bioma desértico. Esta acción se alinea con la necesidad de abordar las vulnerabilidades ambientales de la ciudad y fomentar una economía más sostenible. Es un paso proactivo hacia la mitigación de los riesgos climáticos y la mejora de la salud ambiental general.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Cajazeiras, dadas sus importantes emisiones por el uso de la tierra y el alto riesgo para la seguridad alimentaria debido a sequías e inundaciones. La promoción de prácticas agrícolas sostenibles puede ayudar a mitigar estas emisiones y mejorar la resiliencia del sistema alimentario. Esta acción se alinea con la necesidad de abordar la vulnerabilidad de la ciudad a los impactos climáticos en la seguridad alimentaria. Además, puede contribuir a mejorar los factores socioeconómicos en una región con una alta proporción de población de bajos ingresos.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1302,7 +1302,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Here's the Spanish translation:\n\nCajazeiras tiene emisiones por uso del suelo muy elevadas, lo que indica la necesidad de una planificación urbana y un transporte más sostenibles. La expansión de los sistemas de transporte público masivo sobre rieles puede reducir significativamente la dependencia de los vehículos privados, disminuyendo así las emisiones del transporte. Esta acción también apoya un cambio hacia un desarrollo más compacto y orientado al tránsito, lo que puede ayudar a mitigar las emisiones por uso del suelo. Dadas las altas emisiones totales de la ciudad, invertir en un transporte público eficiente es un paso crucial hacia la descarbonización.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -1374,7 +1374,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Cajazeiras tiene emisiones por uso de suelo muy altas, lo que indica que las prácticas agrícolas contribuyen significativamente a la huella de carbono de la ciudad. Fomentar el uso de maquinaria agrícola de bajas emisiones aborda directamente esta importante fuente de emisiones. Esta acción puede ayudar a mitigar el cambio climático al reducir la emisión de gases de efecto invernadero del sector agrícola. Dado que el bioma de la ciudad es desierto, las prácticas agrícolas sostenibles son cruciales para la resiliencia a largo plazo.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Fomentar el uso de maquinaria agrícola de bajas emisiones",

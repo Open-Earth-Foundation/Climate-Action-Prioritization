@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una acción de alta prioridad para Tarauacá. Esta ciudad tiene importantes emisiones por el uso del suelo, lo que indica la necesidad de prácticas sostenibles de gestión de la tierra. La agrosilvicultura puede ayudar a mitigar estas emisiones al secuestrar carbono y mejorar la salud del suelo. Además, puede mejorar la seguridad alimentaria y la biodiversidad, que son impactos clave identificados en la evaluación de riesgos climáticos de la ciudad, particularmente en lo que respecta a sequías e inundaciones. Esta acción aborda directamente las vulnerabilidades ambientales y socioeconómicas, lo que la convierte en una intervención crucial para la resiliencia de la ciudad.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -79,7 +79,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Spanish:\nTarauacá se encuentra en un bioma de selva tropical, lo que indica un alto potencial de deforestación. Las emisiones por el uso del suelo de la ciudad son excepcionalmente altas, representando la gran mayoría de sus emisiones totales. El fortalecimiento de los mecanismos de control de la deforestación aborda directamente esta fuente principal de emisiones. Esta acción es crucial para mitigar el cambio climático y preservar el ecosistema vital de la Amazonía.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -151,7 +151,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "La promoción de la reforestación urbana y los corredores verdes es una acción crucial para Tarauacá. Dado que el bioma de la ciudad es una selva tropical, esta iniciativa se alinea bien con su entorno natural. Puede ayudar a mitigar los impactos de las olas de calor, que representan un alto riesgo para la salud pública y la infraestructura. Además, contribuye a la biodiversidad, que también se ve afectada por las olas de calor, y puede mejorar la resiliencia ambiental general frente al cambio climático.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -223,7 +223,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La creación de programas municipales de Pago por Servicios Ambientales (PSA) es una acción crucial para Tarauacá. Dadas las importantes emisiones por el uso del suelo de la ciudad y su bioma de selva tropical, proteger y mejorar los ecosistemas naturales es vital. Los programas de PSA pueden incentivar prácticas sostenibles de gestión del suelo, lo que aborda directamente las altas emisiones por el uso del suelo. Esta acción también apoya la biodiversidad, un área de impacto clave tanto para los peligros de sequía como de olas de calor, al promover la salud de los sistemas naturales.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Tarauacá es una zona rural con un perfil significativo de emisiones por uso del suelo. Proporcionar asistencia técnica y extensión rural puede ayudar a implementar prácticas sostenibles de gestión del suelo. Esto aborda directamente las altas emisiones por uso del suelo, que son un contribuyente importante a las emisiones totales de la ciudad. Además, mejorar las prácticas agrícolas puedeAumentar la seguridad alimentaria, que es un área de impacto clave para las sequías e inundaciones en esta región. Esta acción apoya tanto la mitigación del cambio climático como los esfuerzos de adaptación para la comunidad.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -367,7 +367,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción se centra en facilitar la transferencia de tecnología para prácticas de conservación, lo cual es crucial para una ciudad como Tarauacá dadas sus importantes emisiones por el uso del suelo. La implementación de prácticas de conservación puede ayudar a mitigar estas emisiones y proteger el bioma de la selva tropical. Esta iniciativa también puede apoyar a la comunidad en la adaptación a los impactos del cambio climático, particularmente aquellos relacionados con la biodiversidad y los recursos hídricos. Al promover la gestión sostenible de la tierra, la ciudad puede mejorar su resiliencia frente a peligros como sequías e inundaciones, que ya son riesgos identificados. Esta acción contribuye directamente a la sostenibilidad ambiental y al bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -439,7 +439,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la agricultura orgánica es una acción relevante para Tarauacá, dadas sus importantes emisiones por el uso del suelo. Esta iniciativa puede ayudar a mitigar dichas emisiones al promover prácticas agrícolas sostenibles. Además, podría mejorar la seguridad alimentaria, que es un área de impacto clave para la ciudad, particularmente en lo que respecta a sequías e inundaciones. Si bien no aborda directamente los riesgos más altos como la infraestructura y la salud pública derivados de las olas de calor, inundaciones y deslizamientos de tierra, contribuye a la sostenibilidad ambiental y a la resiliencia del sistema alimentario. Esta acción se alinea con el bioma de la ciudad como selva tropical, donde el uso sostenible de la tierra es crucial.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -511,7 +511,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar las prácticas de agricultura regenerativa es una acción de alta prioridad para Tarauacá. La ciudad enfrenta riesgos significativos relacionados con la seguridad alimentaria, particularmente por sequías e inundaciones, como lo indican los datos del CCRA. La agricultura regenerativa puede mejorar la salud del suelo, aumentar la retención de agua e incrementar la biodiversidad, abordando directamente estas vulnerabilidades. Este enfoque también contribuye a la mitigación del cambio climático al secuestrar carbono, lo cual es crucial dadas las sustanciales emisiones por uso del suelo de la ciudad. Por lo tanto, esta acción es vital para construir resiliencia y promover el desarrollo sostenible en Tarauacá.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -583,7 +583,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque Tarauacá tiene emisiones por uso de la tierra extremadamente altas, lo que indica un impacto significativo de las prácticas actuales de gestión de la tierra. La implementación de la agrosilvicultura en los sistemas ganaderos puede ayudar a mitigar estas emisiones al secuestrar carbono y mejorar la salud del suelo. Además, dada la vulnerabilidad de la ciudad a las sequías e inundaciones, la agrosilvicultura puede mejorar la resiliencia al diversificar la producción agrícola y mejorar la gestión del agua. Este enfoque también apoya la seguridad alimentaria, que es un área de impacto clave tanto para las sequías como para las inundaciones en Tarauacá.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -655,7 +655,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas agrícolas sostenibles es una acción de alta prioridad para Tarauacá. La ciudad enfrenta riesgos significativos relacionados con la seguridad alimentaria, particularmente por sequías e inundaciones, como indican los datos del CCRA. La implementación de estas prácticas puede mejorar la resiliencia frente a estos peligros, asegurando una producción de alimentos más estable. Además, dadas las sustanciales emisiones por el uso del suelo en Tarauacá, la agricultura sostenible puede contribuir a reducir la huella de carbono general de la ciudad. Esta acción aborda directamente vulnerabilidades ambientales y socioeconómicas críticas.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -727,7 +727,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Tarauacá tiene emisiones por uso de la tierra extremadamente altas, lo que indica una contribución significativa de la agricultura y la silvicultura. Fomentar la maquinaria agrícola de bajas emisiones aborda directamente esta importante fuente de emisiones. Reducir estas emisiones es crucial para los esfuerzos generales de mitigación climática de la ciudad. Esta acción ayuda a la transición hacia prácticas agrícolas más sostenibles, lo cual es vital para una región con una gran huella agrícola.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Fomentar el uso de maquinaria agrícola de bajas emisiones",
@@ -799,7 +799,7 @@
     "actionId": "icare_0127",
     "actionName": "Accelerate Environmental Regularization of Rural Properties",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nEsta acción se centra en acelerar la regularización ambiental de las propiedades rurales. Dadas las significativas emisiones por uso del suelo de Tarauacá, esta iniciativa aborda directamente uno de los principales contribuyentes a las emisiones totales de la ciudad. Una adecuada regularización ambiental puede ayudar a mitigar la deforestación y las prácticas insostenibles del suelo, que son probables impulsores de estas emisiones. Esta acción es crucial para promover la gestión sostenible del suelo y reducir la huella de carbono general de la ciudad. Se alinea con los esfuerzos para proteger el bioma de la selva tropical y su biodiversidad.",
     "action": {
       "ActionID": "icare_0127",
       "ActionName": "Acelerar la Regularización Ambiental de Propiedades Rurales",
@@ -871,7 +871,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque puede mejorar la seguridad alimentaria y apoyar las economías locales. Al priorizar los productos agroecológicos locales, la ciudad puede reducir su dependencia de fuentes externas de alimentos, lo cual es crucial dada la vulnerabilidad de la ciudad a las inundaciones que afectan la seguridad alimentaria. Este enfoque también promueve prácticas agrícolas sostenibles, contribuyendo a la resiliencia ambiental. Además, puede crear oportunidades económicas para los agricultores locales y fortalecer los lazos comunitarios.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -943,7 +943,7 @@
     "actionId": "ipcc_0061",
     "actionName": "Soil Carbon Management in Croplands and Grasslands",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción se centra en la gestión del carbono en el suelo, lo cual es crucial dadas las importantes emisiones por el uso del suelo en la ciudad. Mejorar la salud del suelo puede aumentar el secuestro de carbono, abordando directamente una fuente principal de emisiones. Además, los suelos sanos pueden mejorar la retención de agua y la seguridad alimentaria, ofreciendo beneficios colaterales para una ciudad que enfrenta riesgos de sequía. Esto convierte a la acción en una prioridad estratégica tanto para la mitigación como para la adaptación climática.",
     "action": {
       "ActionID": "ipcc_0061",
       "ActionName": "Gestión del Carbono del Suelo en Tierras de Cultivo y Pastizales",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Tarauacá dadas sus importantes emisiones por uso del suelo. Estos programas pueden ayudar a promover prácticas agrícolas sostenibles, que son cruciales para reducir las sustanciales emisiones por uso del suelo de la ciudad. Al fomentar la agricultura respetuosa con el medio ambiente, esta acción aborda directamente una importante fuente de gases de efecto invernadero. Esta iniciativa también se alinea con el bioma de selva tropical de la ciudad, enfatizando la importancia de la gestión sostenible de la tierra.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar los incentivos fiscales ecológicos es crucial para Tarauacá, dadas sus importantes emisiones por el uso del suelo. Estos incentivos pueden fomentar prácticas sostenibles de gestión de la tierra, que son vitales para una ciudad con un gran bioma de selva tropical. Al promover el uso responsable de los recursos, esta acción puede ayudar a mitigar los riesgos climáticos y proteger la biodiversidad. Este enfoque se alinea con la necesidad de la ciudad de abordar su alto impacto ambiental derivado del uso del suelo. En última instancia, fomenta un futuro económico y ecológico más sostenible para la región.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la producción agroecológica local y las cadenas de suministro cortas es una prioridad para Tarauacá dadas sus importantes emisiones por el uso de la suelo. Esta acción puede ayudar a reducir estas emisiones al promover prácticas agrícolas sostenibles y minimizar el transporte. Además, puede mejorar la seguridad alimentaria, que es un área de impacto clave para la ciudad, especialmente considerando los riesgos de sequías e inundaciones. Esta iniciativa también apoya el desarrollo económico local y la resiliencia frente a las interrupciones relacionadas con el clima.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el control agroecológico de plagas es una acción relevante para Tarauacá, especialmente dado su bioma de selva tropical. Este enfoque puede mejorar la seguridad alimentaria y la biodiversidad, que son impactos clave identificados en la evaluación de riesgos climáticos de la ciudad. Si bien no aborda directamente los riesgos más altos, como el daño a la infraestructura por olas de calor o inundaciones, contribuye a un sistema agrícola más resiliente. Esta acción se alinea con prácticas sostenibles que pueden apoyar indirectamente el bienestar de la comunidad frente al cambio climático. Por lo tanto, es una iniciativa valiosa para la ciudad, aunque no sea de máxima prioridad.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1302,7 +1302,7 @@
     "actionId": "ipcc_0052",
     "actionName": "Reduce Deforestation and Degradation",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Here's the Spanish translation:\n\nReducir la deforestación y la degradación es una prioridad crítica para Tarauacá dadas sus significativas emisiones por uso del suelo. Las emisiones por uso del suelo de la ciudad son abrumadoramente altas, lo que indica una deforestación extensiva. Esta acción aborda directamente la principal fuente de emisiones en la ciudad. Además, la deforestación exacerba los riesgos climáticos como las sequías y las inundaciones, que ya representan amenazas significativas para la infraestructura y la seguridad alimentaria de la ciudad. La implementación de esta acción no solo mitigará las emisiones, sino que también mejorará la resiliencia de la ciudad a los impactos del cambio climático.",
     "action": {
       "ActionID": "ipcc_0052",
       "ActionName": "Reducir la deforestación y la degradación",
@@ -1373,7 +1373,7 @@
     "actionId": "ipcc_0053",
     "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "La ciudad de Tarauacá tiene emisiones por uso del suelo extremadamente altas, lo que indica una deforestación o degradación del suelo significativas. La forestación, reforestación y restauración de ecosistemas forestales abordan directamente esta importante fuente de emisiones. Esta acción también ofrece co-beneficios como la conservación de la biodiversidad y una mejor regulación del agua, que son cruciales para una ciudad en un bioma de selva tropical. Dadas las altas emisiones totales de la ciudad, principalmente por el uso del suelo, esta acción es un paso crítico hacia la mitigación climática. Priorizar esta acción ayudará a restaurar el equilibrio ecológico y reducir la huella de carbono general de la ciudad.",
     "action": {
       "ActionID": "ipcc_0053",
       "ActionName": "Aforestación, Reforestación y Restauración de Ecosistemas Forestales",

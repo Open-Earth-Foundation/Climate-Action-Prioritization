@@ -7,7 +7,7 @@
         "actionId": "c40_0035",
         "actionName": "Waste Efficiency",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant contribution of waste emissions to the city's total emissions. Addressing waste efficiency can lead to substantial reductions in the overall carbon footprint. Given the city's low-income demographic, efficient waste management can also improve public health and living conditions. Furthermore, effective waste management can mitigate environmental impacts and potentially create economic opportunities through recycling and resource recovery.",
         "action": {
             "ActionID": "c40_0035",
             "ActionName": "Waste Efficiency",
@@ -84,7 +84,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "The implementation of an urban toll can significantly reduce transportation emissions, which are a major contributor to Fortaleza's total emissions. This action directly addresses a substantial source of greenhouse gases, aligning with climate mitigation goals. By discouraging private vehicle use, it can also alleviate traffic congestion and improve air quality, benefiting public health. Furthermore, the revenue generated from tolls can be reinvested into sustainable public transportation infrastructure, fostering a more resilient and environmentally friendly urban environment.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -155,7 +155,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action promotes sustainable transportation, which is crucial for Fortaleza given its significant transportation emissions. Encouraging bike-sharing, especially with electric bikes, can help reduce reliance on fossil fuels and improve air quality. This initiative also aligns with efforts to create more livable and accessible urban environments. Prioritizing this action contributes to a greener city and better public health outcomes.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -227,7 +227,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "The adoption of biomethane in public fleets is a relevant action for Fortaleza, especially considering the city's significant transportation emissions. This initiative directly addresses a major source of greenhouse gases, contributing to overall emissions reduction. While not the highest priority, it offers a tangible step towards sustainable urban mobility. Implementing this action can also set a precedent for broader adoption of cleaner fuels within the city.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -299,7 +299,7 @@
         "actionId": "icare_0122",
         "actionName": "Establish eco-parks.",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Establishing eco-parks in Fortaleza is a priority due to the city's high population density and significant biodiversity risks from both droughts and heatwaves. These parks can serve as crucial green infrastructure, mitigating urban heat island effects and providing essential ecosystem services. They also offer recreational spaces, improving public health and well-being in a city with low-income populations. Furthermore, eco-parks can contribute to water resource management and food security, addressing key impacts identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "icare_0122",
             "ActionName": "Establish eco-parks.",
@@ -371,7 +371,7 @@
         "actionId": "c40_0036",
         "actionName": "Landfill Management",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Landfill Management is a critical action for Fortaleza given that waste emissions are the largest contributor to the city's total emissions. Improving landfill management can significantly reduce these emissions, directly addressing a major source of the city's carbon footprint. This action also has co-benefits for public health and environmental quality, which are important considerations for a densely populated city like Fortaleza. Prioritizing this action will lead to substantial improvements in the city's sustainability profile.",
         "action": {
             "ActionID": "c40_0036",
             "ActionName": "Landfill Management",
@@ -448,7 +448,7 @@
         "actionId": "c40_0040",
         "actionName": "Volume-Based Collection",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Fortaleza faces significant waste emissions, which this action directly addresses. Implementing volume-based collection can incentivize residents to reduce waste generation. This approach promotes sustainable waste management practices and can lead to a decrease in overall emissions. Prioritizing this action contributes to a cleaner and more environmentally responsible city.",
         "action": {
             "ActionID": "c40_0040",
             "ActionName": "Volume-Based Collection",
@@ -524,7 +524,7 @@
         "actionId": "icare_0053",
         "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "This action supports cooperatives of recyclable material collectors, which can significantly reduce waste emissions. Fortaleza has very high waste emissions, making this a critical area for intervention. By formalizing and supporting these cooperatives, the city can improve its waste management infrastructure and promote a circular economy. This initiative also has the potential to create jobs and improve livelihoods for vulnerable populations.",
         "action": {
             "ActionID": "icare_0053",
             "ActionName": "Implement a project to support cooperatives of recyclabe material collectors",
@@ -596,7 +596,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Fortaleza has significant transportation emissions, indicating a strong need for sustainable alternatives. Expanding mass transit systems on rails directly addresses this by offering an efficient, low-carbon mode of transport. This action can reduce reliance on private vehicles, thereby lowering both emissions and traffic congestion. Furthermore, improved public transport accessibility benefits the large population, especially those in low-income areas, by enhancing connectivity and economic opportunities.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -668,7 +668,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies at the municipal level is a crucial step for Fortaleza. This action directly addresses the city's high energy security risks, particularly those exacerbated by droughts and heatwaves. By promoting renewables, Fortaleza can reduce its reliance on traditional energy sources, which often contribute to significant emissions. This initiative also aligns with broader climate resilience goals, fostering a more sustainable and secure energy future for the city.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -740,7 +740,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses food security, a key impact area for Fortaleza, especially given the high risk of droughts. By prioritizing local agroecological products, the city can enhance resilience in its food supply chain. This also supports local economies and sustainable agricultural practices, which are crucial for a city with low-income populations and a desert biome. Furthermore, it can contribute to reducing the city's overall carbon footprint by minimizing transportation emissions associated with food distribution.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -812,7 +812,7 @@
         "actionId": "ipcc_0080",
         "actionName": "Avoiding, Minimising, and Recycling Waste",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Fortaleza faces significant waste emissions, making this action highly relevant. Reducing, reusing, and recycling waste directly addresses a major source of the city's total emissions. This initiative can also improve public health and environmental quality by reducing landfill burden and pollution. Implementing this action is crucial for sustainable urban development and climate change mitigation efforts.",
         "action": {
             "ActionID": "ipcc_0080",
             "ActionName": "Avoiding, Minimising, and Recycling Waste",
@@ -886,7 +886,7 @@
         "actionId": "icare_0117",
         "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Increasing the attractiveness of the municipal bus system is a priority for Fortaleza. This action directly addresses transportation emissions, which are a significant contributor to the city's total emissions. Promoting public transport can reduce reliance on private vehicles, leading to improved air quality and reduced traffic congestion. This initiative also supports sustainable urban development and can enhance the quality of life for residents.",
         "action": {
             "ActionID": "icare_0117",
             "ActionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
@@ -958,7 +958,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Addressing vehicle emissions is crucial for Fortaleza, given its significant transportation emissions. Reducing these emissions will improve air quality, benefiting public health in a densely populated city. This action also contributes to overall climate resilience by lowering the city's carbon footprint. Prioritizing this action aligns with efforts to mitigate climate change impacts and enhance urban sustainability.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -1037,7 +1037,7 @@
         "actionId": "icare_0091",
         "actionName": "Implementation of prioritized routes for sustainable vehicles.",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Fortaleza faces significant transportation emissions, making sustainable vehicle routes a relevant action. While not directly addressing the city's most pressing climate risks like droughts or heatwaves, this action contributes to overall emissions reduction. Prioritizing routes for sustainable vehicles can encourage their adoption and improve air quality. This initiative supports a broader strategy for urban sustainability and climate change mitigation.",
         "action": {
             "ActionID": "icare_0091",
             "ActionName": "Implementation of prioritized routes for sustainable vehicles.",
@@ -1109,7 +1109,7 @@
         "actionId": "icare_0109",
         "actionName": "Promote Energy Recovery from Biogas in Landfills",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Promoting energy recovery from biogas in landfills is a crucial action for Fortaleza. The city has significant waste emissions, indicating a large volume of organic waste that can produce methane. Capturing and utilizing this biogas directly addresses a major source of greenhouse gas emissions. Furthermore, it provides a renewable energy source, contributing to energy security and potentially reducing reliance on fossil fuels. This action offers a dual benefit of environmental protection and resource generation.",
         "action": {
             "ActionID": "icare_0109",
             "ActionName": "Promote Energy Recovery from Biogas in Landfills",
@@ -1181,7 +1181,7 @@
         "actionId": "icare_0059",
         "actionName": "Modernization of ports and airports with zero-emission technologies",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Modernizing ports and airports with zero-emission technologies is a crucial step for Fortaleza, given its significant transportation emissions. This action directly addresses a major contributor to the city's carbon footprint. By investing in cleaner technologies, Fortaleza can reduce air pollution and improve public health. Furthermore, it positions the city as a leader in sustainable infrastructure, potentially attracting green investments and fostering economic growth. This initiative aligns with global efforts to decarbonize the transportation sector, making it a high-priority action for climate resilience.",
         "action": {
             "ActionID": "icare_0059",
             "ActionName": "Modernization of ports and airports with zero-emission technologies",
@@ -1253,7 +1253,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Fortaleza faces significant risks from droughts, impacting water resources and food security. Promoting agroecological pest control can enhance agricultural resilience to these climate challenges. This action supports sustainable food production, which is crucial for a city with low-income populations. It also aligns with addressing food security impacts identified in the city's climate risk assessment. Therefore, this action is a priority for building a more resilient and sustainable food system in Fortaleza.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1325,7 +1325,7 @@
         "actionId": "c40_0025",
         "actionName": "Truck Emissions",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Addressing truck emissions is a crucial step towards improving air quality and public health in Fortaleza. Given the city's significant transportation emissions, reducing emissions from trucks can have a substantial positive impact. This action aligns with broader efforts to mitigate climate change and create a healthier urban environment. Prioritizing this action contributes to a more sustainable and livable city for its residents.",
         "action": {
             "ActionID": "c40_0025",
             "ActionName": "Truck Emissions",
@@ -1402,7 +1402,7 @@
         "actionId": "icare_0024",
         "actionName": "Integrate renewables into municipal water systems",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Integrating renewables into municipal water systems is a high-priority action for Fortaleza. The city faces significant risks from droughts, which severely impact water resources. Utilizing renewable energy for water systems can enhance resilience and ensure a more stable water supply, especially given the very low access to adequate water. This action directly addresses critical vulnerabilities identified in the city's climate risk assessment, making it a crucial step towards climate adaptation and improved public services.",
         "action": {
             "ActionID": "icare_0024",
             "ActionName": "Integrate renewables into municipal water systems",

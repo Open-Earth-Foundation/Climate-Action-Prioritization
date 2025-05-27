@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Camet\u00e1 given its high vulnerability to various extreme weather events. The city faces significant risks from droughts, heatwaves, floods, and landslides, all of which have high normalized risk scores for key impacts like public health, infrastructure, and food security. A robust emergency plan can mitigate the severe consequences of these hazards, protecting lives and critical services. This proactive measure is essential for a city with high low-income populations and existing inadequate access to public services, as these factors can exacerbate the impacts of disasters.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is a high priority for Camet\u00e1. The city faces significant challenges with high low-income populations and very high inadequate water access, alongside high inadequate sanitation. Addressing ZEIS areas directly targets these vulnerabilities, improving living conditions and public health for the most affected communities. This action is crucial for equitable urban development and resilience in a city with substantial socio-economic disparities.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -158,7 +158,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Strengthening programs for control and conservation of protected areas is crucial for Camet\u00e1, given its tropical rainforest biome and significant land use emissions. Protecting these areas helps maintain biodiversity, which is currently at risk from both droughts and heatwaves. Furthermore, healthy ecosystems can provide natural defenses against climate impacts like floods, which pose a high risk to food security and infrastructure in the city. This action supports the long-term resilience of the city's natural environment and its inhabitants.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -231,7 +231,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Improving food storage and distribution is a critical action for Camet\u00e1, especially given the high risk to food security from both droughts and floods. The city's low-income population is particularly vulnerable to disruptions in food supply. Enhancing these systems can build resilience against climate impacts, ensuring more stable access to food for residents. This action directly addresses a key vulnerability identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -307,7 +307,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Farm/fishery improvements are a priority for Camet\u00e1 due to the high risks associated with food security from both droughts and floods. The city faces significant challenges in ensuring a stable food supply, making interventions in this sector crucial. Improving agricultural and fishery practices can enhance resilience to these climate hazards. This action directly addresses a critical vulnerability identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -384,7 +384,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Access to health care is a critical priority for Camet\u00e1, especially given the high normalized risk score for public health impacts from heatwaves, diseases, and floods. Improving healthcare access can directly mitigate these risks by ensuring timely medical attention and preventative measures. The city's high low-income population further underscores the need for accessible and affordable healthcare services. This action is essential for protecting the well-being and resilience of the community against current and future climate hazards.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -459,7 +459,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is a critical need given the city's high risk from public health impacts due to heatwaves, diseases, and floods. Improving health infrastructure can significantly enhance the city's capacity to respond to these climate-related health crises. Given the high vulnerability of the population, particularly with high low-income rates, robust health services are essential. This action directly supports the well-being and resilience of the community against current and future climate challenges.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -533,7 +533,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Maintaining and revitalizing riparian forests is crucial for Camet\u00e1 due to its tropical rainforest biome and significant land use emissions. These forests play a vital role in regulating water resources, which is a key impact area for droughts in the city. Furthermore, healthy riparian zones can help mitigate the impacts of floods, a major hazard affecting food security and infrastructure. This action supports ecosystem health and resilience against climate change impacts.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -606,7 +606,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "The creation of a financial support program for extreme weather events is a high-priority action for Camet\u00e1. The city faces significant risks from various hazards, including droughts, heatwaves, floods, and landslides, which severely impact public health, infrastructure, and food security. Given the high vulnerability of the population due to low income and inadequate access to public services, such a program would provide crucial support. It would help residents recover from the devastating effects of these events, thereby enhancing the city's overall resilience. This initiative directly addresses the urgent need for adaptation and disaster preparedness in a highly susceptible community.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -683,7 +683,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Strengthening the healthcare network is a critical priority for Camet\u00e1, given the city's high vulnerability to climate-related health impacts. The city faces significant risks from heatwaves and diseases, both of which have a direct and severe impact on public health. With a very high level of inadequate water access and high inadequate sanitation, the population is already predisposed to health crises. Improving healthcare infrastructure and services will directly address these vulnerabilities, ensuring the community can better cope with and recover from climate-induced health challenges.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -759,7 +759,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Camet\u00e1 has very high land use emissions, indicating a significant impact from current land management practices. Encouraging sustainable land use directly addresses this major source of emissions. Given the city's tropical rainforest biome, protecting and restoring these ecosystems is crucial for both climate mitigation and biodiversity. This action can also contribute to food security and water resource management, which are key impact areas for the city.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -833,7 +833,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Camet\u00e1 faces significant risks from floods, impacting both infrastructure and food security. A hydrological monitoring system with telemetry stations is crucial for providing early warnings and real-time data. This allows for better preparedness and response to flood events, protecting lives and livelihoods. Given the high flood risk and the city's low-income population, this action is a priority for building resilience and reducing vulnerability.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -905,7 +905,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a valuable action for Camet\u00e1. This initiative can enhance local food security, which is a significant concern given the high normalized risk score for food security due to floods. Additionally, urban gardens can contribute to biodiversity, an area where the city faces risks from both droughts and heatwaves. This action also aligns with efforts to improve public health, as access to fresh produce can positively impact community well-being. Finally, urban gardens can help mitigate the urban heat island effect, which is relevant given the high risk of heatwaves in the city.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -977,7 +977,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action addresses behaviour change in diets and food waste, which can contribute to reducing emissions and improving food security. While important, other actions might have a more direct and immediate impact on the city's most pressing climate risks, such as those related to public health, infrastructure, and energy security, which show very high normalised risk scores. The city also faces significant challenges with inadequate water access and sanitation, suggesting that foundational public services may need more urgent attention. Therefore, while beneficial, this action is not the highest priority given the city's specific vulnerabilities and existing challenges.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1053,7 +1053,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Social safety nets are crucial for Camet\u00e1, given its high low-income population and significant climate risks. The city faces very high inadequate water access and high inadequate sanitation, exacerbating vulnerabilities. Furthermore, Camet\u00e1 is highly susceptible to public health impacts from heatwaves, diseases, and floods, as well as food security issues from droughts and floods. Implementing social safety nets can provide essential support to vulnerable populations, helping them cope with the immediate and long-term effects of climate change and improve overall resilience.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1127,7 +1127,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high vulnerability to climate hazards, particularly floods and landslides, which significantly impact infrastructure and public health. Given the high percentage of low-income households and inadequate access to basic services, relocation and environmental restoration are crucial for protecting vulnerable populations. This initiative directly addresses the risks posed by these hazards, enhancing community resilience and safety. It also aligns with the need to improve living conditions and reduce the burden on public health systems in areas prone to environmental degradation.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -1198,7 +1198,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a crucial action for Camet\u00e1. This initiative directly addresses the city's high risk of floods, as indicated by the significant normalized risk scores for infrastructure and food security due to floods. By improving stormwater management, it can mitigate the impact of heavy rainfall, which is particularly important given the tropical rainforest biome. Furthermore, increasing green areas can help reduce the impact of heatwaves, a hazard with very high normalized risk scores for public health and energy security. This action also contributes to biodiversity, which is at risk from both droughts and heatwaves.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial strategy for Camet\u00e1 given its tropical rainforest biome and high land use emissions. This approach leverages natural systems to build resilience against climate impacts, which is particularly relevant for a city facing multiple hazards like droughts, heatwaves, and floods. By protecting and restoring ecosystems, the city can enhance its natural defenses and support biodiversity. This action also aligns with addressing the significant land use emissions, promoting sustainable practices that benefit both the environment and the community.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1357,7 +1357,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Camet\u00e1 faces significant challenges with inadequate water access, which this action directly addresses. Given the high risk of droughts impacting water resources and food security, water capture and storage are crucial for resilience. This action also supports public health by improving water availability, especially important in a city with high low-income populations. Implementing water capture and storage can mitigate the impacts of climate hazards and enhance the city's overall adaptive capacity.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "The Preservation and Recovery of Water Bodies action is a high priority for Camet\u00e1. The city faces very high inadequate water access and high inadequate sanitation, indicating significant water-related challenges. Furthermore, the city experiences high risks from droughts and floods, which directly impact water resources and food security. Protecting and restoring water bodies is crucial for improving public health, ensuring water availability, and mitigating the impacts of climate hazards.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",

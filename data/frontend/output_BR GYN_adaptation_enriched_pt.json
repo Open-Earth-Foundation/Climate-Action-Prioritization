@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Estabelecer um plano de preparação e medidas de resposta a emergências é crucial para Goiânia, dados os seus altos riscos de vários eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor, deslizamentos de terra e inundações, todos os quais possuem altos escores de risco normalizado para impactos chave como saúde pública, infraestrutura e segurança alimentar. Um plano abrangente de resposta a emergências pode mitigar as severas consequências desses perigos, protegendo sua população e infraestrutura crítica. Esta ação aborda diretamente múltiplos riscos climáticos de alta prioridade identificados na Avaliação de Risco Climático da cidade (CCRA), tornando-a um passo vital para a resiliência urbana.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é uma prioridade porque Goiânia está localizada em um bioma de campo/savana, que frequentemente contém áreas protegidas vitais para a biodiversidade. O fortalecimento dos programas de conservação aborda diretamente o risco de biodiversidade da cidade tanto de secas quanto de ondas de calor, que são perigos significativos. A proteção dessas áreas também pode apoiar indiretamente os recursos hídricos e a segurança alimentar, pois ecossistemas saudáveis contribuem para esses impactos críticos. Dada a vulnerabilidade da cidade aos impactos climáticos, a salvaguarda dos ambientes naturais é uma estratégia crucial de adaptação e mitigação.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -157,7 +157,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Goiânia, especialmente dado o alto risco de impactos na saúde pública decorrentes de ondas de calor, doenças, inundações e deslizamentos de terra. Melhorar o acesso à saúde pode mitigar as graves consequências desses perigos para a população. Esta ação aborda diretamente a vulnerabilidade da cidade a crises de saúde relacionadas ao clima. Priorizar esta ação aumentará a resiliência da cidade e protegerá seus cidadãos.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -232,7 +232,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "O desenvolvimento de diagnósticos e a restauração de Zonas Especiais de Interesse Social (ZEIS) são uma prioridade para Goiânia devido aos fatores socioeconômicos de renda muito baixa da cidade. Abordar essas zonas pode melhorar diretamente as condições de vida e o acesso a serviços para populações vulneráveis. Embora a cidade enfrente altos riscos de secas, ondas de calor e inundações, a melhoria da equidade social por meio da restauração de ZEIS pode construir a resiliência da comunidade. Essa ação apoia uma melhoria fundamental no planejamento urbano e na infraestrutura social. É crucial para promover o desenvolvimento inclusivo e mitigar os impactos desproporcionais dos riscos climáticos nas comunidades marginalizadas.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -306,7 +306,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorar o armazenamento e a distribuição de alimentos é uma alta prioridade para Goiânia devido à significativa vulnerabilidade da cidade a secas, que representam um risco muito alto para a segurança alimentar. Com uma pontuação de risco normalizada de 0,99 para impactos na segurança alimentar decorrentes de secas, garantir sistemas alimentares robustos é fundamental. Esta ação aborda diretamente um impacto climático chave identificado na avaliação de risco da cidade. Aprimorar esses sistemas pode ajudar a mitigar os efeitos das interrupções relacionadas ao clima na disponibilidade e acesso a alimentos para a população.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -382,7 +382,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a segurança alimentar, que é uma área de impacto chave para Goiânia, particularmente devido aos altos riscos de secas e inundações. A melhoria das fazendas e pescarias pode aumentar a produção local de alimentos e a resiliência contra esses perigos. Dado o bioma de campo/savana da cidade, práticas agrícolas sustentáveis são cruciais. Esta ação apoia diretamente a capacidade da comunidade de resistir a interrupções no abastecimento de alimentos relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -459,7 +459,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é importante para Goiânia, especialmente dado o seu bioma de campos/savana e as significativas emissões provenientes do uso da terra. Esta ação pode ajudar a mitigar o impacto de perigos como secas e inundações, que representam altos riscos para os recursos hídricos, a segurança alimentar e a infraestrutura. Ao promover o manejo responsável da terra, a cidade pode aumentar sua resiliência aos impactos das mudanças climáticas. Essa abordagem também apoia a biodiversidade, que é uma área de impacto chave tanto para secas quanto para ondas de calor.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -533,7 +533,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A manutenção e revitalização das florestas ripárias são cruciais para Goiânia, dados os seus riscos significativos de secas e inundações. Zonas ripárias saudáveis podem ajudar a regular o fluxo da água, mitigando os impactos tanto da escassez hídrica quanto do excesso de chuvas. Esta ação apoia diretamente a gestão dos recursos hídricos e pode também contribuir para a segurança alimentar, que é altamente impactada pelas secas na cidade. Além disso, estas florestas desempenham um papel vital na biodiversidade e podem apoiar indiretamente a saúde pública, melhorando a qualidade ambiental. Priorizar esta ação aborda múltiplas áreas de alto risco identificadas na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -606,7 +606,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é de alta prioridade devido aos riscos significativos da cidade relacionados à saúde pública. Goiânia enfrenta altos riscos de ondas de calor, inundações e doenças, todos os quais podem impactar severamente a saúde pública. Melhorar a infraestrutura de saúde é crucial para gerenciar esses desafios de saúde existentes e projetados. Um sistema de saúde robusto pode responder melhor a emergências e fornecer os cuidados necessários, protegendo assim a população.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -680,7 +680,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Goiânia enfrenta riscos significativos de eventos climáticos extremos, incluindo secas, ondas de calor e inundações, todos com altas pontuações de risco normalizado para vários impactos-chave. Um programa de apoio financeiro forneceria assistência crucial à população e à infraestrutura afetadas por esses perigos. Essa ação é uma prioridade porque aborda diretamente as consequências imediatas e severas das mudanças climáticas, oferecendo uma rede de segurança para comunidades vulneráveis. Tal programa pode ajudar a mitigar perdas econômicas e apoiar esforços de recuperação, aumentando a resiliência da cidade contra futuros choques climáticos.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -757,7 +757,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é de alta prioridade devido aos significativos riscos à saúde pública identificados em Goiânia. A cidade enfrenta altos riscos de ondas de calor, inundações e doenças, todos os quais podem impactar severamente a saúde pública. Fortalecer a rede de saúde é crucial para responder eficazmente a essas emergências de saúde relacionadas ao clima. Esta medida proativa aumentará a resiliência da cidade e protegerá sua população dos efeitos adversos das mudanças climáticas na saúde.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -833,7 +833,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Goiânia enfrenta um risco muito elevado de secas, impactando os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico é crucial para compreender a disponibilidade de água e prever as condições de seca. Essa abordagem proativa pode ajudar a cidade a gerenciar seus recursos hídricos de forma mais eficaz e a mitigar os impactos severos das secas em sua população e economia. A implementação de tal sistema é uma alta prioridade dada a vulnerabilidade da cidade a riscos relacionados à água.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -905,7 +905,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "As redes de segurança social são cruciais para Goiânia, dado o fator de renda baixa 'muito_baixo' da cidade, indicando uma população vulnerável. Esta ação aborda diretamente os desafios socioeconômicos enfrentados por uma parcela significativa dos moradores da cidade. Ao fornecer uma rede de segurança, a cidade pode mitigar os impactos de vários perigos, como secas e ondas de calor, que apresentam altos riscos para a saúde pública e a segurança alimentar. Apoiar as populações mais vulneráveis é um passo fundamental para a construção da resiliência urbana geral. Esta ação ajuda a garantir que todos os cidadãos tenham apoio básico, o que é essencial para uma sociedade estável e equitativa.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -979,7 +979,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos riscos significativos da cidade decorrentes de múltiplos perigos, incluindo inundações, deslizamentos de terra e ondas de calor, todos os quais possuem altos escores de risco normalizados para infraestrutura e saúde pública. A realocação e a restauração ambiental abordam diretamente a vulnerabilidade das populações e da infraestrutura em áreas de alto risco. Ao restaurar o meio ambiente, a cidade também pode mitigar impactos futuros e aprimorar as defesas naturais contra esses perigos. Esta medida proativa é crucial para proteger vidas e bens em Goiânia.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A implementação de hortas urbanas em Goiânia é uma prioridade devido ao alto risco de seca na cidade, que impacta severamente a segurança alimentar. As hortas urbanas podem melhorar a produção local de alimentos, reduzindo a dependência de fontes externas e aumentando a resiliência a choques climáticos. Esta iniciativa também oferece benefícios colaterais, como a melhoria da saúde pública através do acesso a produtos frescos e o potencial para o envolvimento da comunidade. Além disso, alinha-se com os esforços para diversificar os sistemas alimentares numa região que enfrenta desafios significativos relacionados com o clima.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1122,7 +1122,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é prioritária porque Goiânia enfrenta riscos significativos de inundações, com a infraestrutura e a saúde pública sendo altamente impactadas. A implementação de pavimentos permeáveis e o aumento de áreas verdes abordam diretamente esses riscos de inundação, melhorando a absorção de água e reduzindo o escoamento superficial. Esta medida também contribui para mitigar os impactos das ondas de calor, que são outra grande preocupação para a saúde pública e a infraestrutura da cidade. Além disso, alinha-se com o bioma da cidade, que é de cerrado/savana, tornando a infraestrutura verde um encaixe natural para o ambiente.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1194,7 +1194,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação aborda a segurança alimentar, que é uma área de impacto chave para Goiânia, particularmente devido a secas e inundações de alto risco. Reduzir o desperdício de alimentos e promover dietas sustentáveis pode mitigar diretamente esses riscos. Dado o bioma de campo/savana da cidade, que é sensível às mudanças climáticas, esta ação apoia uma resiliência ambiental mais ampla. Além disso, pode contribuir para a redução das emissões de resíduos, que são um componente significativo das emissões totais da cidade. Portanto, esta ação é uma prioridade tanto para a adaptação quanto para a mitigação climática em Goiânia.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma prioridade para Goiânia devido à significativa vulnerabilidade da cidade a secas e inundações, que impactam severamente os recursos hídricos, a segurança alimentar e a saúde pública. Dado o bioma de campo/savana, essas abordagens podem alavancar os sistemas naturais para mitigar riscos. A implementação de tais estratégias pode aumentar a resiliência da cidade contra esses perigos de alto risco. Esta ação se alinha com o enfrentamento de múltiplos impactos-chave identificados na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1357,7 +1357,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Esta ação é de alta prioridade para Goiânia devido à significativa vulnerabilidade da cidade a secas, que representam um risco muito elevado para os recursos hídricos e a segurança alimentar. A implementação de soluções de captação e armazenamento de água aborda diretamente esses impactos críticos. Dado o bioma de cerrado/savana da cidade, a gestão eficiente da água é crucial para a resiliência. Esta medida ajudará a garantir o abastecimento de água para a população e as necessidades agrícolas, mitigando as graves consequências de períodos prolongados de estiagem.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Preservação e Recuperação de Corpos Hídricos é uma ação crítica para Goiânia, dado o alto risco da cidade aos recursos hídricos devido às secas. A cidade enfrenta uma ameaça significativa ao seu abastecimento de água, conforme indicado pela pontuação de risco normalizado muito alta para secas que impactam os recursos hídricos. Proteger e restaurar corpos hídricos pode aumentar a disponibilidade de água e a resiliência contra futuros eventos de seca. Esta ação aborda diretamente um perigo climático primário e seu principal impacto na cidade, tornando-a uma alta prioridade para a adaptação climática e o bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservação e Recuperação de Corpos Hídricos",

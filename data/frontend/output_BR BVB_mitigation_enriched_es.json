@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una alta prioridad para Boa Vista, dado su bioma de selva tropical y sus importantes emisiones por el uso de la tierra. Esta acción puede ayudar a mitigar el cambio climático mediante la captura de carbono y la reducción de la deforestación. También ofrece beneficios para la seguridad alimentaria, que es un área de impacto clave para las sequías e inundaciones en la ciudad. Además, la agrosilvicultura puede mejorar la biodiversidad y la gestión de los recursos hídricos, abordando múltiples riesgos climáticos identificados para Boa Vista.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -79,7 +79,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "La promoción de la reforestación urbana y los corredores verdes es una acción de alta prioridad para Boa Vista. La ciudad se enfrenta a riesgos significativos derivados de las olas de calor, que pueden mitigarse aumentando los espacios verdes. Estas iniciativas también contribuyen a la biodiversidad, que se ve afectada tanto por las sequías como por las olas de calor. Además, la infraestructura verde puede ayudar a gestionar los recursos hídricos, apoyando indirectamente la resiliencia frente a sequías e inundaciones. Esta acción se alinea con la necesidad de la ciudad de mejorar la calidad ambiental y la resiliencia climática.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -151,7 +151,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Boa Vista se encuentra en un bioma de selva tropical, lo que la hace particularmente vulnerable a los impactos de la deforestación. Las emisiones por el uso del suelo de la ciudad son muy altas, lo que indica contribuciones significativas de actividades que pueden incluir la deforestación. Fortalecer los mecanismos de control de la deforestación es crucial para mitigar estas emisiones y proteger los servicios ecosistémicos vitales que proporciona la selva tropical. Esta acción aborda directamente un importante desafío ambiental y contribuye a la sostenibilidad y resiliencia general de la ciudad.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -223,7 +223,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Establecer Programas Municipales de Pago por Servicios Ambientales (PSA) es una acción crucial para Boa Vista. Dadas las importantes emisiones por el uso del suelo de la ciudad y su ubicación dentro de un bioma de selva tropical, proteger y restaurar los ecosistemas naturales es primordial. Los programas de PSA pueden incentivar prácticas sostenibles de gestión de la tierra, lo que contribuye directamente a mitigar el cambio climático y preservar la biodiversidad. Esta acción apoya la salud y la resiliencia ambiental a largo plazo de la ciudad, especialmente considerando los altos riesgos asociados con las sequías y su impacto en los recursos hídricos y la seguridad alimentaria.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Boa Vista está ubicada en un bioma de selva tropical, lo que hace que las prácticas de conservación sean cruciales para mantener el equilibrio ecológico. Facilitar la transferencia de tecnología puede introducir métodos avanzados para la gestión sostenible de la tierra y la protección de los recursos. Dadas las importantes emisiones por el uso del suelo de la ciudad, la adopción de nuevas tecnologías de conservación podría ayudar a mitigar el impacto ambiental. Esta iniciativa apoya la resiliencia a largo plazo al preservar los recursos naturales y la biodiversidad, que son vitales para el bienestar de la ciudad.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -367,7 +367,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Aquí tienes la traducción al español:\n\nBoa Vista se enfrenta a importantes desafíos relacionados con las sequías, que afectan a los recursos hídricos, la seguridad alimentaria y la seguridad energética. La realización de Acciones de Asistencia Técnica y Extensión Rural (ATER) puede ayudar a las comunidades locales a adaptarse a estas condiciones. Esta acción puede mejorar las prácticas agrícolas y la gestión de recursos, abordando directamente la alta vulnerabilidad de la ciudad a los impactos relacionados con la sequía. Al empoderar a las comunidades rurales con conocimientos y herramientas, puede mejorar la resiliencia y la seguridad alimentaria frente al cambio climático.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -439,7 +439,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nBoa Vista tiene importantes emisiones relacionadas con el transporte, lo que convierte la adopción de biometano en las flotas públicas en una acción relevante. Esta iniciativa aborda directamente una de las principales fuentes de gases de efecto invernadero dentro de la ciudad. Reducir estas emisiones es crucial para la resiliencia climática general de la ciudad y su salud ambiental. Además, la transición a combustibles más limpios puede mejorar la calidad del aire, beneficiando la salud pública a largo plazo.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -511,7 +511,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque puede mejorar la seguridad alimentaria, que es un área de impacto clave para Boa Vista, especialmente dado el alto riesgo de sequías e inundaciones. Al priorizar los productos agroecológicos locales, la ciudad puede fortalecer sus sistemas alimentarios locales y reducir la dependencia de las cadenas de suministro externas. Esto también apoya las economías locales y promueve prácticas agrícolas sostenibles, contribuyendo a la resiliencia general frente a los peligros climáticos. Además, puede mejorar indirectamente la salud pública al proporcionar acceso a opciones de alimentos más saludables.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -583,7 +583,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de un peaje urbano podría ayudar a gestionar la congestión del tráfico y a reducir las emisiones del transporte, que son significativas en Boa Vista. Esta acción se alinea con los esfuerzos para mejorar la calidad del aire y, potencialmente, generar ingresos para el desarrollo urbano sostenible. Aunque beneficiosa, su prioridad podría ser menor en comparación con acciones que abordan directamente los altos riesgos de la ciudad por sequías y olas de calor, que impactan severamente la seguridad hídrica, alimentaria y energética. La población de bajos ingresos de la ciudad también sugiere que dicho peaje necesitaría una cuidadosa consideración para evitar impactos desproporcionados. Por lo tanto, si bien es una buena medida para la sostenibilidad a largo plazo, podría no ser la intervención más urgente.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -654,7 +654,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar la implementación de incentivos fiscales ecológicos es una acción de alta prioridad para Boa Vista. Esta iniciativa puede fomentar prácticas sostenibles y la protección del medio ambiente dentro de la ciudad. Dado el bioma de selva tropical de la ciudad y las significativas emisiones por el uso del suelo, tales incentivos podrían ayudar a mitigar la degradación ambiental. Al promover la responsabilidad ecológica, esta acción puede contribuir a la resiliencia y sostenibilidad a largo plazo de Boa Vista.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -726,7 +726,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "La promoción de prácticas agrícolas sostenibles es una acción crucial para Boa Vista, dadas las importantes emisiones por el uso del suelo de la ciudad. Estas emisiones contribuyen en gran medida a la huella de carbono general de la ciudad. La implementación de prácticas sostenibles puede ayudar a mitigar estas emisiones y mejorar la seguridad alimentaria, que es un área de impacto clave para las sequías e inundaciones. Esta acción también se alinea con laAddressing la vulnerabilidad de la ciudad a las sequías, un peligro de alto riesgo que afecta los recursos hídricos y la seguridad alimentaria. Por lo tanto, esta acción es una prioridad para mejorar la resiliencia y la sostenibilidad ambiental de la ciudad.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -798,7 +798,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque Boa Vista se encuentra en un bioma de selva tropical, lo que hace que las prácticas agroforestales sean muy relevantes para el uso sostenible de la tierra. Dadas las significativas emisiones por el uso de la tierra en la ciudad, la promoción de la agrosilvicultura puede ayudar a mitigar estas emisiones. Además, tales prácticas pueden mejorar la seguridad alimentaria y la biodiversidad, que son impactos clave identificados en la evaluación de riesgos climáticos de la ciudad. Incentivar estos sistemas puede conducir a prácticas agrícolas más resilientes y respetuosas con el medio ambiente.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -870,7 +870,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar las prácticas agrícolas regenerativas es una prioridad para Boa Vista, especialmente dadas las importantes emisiones por el uso del suelo de la ciudad. Esta acción puede ayudar a mitigar el cambio climático al secuestrar carbono en el suelo y reducir las emisiones de gases de efecto invernadero de las actividades agrícolas. Además, puede mejorar la seguridad alimentaria y la salud del suelo, que son cruciales para una región que enfrenta altos riesgos de sequías. Este enfoque también se alinea con el bioma de selva tropical de la ciudad, promoviendo la gestión sostenible de la tierra.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -942,7 +942,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el control agroecológico de plagas es una acción valiosa para Boa Vista, especialmente dado el bioma de selva tropical de la ciudad. Este enfoque puede mejorar la seguridad alimentaria, que es un área de impacto clave para las sequías e inundaciones en la ciudad. También se alinea con las prácticas de uso sostenible de la tierra, lo que podría reducir las emisiones derivadas del uso de la tierra. Además, puede contribuir a la preservación de la biodiversidad, un área afectada tanto por las sequías como por las olas de calor. Esta acción apoya un sistema agrícola más resiliente y respetuoso con el medio ambiente.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nPromover programas de bicicletas compartidas, especialmente con bicicletas eléctricas, puede reducir significativamente las emisiones del transporte en Boa Vista. Dado que las emisiones del transporte contribuyen sustancialmente al total de emisiones de la ciudad, esta acción aborda directamente un área clave de mejora. También fomenta la movilidad urbana sostenible, lo que puede aliviar la congestión del tráfico y mejorar la calidad del aire. Esta iniciativa se alinea con los esfuerzos para crear un entorno urbano más verde y habitable. Por lo tanto, es una prioridad para fomentar el desarrollo sostenible y mitigar el impacto climático.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Boa Vista, especialmente dado su bioma de selva tropical y sus importantes emisiones por el uso de la tierra. Esta acción puede ayudar a promover prácticas agrícolas sostenibles, que son cruciales para mitigar el cambio climático y proteger la biodiversidad. Al fomentar la agroecología, la ciudad puede reducir su huella ambiental y mejorar la seguridad alimentaria. Esta iniciativa también se alinea con laBúsqueda de soluciones para los altos riesgos asociados con las sequías y su impacto en la seguridad alimentaria en la región.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "La expansión de los sistemas de transporte público masivo sobre rieles es una prioridad para Boa Vista debido a las importantes emisiones de transporte de la ciudad. Dado que el transporte representa una gran parte del total de las emisiones, esta acción aborda directamente una fuente importante de gases de efecto invernadero. La mejora de la infraestructura del transporte público puede reducir la dependencia de los vehículos privados, lo que lleva a un aire más limpio y a una menor congestión del tráfico. Esta iniciativa también apoya el desarrollo urbano sostenible y puede mejorar la calidad de vida de los residentes.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la agricultura orgánica es una acción relevante para Boa Vista, especialmente considerando las importantes emisiones por el uso del suelo de la ciudad. Esta iniciativa puede contribuir a reducir la huella de carbono asociada con las prácticas agrícolas. Además, se alinea con la mejora de la seguridad alimentaria, que es un área de impacto clave para la ciudad, particularmente dado el alto riesgo de sequías. Si bien no aborda directamente los riesgos más altos como las olas de calor o la infraestructura, ofrece un enfoque sostenible para la gestión de la tierra y la producción de alimentos. Esta acción apoya la salud ambiental a largo plazo y la resiliencia dentro del bioma de la selva tropical.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -1302,7 +1302,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Fomentar la producción agroecológica local y las cadenas de suministro cortas es una prioridad para Boa Vista, especialmente dado el alto riesgo de sequías que afectan la seguridad alimentaria de la ciudad. Esta acción puede mejorar la resiliencia alimentaria local y reducir la dependencia de las cadenas de suministro externas, que son vulnerables a los choques climáticos. Además, puede contribuir a prácticas sostenibles de uso de la tierra, mitigando potencialmente algunas de las importantes emisiones por uso de la tierra identificadas en los datos de la ciudad. Este enfoque también se alinea con el bioma de selva tropical de la ciudad, promoviendo prácticas que son ambientalmente racionales y adaptadas al ecosistema local. En general, fortalece la economía local y el bienestar de la comunidad al fomentar sistemas alimentarios sostenibles.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1374,7 +1374,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Spanish:\nBoa Vista tiene emisiones de transporte muy altas, lo que convierte las emisiones vehiculares en un contribuyente significativo a la huella de carbono general de la ciudad. Abordar estas emisiones es crucial para mitigar el cambio climático y mejorar la calidad del aire local. Dado el bioma de selva tropical de la ciudad, reducir las emisiones ayuda a proteger los ecosistemas sensibles. Priorizar esta acción se alinea con la necesidad de reducir las principales fuentes de gases de efecto invernadero en el entorno urbano.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",

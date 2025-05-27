@@ -7,7 +7,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Strengthening programs for control and conservation of protected areas is a high priority for Porto Alegre. The city's biome is grassland/savanna, which is often vulnerable to environmental degradation. Protecting these areas can help mitigate the impacts of hazards like droughts and heatwaves, which are significant risks for the city. This action also supports biodiversity, which is a key impact area for both drought and heatwave hazards. Overall, it contributes to the city's resilience against climate change impacts.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -80,7 +80,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from extreme weather events, particularly floods, landslides, and heatwaves, all of which have very high normalized risk scores for infrastructure and public health. Establishing a comprehensive plan for preparation and emergency response is crucial to mitigate these immediate and severe threats. This action directly addresses the city's vulnerability to these hazards, aiming to protect its population and critical infrastructure. Given the high risk scores across multiple key impacts, this plan is a foundational step for urban resilience.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -157,7 +157,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Porto Alegre due to the significant risks identified from landslides and floods. The city's CCRA data shows a normalized risk score of 0.99 for both infrastructure and public health due to landslides and floods, indicating extreme vulnerability. Relocation and environmental restoration directly address these critical hazards by moving populations from dangerous areas and stabilizing the environment. This proactive measure will protect lives, reduce damage to essential infrastructure, and improve overall community resilience against these prevalent natural disasters.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -228,7 +228,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from floods, with infrastructure and public health being highly vulnerable. Implementing permeable pavements and increasing green areas in roadways directly addresses this by improving stormwater management and reducing surface runoff. This action helps mitigate the severe impacts of flooding, protecting critical infrastructure and public well-being. Given the high normalized risk score for floods, this action is a crucial step towards enhancing the city's resilience.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -300,7 +300,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is crucial for Porto Alegre, especially given its grassland/savanna biome. This action can help mitigate land-use related emissions, which are a significant contributor to the city's total emissions. Furthermore, sustainable land use can enhance the city's resilience to hazards like droughts and floods, which pose considerable risks to water resources, food security, and infrastructure. It also supports biodiversity, an important key impact identified in the city's climate risk assessment. Prioritizing this action aligns with addressing multiple environmental and climate-related challenges facing the city.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -374,7 +374,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from floods, with infrastructure and public health being highly vulnerable. Maintaining and revitalizing riparian forests can act as a natural buffer, mitigating the impact of these floods. This action helps protect critical infrastructure and safeguards public health by reducing flood-related damages and health crises. Given the city's high flood risk, this measure is a crucial step towards enhancing resilience and protecting its population.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -447,7 +447,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from floods, with a normalized risk score of 0.99 for infrastructure, public health, and food security. A Hydrological Monitoring System with Telemetry Stations is crucial for early warning and effective disaster management. This system would provide real-time data, enabling proactive measures to protect citizens and critical infrastructure. Implementing this action is a high priority to mitigate the severe impacts of flooding on the city.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -519,7 +519,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a valuable action for Porto Alegre. This initiative can enhance food security, especially given the city's vulnerability to floods which can impact food supply. It also promotes community engagement and green spaces, contributing to overall well-being. Furthermore, urban gardens can help mitigate the urban heat island effect, which is relevant considering the city's risk from heatwaves. This action aligns with building resilience against climate impacts and improving local quality of life.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -591,7 +591,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses the restoration of Special Social Interest Zones (ZEIS). Given that Porto Alegre has \"very_low\" socio-economic factors, focusing on these areas is crucial for improving living conditions for vulnerable populations. Restoring these zones can lead to better infrastructure, public health, and overall quality of life for residents. This initiative aligns with the city's need to enhance social equity and resilience, especially in areas that may be disproportionately affected by climate hazards.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -665,7 +665,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from floods, which can severely impact food security. Improving food storage and distribution systems is crucial to ensure the city's resilience during such events. This action directly addresses the vulnerability of the food supply chain, which is essential for maintaining stability and public well-being. Given the high risk of floods, proactive measures in food logistics are a high priority for the city.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -741,7 +741,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the significant risks Porto Alegre faces from climate hazards, particularly those impacting public health. The city has very high normalized risk scores for public health impacts from landslides, floods, and heatwaves. Strengthening the healthcare network is crucial to effectively respond to the increased health burdens that these climate events will impose on the population. This proactive measure will enhance the city's resilience and capacity to protect its citizens during climate-related emergencies.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -817,7 +817,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical component of public health, which is significantly impacted by various hazards in Porto Alegre. The city faces high risks from heatwaves, diseases, floods, and landslides, all of which can severely strain healthcare systems. Improving access to healthcare directly addresses the vulnerability of the population to these climate-related health crises. This action is a priority because it enhances the city's resilience by ensuring that citizens can receive timely and adequate medical attention during and after extreme weather events.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -892,7 +892,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from floods, which severely impact food security. Improving farms and fisheries can enhance resilience against these disruptions, ensuring a more stable food supply for the population. This action also addresses the city's vulnerability to droughts, another hazard that threatens water resources and food security. By strengthening local food production systems, the city can mitigate the effects of climate-related agricultural challenges. This makes the action a priority for bolstering the city's overall resilience.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -969,7 +969,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from floods and droughts, both of which directly impact water resources and infrastructure. Implementing water capture and storage solutions can help mitigate the effects of these hazards by ensuring a more stable water supply during droughts and managing excess water during floods. This action is crucial for enhancing the city's resilience to climate-related water challenges. Given the high normalized risk scores for floods and droughts impacting infrastructure and water resources, this action is a priority.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1045,7 +1045,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial strategy for Porto Alegre, given its vulnerability to various climate hazards. The city faces significant risks from floods, landslides, and heatwaves, all of which can be mitigated by healthy ecosystems. Investing in natural infrastructure can enhance resilience, protect biodiversity, and provide co-benefits like improved air quality and recreational spaces. This action directly addresses multiple high-risk impacts identified in the city's CCRA, making it a high-priority intervention for climate adaptation.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1132,7 +1132,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Porto Alegre faces significant risks from multiple hazards, including floods, landslides, and heatwaves, which can disproportionately affect vulnerable populations. Social safety nets are crucial for providing immediate relief and long-term support to residents impacted by these climate-related disasters. Given the city's 'very_low' socio-economic factors, these programs can help mitigate the severe consequences of climate change on public health and food security. Investing in social safety nets enhances the city's resilience by ensuring that its most vulnerable citizens are not left behind during and after extreme weather events. This action directly addresses the human element of climate adaptation, fostering a more equitable and prepared community.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1206,7 +1206,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "The preservation and recovery of water bodies is a critical action for Porto Alegre, given the city's significant risks from floods. Floods pose a very high risk to infrastructure, public health, and food security, as indicated by the normalized risk scores. Healthy water bodies can help mitigate flood impacts by improving natural drainage and water retention. This action also supports overall ecosystem health and resilience against climate change impacts.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",
@@ -1278,7 +1278,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a relevant impact for Porto Alegre, particularly concerning floods and droughts. Promoting behaviour change in diets and reducing food waste can contribute to a more resilient food system. While not the highest-ranked risk, it offers a proactive approach to mitigate future vulnerabilities. This initiative can also have positive co-benefits for public health and resource efficiency.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1354,7 +1354,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "The city of Porto Alegre faces significant risks from multiple hazards, including heatwaves, landslides, and floods, all of which have high normalized risk scores for public health impacts. Improving the availability of health infrastructure is crucial to enhance the city's capacity to respond to these health crises. This action directly addresses the critical need to protect the well-being of the population. Given the high population density and the very low access to public services in some areas, bolstering health infrastructure is a vital step towards building resilience and ensuring equitable access to care during extreme events.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -1428,7 +1428,7 @@
         "actionId": "icare_0172",
         "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Developing and implementing a Municipal Risk Reduction Plan is crucial for Porto Alegre, given its high vulnerability to multiple hazards like floods, landslides, and heatwaves, which significantly impact infrastructure and public health. Identifying vulnerable population groups within this plan ensures that interventions are targeted and effective, addressing the specific needs of those most at risk. This proactive approach can mitigate the severe consequences of climate-related disasters, protecting lives and critical assets. Prioritizing this action lays a foundational framework for comprehensive climate resilience and adaptation efforts in the city.",
         "action": {
             "ActionID": "icare_0172",
             "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",

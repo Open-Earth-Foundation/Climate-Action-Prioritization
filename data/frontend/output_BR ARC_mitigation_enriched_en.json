@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "The implementation of an urban toll is a priority action for Arapiraca. This measure can significantly reduce transportation emissions, which are a major contributor to the city's total emissions. By discouraging private vehicle use, it can also alleviate traffic congestion and improve air quality. Furthermore, the revenue generated from tolls can be reinvested into public transportation infrastructure, offering sustainable alternatives for residents.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "The adoption of biomethane in public fleets is a priority for Arapiraca due to the city's significant transportation emissions. With transportation accounting for a large portion of total emissions, transitioning to cleaner fuels like biomethane can substantially reduce the city's carbon footprint. This action directly addresses a major source of pollution, contributing to improved air quality and public health. Furthermore, it aligns with broader sustainability goals by promoting renewable energy sources and reducing reliance on fossil fuels. Investing in biomethane infrastructure also fosters innovation and green job creation within the city.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Arapiraca has significant transportation emissions, indicating a need for sustainable alternatives. Promoting bike-sharing programs, especially with electric bikes, can help reduce reliance on fossil fuel-powered vehicles. This action directly addresses a major source of emissions and contributes to cleaner air and reduced traffic congestion. Furthermore, it aligns with efforts to improve urban mobility and public health by encouraging active transportation.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -222,7 +222,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Expanding mass transit systems on rails is a priority for Arapiraca due to its significant transportation emissions. This action directly addresses a major source of the city's total emissions, contributing to overall decarbonization efforts. Improving public transport can also alleviate traffic congestion and enhance urban mobility for residents. While not directly addressing the city's high risks from droughts and public health issues, reducing emissions is a crucial long-term climate adaptation strategy.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -294,7 +294,7 @@
         "actionId": "icare_0059",
         "actionName": "Modernization of ports and airports with zero-emission technologies",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Arapiraca is a desert biome with significant challenges in water access and sanitation, and high risks from droughts, heatwaves, and floods. While modernizing ports and airports with zero-emission technologies is beneficial for reducing transportation emissions, it does not directly address the city's most pressing climate hazards or public service deficiencies. The city's primary emissions come from transportation and land use, so this action would contribute to reducing the former. However, given the severe public health and food security risks from climate hazards, other interventions might offer more immediate and impactful benefits for the community's resilience and well-being.",
         "action": {
             "ActionID": "icare_0059",
             "ActionName": "Modernization of ports and airports with zero-emission technologies",
@@ -366,7 +366,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Addressing vehicle emissions is a crucial step for Arapiraca, given the significant contribution of transportation to the city's total emissions. Reducing these emissions will improve local air quality, directly benefiting public health. This action also aligns with broader climate goals by mitigating greenhouse gas output. Prioritizing this initiative can lead to a healthier urban environment and contribute to the city's sustainability efforts.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -445,7 +445,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a crucial action for Arapiraca, especially given its desert biome. This initiative can help mitigate the impacts of heatwaves, which pose a high risk to public health and energy security. Increased green spaces can also improve air quality and provide ecosystem services, enhancing the overall resilience of the city. Furthermore, it can contribute to biodiversity, which is currently at low risk from droughts but could benefit from enhanced natural habitats.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -517,7 +517,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a priority for Arapiraca given its desert biome and significant drought risks impacting water and food security. This action can enhance ecosystem resilience and improve soil health, which are crucial for a region facing such environmental challenges. Furthermore, it can contribute to food security by diversifying agricultural outputs and making them more resilient to climate shocks. This approach aligns with the city's need to address key impacts like water resources and food security, which are highly vulnerable to droughts.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -589,7 +589,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to Arapiraca's significant agricultural sector, which is highly vulnerable to climate impacts like droughts and floods. Providing technical assistance and rural extension can help farmers adopt climate-resilient practices, improving food security and water resource management. This directly addresses key impacts identified in the city's CCRA, such as food security and water resources, which are at high risk from droughts and floods. Furthermore, it can empower the local community to adapt to changing environmental conditions, fostering long-term sustainability and resilience.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -661,7 +661,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a high-priority action for Arapiraca. The city faces significant risks related to water resources and food security due to droughts, and also has moderate inadequate water access. PES programs can incentivize the protection and restoration of ecosystems that provide crucial services like water regulation and soil conservation. This directly addresses the city's vulnerabilities by enhancing natural infrastructure and promoting sustainable land management practices. Such initiatives can improve water availability and agricultural resilience, benefiting the community's well-being and economic stability.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -733,7 +733,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Strengthening mechanisms for deforestation control is a priority for Arapiraca, especially given its desert biome. While the city's land use emissions are significant, this action directly addresses a key environmental concern. Protecting existing ecosystems can mitigate the impacts of climate change and preserve biodiversity. This initiative supports long-term environmental sustainability and resilience within the city.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -805,7 +805,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Arapiraca is located in a desert biome, making conservation practices crucial for sustainability. Facilitating technology transfer can introduce innovative solutions to manage scarce resources and protect the local ecosystem. Given the city's moderate low-income population, accessible and appropriate technologies are essential to ensure equitable benefits. This initiative can also help mitigate the impacts of droughts, which are a significant hazard for water resources and food security in the region.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -877,7 +877,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a crucial step for Arapiraca. This action can encourage sustainable practices and resource management within the city. Given the city's moderate low-income population and high inadequate sanitation, such incentives could help alleviate financial burdens while promoting environmental responsibility. Furthermore, with significant risks from droughts and floods impacting water and food security, these incentives could drive investments in resilient infrastructure and practices. This action aligns with the need to address both environmental vulnerabilities and socio-economic challenges in Arapiraca.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -949,7 +949,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Arapiraca faces significant food security risks, particularly from droughts and floods. Prioritizing locally produced agroecological products can enhance food system resilience and reduce reliance on external supply chains. This approach also supports local economies and promotes sustainable agricultural practices. Furthermore, it can contribute to improved public health by providing access to fresh, healthy food options.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -1021,7 +1021,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Promoting sustainable agricultural practices is a priority for Arapiraca due to the significant risks associated with food security, particularly from droughts and floods. The city's biome is desert, which exacerbates water resource challenges and directly impacts agricultural viability. Addressing these practices can build resilience against climate hazards and improve overall food security for the population. This action helps mitigate the high normalized risk scores for food security under both drought and flood scenarios.",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -1093,7 +1093,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Supporting regenerative agriculture practices is a priority for Arapiraca given its significant food security risks, particularly from droughts and floods. These practices can enhance soil health and water retention, directly mitigating the impacts of these hazards. Furthermore, improved agricultural resilience can contribute to the overall well-being of the community by stabilizing food supply and potentially reducing the burden on public health systems. This action aligns with addressing key vulnerabilities identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -1165,7 +1165,7 @@
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Promoting organic farming is a relevant action for Arapiraca, especially considering the city's 'desert' biome and existing food security risks from droughts and floods. This initiative can enhance local food production resilience and potentially mitigate some of the food security challenges. Furthermore, it aligns with sustainable land use practices, which can be beneficial in a region facing environmental pressures. While not directly addressing the highest public health or infrastructure risks, it contributes to a more sustainable and resilient food system.",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -1237,7 +1237,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Arapiraca is located in a desert biome and faces significant risks from droughts, impacting water resources and food security. Implementing agroforestry practices can help mitigate these impacts by improving soil health, water retention, and biodiversity. This action also supports food security, which is a key impact area for droughts in the city. Given the city's high population density and moderate low-income population, sustainable agricultural practices are crucial for resilience.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -1309,7 +1309,7 @@
         "actionId": "icare_0091",
         "actionName": "Implementation of prioritized routes for sustainable vehicles.",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action, focusing on sustainable vehicle routes, is a moderate priority for Arapiraca. While it contributes to reducing transportation emissions, which are significant in the city, other issues like public health risks from heatwaves and diseases, and food security due to floods, present more immediate and severe challenges. The city also faces high inadequate sanitation and moderate inadequate water access, which are critical public service deficiencies. Therefore, while beneficial, this action may not address the most pressing vulnerabilities of the city directly.",
         "action": {
             "ActionID": "icare_0091",
             "ActionName": "Implementation of prioritized routes for sustainable vehicles.",
@@ -1381,7 +1381,7 @@
         "actionId": "icare_0117",
         "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Increasing the attractiveness of the municipal bus system is a moderate priority for Arapiraca. While promoting public transport can reduce emissions, the city faces more immediate and severe risks. The high risks associated with public health due to heatwaves, diseases, and floods, along with significant food security and infrastructure risks from floods, suggest other interventions may be more critical. Addressing these pressing vulnerabilities could yield more substantial and immediate benefits for the city's resilience and well-being.",
         "action": {
             "ActionID": "icare_0117",
             "ActionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",

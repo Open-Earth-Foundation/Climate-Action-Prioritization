@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Crato enfrenta riesgos significativos debido a eventos climáticos extremos, particularmente sequías y olas de calor, que tienen puntuaciones de riesgo normalizadas altas en múltiples impactos clave como los recursos hídricos, la salud pública y la seguridad energética. Establecer un plan integral de preparación y respuesta a emergencias es crucial para mitigar estas amenazas inmediatas y graves. Esta acción aborda directamente la vulnerabilidad de la ciudad a los peligros climáticos, protegiendo a su población y sistemas críticos. Dada la alta población y el bioma desértico, las medidas proactivas son esenciales para la resiliencia.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Establecer un Plan de Preparación y Medidas de Respuesta de Emergencia en caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "El desarrollo de diagnósticos y la restauración de las Zonas Especiales de Interés Social (ZEIS) son una prioridad para Crato, dada su alta población de bajos ingresos. Esta acción aborda directamente las vulnerabilidades socioeconómicas dentro de la ciudad. La mejora de estas áreas puede conducir a mejores condiciones de vida y acceso a servicios para los residentes más vulnerables. Esto es crucial para mejorar la resiliencia urbana general y la equidad.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desarrollar diagnósticos y restaurar áreas de Zonas de Interés Social Especial (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Crato es un bioma desértico con importantes riesgos para la biodiversidad derivados tanto de las sequías como de las olas de calor. Fortalecer los programas de control y conservación de las áreas protegidas es crucial para mitigar estos impactos. Esta acción aborda directamente las altas puntuaciones de riesgo normalizado para la biodiversidad bajo los peligros de sequía (0.866) y ola de calor (0.765). La protección de estas áreas puede ayudar a preservar los ecosistemas y sus servicios, que son vitales para la resiliencia de la ciudad. Dada la alta población de bajos ingresos de la ciudad, la preservación de los recursos naturales también puede apoyar indirectamente los medios de vida y reducir la vulnerabilidad.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer los programas de control y conservación de áreas protegidas",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Here's the Spanish translation:\n\nMejorar el almacenamiento y la distribución de alimentos es una alta prioridad para Crato, dada la significativa vulnerabilidad de la ciudad a los impactos en la seguridad alimentaria derivados de sequías e inundaciones. La elevada población de bajos ingresos de la ciudad también sugiere que las interrupciones en las cadenas de suministro de alimentos podrían afectar desproporcionadamente a las comunidades vulnerables. Mejorar estos sistemas puede generar resiliencia contra la escasez de alimentos inducida por el clima y asegurar un acceso más equitativo a los alimentos. Esta acción aborda directamente una necesidad crítica identificada en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Mejoras en el almacenamiento/distribución de alimentos",
@@ -307,7 +307,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "El acceso a la atención médica es una prioridad crítica para Crato, especialmente dadas las altas puntuaciones de riesgo normalizadas para los impactos en la salud pública de las olas de calor, las enfermedades y las inundaciones. Mejorar el acceso a la atención médica puede mitigar directamente las graves consecuencias para la salud de estos peligros climáticos. Además, la alta población de bajos ingresos de la ciudad sugiere que muchos residentes ya pueden enfrentar barreras para la atención médica, lo que hace que esta acción sea aún más vital. Abordar esta necesidad mejorará la resiliencia de la ciudad y protegerá a sus ciudadanos más vulnerables.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acceso a la atención médica",
@@ -382,7 +382,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nCrato es un bioma desértico con riesgos significativos de sequía que afectan los recursos hídricos y la seguridad alimentaria. Mantener y revitalizar los bosques ribereños puede ayudar a mitigar estos impactos al mejorar laer retención de agua y la salud del suelo. Esta acción apoya la biodiversidad, que también es muy vulnerable a las sequías y olas de calor en la región. Dada la alta población de bajos ingresos, tales mejoras ambientales también pueden apoyar indirectamente los medios de vida y la resiliencia de la comunidad.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Mantenimiento y Revitalización de Bosques Ribereños",
@@ -455,7 +455,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Crato enfrenta riesgos significativos para la salud pública tanto por las olas de calor como por las enfermedades, con puntuaciones de riesgo normalizadas de 0.99 para ambas. Fortalecer la red de atención médica es crucial para abordar estas amenazas inmediatas y graves para la población. Dada la alta incidencia de sequías, que pueden exacerbar los problemas de salud pública, un sistema de atención médica robusto es esencial para gestionar los impactos en la salud relacionados con el clima. Esta acción aborda directamente la vulnerabilidad de la ciudad en salud pública, convirtiéndola en una alta prioridad para la adaptación y resiliencia climática.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer la red de atención médica para atender a las víctimas del clima",
@@ -530,7 +530,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Crato enfrenta importantes emisiones por el uso del suelo, lo que indica la necesidad de mejorar la gestión del mismo. El bioma de la ciudad es desértico, lo que hace que las prácticas sostenibles de uso del suelo sean cruciales para la estabilidad ambiental y la preservación de los recursos. Dado el alto riesgo de sequía que afecta a los recursos hídricos y la seguridad alimentaria, fomentar el uso sostenible del suelo puede mitigar estas vulnerabilidades. Esta acción también puede ayudar a proteger la biodiversidad, que se ve muy afectada tanto por las sequías como por las olas de calor. Por lo tanto, esta acción es una prioridad para abordar múltiples riesgos climáticos y mejorar la resiliencia de la ciudad.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Fomentar prácticas sostenibles de uso de la tierra",
@@ -604,7 +604,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Crato enfrenta riesgos significativos para la seguridad alimentaria tanto por sequías como por inundaciones, con puntuaciones de riesgo normalizado altas. Mejorar las granjas y pesquerías aborda directamente estas vulnerabilidades al aumentar la resiliencia y la productividad. Dada la alta población de bajos ingresos de la ciudad, reforzar la seguridad alimentaria a través de estas mejoras es crucial para el bienestar de la comunidad. Esta acción puede ayudar a estabilizar el suministro local de alimentos y apoyar los medios de vida en una región altamente susceptible a los impactos climaticos.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Mejoras en granjas/pesquerías",
@@ -681,7 +681,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad para Crato debido a la alta población de bajos ingresos de la ciudad, lo que hace que sus residentes sean particularmente vulnerables a los impactos climáticos. Las redes de seguridad social pueden proporcionar un apoyo crucial durante las crisis relacionadas con el clima, como las sequías y las olas de calor, que son peligros importantes para Crato. Al reforzar las redes de seguridad social, la ciudad puede mejorar la resiliencia de sus ciudadanos más vulnerables, asegurando que tengan acceso a recursos y apoyo esenciales. Esta medida proactiva ayuda a mitigar las consecuencias socioeconómicas del cambio climático, lo que se alinea con la necesidad de la ciudad de abordar los riesgos para la salud pública y la seguridad alimentaria. Invertir en redes de seguridad social es un paso fundamental hacia la construcción de una comunidad más equitativa y resiliente al clima.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de seguridad social",
@@ -755,7 +755,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de huertos urbanos es una prioridad para Crato, especialmente dado el alto riesgo para la seguridad alimentaria que representan las sequías y las inundaciones. Esta acción puede mejorar la producción local de alimentos, reduciendo la dependencia de fuentes externas y mejorando la resiliencia a los impactos climáticos. Además, puede contribuir al bienestar comunitario y a la infraestructura verde dentro de la ciudad. Esta iniciativa se alinea con laB abordaje de vulnerabilidades críticas identificadas en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementación de huertos urbanos",
@@ -827,7 +827,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Crato enfrenta importantes riesgos de salud pública debido a olas de calor, enfermedades y deslizamientos de tierra, como lo indican las altas puntuaciones de riesgo normalizado. Mejorar la disponibilidad de infraestructura de salud es crucial para abordar estas vulnerabilidades existentes yAumentar la capacidad de la ciudad para responder a los impactos en la salud relacionados con el clima. Dada la alta población de bajos ingresos de la ciudad, los servicios de salud accesibles y sólidos son aún más críticos para garantizar una atención equitativa. Esta acción apoya directamente el bienestar de la población frente a los desafíos climáticos actuales y futuros.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidad de infraestructura sanitaria",
@@ -901,7 +901,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nCrato se enfrenta a riesgos significativos derivados de eventos climáticos extremos, particularmente sequías y olas de calor, que impactan severamente la salud pública, los recursos hídricos y la seguridad alimentaria. Un programa de apoyo financiero es crucial para ayudar a la ciudad y a sus residentes a afrontar las consecuencias inmediatas y a largo plazo de estos peligros. Esta iniciativa puede proporcionar un alivio muy necesario y facilitar los esfuerzos de recuperación para los más afectados. Dados los altos puntajes de riesgo normalizado para estos peligros, esta acción es una prioridad para construir resiliencia y proteger a las poblaciones vulnerables.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Creación de un Programa de Apoyo Financiero para Abordar Eventos Climáticos Extremos",
@@ -978,7 +978,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Crato se enfrenta a riesgos extremos por sequías, lo que afecta a los recursos hídricos y la seguridad alimentaria. Un sistema de monitoreo hidrológico es crucial para comprender la disponibilidad de agua y predecir las condiciones de sequía. Este enfoque proactivo puede ayudar a la ciudad a gestionar sus limitados recursos hídricos de manera más efectiva. Dada la alta población y los importantes riesgos de sequía, esta acción es una prioridad para fomentar la resiliencia.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoreo Hidrológico con Estaciones de Telemetría",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad debido a la alta vulnerabilidad de la ciudad a múltiples peligros, particularmente sequías y olas de calor, que impactan significativamente la salud pública y la seguridad alimentaria. La reubicación y la restauración ambiental pueden mitigar los riesgos para las poblaciones en áreas altamente expuestas. Dada la alta población de bajos ingresos, dicha acción también puede abordar las disparidades socioeconómicas al proteger a las comunidades vulnerables. Esta iniciativa se alinea con la urgente necesidad de adaptarse a los impactos del cambio climático y mejorar la resiliencia general en Crato.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Reubicación y Restauración Ambiental en Áreas Vulnerables",
@@ -1121,7 +1121,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente la seguridad alimentaria, que es un área de impacto clave para Crato, especialmente en lo que respecta a sequías e inundaciones. Promover cambios de comportamiento en las dietas y reducir el desperdicio de alimentos puede mitigar significativamente estos riesgos. Dada la alta población de bajos ingresos de la ciudad, la gestión eficiente de los recursos alimentarios es crucial para el bienestar de la comunidad. Esta iniciativa también puede contribuir indirectamente a reducir las emisiones por el uso del suelo, que son un componente significativo de las emisiones totales de Crato.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Cambio de comportamiento en dietas y desperdicio de alimentos",
@@ -1197,7 +1197,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Crato enfrenta riesgos significativos tanto por sequías como por olas de calor, lo que afecta la salud pública y los recursos hídricos. La implementación de pavimentos permeables y el aumento de las áreas verdes pueden ayudar a mitigar el efecto de isla de calor urbana, haciendo la ciudad más resiliente a las temperaturas crecientes. Esta acción también mejora la infiltración del agua, lo cual es crucial para una ciudad en un bioma desértico que experimenta graves riesgos de sequía. Además, puede mejorar la habitabilidad general y la calidad ambiental de la ciudad, beneficiando a su población con altos factores de bajos ingresos.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeables y aumentar las áreas verdes en las vías públicas",
@@ -1269,7 +1269,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "La adaptación basada en ecosistemas es una acción crucial para Crato, dado su bioma desértico y su alta vulnerabilidad a las sequías y olas de calor. Este enfoque puede mejorar significativamente la resiliencia de la ciudad al restaurar y proteger los ecosistemas naturales, lo que a su vez puede ayudar a regular los recursos hídricos y mitigar los impactos del calor extremo. Priorizar esta acción se alinea con la necesidad de abordar los altos riesgos de la ciudad en recursos hídricos, seguridad alimentaria y biodiversidad, todos los cuales se ven gravemente afectados por la sequía. Además, los ecosistemas saludables pueden contribuir a la salud pública al proporcionar enfriamiento natural y mejorar la calidad del aire, lo cual es particularmente importante dados los altos riesgos para la salud pública derivados de las olas de calor y las enfermedades. Invertir en soluciones basadas en la naturaleza ofrece una forma sostenible y rentable de construir resiliencia climática a largo plazo para Crato.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptación basada en ecosistemas",
@@ -1356,7 +1356,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Crato enfrenta riesgos extremos por sequías, lo que afecta gravemente los recursos hídricos y la seguridad alimentaria. La implementación de soluciones de captación y almacenamiento de agua aborda directamente estas vulnerabilidades críticas. Dada la alta población y el bioma desértico, asegurar el suministro de agua es primordial para la resiliencia de la ciudad. Esta acción es crucial para mitigar los efectos inmediatos y a largo plazo de la escasez de agua en la comunidad.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/almacenamiento de agua",
@@ -1432,7 +1432,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar los sistemas agrosilvopastorales es una prioridad para Crato dadas sus importantes emisiones por el uso del suelo y el alto riesgo para la seguridad alimentaria derivado de sequías e inundaciones. Estos sistemas pueden mejorar la resiliencia a los impactos climáticos al diversificar la producción agrícola y mejorar la salud del suelo. Además, pueden contribuir a reducir las sustanciales emisiones de la ciudad por el uso del suelo. Esta acción se alinea con la atención a las vulnerabilidades clave identificadas en la evaluación de riesgos del cambio climático de la ciudad.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Fomentar sistemas agrosilvopastoriles",

@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response measures is crucial for Juazeiro given its high vulnerability to multiple extreme weather events. The city faces significant risks from droughts, heatwaves, and floods, all of which have high normalized risk scores for various key impacts like public health, infrastructure, and food security. A comprehensive emergency response plan can mitigate the severe consequences of these hazards, protecting the population and critical infrastructure. This proactive approach is essential for building resilience in a city frequently exposed to climate-related disasters.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority for Juazeiro given its desert biome and the high risks associated with droughts, which significantly impact biodiversity. Strengthening programs for control and conservation of protected areas can help mitigate the severe biodiversity risks identified in the city's climate change risk assessment. Protecting these areas is crucial for maintaining ecological balance and resilience against climate hazards. This proactive measure can safeguard natural resources and ecosystems vital for the city's long-term sustainability.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is a priority because it directly addresses social equity and urban planning. These zones often house vulnerable populations and are critical for sustainable urban development. Improving these areas can enhance living conditions, access to services, and overall resilience for a significant portion of the city's residents. This action aligns with the city's need to manage its moderate low-income population and ensure equitable access to resources.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -231,7 +231,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Juazeiro due to the city's significant vulnerability to droughts, which severely impact both water resources and food security. Improving farms and fisheries directly addresses these critical impacts by enhancing resilience and productivity in the face of climate challenges. Given that food security is a key impact with a very high normalized risk score from droughts, this action is crucial for the well-being of the population. Furthermore, the city's desert biome underscores the importance of efficient and resilient food production systems.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -308,7 +308,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Juazeiro faces significant public health risks from both heatwaves and diseases, as indicated by high normalized risk scores. Strengthening the healthcare network is crucial to effectively respond to these climate-related health impacts. This action will enhance the city's capacity to treat and support individuals affected by extreme weather events and climate-sensitive illnesses. Given the city's desert biome, heat-related health issues are particularly pertinent. Therefore, this action is a high priority to protect the well-being of the population.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -384,7 +384,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Juazeiro due to the city's significant risk to food security from droughts and floods, both of which have very high normalized risk scores. Improving food storage and distribution can directly mitigate these impacts by ensuring a more stable food supply during and after extreme weather events. Given the desert biome and existing climate change risks, enhancing food systems is crucial for the resilience of the population. This measure will help safeguard against potential food shortages and price volatility, contributing to overall community well-being.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -460,7 +460,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a crucial action for Juazeiro, especially given the city's vulnerability to public health impacts from hazards like heatwaves, diseases, and floods. Improving healthcare access can enhance the city's capacity to respond to health crises and provide essential services to its population. This action directly addresses the well-being of residents and can mitigate the human cost of climate-related events. Prioritizing this action ensures that the community is better equipped to handle current and future health challenges.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -535,7 +535,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Juazeiro is located in a desert biome and faces significant risks from droughts, impacting water resources, food security, and energy security. Maintaining and revitalizing riparian forests can help mitigate these impacts by improving water retention, reducing erosion, and supporting local ecosystems. This action directly addresses the city's vulnerability to drought, which is a high-priority hazard. Furthermore, healthy riparian zones can contribute to biodiversity and potentially offer some protection against heatwaves, another significant risk for Juazeiro.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -608,7 +608,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high-priority action for Juazeiro. The city has significant land use emissions, indicating a need for improved practices. Given the city's desert biome and high risk from droughts impacting water resources and food security, sustainable land use can help mitigate these vulnerabilities. This action can also contribute to biodiversity protection, which is at risk from both droughts and heatwaves. Overall, this action addresses multiple critical environmental and socio-economic challenges faced by Juazeiro.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -682,7 +682,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Improving health infrastructure is a critical priority for Juazeiro, especially given the high risks associated with heatwaves and diseases. The city faces significant public health impacts from these hazards, as indicated by the high normalized risk scores. Enhanced health infrastructure can improve the city's capacity to respond to health crises, provide better care during extreme weather events, and manage disease outbreaks more effectively. This action directly addresses the vulnerability of the population to climate-related health threats, making it a crucial investment for community well-being and resilience.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -756,7 +756,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens can enhance food security, which is a high-risk area for Juazeiro due to droughts. This action also promotes local food production, reducing reliance on external supply chains and potentially lowering transportation emissions. Furthermore, urban gardens can contribute to biodiversity and improve public health through access to fresh produce and green spaces. While not directly addressing the highest risks like water resources or infrastructure, it offers a multi-faceted approach to resilience.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -828,7 +828,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action addresses the critical need for relocation and environmental restoration in vulnerable areas. Juazeiro faces significant risks from hazards like droughts, heatwaves, landslides, and floods, which severely impact infrastructure and public health. Relocating communities from these high-risk zones is crucial for protecting lives and property. Concurrently, environmental restoration can help mitigate the impacts of these hazards and improve the city's resilience. This comprehensive approach is vital for enhancing the safety and well-being of Juazeiro's population.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -899,7 +899,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Juazeiro faces significant risks from droughts, impacting water resources, food security, and energy security. A Hydrological Monitoring System with Telemetry Stations is crucial for effective water management in this desert biome. This system would provide real-time data, enabling proactive responses to water scarcity. Improved monitoring can help mitigate the severe consequences of droughts on the city's essential services and population.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -971,7 +971,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is crucial for Juazeiro, especially given its moderate low-income population. These programs can provide essential support during climate-related shocks, such as droughts and floods, which significantly impact food security and public health. By strengthening social safety nets, the city can enhance the resilience of its most vulnerable residents. This proactive measure helps to mitigate the socio-economic impacts of climate change, ensuring a more stable and equitable community. It is a foundational step towards building overall urban resilience.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1045,7 +1045,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Juazeiro due to the city's significant vulnerability to extreme weather events, particularly droughts, heatwaves, and floods, which have high normalized risk scores across various key impacts like water resources, food security, public health, and infrastructure. A financial support program would provide crucial assistance to residents and businesses affected by these frequent and severe events. This proactive measure can help mitigate economic losses and support recovery efforts, enhancing the city's overall resilience. Given the desert biome and existing climate risks, such a program is essential for protecting the population and critical systems.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1122,7 +1122,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a priority for Juazeiro. This action can help manage stormwater runoff, which is crucial given the city's risk of floods. Green infrastructure also helps mitigate the urban heat island effect, addressing the high risk of heatwaves. Furthermore, it can enhance biodiversity and improve public health by creating more pleasant and cooler urban environments.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1194,7 +1194,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a key impact area for Juazeiro, particularly due to droughts. Promoting behaviour change in diets and reducing food waste can directly mitigate risks associated with food scarcity. Given the city's desert biome and high risk of drought, conserving food resources is crucial. This initiative can also indirectly reduce emissions associated with food production and waste management, contributing to overall sustainability.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Juazeiro due to the city's significant vulnerability to droughts, which severely impact water resources and food security. Implementing water capture and storage solutions directly addresses these critical risks. Given the desert biome and high normalized risk scores for drought-related impacts, enhancing water availability is crucial for resilience. This measure will help secure essential resources for the population and mitigate the effects of future dry periods.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1346,7 +1346,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Juazeiro, given its desert biome and high risks associated with droughts impacting water resources, food security, and energy security. This approach can help restore and protect natural ecosystems, which in turn can enhance the city's resilience to climate change impacts. By focusing on nature-based solutions, the city can address multiple climate hazards simultaneously. This action is a priority because it offers sustainable and cost-effective ways to adapt to the changing climate, particularly in a region highly vulnerable to water scarcity and desertification.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0190",
         "actionName": "Encourage agrosilvopastoral systems",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Encouraging agrosilvopastoral systems is a relevant action for Juazeiro, given its desert biome and high risks associated with droughts impacting water resources, food security, and energy security. These systems can enhance resilience by diversifying agricultural practices and improving soil health, which is crucial in arid environments. This approach can also contribute to biodiversity, which is moderately impacted by droughts in the region. While not directly addressing the highest emission sources, it can offer long-term benefits for land use and ecosystem services.",
         "action": {
             "ActionID": "icare_0190",
             "ActionName": "Encourage agrosilvopastoral systems",

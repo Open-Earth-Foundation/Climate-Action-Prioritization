@@ -7,7 +7,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Fortalecer los programas de control y conservación de las áreas protegidas es una alta prioridad para São Leopoldo. La ciudad enfrenta riesgos significativos para la biodiversidad tanto por sequías como por olas de calor, como lo indican los datos del CCRA. Proteger estas áreas puede ayudar a mitigar estos impactos y preservar ecosistemas vitales. Esta acción aborda directamente la vulnerabilidad de los hábitats naturales y los servicios que proporcionan a la ciudad.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer los programas de control y conservación de áreas protegidas",
@@ -80,7 +80,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Establecer un plan de preparación y respuesta ante emergencias es crucial para São Leopoldo debido a los altos riesgos asociados con eventos climáticos extremos. La ciudad enfrenta amenazas significativas por inundaciones y deslizamientos de tierra, ambos con una puntuación de riesgo normalizada de 0.99 en cuanto a impactos en la salud pública. Un plan de emergencia sólido puede mitigar estas graves consecuencias para la salud pública y proteger a la población. Además, la infraestructura también es altamente vulnerable a inundaciones y deslizamientos de tierra, lo que hace que la preparación sea esencial para minimizar los daños y asegurar una rápida recuperación. Esta acción aborda directamente los peligros más críticos identificados en la evaluación de riesgos de la ciudad.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Establecer un Plan de Preparación y Medidas de Respuesta de Emergencia en caso de eventos climáticos extremos",
@@ -157,7 +157,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es de alta prioridad debido a los importantes riesgos que enfrenta São Leopoldo por deslizamientos de tierra e inundaciones. Los datos CCRA de la ciudad muestran que la salud pública y la infraestructura están en riesgo extremadamente alto por ambos peligros, con puntuaciones de riesgo normalizadas de 0.99 para la salud pública debido a deslizamientos de tierra e inundaciones, y de 0.46 y 0.51 para la infraestructura debido a deslizamientos de tierra e inundaciones, respectivamente. La reubicación de residentes de áreas vulnerables y la restauración del medio ambiente abordan directamente estas amenazas críticas. Esta medida proactiva protegerá vidas, reducirá los daños a la infraestructura esencial y mejorará la resiliencia general de la ciudad frente a futuros eventos climáticos.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Reubicación y Restauración Ambiental en Áreas Vulnerables",
@@ -228,7 +228,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente las necesidades de las Zonas de Especial Interés Social (ZEIS). La mejora de estas áreas puedeGlosario:\n* **ZEIS**: Zonas de Especial Interés Social.\n* **Factor de ingresos bajos 'muy_bajo'**: Indica que la ciudad tiene una proporción muy alta de población con ingresos bajos.\n\nTraducción:\nEsta acción es una prioridad porque aborda directamente las necesidades de las Zonas de Especial Interés Social (ZEIS). La mejora de estas áreas puedeGlosario:\n* **ZEIS**: Zonas de Especial Interés Social.\n* **Factor de ingresos bajos 'muy_bajo'**: Indica que la ciudad tiene una proporción muy alta de población con ingresos bajos.\n\nTraducción:\nEsta acción es una prioridad porque aborda directamente las necesidades de las Zonas de Especial Interés Social (ZEIS). La mejora de estas áreas puede mejorar significativamente las condiciones de vida de las poblaciones vulnerables. Dado el factor de ingresos bajos 'muy_bajo' de la ciudad, tales iniciativas son cruciales para la equidad social. Aunque no está directamente vinculada a un peligro climático de alto riesgo específico, la mejora de estas zonas puede construir indirectamente resiliencia dentro de la comunidad. Esta acción contribuye al desarrollo urbano general y al bienestar social.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desarrollar diagnósticos y restaurar áreas de Zonas de Interés Social Especial (ZEIS)",
@@ -302,7 +302,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar prácticas sostenibles de uso de la tierra es una alta prioridad para São Leopoldo. La ciudad enfrenta riesgos significativos de peligros como inundaciones y deslizamientos de tierra, que pueden verse exacerbados por un uso insostenible de la tierra. Dados los altos puntajes de riesgo normalizado para la salud pública y la infraestructura debido a estos peligros, la gestión proactiva de la tierra es crucial. Esta acción puede ayudar a mitigar estos riesgos, proteger a las poblaciones vulnerables y mejorar la resiliencia general de la ciudad a los impactos climáticos.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Fomentar prácticas sostenibles de uso de la tierra",
@@ -376,7 +376,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "La mantención y revitalización de los bosques ribereños es una acción crucial para São Leopoldo. La ciudad enfrenta riesgos significativos de inundaciones, las cuales tienen un alto puntaje de riesgo normalizado tanto para la salud pública como para la infraestructura. Los bosques ribereños actúan como amortiguadores naturales, mitigando los impactos de las inundaciones al absorber el exceso de agua y estabilizar las riberas de los ríos. Esta acción aborda directamente estos riesgos de inundación de alta prioridad, protegiendo tanto a la población como a la infraestructura crítica. Además, contribuye a la salud general del ecosistema y a la biodiversidad, lo que puede apoyar indirectamente otros impactos clave como los recursos hídricos.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Mantenimiento y Revitalización de Bosques Ribereños",
@@ -449,7 +449,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "São Leopoldo enfrenta riesgos significativos tanto por inundaciones como por deslizamientos de tierra, con la salud pública y la infraestructura siendo altamente vulnerables. Un sistema de monitoreo hidrológico con estaciones de telemetría es crucial para proporcionar alertas tempranas sobre estos peligros. Esta medida proactiva puede ayudar a proteger a la población y la infraestructura crítica al permitir respuestas y esfuerzos de mitigación oportunos. Dados los altos puntajes de riesgo normalizado para los impactos en la salud pública de inundaciones y deslizamientos de tierra, esta acción aborda directamente vulnerabilidades críticas.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoreo Hidrológico con Estaciones de Telemetría",
@@ -521,7 +521,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "La disponibilidad de infraestructura de salud es una prioridad crítica para São Leopoldo. La ciudad enfrenta riesgos significativos tanto por deslizamientos de tierra como por inundaciones, y los impactos de estos peligros en la salud pública son muy altos. Mejorar la infraestructura de salud puede aumentar la capacidad de la ciudad para responder a las crisis de salud derivadas de estos eventos. Esta acción aborda directamente las altas puntuaciones de riesgo normalizado para la salud pública relacionadas con inundaciones y deslizamientos de tierra, lo que la hace esencial para el bienestar y la resiliencia de la comunidad.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidad de infraestructura sanitaria",
@@ -595,7 +595,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción aborda la seguridad alimentaria, que es un área de impacto clave para São Leopoldo, particularmente en lo que respecta a sequías e inundaciones. Mejorar el almacenamiento y la distribución de alimentos puedeAumentar la resiliencia de la ciudad a estos peligros. Dados los riesgos existentes, esta acción es una prioridad paraAsegurar un suministro estable de alimentos para la población. Contribuye directamente a mitigar los efectos negativos de losAcontecimientos relacionados con el clima en los sistemas alimentarios de la ciudad.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Mejoras en el almacenamiento/distribución de alimentos",
@@ -671,7 +671,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "El acceso a la atención médica es una prioridad crítica para São Leopoldo, especialmente dadas las altas puntuaciones de riesgo normalizadas para los impactos en la salud pública tanto de las inundaciones como de los deslizamientos de tierra. Mejorar el acceso a la atención médica puede mitigar significativamente las consecuencias de estos peligros en la población. Esta acción aborda directamente la vulnerabilidad de la ciudad a las crisis de salud relacionadas con el clima. Priorizar esta acción mejorará la resiliencia de la ciudad y protegerá a sus ciudadanos.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acceso a la atención médica",
@@ -746,7 +746,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de pavimentos permeables y el aumento de las áreas verdes en las carreteras es una prioridad para São Leopoldo. Esta acción aborda directamente los altos riesgos asociados con las inundaciones, que representan una amenaza significativa tanto para la salud pública como para la infraestructura de la ciudad. Al mejorar la gestión del agua de lluvia, se puede mitigar el impacto de los eventos de fuertes precipitaciones. Esta medida también contribuye al enfriamiento urbano, lo cual es beneficioso dada la vulnerabilidad de la ciudad a las olas de calor. En general, mejora la resiliencia urbana y la calidad de vida.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeables y aumentar las áreas verdes en las vías públicas",
@@ -818,7 +818,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es de alta prioridad debido a los importantes riesgos que enfrenta São Leopoldo por los peligros climáticos. La ciudad tiene puntuaciones de riesgo normalizadas muy altas para los impactos en la salud pública tanto por deslizamientos de tierra como por inundaciones, lo que indica una población vulnerable. Fortalecer la red de atención médica es crucial para responder eficazmente a estas amenazas de salud inmediatas y graves. Esta medida proactiva mejorará la resiliencia y la capacidad de la ciudad para proteger a sus ciudadanos durante emergencias relacionadas con el clima.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer la red de atención médica para atender a las víctimas del clima",
@@ -893,7 +893,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de huertos urbanos es una valiosa iniciativa para São Leopoldo. Si bien no aborda directamente los riesgos más críticos de la ciudad, como deslizamientos de tierra e inundaciones, puede contribuir a la seguridad alimentaria y al bienestar de la comunidad. Esta acción también promueve espacios verdes dentro del entorno urbano, lo que puede tener impactos positivos en la biodiversidad local y potencialmente mitigar algunos efectos de isla de calor. Es una medida de apoyo que mejora la resiliencia urbana y la calidad de vida.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementación de huertos urbanos",
@@ -965,7 +965,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Las mejoras agrícolas y pesqueras son una prioridad para São Leopoldo debido a la vulnerabilidad de la ciudad a las sequías e inundaciones, que afectan significativamente la seguridad alimentaria. La Evaluación de Riesgos y Vulnerabilidad Climática (CCRA) de la ciudad destaca la seguridad alimentaria como un área de impacto clave para ambos peligros, con puntuaciones de riesgo normalizadas de 0,196 y 0,246 respectivamente. La mejora de las prácticas agrícolas y pesqueras puede generar resiliencia contra estos impactos climáticos, asegurando un suministro de alimentos más estable para la población. Esta acción aborda directamente una necesidad crítica identificada en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Mejoras en granjas/pesquerías",
@@ -1042,7 +1042,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad debido al riesgo significativo de sequías que afectan los recursos hídricos en São Leopoldo, como lo indica una puntuación de riesgo normalizado alta. La implementación de soluciones de captación y almacenamiento de agua aborda directamente esta vulnerabilidad, mejorando la resiliencia de la ciudad a la escasez de agua. Dado el bioma de selva tropical, la gestión eficiente del agua es crucial para mitigar los efectos de la variabilidad climática. Esta medida proactiva puede salvaguardar el suministro de agua de la ciudad para su población y diversos sectores.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/almacenamiento de agua",
@@ -1118,7 +1118,7 @@
     "actionId": "icare_0172",
     "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Desarrollar e implementar un Plan Municipal de Reducción de Riesgos es crucial para São Leopoldo, dada su alta vulnerabilidad a múltiples peligros climáticos. La ciudad enfrenta riesgos significativos de deslizamientos de tierra e inundaciones, los cuales tienen un puntaje de riesgo normalizado de 0.99 en cuanto a impactos en la salud pública. Identificar a los grupos de población vulnerables dentro de este plan asegurará intervenciones y asignación de recursos dirigidas, mejorando la resiliencia de la ciudad. Esta medida proactiva es esencial para proteger a sus ciudadanos e infraestructura de futuros desastres relacionados con el clima.",
     "action": {
       "ActionID": "icare_0172",
       "ActionName": "Desarrollar e implementar el Plan Municipal de Reducción de Riesgos (PMRR) e identificar grupos de población vulnerables a los riesgos climáticos.",
@@ -1190,7 +1190,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "La adaptación basada en ecosistemas es una acción crucial para São Leopoldo debido a la alta vulnerabilidad de la ciudad a múltiples peligros climáticos. La ciudad enfrenta riesgos significativos de inundaciones y deslizamientos de tierra, los cuales tienen un impacto severo en la salud pública y la infraestructura. La implementación de soluciones basadas en la naturaleza puede ayudar a mitigar estos riesgos mejorando el drenaje natural, estabilizando las pendientes y mejorando la resiliencia general del ecosistema. Este enfoque ofrece una forma sostenible y rentable de proteger a la comunidad y sus bienes de los crecientes efectos del cambio climático.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptación basada en ecosistemas",
@@ -1277,7 +1277,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción, centrada en el cambio de comportamiento en las dietas y el desperdicio de alimentos, es una prioridad debido a su potencial para abordar los problemas de seguridad alimentaria. São Leopoldo se enfrenta a riesgos significativos de sequías e inundaciones, ambos con la capacidad de impactar gravemente el suministro y la disponibilidad de alimentos. Reducir el desperdicio de alimentos y promover dietas sostenibles puede aliviar la presión sobre los sistemas alimentarios, haciendo la ciudad más resiliente a estos peligros climáticos. Este enfoque proactivo puede ayudar a mitigar futuras escaseces de alimentos y mejorar el bienestar general de la comunidad.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Cambio de comportamiento en dietas y desperdicio de alimentos",
@@ -1353,7 +1353,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Las redes de seguridad social son una prioridad para São Leopoldo debido a la población de muy bajos ingresos de la ciudad. Esta acción aborda directamente la vulnerabilidad de los residentes, especialmente frente a los peligros climáticos. Dados los altos riesgos de deslizamientos de tierra e inundaciones que afectan la salud pública, unas redes de seguridad social sólidas pueden proporcionar un apoyo y una resiliencia cruciales. Esta medida ayuda a garantizar que las poblaciones más vulnerables no se vean desproporcionadamente afectadas por los impactos del cambio climático.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de seguridad social",
@@ -1427,7 +1427,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "La creación de un programa de apoyo financiero es una alta prioridad para São Leopoldo debido a la significativa vulnerabilidad de la ciudad a los fenómenos meteorológicos extremos. La ciudad se enfrenta a altos riesgos de inundaciones, que tienen una puntuación de riesgo normalizada de 0.99 para la salud pública y de 0.519 para la infraestructura. Además, los deslizamientos de tierra representan una amenaza sustancial, con una puntuación de riesgo normalizada de 0.99 para la salud pública. Un programa de apoyo financiero proporcionaría recursos cruciales para ayudar a la comunidad a recuperarse y reconstruir después de tales eventos devastadores, mitigando los graves impactos en la salud pública y la infraestructura. Esta medida proactiva es esencial para mejorar la resiliencia de la ciudad y proteger a sus residentes de los crecientes desafíos del cambio climático.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Creación de un Programa de Apoyo Financiero para Abordar Eventos Climáticos Extremos",

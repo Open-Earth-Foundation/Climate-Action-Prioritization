@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Caxias do Sul possui emissões significativas provenientes do transporte, tornando a implementação de um pedágio urbano uma ação relevante. Essa medida pode ajudar a reduzir o congestionamento do tráfego e incentivar o uso do transporte público ou da mobilidade ativa. Ao desincentivar o uso de veículos particulares, contribui para a diminuição da poluição do ar e das emissões de gases de efeito estufa. Essa ação se alinha aos esforços para melhorar a sustentabilidade urbana e a saúde pública na cidade.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação promove o transporte sustentável, o que é crucial para Caxias do Sul, dadas as suas significativas emissões de transporte. Incentivar o compartilhamento de bicicletas, especialmente com bicicletas elétricas, pode reduzir a dependência de combustíveis fósseis e melhorar a qualidade do ar. Esta iniciativa também se alinha com os esforços para criar espaços urbanos mais habitáveis e ecologicamente corretos. Ela contribui para uma população mais saudável, promovendo a atividade física e reduzindo a exposição à poluição.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adoção do biometano em frotas públicas é uma ação relevante para Caxias do Sul, dadas as suas significativas emissões provenientes do transporte. Esta iniciativa aborda diretamente um dos principais contribuintes para o perfil geral de emissões da cidade. Ao fazer a transição para o biometano, a cidade pode reduzir a sua dependência de combustíveis fósseis e melhorar a qualidade do ar. Esta ação alinha-se com objetivos de sustentabilidade mais amplos e pode servir como um compromisso visível com a responsabilidade ambiental.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A expansão dos sistemas de transporte público sobre trilhos é um passo crucial para Caxias do Sul, especialmente dadas as suas significativas emissões de transporte. Esta ação aborda diretamente um dos principais contribuintes para a pegada de carbono da cidade. Ao fornecer alternativas eficientes aos veículos particulares, pode reduzir o congestionamento e melhorar a qualidade do ar. Esta iniciativa também apoia o desenvolvimento urbano sustentável e pode melhorar a qualidade de vida dos moradores.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Caxias do Sul é uma cidade com um bioma de floresta tropical, tornando as práticas de conservação cruciais para a manutenção do seu equilíbrio ecológico. Facilitar a transferência de tecnologia para práticas de conservação pode ajudar a proteger os recursos naturais e a biodiversidade da cidade. Dadas as significativas emissões de uso do solo da cidade, a implementação de técnicas avançadas de conservação também poderia contribuir para a redução da sua pegada de carbono geral. Esta ação apoia a sustentabilidade ambiental a longo prazo e a resiliência contra os impactos climáticos.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -366,7 +366,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Abordar as emissões veiculares é crucial para Caxias do Sul, pois as emissões provenientes do transporte contribuem significativamente para o total de emissões da cidade. Reduzir essas emissões melhorará a qualidade do ar, resultando em melhores desfechos de saúde pública para os moradores. Esta ação também se alinha aos esforços globais para combater as mudanças climáticas, diminuindo a pegada de carbono da cidade. Priorizar esta ação pode promover um ambiente urbano mais sustentável e habitável.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -445,7 +445,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque apoia as economias locais e promove práticas agrícolas sustentáveis. Ao priorizar produtos agroecológicos, a cidade pode aumentar a segurança alimentar e reduzir a sua pegada ambiental. Esta abordagem também fomenta a resiliência comunitária e pode melhorar os resultados de saúde pública. Ela alinha-se com objetivos de sustentabilidade mais amplos, incentivando sistemas alimentares ecologicamente corretos.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -517,7 +517,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de sistemas agroflorestais em Caxias do Sul é uma prioridade devido aos significativos riscos de segurança alimentar que a cidade enfrenta em decorrência de secas e inundações. Essa ação pode aumentar a resiliência agrícola, diversificando as culturas e melhorando a saúde do solo, o que, por sua vez, pode mitigar os impactos de eventos climáticos extremos. Além disso, contribui para a biodiversidade, que também é impactada por secas e ondas de calor. Essa abordagem oferece uma solução sustentável para reforçar a segurança alimentar e a estabilidade ambiental diante das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroflorestais",
@@ -589,7 +589,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção do reflorestamento urbano e dos corredores verdes é uma ação de alta prioridade para Caxias do Sul. Esta iniciativa aborda diretamente vários impactos importantes, incluindo a saúde pública e a biodiversidade, que são vulneráveis a perigos como ondas de calor. O aumento das áreas verdes pode mitigar o efeito de ilha de calor urbana, melhorando a qualidade do ar e reduzindo doenças relacionadas ao calor. Além disso, aumenta a resiliência ecológica da cidade e proporciona cobenefícios para recreação e bem-estar.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover o Reflorestamento Urbano e Corredores Verdes",
@@ -661,7 +661,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A modernização de portos e aeroportos com tecnologias de emissão zero é um passo crucial para Caxias do Sul. Esta ação aborda diretamente as significativas emissões do setor de transportes, que atualmente são as maiores contribuintes para as emissões totais da cidade. Ao investir nessas tecnologias, a cidade pode reduzir substancialmente sua pegada de carbono e melhorar a qualidade do ar. Esta iniciativa também se alinha com os esforços globais em direção a infraestruturas sustentáveis e pode atrair mais investimentos verdes.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -733,7 +733,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é prioritária porque Caxias do Sul está localizada em um bioma de floresta tropical, onde as atividades rurais são provavelmente significativas. A prestação de assistência técnica e extensão rural pode melhorar as práticas agrícolas, potencialmente reduzindo as emissões decorrentes do uso da terra e aumentando a segurança alimentar. Dada a vulnerabilidade da cidade a secas e inundações, apoiar a gestão sustentável da terra por meio de ações de ATER é crucial. Isso pode ajudar a construir resiliência no setor agrícola e proteger os meios de subsistência.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -805,7 +805,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os mecanismos de controle do desmatamento é uma ação crucial para Caxias do Sul. Dado o bioma de floresta tropical da cidade, preservar a cobertura florestal é vital para manter a biodiversidade e os serviços ecossistêmicos. O desmatamento pode exacerbar os riscos relacionados aos recursos hídricos e à segurança alimentar, especialmente no contexto de secas. Esta ação também contribui para mitigar as emissões do uso da terra, que são um componente significativo das emissões totais da cidade. Portanto, esta ação é uma prioridade para a proteção ambiental e a resiliência climática.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -877,7 +877,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque Caxias do Sul possui emissões significativas provenientes do transporte, contribuindo substancialmente para suas emissões totais. Promover o uso sustentável e racional do transporte motorizado individual pode abordar diretamente esta importante fonte de poluição. Reduzir a dependência de veículos individuais melhorará a qualidade do ar e a saúde pública. Esta iniciativa também se alinha com objetivos ambientais mais amplos, ao diminuir a pegada de carbono da cidade.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Incentivar e promover medidas para o uso sustentável e racional do transporte motorizado individual",
@@ -949,7 +949,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é um passo crucial para Caxias do Sul. Esta ação aborda diretamente os significativos riscos ambientais da cidade, particularmente aqueles relacionados a recursos hídricos e biodiversidade, que são impactados por perigos como secas e ondas de calor. Ao incentivar o manejo sustentável da terra e a conservação, os programas de PSA podem aumentar a resiliência dos ecossistemas e mitigar a severidade desses impactos climáticos. Essa abordagem proativa apoia a estabilidade ambiental de longo prazo e o bem-estar da comunidade diante das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A tradução para português é:\n\nEsta ação foca na criação de incentivos para práticas agroflorestais em sistemas pecuários. Dadas as significativas emissões de uso da terra de Caxias do Sul, esta iniciativa poderia contribuir para o sequestro de carbono e a gestão sustentável da terra. Embora não aborde diretamente os riscos mais prementes da cidade, como inundações e deslizamentos de terra, ela apoia a resiliência ambiental a longo prazo. A promoção da agrofloresta também pode aumentar a biodiversidade e potencialmente melhorar a segurança alimentar na região. Esta ação alinha-se com objetivos de sustentabilidade mais amplos, mesmo que seu impacto imediato em riscos críticos seja indireto.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Criar Incentivos para Práticas de Agroflorestas em Sistemas de Pecuária",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Apoiar práticas agrícolas regenerativas é uma prioridade para Caxias do Sul, especialmente dada a vulnerabilidade da cidade a secas que afetam a segurança hídrica e alimentar. Esta ação pode melhorar a saúde do solo, aprimorar a retenção de água e aumentar a resiliência agrícola contra choques climáticos. Ao promover a agricultura sustentável, a cidade pode mitigar riscos para seu abastecimento de alimentos e recursos hídricos. Esta iniciativa alinha-se com a necessidade de abordar os principais impactos identificados na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoiar Práticas de Agricultura Regenerativa",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Promover a agricultura orgânica em Caxias do Sul é uma ação relevante dada a vulnerabilidade da cidade a secas que impactam a segurança alimentar. As práticas da agricultura orgânica frequentemente melhoram a saúde do solo e a retenção de água, o que pode aumentar a resiliência a condições de seca. Essa abordagem também se alinha ao uso sustentável da terra, potencialmente reduzindo as emissões associadas à agricultura convencional. Embora não seja a mais alta prioridade, contribui para a segurança alimentar a longo prazo e para a saúde ambiental.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover a Agricultura Orgânica",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar a produção agroecológica local e as cadeias de suprimentos curtas é uma prioridade para Caxias do Sul, especialmente dada a vulnerabilidade da cidade a secas que afetam a segurança alimentar. Essa ação pode aumentar a resiliência alimentar local e reduzir a dependência de cadeias de suprimentos externas, que são suscetíveis a interrupções climáticas. Além disso, alinha-se com práticas sustentáveis de uso da terra, potencialmente mitigando futuros impactos ambientais. Essa abordagem também apoia as economias locais e pode melhorar o bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A promoção de práticas agrícolas sustentáveis é uma ação relevante para Caxias do Sul, dada a vulnerabilidade da cidade a secas que impactam a segurança hídrica e alimentar. Embora não seja a mais alta prioridade, pode contribuir para a resiliência a longo prazo. Esta ação ajuda a mitigar riscos associados à segurança alimentar, que já é uma preocupação devido a secas e inundações. Também se alinha com objetivos ambientais mais amplos ao promover um uso mais sustentável da terra. Portanto, é uma iniciativa valiosa para a cidade, embora não seja de primeira linha.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Práticas Agrícolas Sustentáveis",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Caxias do Sul possui emissões significativas de transporte, tornando as ações neste setor altamente relevantes. A implementação de rotas priorizadas para veículos sustentáveis aborda diretamente essa questão, promovendo modos de transporte mais limpos. Essa iniciativa pode ajudar a reduzir a pegada de carbono geral da cidade e melhorar a qualidade do ar. Embora não seja a mais alta prioridade, contribui para as metas de sustentabilidade de longo prazo.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",

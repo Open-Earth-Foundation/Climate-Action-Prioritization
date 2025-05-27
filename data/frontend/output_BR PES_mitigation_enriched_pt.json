@@ -7,7 +7,7 @@
     "actionId": "c40_0035",
     "actionName": "Waste Efficiency",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido às significativas emissões de resíduos em Petrópolis, que representam uma grande parte do total de emissões da cidade. Abordar a eficiência dos resíduos pode levar a reduções substanciais na pegada de carbono da cidade. Além disso, a melhoria da gestão de resíduos geralmente traz benefícios colaterais para a saúde pública e a qualidade ambiental. Dado o fator de baixa renda \"muito baixo\" da cidade, a gestão eficiente de resíduos também pode contribuir para um ambiente urbano mais saudável e equitativo. Portanto, focar na eficiência dos resíduos é um passo crucial para a sustentabilidade e resiliência em Petrópolis.",
     "action": {
       "ActionID": "c40_0035",
       "ActionName": "Eficiência de Resíduos",
@@ -84,7 +84,7 @@
     "actionId": "c40_0036",
     "actionName": "Landfill Management",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A Gestão de Aterros Sanitários é uma ação de alta prioridade para Petrópolis. A cidade possui emissões de resíduos muito elevadas, que contribuem significativamente para o seu perfil geral de emissões. Melhorar a gestão de aterros sanitários pode reduzir diretamente essas emissões, levando a benefícios ambientais substanciais. Esta ação também se alinha com objetivos de sustentabilidade mais amplos, promovendo o descarte de resíduos mais eficiente e, potencialmente, a recuperação de recursos.",
     "action": {
       "ActionID": "c40_0036",
       "ActionName": "Gestão de Aterros Sanitários",
@@ -161,7 +161,7 @@
     "actionId": "c40_0040",
     "actionName": "Volume-Based Collection",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Petrópolis possui emissões de resíduos muito elevadas, indicando um desafio significativo na gestão de resíduos. A implementação da coleta baseada no volume pode incentivar os moradores a reduzir a geração de resíduos, diminuindo assim as emissões gerais. Essa ação aborda diretamente uma das principais fontes de emissões da cidade. Além disso, promove um comportamento sustentável entre a população.",
     "action": {
       "ActionID": "c40_0040",
       "ActionName": "Coleta Baseada em Volume",
@@ -237,7 +237,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é a seguinte:\n\nEsta ação apoia cooperativas de catadores de material reciclável, o que pode reduzir significativamente as emissões de resíduos. Petrópolis possui emissões de resíduos muito elevadas, tornando esta uma intervenção relevante. Além disso, o apoio a cooperativas pode proporcionar oportunidades económicas e melhorar as condições de vida para populações de baixa renda, o que é benéfico dados os fatores socioeconómicos de renda muito baixa da cidade. Esta iniciativa alinha-se tanto com os objetivos de sustentabilidade ambiental quanto com os de equidade social para a cidade.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar um projeto para apoiar cooperativas de coletores de materiais recicláveis",
@@ -309,7 +309,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de ecoparques em Petrópolis é uma prioridade devido ao bioma de floresta tropical úmida da cidade, o que indica um ambiente natural rico que poderia se beneficiar da conservação e do acesso público. Embora não aborde diretamente os riscos mais prementes da cidade, como inundações, deslizamentos de terra ou problemas de saúde pública, os ecoparques podem contribuir para a preservação da biodiversidade e, potencialmente, oferecer espaços verdes para recreação. Essa ação se alinha com as metas de sustentabilidade ambiental de longo prazo, mesmo que não mitigue os riscos imediatos de alto perigo. Também poderia apoiar indiretamente a gestão dos recursos hídricos e reduzir os efeitos das ilhas de calor, o que é relevante dados os riscos climáticos da cidade.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Estabelecer eco-parques.",
@@ -381,7 +381,7 @@
     "actionId": "ipcc_0080",
     "actionName": "Avoiding, Minimising, and Recycling Waste",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é de alta prioridade para Petrópolis devido à contribuição significativa do lixo para as emissões totais da cidade. As emissões de lixo são a maior fonte única de emissões em Petrópolis, indicando uma área crítica para intervenção. A implementação de estratégias para evitar, minimizar e reciclar o lixo pode abordar diretamente este grande contribuinte para a pegada de carbono da cidade. A redução do lixo também trará co-benefícios para a saúde pública e a qualidade ambiental. Portanto, esta ação é crucial para alcançar reduções substanciais de emissões e melhorar a sustentabilidade urbana geral.",
     "action": {
       "ActionID": "ipcc_0080",
       "ActionName": "Evitando, Minimizando e Reciclando Resíduos",
@@ -455,7 +455,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Petrópolis possui emissões significativas relacionadas ao transporte, tornando cruciais as iniciativas que promovem o transporte sustentável. Programas de compartilhamento de bicicletas, especialmente com bicicletas elétricas, podem incentivar uma mudança dos modos de transporte dependentes de combustíveis fósseis. Esta ação aborda diretamente uma das principais fontes de emissões na cidade. Embora não esteja diretamente ligada aos altos riscos da cidade de inundações, deslizamentos de terra e secas, a redução das emissões gerais é um componente vital da resiliência climática a longo prazo.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -527,7 +527,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Petrópolis possui emissões significativas provenientes do transporte, tornando a adoção do biometano em frotas públicas uma ação relevante. Esta iniciativa visa diretamente uma das principais fontes de gases de efeito estufa na cidade. Ao fazer a transição para o biometano, a cidade pode reduzir sua pegada de carbono e melhorar a qualidade do ar. Esta ação alinha-se com os esforços para mitigar as mudanças climáticas e promover o desenvolvimento urbano sustentável.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -599,7 +599,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar políticas de energia renovável em nível municipal é uma ação de alta prioridade para Petrópolis. Esta iniciativa aborda diretamente as significativas emissões totais da cidade, particularmente as provenientes de energia estacionária e transporte. Ao promover as energias renováveis, Petrópolis pode reduzir sua dependência de combustíveis fósseis, contribuindo para uma matriz energética mais limpa. Esta ação também se alinha com objetivos mais amplos de resiliência climática, diminuindo a vulnerabilidade da cidade aos impactos na segurança energética decorrentes de riscos climáticos.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -671,7 +671,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Priorizar a aquisição de produtos agroecológicos de produção local nas compras públicas é uma ação crucial para Petrópolis. Esta iniciativa apoia diretamente os agricultores locais e fortalece a economia regional. Também promove práticas agrícolas sustentáveis, que podem melhorar a segurança alimentar e reduzir a pegada ambiental da cidade. Dado o fator de baixa renda \"muito_baixo\" da cidade, esta ação também pode contribuir para a melhoria dos meios de subsistência e para a redução da pobreza na comunidade. Além disso, alinha-se com a abordagem das preocupações com a segurança alimentar, especialmente considerando o risco moderado da cidade de secas e inundações neste impacto chave.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -743,7 +743,7 @@
     "actionId": "c40_0039",
     "actionName": "Gas Management",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Here's the translation to Portuguese:\n\nEsta ação foca na gestão de gás, o que é importante para a redução das emissões totais. Embora Petrópolis tenha emissões significativas provenientes de resíduos e transporte, a energia estacionária também contribui. Abordar a gestão de gás pode levar a uma abordagem mais diversificada para a redução de emissões. Esta ação apoia os objetivos climáticos mais amplos da cidade, visando uma fonte específica de gases de efeito estufa.",
     "action": {
       "ActionID": "c40_0039",
       "ActionName": "Gestão de Gases",
@@ -820,7 +820,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar a produção agroecológica local e as cadeias de suprimentos curtas é uma prioridade para Petrópolis, especialmente dado o alto risco da cidade à segurança alimentar, tanto por secas quanto por inundações. Essa ação pode aumentar a resiliência alimentar, diversificando as fontes de alimentos locais e reduzindo a dependência de cadeias de suprimentos externas, que são vulneráveis aos impactos climáticos. Além disso, pode contribuir para o uso sustentável da terra e potencialmente reduzir as emissões associadas ao transporte de alimentos de longa distância. Essa iniciativa se alinha com a construção de um sistema alimentar mais robusto e autossuficiente diante das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -892,7 +892,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de um pedágio urbano poderia ajudar a gerenciar o congestionamento do tráfego e reduzir as emissões de transporte em Petrópolis. Essa ação se alinha aos esforços para melhorar a qualidade do ar e potencialmente gerar receita para o desenvolvimento urbano sustentável. Embora benéfica, sua prioridade pode ser menor em comparação com ações que abordam riscos mais imediatos e severos identificados na avaliação de risco climático da cidade, como aqueles relacionados à saúde pública, infraestrutura e recursos hídricos. A cidade enfrenta riscos significativos de secas, ondas de calor, deslizamentos de terra e inundações, que podem exigir intervenções mais urgentes. Portanto, embora seja uma boa iniciativa, pode não ser a ação mais crítica para Petrópolis neste momento.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -963,7 +963,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A integração de energias renováveis nos sistemas municipais de água é uma ação relevante para Petrópolis, especialmente considerando o acesso moderadamente inadequado da cidade à água. Embora não aborde diretamente os maiores riscos, como inundações ou deslizamentos de terra, contribui para a resiliência e sustentabilidade a longo prazo. Esta ação pode reduzir os custos operacionais da infraestrutura hídrica e diminuir a pegada de carbono da cidade. Também se alinha com objetivos mais amplos de adaptação climática, diversificando as fontes de energia para serviços essenciais.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
@@ -1035,7 +1035,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma ação valiosa para Petrópolis. Essa iniciativa pode encorajar práticas sustentáveis e a proteção ambiental dentro da cidade. Ao fornecer motivação financeira, pode impulsionar empresas e indivíduos a adotarem comportamentos mais ecológicos. Esta ação se alinha com a necessidade da cidade de abordar vários riscos ambientais, mesmo que não vise diretamente os perigos de maior risco. Ela promove uma abordagem de longo prazo para a gestão e resiliência ambiental.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -1107,7 +1107,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca na assistência técnica e extensão rural, o que pode ser crucial para uma cidade como Petrópolis, especialmente dado o seu fator de baixa renda 'muito_baixo'. A melhoria das práticas agrícolas e dos meios de subsistência rurais pode aumentar a segurança alimentar, que é uma área de impacto chave com alto risco de secas e inundações. Além disso, tais iniciativas podem construir resiliência contra os perigos climáticos, diversificando as fontes de renda e promovendo o uso sustentável da terra. Esta ação apoia diretamente o bem-estar da população rural e contribui para as ligações gerais urbano-rurais.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -1179,7 +1179,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma prioridade para Petrópolis. O bioma da cidade é a Mata Atlântica, indicando um capital natural significativo que fornece serviços ecossistêmicos essenciais. Dados os altos riscos de secas, inundações e deslizamentos de terra, proteger e aprimorar esses sistemas naturais por meio de PSA pode construir resiliência. Essa ação também pode abordar o acesso inadequado moderado à água, incentivando práticas que melhoram a qualidade e a disponibilidade da água. Além disso, alinha-se com a necessidade da cidade de gerenciar seus recursos ambientais de forma eficaz para mitigar os impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -1251,7 +1251,7 @@
     "actionId": "icare_0097",
     "actionName": "Support Distributed Energy Generation in Residences and Businesses",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a geração distribuída de energia em residências e empresas é uma prioridade para Petrópolis. Essa ação pode ajudar a diversificar as fontes de energia da cidade e reduzir a dependência de redes centralizadas, que podem ser vulneráveis a impactos climáticos. Também contribui para a redução das emissões gerais, alinhando-se com as metas de mitigação climática. Além disso, pode capacitar comunidades e empresas locais, fornecendo opções de energia mais resilientes e potencialmente mais acessíveis.",
     "action": {
       "ActionID": "icare_0097",
       "ActionName": "Apoiar a Geração de Energia Distribuída em Residências e Negócios",
@@ -1323,7 +1323,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Apoiar programas de certificação agroecológica é uma iniciativa valiosa para Petrópolis. Essa ação pode aprimorar a segurança alimentar e promover práticas agrícolas sustentáveis dentro da cidade. Dado o bioma de floresta tropical úmida da cidade, tais programas também podem contribuir para a preservação da biodiversidade. Embora não aborde diretamente os riscos mais críticos, como inundações ou deslizamentos de terra, ela fomenta a resiliência ambiental a longo prazo. Esta ação alinha-se com objetivos de sustentabilidade mais amplos e pode melhorar o sistema alimentar local.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -1395,7 +1395,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Petrópolis enfrenta riscos significativos para a segurança alimentar, tanto de secas quanto de inundações, conforme indicado por altas pontuações de risco normalizado. A promoção do controle agroecológico de pragas pode aumentar a resiliência dos sistemas agrícolas, abordando diretamente essas vulnerabilidades da segurança alimentar. Essa ação apoia práticas agrícolas sustentáveis que dependem menos de insumos externos, os quais podem ser interrompidos por eventos climáticos extremos. Ao promover ecossistemas mais saudáveis, também contribui indiretamente para a gestão dos recursos hídricos, que é outra área de impacto chave para a cidade.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",

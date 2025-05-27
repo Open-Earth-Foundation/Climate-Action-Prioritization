@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de portagens urbanas é uma ação de alta prioridade para São Leopoldo. Esta medida pode reduzir significativamente as emissões dos transportes, que são atualmente a maior fonte de emissões na cidade. Ao desencorajar o uso de veículos privados, pode aliviar o congestionamento do tráfego e melhorar a qualidade do ar. Esta ação alinha-se com a necessidade da cidade de abordar a sua substancial pegada de carbono e promover a mobilidade urbana sustentável.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A adoção de biometano em frotas públicas é uma prioridade para São Leopoldo devido ao seu potencial de reduzir significativamente as emissões do transporte. As emissões do transporte são atualmente o maior contribuinte para as emissões totais da cidade, tornando esta ação de alto impacto. Ao fazer a transição para o biometano, a cidade pode melhorar a qualidade do ar e contribuir para os seus objetivos climáticos gerais. Esta iniciativa também demonstra um compromisso com práticas sustentáveis nos serviços públicos.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nThis action, while beneficial for reducing transportation emissions and promoting sustainable mobility, is not a top priority for São Leopoldo. The city faces very high risks from public health impacts due to floods and landslides, which demand immediate attention. Additionally, infrastructure is highly vulnerable to floods and landslides, indicating a need for resilience-building measures. While encouraging bike-sharing programs is a positive step towards a greener city, it does not address the most pressing climate-related risks identified for São Leopoldo.\n\nPortuguese:\nEsta ação, embora benéfica para a redução das emissões dos transportes e para a promoção da mobilidade sustentável, não é uma prioridade máxima para São Leopoldo. A cidade enfrenta riscos muito elevados de impactos na saúde pública devido a inundações e deslizamentos de terra, que exigem atenção imediata. Além disso, a infraestrutura é altamente vulnerável a inundações e deslizamentos de terra, indicando a necessidade de medidas de construção de resiliência. Embora o incentivo a programas de bicicletas partilhadas seja um passo positivo em direção a uma cidade mais verde, não aborda os riscos climáticos mais prementes identificados para São Leopoldo.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A expansão dos sistemas de transporte público sobre trilhos é uma prioridade para São Leopoldo devido às altas emissões de transporte da cidade, que contribuem significativamente para suas emissões totais. Esta ação aborda diretamente uma importante fonte de gases de efeito estufa, promovendo o desenvolvimento urbano sustentável. Ao oferecer alternativas eficientes e ambientalmente amigáveis aos veículos particulares, pode reduzir o congestionamento do tráfego e melhorar a qualidade do ar. Além disso, apoia a resiliência geral da cidade ao promover uma infraestrutura mais sustentável e menos intensiva em carbono.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Português:**\n\nAbordar as emissões veiculares é uma prioridade crítica para São Leopoldo devido à contribuição significativa do transporte para as emissões totais da cidade. Sendo as emissões do transporte a maior categoria individual, reduzi-las terá um impacto substancial nos esforços gerais de redução de gases de efeito estufa. Esta ação visa diretamente uma importante fonte de poluição do ar, o que também pode melhorar os resultados de saúde pública para os moradores. Priorizar esta ação alinha-se com a necessidade da cidade de mitigar os riscos climáticos e fazer a transição para um ambiente urbano mais sustentável.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -373,7 +373,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nThis action is a low priority because São Leopoldo's transportation emissions are already very high, indicating a significant reliance on motorized transport. While promoting sustainable use is good, a more impactful approach would be to actively reduce individual motorized transportation rather than just encouraging rational use. The city's low elevation and tropical rainforest biome suggest that alternative, more sustainable transport options could be viable. Therefore, this action does not address the root cause of high transportation emissions with sufficient urgency.\n\n**Portuguese Translation:**\n\nEsta ação é de baixa prioridade porque as emissões de transporte de São Leopoldo já são muito elevadas, indicando uma dependência significativa do transporte motorizado. Embora promover o uso sustentável seja bom, uma abordagem mais impactante seria reduzir ativamente o transporte motorizado individual, em vez de apenas incentivar o uso racional. A baixa elevação da cidade e o bioma de floresta tropical sugerem que opções de transporte alternativas e mais sustentáveis poderiam ser viáveis. Portanto, esta ação não aborda a causa raiz das altas emissões de transporte com urgência suficiente.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Incentivar e promover medidas para o uso sustentável e racional do transporte motorizado individual",
@@ -445,7 +445,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de rotas priorizadas para veículos sustentáveis é um passo crucial para a redução das emissões de transporte em São Leopoldo. Sendo o transporte um contribuinte significativo para as emissões totais da cidade, esta ação aborda diretamente uma das principais fontes de poluição. Ao promover o uso de veículos sustentáveis, a cidade pode melhorar a qualidade do ar e contribuir para um ambiente urbano mais saudável. Esta iniciativa também se alinha com os esforços globais para a transição para sistemas de transporte mais limpos, promovendo um futuro mais sustentável para a comunidade.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",
@@ -517,7 +517,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação foca na modernização de portos e aeroportos com tecnologias de emissão zero. Embora importante para a sustentabilidade a longo prazo, São Leopoldo enfrenta riscos mais imediatos e severos. A cidade possui riscos muito elevados relacionados à saúde pública devido a inundações e deslizamentos de terra, e também riscos significativos de infraestrutura decorrentes desses perigos. Abordar essas vulnerabilidades críticas deve ter precedência sobre esta ação neste momento.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -589,7 +589,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda diretamente as emissões dos transportes, que são um contribuinte significativo para o total de emissões da cidade. Promover o transporte público pode reduzir a dependência de veículos particulares, levando a uma melhor qualidade do ar e à redução do congestionamento do tráfego. Embora não esteja diretamente ligada aos maiores riscos da cidade decorrentes de perigos climáticos como inundações ou deslizamentos de terra, a redução de emissões é um passo fundamental na mitigação das alterações climáticas. Esta ação apoia um ambiente urbano mais sustentável e pode ter impactos positivos a longo prazo na resiliência geral da cidade.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",
@@ -661,7 +661,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar políticas de energia renovável a nível municipal é uma ação de alta prioridade para São Leopoldo. Esta iniciativa aborda diretamente as significativas emissões de transporte e energia estacionária da cidade, que são os principais contribuintes para a sua pegada de carbono geral. Ao promover a energia renovável, a cidade pode reduzir a sua dependência de combustíveis fósseis, levando a um ar mais limpo e a um fornecimento de energia mais sustentável. Esta ação também se alinha com os esforços globais para combater as alterações climáticas e pode fomentar o desenvolvimento económico local através de empregos verdes e investimentos.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -733,7 +733,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de ecoparques em São Leopoldo é uma prioridade devido ao bioma de floresta tropical da cidade, o que sugere um ambiente natural rico que poderia se beneficiar de proteção e aprimoramento. Embora a cidade enfrente riscos significativos de inundações e deslizamentos de terra que impactam a saúde pública e a infraestrutura, os ecoparques podem contribuir para serviços ecossistêmicos como a absorção de água e a estabilização do solo, potencialmente mitigando esses perigos ao longo do tempo. Além disso, os espaços verdes melhoram a saúde pública e a qualidade de vida, alinhando-se às necessidades da cidade, dados os altos riscos à saúde pública decorrentes de vários perigos. Esta ação apoia a biodiversidade e pode oferecer benefícios recreativos à população.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Estabelecer eco-parques.",
@@ -805,7 +805,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque pode melhorar a segurança alimentar e apoiar as economias locais. Ao priorizar produtos agroecológicos produzidos localmente, a cidade pode reduzir a sua dependência de fontes externas de alimentos e promover práticas agrícolas sustentáveis. Isso também contribui para a resiliência do sistema alimentar, especialmente face a perturbações relacionadas com o clima. Além disso, pode melhorar a saúde pública, proporcionando acesso a opções alimentares mais saudáveis.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -877,7 +877,7 @@
     "actionId": "icare_0065",
     "actionName": "Implementation of green hydrogen infrastructure for heavy vehicles.",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de infraestrutura de hidrogénio verde para veículos pesados é uma prioridade devido às significativas emissões de transporte em São Leopoldo. Esta ação aborda diretamente uma das principais fontes de gases de efeito estufa, contribuindo para a redução geral das emissões. Ao focar nos veículos pesados, visa um setor que é frequentemente desafiador de descarbonizar. Esta iniciativa apoia uma transição para energia mais limpa, promovendo a sustentabilidade ambiental e potencialmente melhorando a qualidade do ar dentro da cidade.",
     "action": {
       "ActionID": "icare_0065",
       "ActionName": "Implementação de infraestrutura de hidrogênio verde para veículos pesados.",
@@ -949,7 +949,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a produção agroecológica local e as cadeias de abastecimento curtas é uma prioridade para São Leopoldo. Essa ação pode melhorar a segurança alimentar, que é impactada por perigos como secas e inundações. Também promove o uso sustentável da terra, potencialmente reduzindo as emissões do uso da terra. Além disso, pode construir resiliência comunitária e apoiar as economias locais.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Apoiar incentivos fiscais ecológicos é uma prioridade para São Leopoldo porque pode encorajar práticas sustentáveis e a proteção ambiental dentro da cidade. Esses incentivos podem ajudar a mitigar riscos climáticos, promovendo infraestrutura verde e esforços de conservação. Ao integrar considerações ambientais nas políticas financeiras, a cidade pode fomentar resiliência a longo prazo e desenvolvimento sustentável. Esta ação alinha-se com a necessidade de abordar vários impactos climáticos, incluindo aqueles relacionados a recursos hídricos e biodiversidade.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A integração de energias renováveis nos sistemas hídricos municipais é um passo crucial para aumentar a resiliência e a sustentabilidade da cidade. Esta ação aborda diretamente os riscos significativos associados aos recursos hídricos, particularmente dado o alto índice de risco normalizado para secas. Ao diversificar as fontes de energia para a infraestrutura hídrica, São Leopoldo pode reduzir sua vulnerabilidade a interrupções de energia e contribuir para a adaptação climática geral. Esta iniciativa também se alinha com objetivos mais amplos de redução de emissões e promoção de infraestrutura verde na cidade.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
@@ -1165,7 +1165,7 @@
     "actionId": "ipcc_0011",
     "actionName": "Alternative Fuels for Vehicles",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação, focada em combustíveis alternativos para veículos, é uma prioridade devido à contribuição significativa do transporte para o total de emissões da cidade. São Leopoldo possui emissões de transporte muito elevadas, indicando uma forte necessidade de intervenção neste setor. A implementação de combustíveis alternativos pode reduzir diretamente essas emissões, contribuindo para as metas climáticas gerais. Isso a torna um passo crucial nos esforços de sustentabilidade da cidade.",
     "action": {
       "ActionID": "ipcc_0011",
       "ActionName": "Combustíveis Alternativos para Veículos",
@@ -1235,7 +1235,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação apoia cooperativas de catadores de material reciclável, o que pode reduzir significativamente as emissões de resíduos. São Leopoldo possui emissões substanciais de resíduos, tornando esta uma intervenção relevante. Além disso, pode contribuir para a economia local e gerar oportunidades de emprego. Esta iniciativa alinha-se com os objetivos de desenvolvimento sustentável ao promover princípios de economia circular.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar um projeto para apoiar cooperativas de coletores de materiais recicláveis",
@@ -1307,7 +1307,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A tradução para o português é a seguinte:\n\nEsta ação, focada na Assistência Técnica e Extensão Rural (ATER), é uma prioridade para São Leopoldo devido à vulnerabilidade da cidade a secas, que impactam significativamente os recursos hídricos e a segurança alimentar. As ações de ATER podem ajudar as comunidades locais a adotar práticas agrícolas e estratégias de gestão hídrica mais resilientes. Isso é crucial para uma cidade com um bioma de floresta tropical, onde as mudanças climáticas podem ter efeitos profundos no uso tradicional da terra. Além disso, a melhoria das práticas rurais pode contribuir indiretamente para a saúde pública, garantindo suprimentos alimentares mais estáveis e reduzindo os estressores ambientais.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -1379,7 +1379,7 @@
     "actionId": "icare_0097",
     "actionName": "Support Distributed Energy Generation in Residences and Businesses",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a geração distribuída de energia é uma prioridade porque aborda diretamente a segurança energética e reduz a dependência de redes centralizadas, que podem ser vulneráveis a riscos climáticos. Esta ação também contribui para a redução das emissões globais, alinhando-se com os objetivos de mitigação climática. Além disso, capacita residentes e empresas a se tornarem mais autossuficientes em suas necessidades energéticas. Esta iniciativa também pode estimular o desenvolvimento econômico local através de novas instalações e empregos de manutenção.",
     "action": {
       "ActionID": "icare_0097",
       "ActionName": "Apoiar a Geração de Energia Distribuída em Residências e Negócios",

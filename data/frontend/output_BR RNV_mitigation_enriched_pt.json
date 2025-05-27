@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de um pedágio urbano pode reduzir significativamente as emissões de transporte, que são um dos principais contribuintes para as emissões totais da cidade. Essa ação aborda diretamente as altas emissões de transporte, tornando-a uma prioridade para melhorar a qualidade do ar e reduzir a pegada de carbono da cidade. Ao desencorajar o uso de veículos particulares, também pode aliviar o congestionamento do tráfego e promover modos de transporte mais sustentáveis. Isso se alinha com os esforços para criar um ambiente urbano mais saudável e ecologicamente correto.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Here's the Portuguese translation:\n\nEsta ação promove o transporte sustentável, o que é crucial para reduzir as significativas emissões de transporte da cidade. Incentivar o compartilhamento de bicicletas, especialmente com bicicletas elétricas, pode ajudar a diminuir a pegada de carbono e melhorar a qualidade do ar. Também se alinha com os esforços para criar espaços urbanos mais habitáveis e ecologicamente corretos. Esta iniciativa pode contribuir para a saúde pública, promovendo a atividade física e reduzindo a dependência de veículos movidos a combustíveis fósseis.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adoção do biometano em frotas públicas é uma ação relevante para Ribeirão das Neves, dadas as significativas emissões de transporte da cidade. Essa iniciativa visa diretamente uma importante fonte de gases de efeito estufa, contribuindo para a redução geral das emissões. Ao fazer a transição de veículos públicos para biometano, a cidade pode melhorar a qualidade do ar e reduzir sua dependência de combustíveis fósseis. Essa ação se alinha com os objetivos de desenvolvimento urbano sustentável e pode servir como um compromisso visível com a responsabilidade ambiental.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Incentivar políticas de energia renovável a nível municipal é um passo crucial para Ribeirão das Neves. Esta ação aborda diretamente a segurança energética da cidade, que é impactada por perigos como secas e ondas de calor. Ao promover as energias renováveis, a cidade pode reduzir a sua dependência de fontes de energia tradicionais e mitigar as emissões associadas. Esta abordagem proativa contribui para a sustentabilidade a longo prazo e para a resiliência contra os riscos relacionados com o clima.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -294,7 +294,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A expansão dos sistemas de transporte público de massa sobre trilhos é uma ação de alta prioridade para Ribeirão das Neves. A cidade possui emissões significativas provenientes do transporte, indicando uma forte necessidade de alternativas sustentáveis. A melhoria do transporte público pode reduzir a dependência de veículos particulares, diminuindo assim as emissões e melhorando a qualidade do ar. Esta ação aborda diretamente uma das principais fontes da pegada de carbono da cidade, tornando-a crucial para os esforços de mitigação climática.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -366,7 +366,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Abordar as emissões veiculares é uma prioridade significativa para Ribeirão das Neves. As emissões provenientes do transporte na cidade são notavelmente altas, contribuindo substancialmente para o seu perfil geral de emissões. A redução dessas emissões melhorará diretamente a qualidade do ar, beneficiando a saúde pública. Esta ação também se alinha com objetivos climáticos mais amplos, ao diminuir a pegada de carbono da cidade.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -445,7 +445,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca na modernização de portos e aeroportos com tecnologias de emissão zero. Embora importante para a sustentabilidade a longo prazo, Ribeirão das Neves é uma cidade interiorana sem portos ou infraestrutura aeroportuária significativa. Portanto, esta ação não é uma alta prioridade para esta cidade específica. A cidade enfrenta riscos climáticos mais urgentes relacionados à saúde pública, segurança alimentar e infraestrutura devido a perigos como ondas de calor, inundações e secas. Os recursos seriam mais bem alocados para abordar esses desafios imediatos e relevantes.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -517,7 +517,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar programas de certificação agroecológica é uma ação relevante para Ribeirão das Neves, especialmente dado o alto risco da cidade para impactos na segurança alimentar decorrentes de secas e inundações. Esses programas podem aumentar a resiliência da produção local de alimentos e diversificar as práticas agrícolas. Embora não aborde diretamente os riscos mais críticos de saúde pública e infraestrutura, contribui para a segurança alimentar a longo prazo. Esta ação alinha-se com a construção de um sistema alimentar mais sustentável e resiliente face aos desafios das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -589,7 +589,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque aborda diretamente a segurança alimentar, que é uma área de impacto chave para Ribeirão das Neves, especialmente no que diz respeito a secas e inundações. Incentivar a produção agroecológica local pode construir resiliência contra esses perigos, diversificando as fontes de alimentos e reduzindo a dependência de cadeias de suprimentos vulneráveis. Além disso, pode melhorar os fatores socioeconômicos da cidade, particularmente para populações de baixa renda, criando oportunidades econômicas locais. Essa abordagem também se alinha com o uso sustentável da terra, potencialmente mitigando as emissões do uso da terra e promovendo a saúde ambiental.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -661,7 +661,7 @@
     "actionId": "c40_0035",
     "actionName": "Waste Efficiency",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Eficiência na Gestão de Resíduos é uma ação crucial para Ribeirão das Neves, dado que as emissões de resíduos contribuem significativamente para as emissões totais da cidade. A redução de resíduos através de medidas de eficiência aborda diretamente uma fonte substancial de gases de efeito estufa. Esta ação também pode levar a melhores resultados de saúde pública, através da redução da poluição e da melhoria do saneamento. Além disso, alinha-se com os objetivos de desenvolvimento sustentável, promovendo a conservação de recursos e os princípios da economia circular.",
     "action": {
       "ActionID": "c40_0035",
       "ActionName": "Eficiência de Resíduos",
@@ -738,7 +738,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque aborda a segurança alimentar, que é uma área de impacto chave para Ribeirão das Neves, particularmente no que diz respeito a inundações e secas. Ao priorizar produtos agroecológicos locais, a cidade pode aumentar a resiliência contra interrupções na cadeia de suprimentos de alimentos relacionadas ao clima. Isso também apoia as economias locais e as práticas agrícolas sustentáveis. Além disso, pode contribuir para a saúde pública ao promover opções alimentares mais saudáveis.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -810,7 +810,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Promover o controle agroecológico de pragas é uma ação relevante para Ribeirão das Neves, especialmente considerando os significativos riscos à segurança alimentar da cidade, tanto por secas quanto por inundações. Essa iniciativa pode aumentar a resiliência agrícola e reduzir a dependência de insumos químicos, o que se alinha aos objetivos de desenvolvimento sustentável. Embora não aborde diretamente os maiores riscos à saúde pública decorrentes de ondas de calor, inundações e deslizamentos de terra, contribui para um sistema alimentar local mais robusto. Essa ação apoia a saúde ambiental e a segurança alimentar a longo prazo, tornando-a uma intervenção valiosa, embora não prioritária.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -882,7 +882,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação, embora geralmente benéfica para a redução de emissões, não é uma prioridade máxima para Ribeirão das Neves. A cidade enfrenta riscos extremamente elevados de impactos na saúde pública devido a ondas de calor, doenças e inundações, bem como riscos significativos para a infraestrutura e segurança alimentar. Embora as emissões dos transportes sejam notáveis, as ameaças imediatas e severas à saúde humana e à infraestrutura crítica devem ter precedência. Os recursos poderiam ser melhor alocados para ações que abordem diretamente estes perigos climáticos mais urgentes.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Incentivar e promover medidas para o uso sustentável e racional do transporte motorizado individual",
@@ -954,7 +954,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Aumentar a atratividade do sistema de ônibus municipal é uma alta prioridade para Ribeirão das Neves. A cidade possui emissões de transporte significativas, indicando uma dependência de veículos particulares. Promover o transporte público pode reduzir diretamente essas emissões, contribuindo para as metas climáticas. Além disso, um sistema de ônibus aprimorado oferece melhor acessibilidade para os moradores, especialmente dado o fator de baixa renda \"muito_baixo\" da cidade. Esta ação se alinha tanto com a sustentabilidade ambiental quanto com os objetivos de equidade social.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",
@@ -1026,7 +1026,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Esta ação foca na implementação de rotas priorizadas para veículos sustentáveis, o que aborda diretamente as emissões do transporte. Dado que as emissões do transporte são um contribuinte significativo em Ribeirão das Neves, esta iniciativa pode levar a reduções substanciais. Ao promover o transporte sustentável, a cidade pode melhorar a qualidade do ar e reduzir sua pegada de carbono geral. Esta ação alinha-se com os esforços para criar um sistema de mobilidade urbana mais eficiente e ambientalmente amigável.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",
@@ -1098,7 +1098,7 @@
     "actionId": "c40_0036",
     "actionName": "Landfill Management",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A Gestão de Aterros Sanitários é uma ação crucial para Ribeirão das Neves, especialmente dadas as significativas emissões de resíduos na cidade. Melhorar as práticas de gestão de resíduos pode reduzir diretamente essas emissões, contribuindo para as metas climáticas gerais. Além disso, a gestão adequada de aterros sanitários pode mitigar os riscos à saúde pública associados ao descarte inadequado de resíduos. Esta ação também tem o potencial de melhorar a qualidade ambiental local e a recuperação de recursos.",
     "action": {
       "ActionID": "c40_0036",
       "ActionName": "Gestão de Aterros Sanitários",
@@ -1175,7 +1175,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A integração de energias renováveis nos sistemas municipais de água é uma ação crucial para Ribeirão das Neves. A cidade enfrenta um acesso muito baixo a água e saneamento adequados, indicando uma necessidade significativa de melhoria da infraestrutura hídrica. Embora os principais riscos climáticos da cidade estejam relacionados a secas, ondas de calor e inundações, garantir um abastecimento de água resiliente e sustentável é fundamental. Esta ação pode aumentar a confiabilidade dos serviços de água, especialmente dada a alta densência populacional e o potencial de os impactos climáticos sobrecarregarem os sistemas existentes. Priorizar esta ação contribui tanto para a resiliência climática quanto para a melhoria dos serviços públicos.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
@@ -1247,7 +1247,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please see the Portuguese translation below:\n\nEsta ação é uma prioridade porque aborda diretamente a vulnerabilidade da cidade a riscos ambientais. Facilitar a transferência de tecnologia para práticas de conservação pode ajudar a mitigar os impactos de secas e inundações, que representam riscos significativos para os recursos hídricos, a segurança alimentar e a saúde pública. Dadas as altas pontuações de risco normalizado para esses impactos, medidas proativas de conservação são cruciais. Esta ação apoia a resiliência e a sustentabilidade a longo prazo para Ribeirão das Neves.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -1319,7 +1319,7 @@
     "actionId": "icare_0097",
     "actionName": "Support Distributed Energy Generation in Residences and Businesses",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Apoiar a geração distribuída de energia é uma prioridade porque pode ajudar a diversificar as fontes de energia da cidade e reduzir a dependência de redes centralizadas. Esta ação também pode capacitar residentes e empresas a gerar sua própria energia limpa, promovendo a independência energética. Além disso, contribui para a redução do consumo total de energia de fontes tradicionais, o que pode levar a menores emissões. Esta iniciativa alinha-se com objetivos de sustentabilidade mais amplos e pode aumentar a resiliência da cidade a interrupções no fornecimento de energia.",
     "action": {
       "ActionID": "icare_0097",
       "ActionName": "Apoiar a Geração de Energia Distribuída em Residências e Negócios",
@@ -1391,7 +1391,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma prioridade moderada para Ribeirão das Neves. Embora não aborde diretamente os riscos climáticos mais prementes da cidade, como impactos na saúde pública decorrentes de ondas de calor, inundações e deslizamentos de terra, ou questões de segurança alimentar decorrentes de inundações e secas, pode contribuir para uma sustentabilidade ambiental mais ampla. Tais incentivos podem encorajar práticas e investimentos verdes, potencialmente mitigando futuros desafios relacionados ao clima. Essa ação poderia promover um ambiente urbano mais resiliente a longo prazo, mesmo que seu impacto imediato em perigos críticos seja indireto.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",

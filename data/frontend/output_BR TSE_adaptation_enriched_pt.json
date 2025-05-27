@@ -7,7 +7,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é de alta prioridade devido à significativa vulnerabilidade da cidade a secas, que impactam severamente a segurança alimentar. Tangará da Serra também enfrenta altos níveis de saneamento inadequado, o que pode exacerbar problemas de saúde relacionados à alimentação. Melhorar as fazendas e a pesca pode abordar diretamente as preocupações com a segurança alimentar e construir resiliência contra os impactos climáticos. Dados os fatores socioeconômicos de renda muito baixa, o aprimoramento da produção local de alimentos também pode proporcionar benefícios econômicos e melhorar os meios de subsistência.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -84,7 +84,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Acesso à saúde é uma alta prioridade para Tangará da Serra, especialmente dada a alta pontuação de risco normalizado para a saúde pública devido a ondas de calor e doenças. Melhorar o acesso à saúde pode mitigar os impactos desses perigos na população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco de mudanças climáticas da cidade. Garantir uma infraestrutura e serviços de saúde robustos é crucial para o bem-estar dos moradores da cidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -159,7 +159,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nO desenvolvimento de diagnósticos e a restauração das Zonas Especiais de Interesse Social (ZEIS) são uma prioridade para Tangará da Serra. A cidade enfrenta desafios significativos com níveis de renda muito baixos e alta inadequação de saneamento. A intervenção nessas zonas pode melhorar diretamente as condições de vida e o acesso a serviços essenciais para populações vulneráveis. Essa ação se alinha com a necessidade urgente de aprimorar os serviços públicos e os fatores socioeconômicos dentro da cidade.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -233,7 +233,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Tangará da Serra enfrenta riscos significativos para a segurança alimentar, com secas e inundações apresentando um índice de risco normalizado de 0,99. Melhorar o armazenamento e a distribuição de alimentos pode mitigar diretamente esses impactos, garantindo a disponibilidade de alimentos mesmo durante eventos climáticos extremos. Dado o status de \"muito_baixo\" rendimento da cidade, aprimorar os sistemas alimentares é crucial para o bem-estar de sua população vulnerável. Esta medida pode construir resiliência contra interrupções na cadeia de suprimentos de alimentos relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -309,7 +309,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é crucial para Tangará da Serra devido aos seus fatores socioeconômicos de renda muito baixa. Esta ação aborda diretamente a vulnerabilidade da população, especialmente diante dos altos riscos de secas que afetam a segurança hídrica e alimentar, e de doenças que impactam a saúde pública. Ao fornecer uma rede de segurança, a cidade pode mitigar os impactos imediatos desses perigos em seus moradores mais vulneráveis. Esta medida proativa ajuda a construir resiliência e garante que as necessidades básicas sejam atendidas em tempos de crise.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -383,7 +383,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Tangará da Serra enfrenta riscos significativos de eventos climáticos extremos, particularmente secas e inundações, que impactam severamente a segurança hídrica e alimentar. A cidade também experimenta altos riscos de ondas de calor que afetam a saúde pública. O estabelecimento de um plano de preparação e resposta a emergências é crucial para mitigar esses impactos imediatos e severos. Esta ação aborda diretamente a alta vulnerabilidade da cidade a múltiplos perigos climáticos, tornando-a uma alta prioridade para proteger sua população e recursos.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -460,7 +460,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a disponibilidade de infraestrutura de saúde, o que é crucial dados os altos escores de risco normalizados da cidade para impactos na saúde pública decorrentes de ondas de calor e doenças. Melhorar a infraestrutura de saúde pode aumentar a capacidade da cidade de responder a esses desafios de saúde relacionados ao clima. Embora não seja a mais alta prioridade, é uma preocupação significativa para o bem-estar da população. Investir nesta área pode construir resiliência contra futuras crises de saúde exacerbadas pelas mudanças climáticas.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -534,7 +534,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Tangará da Serra enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico é crucial para o alerta precoce e a gestão eficaz da água em uma cidade com renda muito baixa e alto índice de saneamento inadequado. Esta ação aborda diretamente os mais prementes perigos e vulnerabilidades climáticas da cidade. A implementação deste sistema pode ajudar a mitigar aseres consequências da seca para a população e os serviços essenciais.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -606,7 +606,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma alta prioridade para Tangará da Serra, especialmente dados os significativos riscos de saúde pública que a cidade enfrenta devido a ondas de calor e doenças. A cidade também enfrenta altos riscos de secas e inundações, que podem exacerbar os problemas de saúde. Melhorar a infraestrutura de saúde ajudará a cidade a responder eficazmente aos impactos na saúde desses perigos climáticos. Esta ação aborda diretamente a vulnerabilidade da população a crises de saúde relacionadas ao clima.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -682,7 +682,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido à significativa vulnerabilidade da cidade a problemas de segurança alimentar, conforme indicado pela alta pontuação de risco normalizado para secas e inundações que afetam a segurança alimentar. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode mitigar diretamente esses riscos, fomentando sistemas alimentares mais resilientes. Dados os fatores socioeconômicos de renda muito baixa, a gestão eficiente dos recursos alimentares torna-se ainda mais crítica. Esta ação pode contribuir tanto para os esforços de adaptação climática quanto para os de mitigação dentro da comunidade.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -758,7 +758,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma prioridade para Tangará da Serra, especialmente dado o alto risco de seca e seu impacto na segurança alimentar. Esta ação pode aumentar a produção local de alimentos, reduzindo a dependência de fontes externas que podem ser vulneráveis a choques climáticos. Além disso, pode contribuir para a resiliência da comunidade e potencialmente melhorar os resultados de saúde pública, aumentando o acesso a produtos frescos. As hortas urbanas também oferecem oportunidades educacionais e promovem o engajamento comunitário, alinhando-se com os fatores socioeconômicos da cidade.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -830,7 +830,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Tangará da Serra, dadas as suas significativas emissões provenientes do uso da terra e a prevalência de riscos de secas e inundações que afetam os recursos hídricos e a segurança alimentar. Proteger e restaurar ecossistemas pode aumentar a resiliência da cidade a esses impactos climáticos. Essa abordagem também oferece co-benefícios para a biodiversidade, que já é impactada tanto por secas quanto por ondas de calor. Priorizar essa ação pode ajudar a mitigar os altos riscos identificados na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -917,7 +917,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please provide the text you would like me to translate into Portuguese. I will then do my best to provide an accurate and natural-sounding translation.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -993,7 +993,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os programas de controle e conservação das áreas protegidas é uma prioridade para Tangará da Serra. O bioma da cidade é de campo/savana, que frequentemente é vulnerável à degradação ambiental. Dadas as significativas emissões provenientes do uso da terra, proteger essas áreas pode ajudar a mitigar um maior impacto ambiental. Essa ação apoia a biodiversidade e a saúde dos ecossistemas, que são cruciais para a resiliência a longo prazo da cidade. Além disso, alinha-se com os objetivos mais amplos de conservação ambiental, contribuindo para a sustentabilidade da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -1066,7 +1066,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "**Portuguese Translation:**\n\nIncentivar práticas sustentáveis de uso da terra é uma alta prioridade para Tangará da Serra, dadas as suas significativas emissões provenientes do uso da terra. O bioma da cidade é de campo/savana, que é particularmente vulnerável a práticas insustentáveis. Com renda muito baixa e saneamento inadequado elevado, a comunidade pode depender mais da terra para sua subsistência, tornando as práticas sustentáveis cruciais. Esta ação aborda diretamente uma importante fonte de emissões e pode ajudar a mitigar impactos-chave como a seca e a segurança alimentar, que já são altos riscos para a cidade.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -1140,7 +1140,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido à alta vulnerabilidade da cidade a secas, que impactam severamente os recursos hídricos e a segurança alimentar. A manutenção e revitalização de matas ciliares podem ajudar a mitigar esses impactos, melhorando a retenção de água, reduzindo a erosão e apoiando os ecossistemas locais. Dados os fatores socioeconômicos de baixíssima renda, tal ação também pode proporcionar co-benefícios como emprego local e melhoria da saúde ambiental para populações vulneráveis. Esta medida proativa aborda riscos ambientais críticos e apoia a resiliência da comunidade em Tangará da Serra.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -1213,7 +1213,7 @@
     "actionId": "ipcc_0087",
     "actionName": "Infrastructure retrofitting",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A modernização da infraestrutura é uma prioridade para Tangará da Serra, dada a alta vulnerabilidade da cidade a vários riscos climáticos. Embora a cidade enfrente riscos significativos de secas e inundações que afetam a segurança hídrica e alimentar, a infraestrutura também está em risco devido a ondas de calor e inundações. A modernização da infraestrutura pode aumentar sua resiliência contra esses impactos climáticos, protegendo serviços e bens essenciais. Essa ação é crucial para a adaptação às mudanças climáticas e para a salvaguarda das bases físicas da cidade.",
     "action": {
       "ActionID": "ipcc_0087",
       "ActionName": "Retrofitting de infraestrutura",
@@ -1286,7 +1286,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Tangará da Serra enfrenta riscos significativos de eventos climáticos extremos, particularmente secas e inundações, que impactam severamente os recursos hídricos e a segurança alimentar. A cidade também possui renda muito baixa e saneamento inadequado elevado, tornando sua população vulnerável a esses choques. Um programa de apoio financeiro forneceria ajuda crucial a moradores e empresas afetados por esses eventos, ajudando-os a se recuperar e a construir resiliência. Essa ação aborda diretamente a alta exposição da cidade a riscos climáticos e suas vulnerabilidades socioeconômicas.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1363,7 +1363,7 @@
     "actionId": "ipcc_0101",
     "actionName": "Efficient water supply/distribution",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Tangará da Serra enfrenta desafios significativos com acesso inadequado à água, apesar de seu bioma de campo/savana. A cidade também experimenta altos riscos de secas, que impactam severamente os recursos hídricos e a segurança alimentar. Melhorar o abastecimento e a distribuição de água é crucial para abordar essas vulnerabilidades. Esta medida aumentará a resiliência contra os impactos climáticos e melhorará os resultados de saúde pública.",
     "action": {
       "ActionID": "ipcc_0101",
       "ActionName": "Fornecimento/distribuição de água eficiente",
@@ -1435,7 +1435,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A seguinte ação é prioritária devido à alta vulnerabilidade da cidade a vários perigos, particularmente secas e inundações, que impactam significativamente os recursos hídricos e a segurança alimentar. Dados os fatores socioeconômicos \"muito_baixos\" e o saneamento inadequado \"alto\", a realocação e restauração de áreas vulneráveis podem abordar diretamente os riscos à saúde pública e à infraestrutura. Esta medida proativa pode mitigar danos futuros e melhorar as condições de vida das populações mais afetadas. Ela se alinha com a construção de resiliência em uma cidade que enfrenta múltiplos desafios relacionados ao clima.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",

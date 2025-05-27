@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é de alta prioridade porque Cuiabá enfrenta riscos significativos de eventos climáticos extremos, particularmente secas, ondas de calor e inundações, que apresentam altos índices de risco normalizado em vários impactos-chave. O estabelecimento de um plano abrangente de preparação e resposta a emergências é crucial para mitigar as graves consequências desses perigos para a saúde pública, infraestrutura e segurança alimentar. Dada a vulnerabilidade da cidade, medidas proativas são essenciais para proteger sua população e sistemas críticos. Este plano aumentará a resiliência da cidade e a capacidade de responder eficazmente quando esses eventos ocorrerem.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Cuiabá, especialmente dados os altos riscos identificados para a saúde pública devido a ondas de calor, doenças e inundações. Melhorar o acesso à saúde pode mitigar significativamente os impactos desses perigos na população. Esta ação aborda diretamente as vulnerabilidades destacadas na avaliação de risco da cidade. Garantir uma infraestrutura e serviços de saúde robustos é essencial para a resiliência e o bem-estar da comunidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -159,7 +159,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque Cuiabá enfrenta um alto risco para a segurança alimentar devido a secas e inundações, com pontuações de risco normalizadas de 0,93 e 0,67, respetivamente. Melhorar o armazenamento e a distribuição de alimentos pode mitigar diretamente estes impactos, garantindo maior resiliência face aos perigos climáticos. Dada a população de rendimentos muito baixos da cidade, a melhoria dos sistemas alimentares é crucial para a equidade social e a estabilidade. Esta medida pode ajudar a prevenir a escassez de alimentos e os picos de preços, que afetam desproporcionalmente as comunidades vulneráveis. Portanto, investir em infraestruturas alimentares é um passo vital para a adaptação climática e o bem-estar da comunidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -235,7 +235,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Desenvolver diagnósticos e restaurar as Zonas Especiais de Interesse Social (ZEIS) é crucial para Cuiabá devido à sua população de renda muito baixa. Essas zonas frequentemente abrigam comunidades vulneráveis desproporcionalmente afetadas por riscos ambientais. Melhorar essas áreas pode aprimorar as condições de vida e a resiliência para uma parcela significativa dos moradores da cidade. Esta ação aborda diretamente os desafios de equidade social e desenvolvimento urbano dentro da cidade.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -309,7 +309,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade devido aos altos índices de risco da cidade para a segurança alimentar, impactados tanto por secas quanto por inundações. Melhorar as práticas agrícolas e pesqueiras pode aumentar a resiliência a esses perigos, garantindo um abastecimento alimentar mais estável para a população. Dados os níveis de renda muito baixos em Cuiabá, fortalecer a segurança alimentar é crucial para o bem-estar de seus moradores. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -386,7 +386,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá está localizada em um bioma de campo/savana, que frequentemente contém ecossistemas sensíveis e biodiversidade. A cidade também enfrenta riscos muito elevados para a biodiversidade, tanto por secas quanto por ondas de calor, indicando uma forte necessidade de medidas protetivas. O fortalecimento de programas de controle e conservação de áreas protegidas aborda diretamente essas vulnerabilidades. Essa ação ajuda a preservar habitats e espécies críticas, que são essenciais para manter o equilíbrio ecológico e a resiliência contra os impactos climáticos. Dados os altos riscos à biodiversidade, essa ação é uma prioridade para a sustentabilidade ambiental da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -459,7 +459,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque Cuiabá enfrenta riscos significativos para a saúde pública decorrentes de ondas de calor, doenças e inundações, bem como problemas de segurança alimentar devido a secas e inundações. As redes de segurança social podem fornecer apoio crucial às populações vulneráveis durante estes eventos, mitigando os seus impactos. Dada a população de baixíssima renda da cidade e o acesso inadequado existente à água e saneamento, estas medidas são essenciais para a construção de resiliência. Além disso, as redes de segurança social podem ajudar a abordar as vulnerabilidades socioeconómicas mais amplas exacerbadas pelos impactos das alterações climáticas.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -533,7 +533,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a disponibilidade de infraestrutura de saúde, que é crucial dados os altos riscos à saúde pública decorrentes de ondas de calor, doenças e inundações em Cuiabá. Melhorar a infraestrutura de saúde pode aumentar a capacidade da cidade de responder a essas crises de saúde relacionadas ao clima. Embora não seja a prioridade absoluta, é uma preocupação significativa para o bem-estar da população. Investir nesta área pode levar a uma melhor preparação e resiliência contra futuros impactos na saúde.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -607,7 +607,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Cuiabá, dadas as significativas emissões provenientes do uso da terra que contribuem para o total de emissões da cidade. A cidade também enfrenta altos riscos de secas e inundações, que podem ser exacerbados pelo uso insustentável da terra. A implementação dessas práticas pode ajudar a mitigar esses perigos e proteger impactos importantes como recursos hídricos, segurança alimentar e biodiversidade. Esta ação aborda diretamente uma das principais fontes de emissões e constrói resiliência contra os riscos climáticos.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -681,7 +681,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá enfrenta riscos significativos de secas e inundações, ambos impactando severamente os recursos hídricos e a saúde pública. A manutenção e revitalização das matas ciliares podem ajudar a mitigar esses riscos, estabilizando as margens dos rios, melhorando a qualidade da água e regulando o fluxo hídrico. Essa ação também apoia a biodiversidade, que é altamente impactada tanto pelas secas quanto pelas ondas de calor na cidade. Dados os altos índices de risco normalizados para esses perigos e impactos, esta ação é um passo crucial para aumentar a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -754,7 +754,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido aos altos riscos que Cuiabá enfrenta em relação aos perigos climáticos, particularmente aqueles que impactam a saúde pública. A cidade possui pontuações de risco normalizadas muito altas para impactos na saúde pública decorrentes de ondas de calor, doenças e inundações. Fortalecer a rede de saúde é crucial para responder eficazmente ao aumento da carga de saúde sobre a população causada por esses eventos climáticos. Esta medida proativa aumentará a resiliência e a capacidade da cidade de proteger seus cidadãos.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -830,7 +830,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá enfrenta riscos significativos de eventos climáticos extremos, particularmente secas, ondas de calor e inundações, que impactam severamente a saúde pública, a infraestrutura e a segurança alimentar. Um programa de apoio financeiro é crucial para ajudar a cidade e seus moradores a se recuperarem desses eventos frequentes e intensos. Essa iniciativa pode fornecer recursos muito necessários para a reconstrução e adaptação, reduzindo o ônus socioeconômico de longo prazo. Também demonstra uma abordagem proativa à resiliência climática, garantindo que a cidade esteja mais bem preparada para futuros desafios climáticos.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -907,7 +907,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico é crucial para compreender a disponibilidade de água e prever condições de seca. Essa abordagem proativa permite uma melhor gestão da água e sistemas de alerta precoce. Dadas as altas pontuações de risco normalizado para impactos relacionados à seca, esta ação é uma prioridade para a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -979,7 +979,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a segurança alimentar, que é uma área de impacto chave para Cuiabá, particularmente devido a secas e inundações. Reduzir o desperdício de alimentos e promover dietas sustentáveis pode mitigar a vulnerabilidade da cidade a esses perigos. Além disso, pode contribuir para uma redução nas emissões do uso da terra, que são um componente significativo das emissões totais da cidade. Embora não seja a mais alta prioridade, oferece uma abordagem multifacetada para a resiliência e a sustentabilidade.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1055,7 +1055,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A implementação de hortas urbanas em Cuiabá é uma prioridade devido aos riscos significativos da cidade relacionados à segurança alimentar, conforme indicado por altas pontuações de risco normalizado para secas e inundações. As hortas urbanas podem aumentar a produção local de alimentos, reduzindo a dependência de sistemas alimentares externos e melhorando a resiliência contra interrupções relacionadas ao clima. Essa ação também contribui para a biodiversidade, que é outra área de impacto chave com altas pontuações de risco tanto de secas quanto de ondas de calor. Além disso, os espaços verdes urbanos podem ajudar a mitigar o efeito de ilha de calor urbana, abordando indiretamente os riscos de saúde pública e infraestrutura associados às ondas de calor.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Cuiabá devido ao alto risco de inundações que afetam a infraestrutura e a saúde pública. As superfícies permeáveis podem ajudar a gerenciar o escoamento de águas pluviais, reduzindo a carga sobre os sistemas de drenagem e mitigando os impactos das inundações. O aumento das áreas verdes também contribui para o resfriamento urbano, o que é crucial dado o alto risco de ondas de calor que afetam a saúde pública e a infraestrutura. Esta ação aborda diretamente múltiplos riscos de alto impacto identificados na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1199,7 +1199,7 @@
     "actionId": "ipcc_0087",
     "actionName": "Infrastructure retrofitting",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A requalificação da infraestrutura é uma prioridade para Cuiabá devido aos altos riscos associados a inundações e ondas de calor. A cidade enfrenta impactos significativos na infraestrutura de ambos os perigos, com inundações apresentando uma pontuação de risco normalizada de 0,99 e ondas de calor também pontuando 0,99 para infraestrutura. A requalificação pode aumentar a resiliência da infraestrutura crítica, reduzindo danos e interrupções durante eventos climáticos extremos. Esta ação aborda diretamente a vulnerabilidade da cidade a esses perigos climáticos prevalentes, salvaguardando serviços e bens essenciais.",
     "action": {
       "ActionID": "ipcc_0087",
       "ActionName": "Retrofitting de infraestrutura",
@@ -1272,7 +1272,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido aos altos riscos da cidade decorrentes de múltiplos perigos. Cuiabá enfrenta riscos significativos de inundações e deslizamentos de terra, que impactam severamente a infraestrutura e a saúde pública. A realocação de moradores de áreas vulneráveis e a restauração do meio ambiente podem mitigar esses riscos. Esta medida proativa protege vidas, reduz danos à infraestrutura crítica e melhora a resiliência urbana geral.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1343,7 +1343,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Esta ação é uma prioridade porque Cuiabá enfrenta riscos significativos para a biodiversidade, tanto de secas quanto de ondas de calor, com pontuações de risco normalizadas de 0,99 para ambos. A adaptação baseada em ecossistemas aborda diretamente esses impactos na biodiversidade, aumentando a resiliência dos sistemas naturais. Dado o bioma de campo/savana da cidade, proteger e restaurar esses ecossistemas também pode ajudar a regular os recursos hídricos e mitigar o calor, o que é crítico dados os altos riscos de seca e ondas de calor. Essa abordagem oferece uma solução holística para múltiplos perigos climáticos, tornando-se um investimento crucial para a sustentabilidade de longo prazo da cidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1430,7 +1430,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cuiabá enfrenta riscos extremamente elevados de secas, impactando os recursos hídricos e a segurança alimentar. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades críticas. Dado o acesso muito baixo a serviços de água adequados, esta ação é crucial para melhorar a resiliência e a saúde pública. Priorizar esta ação ajudará a garantir recursos essenciais para a população e a mitigar as consequências severas de futuras secas.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",

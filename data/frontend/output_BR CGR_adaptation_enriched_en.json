@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Campo Grande faces significant risks from extreme weather events, including droughts, heatwaves, and floods, which severely impact public health, food security, and infrastructure. Establishing a comprehensive plan for preparation and emergency response is crucial for mitigating these widespread and high-risk impacts. This proactive measure will enhance the city's resilience and protect its vulnerable population and critical systems. Given the multiple high-risk hazards identified, this action is a top priority for the city.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Campo Grande is situated in a grassland/savanna biome, making its protected areas crucial for biodiversity and ecosystem services. The city faces significant risks from droughts and heatwaves, which can severely impact natural habitats. Strengthening conservation programs is vital to mitigate these climate impacts and preserve the ecological balance. This action helps protect the city's natural capital, which is essential for long-term resilience and sustainability.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Campo Grande faces significant food security risks due to droughts and floods, both scoring 0.99 in normalized risk. Improving food storage and distribution directly addresses these vulnerabilities by enhancing resilience against climate-related disruptions to the food supply chain. This will help ensure consistent access to food for the population, mitigating the impacts of extreme weather events. Therefore, this action is crucial for the city's overall resilience and well-being.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -233,7 +233,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action focuses on developing diagnostics and restoring Special Social Interest Zones (ZEIS). Given Campo Grande's very low income and low access to public services, improving these areas is crucial for social equity. While not directly addressing the city's high risks from droughts, heatwaves, floods, and landslides, it can indirectly enhance community resilience. Prioritizing these zones can lead to better living conditions and potentially reduce vulnerability to climate impacts for the most disadvantaged populations. This action is a foundational step towards inclusive urban development.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -307,7 +307,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a priority for Campo Grande given its significant land use emissions. The city's biome is grassland/savanna, which is particularly vulnerable to unsustainable practices. This action can help mitigate the high normalized risk scores for food security and biodiversity, which are impacted by hazards like droughts and floods. By addressing land use, the city can improve its resilience to climate change impacts and reduce its overall environmental footprint.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -381,7 +381,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the significant public health risks identified in Campo Grande, particularly from heatwaves, diseases, and floods. Strengthening the healthcare network directly addresses these vulnerabilities by improving the city's capacity to respond to climate-related health crises. Given the high normalized risk scores for public health impacts, this initiative is crucial for protecting the well-being of the population. It ensures that the city is better prepared to manage the health consequences of climate change, making it a vital investment in community resilience.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -457,7 +457,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Campo Grande, especially given the high normalized risk scores for public health impacts from heatwaves, diseases, and floods. Improving healthcare access can directly mitigate these risks, ensuring the population receives timely and adequate medical attention during climate-related health crises. This action is essential for building resilience and protecting vulnerable communities from the escalating health challenges posed by climate change. Prioritizing healthcare access will enhance the city's adaptive capacity and reduce overall human suffering.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -532,7 +532,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Campo Grande faces significant risks from floods, which severely impact infrastructure and food security. Maintaining and revitalizing riparian forests can help mitigate these flood risks by stabilizing riverbanks and absorbing excess water. This action also supports biodiversity, which is moderately impacted by both droughts and heatwaves in the city. Given the high flood risks, this action is a crucial step towards enhancing the city's resilience and protecting vital resources.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -605,7 +605,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is crucial for Campo Grande due to its 'very_low' low-income factor, indicating significant vulnerability among its population. The city also faces high risks from multiple hazards like droughts, heatwaves, floods, and diseases, which disproportionately affect vulnerable communities. Social safety nets can provide essential support, helping residents cope with the impacts of these climate-related events and improving overall resilience. This action directly addresses the socio-economic challenges and enhances the adaptive capacity of the most affected groups.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -679,7 +679,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is crucial given the city's high risks related to public health from heatwaves, diseases, and floods. Improving health infrastructure can enhance the city's capacity to respond to these climate-related health crises. While other hazards like droughts and food security are also significant, public health impacts are directly mitigated by robust health systems. Therefore, this action is a priority for building resilience against immediate and severe human impacts of climate change.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -753,7 +753,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action addresses the critical issue of vulnerable populations and environmental degradation. Campo Grande faces significant risks from multiple hazards, including floods, heatwaves, and droughts, which severely impact infrastructure, public health, and food security. Relocating residents from high-risk areas directly mitigates these threats, protecting lives and reducing future disaster-related costs. Simultaneously, environmental restoration can enhance the city's resilience by improving natural defenses against climate impacts. This comprehensive approach is crucial for the long-term safety and sustainability of the community.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -824,7 +824,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Campo Grande faces significant risks from extreme weather events, including droughts, heatwaves, and floods, which severely impact public health, food security, and infrastructure. A financial support program is crucial to help the city and its residents recover from these frequent and intense events. This initiative can provide immediate relief and aid in rebuilding efforts, reducing the long-term socio-economic burden. Prioritizing this action will enhance the city's resilience and protect vulnerable populations from the devastating effects of climate change.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -901,7 +901,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Campo Grande faces significant risks from droughts and floods, both of which severely impact water resources and food security. A hydrological monitoring system with telemetry stations is crucial for early warning and effective management of these hazards. This system would provide real-time data, enabling proactive measures to mitigate the impacts of extreme weather events. Given the high normalized risk scores for these hazards, this action is a priority for enhancing the city's resilience.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -973,7 +973,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens in Campo Grande is a priority due to the city's high risk for food security impacts from both droughts and floods. Urban gardens can enhance local food production, reducing reliance on external food systems which are vulnerable to climate hazards. This action also promotes community resilience and can contribute to local biodiversity. Furthermore, it aligns with addressing the very low socio-economic factors by providing accessible food sources and potential income generation opportunities.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1045,7 +1045,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Campo Grande faces significant risks to food security from both droughts and floods, with both hazards having a normalized risk score of 0.99. Improving farms and fisheries directly addresses these vulnerabilities by enhancing resilience and productivity in the face of climate change. This action can help stabilize local food supplies and support livelihoods, which is crucial given the city's very low-income socio-economic factors. Prioritizing this action will contribute to mitigating the severe impacts of climate-related events on the community's access to food.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -1122,7 +1122,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Campo Grande faces significant risks from floods and heatwaves, both of which can be mitigated by permeable pavements and increased green areas. Floods pose a high risk to infrastructure and food security, while heatwaves severely impact public health and infrastructure. Implementing this action can help manage stormwater runoff, reduce urban heat island effects, and improve overall urban resilience. This makes it a crucial step in addressing the city's climate vulnerabilities.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1194,7 +1194,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a critical concern for Campo Grande, especially given the high normalized risk score for droughts and floods impacting food security. Promoting behaviour change in diets and reducing food waste can directly mitigate these risks by improving resource efficiency and reducing demand. Furthermore, it can contribute to a more sustainable food system, lessening the city's vulnerability to climate-related disruptions. This action is a priority because it tackles a direct impact of climate hazards on the population's well-being.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Campo Grande faces significant risks from droughts, impacting water resources and food security. Implementing water capture/storage solutions directly addresses these vulnerabilities by enhancing water availability and resilience. This action is crucial for mitigating the severe consequences of water scarcity on the population and local economy. Given the high normalized risk scores for drought-related impacts, this intervention is a high priority for the city's climate adaptation strategy.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1346,7 +1346,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Campo Grande given its significant risks from droughts, heatwaves, and floods, which severely impact food security, public health, and infrastructure. This approach leverages natural systems to mitigate these hazards, offering a sustainable and cost-effective solution. By restoring and protecting ecosystems, the city can enhance its resilience to climate change impacts. This action is a priority because it addresses multiple key impacts identified in the city's climate risk assessment, providing broad benefits across various sectors.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Preservation and Recovery of Water Bodies is a priority for Campo Grande due to the city's significant risk from droughts, which severely impact water resources. The city also faces high risks from floods, which can degrade water quality and infrastructure. Protecting and restoring water bodies is crucial for mitigating these hazards and ensuring water security for the population. This action directly addresses key vulnerabilities identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",

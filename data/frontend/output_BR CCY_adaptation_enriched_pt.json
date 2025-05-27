@@ -7,7 +7,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nO desenvolvimento de diagnósticos e a restauração das Zonas Especiais de Interesse Social (ZEIS) são de alta prioridade para Caracaraí. A cidade enfrenta desafios significativos com acesso inadequado à água e problemas moderados de saneamento, indicando a necessidade de melhoria dos serviços públicos, especialmente em áreas vulneráveis. A abordagem das ZEIS pode melhorar diretamente as condições de vida e a saúde pública para populações de baixa renda, que são frequentemente afetadas de forma desproporcional por essas deficiências. Esta ação alinha-se com os fatores socioeconômicos da cidade, onde a baixa renda é uma preocupação moderada, tornando as intervenções direcionadas nessas zonas cruciais para o desenvolvimento equitativo e a resiliência.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -81,7 +81,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido à vulnerabilidade da cidade a secas e inundações, ambas com impacto significativo na segurança alimentar. Melhorar o armazenamento e a distribuição de alimentos pode mitigar os efeitos desses perigos, garantindo um abastecimento alimentar mais estável para a população. Dado o fator moderado de baixa renda, o aprimoramento da segurança alimentar aborda diretamente uma necessidade crítica para a comunidade. Esta ação ajuda a construir resiliência contra interrupções no sistema alimentar relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -157,7 +157,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorar o acesso à saúde é uma ação crucial para Caracaraí, especialmente dada a população de renda moderada a baixa da cidade e os riscos de saúde pública existentes. A cidade enfrenta riscos de ondas de calor e doenças, que podem agravar os problemas de saúde. O acesso aprimorado à saúde pode mitigar os impactos desses perigos na população. Esta ação aborda diretamente o bem-estar dos moradores e constrói resiliência contra desafios de saúde relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -232,7 +232,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de hortas urbanas em Caracaraí é uma ação benéfica, especialmente considerando a população de baixa renda moderada da cidade e os riscos existentes à segurança alimentar decorrentes de secas e inundações. As hortas urbanas podem melhorar a segurança alimentar local, fornecendo produtos frescos diretamente aos moradores, reduzindo a dependência de fontes externas de alimentos. Essa iniciativa também promove o engajamento comunitário e pode oferecer oportunidades educacionais sobre práticas sustentáveis. Embora não aborde diretamente as infraestruturas mais críticas ou os riscos à biodiversidade, contribui para a resiliência e o bem-estar.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -304,7 +304,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade devido aos riscos significativos da cidade relacionados à segurança alimentar, particularmente de secas e inundações. A melhoria das fazendas e pescarias aborda diretamente essas vulnerabilidades, aprimorando a produção e a resiliência alimentar local. Dado o fator de baixa renda \"moderado\", o fortalecimento dos sistemas alimentares também pode contribuir para a estabilidade econômica e os meios de subsistência. Esta ação alinha-se com a necessidade de reforçar os serviços essenciais e reduzir a dependência de fontes externas de alimentos, o que é crucial para uma cidade com uma população relativamente pequena e altas emissões de uso da terra.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -381,7 +381,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é uma ação crucial para Caracaraí, dada a sua população de renda moderadamente baixa e o alto índice de acesso inadequado à água. Esses programas podem fornecer apoio essencial a comunidades vulneráveis, ajudando-as a lidar com os impactos de riscos climáticos como secas e ondas de calor. Ao melhorar a resiliência da população, as redes de segurança social contribuem indiretamente para melhores resultados em saúde pública e segurança alimentar. Esta ação é uma prioridade porque aborda necessidades humanas fundamentais e fortalece a capacidade da comunidade de se adaptar aos desafios ambientais.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -455,7 +455,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é a seguinte:\n\nEsta ação é uma prioridade devido às significativas emissões de uso da terra de Caracaraí, que são o maior contribuinte para as suas emissões totais. O fortalecimento de programas de controlo e conservação de áreas protegidas pode abordar diretamente os impulsionadores destas emissões, como a desflorestação e a degradação da terra. Dado o bioma de floresta tropical da cidade e o elevado risco de biodiversidade devido a secas e ondas de calor, proteger estas áreas é crucial para a resiliência ecológica. Esta ação também se alinha com a vulnerabilidade da cidade aos impactos climáticos na biodiversidade, tornando-a uma intervenção crítica para a estabilidade ambiental e a sustentabilidade a longo prazo.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -528,7 +528,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Caracaraí, dadas as suas significativas emissões provenientes do uso da terra, que são de longe o maior contribuinte para as emissões totais da cidade. Esta ação aborda diretamente a principal fonte de emissões de gases de efeito estufa na cidade. A implementação de tais práticas também pode ajudar a mitigar os riscos associados a secas e inundações, que impactam a segurança alimentar e os recursos hídricos. Além disso, pode proteger o bioma de floresta tropical e sua biodiversidade, que está em alto risco tanto de secas quanto de ondas de calor. Esta ação é crucial tanto para a mitigação quanto para a adaptação às mudanças climáticas em Caracaraí.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -602,7 +602,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Estabelecer um plano de preparação e medidas de resposta a emergências é crucial para Caracaraí, dada a sua vulnerabilidade a eventos climáticos extremos. A cidade enfrenta riscos significativos de ondas de calor, que impactam severamente a infraestrutura e a biodiversidade, e secas, que afetam a segurança hídrica e energética. Embora as inundações também representem um risco, as preocupações mais prementes estão relacionadas a ondas de calor e secas. Um plano abrangente ajudará a mitigar os impactos desses perigos, protegendo tanto a população quanto o meio ambiente.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -679,7 +679,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido ao alto risco da cidade a secas e inundações, que impactam diretamente os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico pode fornecer avisos antecipados cruciais para esses perigos, permitindo uma melhor preparação e resposta. Dada a inadequação moderada do saneamento da cidade e o alto nível de acesso inadequado à água, gerenciar os recursos hídricos de forma eficaz é fundamental. Este sistema apoiaria a cidade na mitigação dos impactos de eventos climáticos extremos em sua população e infraestrutura.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -751,7 +751,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a segurança alimentar, que é uma área de impacto fundamental para Caracaraí, particularmente no que diz respeito a secas e inundações. Dado o bioma de floresta tropical úmida da cidade e a população de baixa renda moderada, a promoção de dietas sustentáveis e a redução do desperdício de alimentos podem aumentar significativamente a resiliência. Esta iniciativa também pode aliviar indiretamente a pressão sobre os recursos hídricos e a segurança energética, ambos impactados pelas secas. Embora não aborde diretamente os maiores riscos, como danos à infraestrutura causados por ondas de calor, ela contribui para o bem-estar geral da comunidade e para a gestão de recursos.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -827,7 +827,7 @@
     "actionId": "icare_0182",
     "actionName": "Urban Afforestation and Green Spaces Implementation",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de arborização urbana e espaços verdes é uma prioridade para Caracaraí devido à alta pontuação de risco normalizado para a biodiversidade impactada por ondas de calor (0,837). Esta ação aborda diretamente a necessidade de mitigar o efeito de ilha de calor urbana e proteger os ecossistemas locais. Dado o bioma de floresta tropical da cidade, o aprimoramento da infraestrutura verde alinha-se com seu ambiente natural e pode melhorar a resiliência geral. Além disso, pode contribuir para a saúde pública, proporcionando áreas mais frescas e melhorando a qualidade do ar, o que é crucial em uma cidade com populações de baixa renda moderadas. Esta iniciativa também apoia a adaptação às mudanças climáticas, aumentando os sumidouros de carbono e aprimorando as defesas naturais da cidade contra eventos climáticos extremos.",
     "action": {
       "ActionID": "icare_0182",
       "ActionName": "Implementação de Aflorestamento Urbano e Espaços Verdes",
@@ -896,7 +896,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido às significativas emissões de uso do solo da cidade, que são um dos principais contribuintes para as suas emissões totais. As florestas ripárias desempenham um papel crucial na manutenção da saúde dos ecossistemas, na prevenção da erosão e no sequestro de carbono. A sua manutenção e revitalização podem abordar diretamente as elevadas emissões de uso do solo e melhorar a resiliência ambiental geral de Caracaraí. Esta iniciativa também apoia a biodiversidade, que é uma área de impacto chave com altas pontuações de risco tanto para secas quanto para ondas de calor na cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -969,7 +969,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Caracaraí, dado o seu bioma de floresta tropical e os significativos riscos à biodiversidade decorrentes tanto de secas quanto de ondas de calor. A cidade enfrenta altos escores de risco normalizado para impactos na biodiversidade, particularmente de ondas de calor (0.837) e secas (0.502). A implementação desta ação pode ajudar a mitigar essas ameaças ambientais específicas e aumentar a resiliência dos sistemas naturais. Além disso, um ecossistema saudável pode apoiar indiretamente os recursos hídricos e a segurança alimentar, que também são impactados pelas secas na região. Priorizar esta ação alinha-se com o enfrentamento das vulnerabilidades ambientais mais prementes da cidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1056,7 +1056,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Esta ação aborda a necessidade crítica de realocação e restauração ambiental em áreas vulneráveis. Dados os riscos significativos de Caracaraí decorrentes de ondas de calor, particularmente para a infraestrutura e a biodiversidade, e suas altas emissões de uso da terra, esta ação é altamente relevante. A realocação de populações de zonas de alto risco pode proteger vidas e reduzir danos à infraestrutura. Simultaneamente, a restauração ambiental pode mitigar os impactos dos perigos climáticos e aumentar a resiliência do ecossistema, o que é crucial para uma cidade com um bioma de floresta tropical. Esta abordagem abrangente aborda diretamente tanto a segurança humana quanto a integridade ecológica diante das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1127,7 +1127,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade devido ao elevado índice de acesso inadequado à água e ao saneamento moderadamente inadequado na cidade. A cidade também enfrenta riscos significativos de secas, que afetam os recursos hídricos e a segurança alimentar. A implementação de soluções de captação e armazenamento de água pode abordar diretamente estas vulnerabilidades. Isso melhorará a disponibilidade de água para a população e mitigará os efeitos da seca nos serviços essenciais e nos meios de subsistência.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1203,7 +1203,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese: Esta ação aborda a disponibilidade de infraestrutura de saúde, que é crucial para o bem-estar público. Dada a população de baixa renda moderada da cidade e os riscos de saúde pública existentes decorrentes de ondas de calor, doenças e inundações, uma infraestrutura de saúde robusta é essencial. Melhorar esta área pode aumentar a resiliência da cidade aos impactos de saúde relacionados ao clima. Priorizar esta ação beneficiará diretamente a comunidade, fortalecendo sua capacidade de responder a crises de saúde e fornecer os serviços médicos necessários.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -1277,7 +1277,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são uma prioridade para Caracaraí devido ao significativo risco de infraestrutura que a cidade enfrenta em decorrência de ondas de calor e inundações. As superfícies permeáveis podem ajudar a gerenciar o escoamento de águas pluviais, reduzindo os impactos das inundações, enquanto as áreas verdes podem mitigar os efeitos das ilhas de calor urbanas, abordando os riscos das ondas de calor. Dado o bioma de floresta tropical da cidade, essas intervenções se alinham com os sistemas naturais para aumentar a resiliência. Essa ação também apoia a biodiversidade, que é altamente impactada tanto por secas quanto por ondas de calor em Caracaraí. No geral, essa ação aborda diretamente múltiplas áreas de alto risco identificadas na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1349,7 +1349,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Incentivar os sistemas agrossilvipastoris é uma prioridade para Caracaraí, dadas as suas significativas emissões provenientes do uso da terra. Esta ação aborda diretamente a maior fonte de emissões na cidade, o que é crucial para a mitigação das mudanças climáticas. Além disso, o bioma de floresta tropical úmida da cidade e o alto risco à biodiversidade decorrente de secas e ondas de calor sugerem que práticas sustentáveis de manejo da terra são vitais. A implementação de tais sistemas pode ajudar a restaurar terras degradadas, aprimorar os serviços ecossistêmicos e melhorar a resiliência das práticas agrícolas contra os riscos climáticos. Essa abordagem oferece uma solução holística tanto para a proteção ambiental quanto para o desenvolvimento sustentável na região.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Incentivar sistemas agrossilvipastoris",
@@ -1422,7 +1422,7 @@
     "actionId": "ipcc_0100",
     "actionName": "Efficient water use/demand",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade devido ao alto índice de acesso inadequado à água na cidade, indicando uma necessidade significativa de melhoria na gestão hídrica. O uso eficiente da água pode abordar diretamente essa vulnerabilidade, garantindo melhor disponibilidade de recursos para a população. Além disso, a cidade enfrenta riscos de seca, o que poderia exacerbar os problemas existentes de escassez de água. A implementação desta ação construiria resiliência contra futuros impactos climáticos, particularmente aqueles relacionados a recursos hídricos e segurança alimentar. É um passo fundamental para o desenvolvimento sustentável em Caracaraí.",
     "action": {
       "ActionID": "ipcc_0100",
       "ActionName": "Uso/demanda eficiente de água",

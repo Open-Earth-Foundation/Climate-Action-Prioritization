@@ -7,7 +7,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "**Desenvolver diagnósticos e restaurar as Zonas Especiais de Interesse Social (ZEIS) é uma alta prioridade para Cáceres. Dados os fatores socioeconômicos de baixa renda da cidade e o acesso moderadamente inadequado à água e saneamento, melhorar essas zonas pode abordar diretamente vulnerabilidades sociais críticas. Essa ação pode aprimorar as condições de vida e o acesso a serviços essenciais para as populações mais vulneráveis. Priorizar a restauração das ZEIS alinha-se com a necessidade de construir resiliência em áreas desproporcionalmente afetadas pelos impactos climáticos e desafios socioeconômicos.**",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -81,7 +81,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Melhorar o armazenamento e a distribuição de alimentos é uma alta prioridade para Cáceres, especialmente dado o risco significativo para a segurança alimentar tanto de secas quanto de inundações. A cidade enfrenta riscos extremos de seca, que ameaçam diretamente a produção agrícola e a disponibilidade de alimentos. Além disso, as inundações representam um risco substancial para a segurança alimentar, indicando vulnerabilidades no atual sistema alimentar. A melhoria do armazenamento e da distribuição pode mitigar esses impactos, garantindo um acesso mais estável aos alimentos para a população.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -157,7 +157,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Cáceres, especialmente dado o alto risco de impactos na saúde pública decorrentes de ondas de calor e doenças. Os fatores socioeconômicos de baixa renda da cidade provavelmente exacerbam as vulnerabilidades de saúde, tornando essencial um acesso robusto à saúde. Melhorar a infraestrutura e os serviços de saúde pode mitigar significativamente os efeitos adversos desses perigos na população. Esta ação aborda diretamente uma necessidade central para o bem-estar e a resiliência da comunidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -232,7 +232,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A seguir, a tradução para o português:\n\nEstabelecer um plano de preparação e resposta a emergências é crucial para Cáceres, dados os seus elevados riscos de secas, ondas de calor e inundações. A cidade enfrenta impactos significativos na saúde pública, segurança alimentar e recursos hídricos devido a esses eventos climáticos extremos. O planeamento proativo pode mitigar as consequências graves desses perigos, protegendo a população e as infraestruturas críticas. Esta ação aborda diretamente a vulnerabilidade da cidade a múltiplos impactos climáticos de alto risco.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -309,7 +309,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade porque Cáceres enfrenta riscos significativos para a segurança alimentar, tanto de secas quanto de inundações, com pontuações de risco normalizado muito altas. A melhoria das práticas agrícolas e pesqueiras pode abordar diretamente essas vulnerabilidades, aumentando a resiliência e a produtividade. Dados os fatores socioeconômicos de baixa renda da cidade, tais melhorias também podem contribuir para os meios de subsistência e a estabilidade econômica. Esta ação alinha-se com a necessidade crítica de fortalecer os sistemas alimentares contra os impactos climáticos na região.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -386,7 +386,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorar a infraestrutura de saúde é uma alta prioridade para Cáceres, especialmente dados os riscos significativos de saúde pública identificados. A cidade enfrenta riscos muito elevados de ondas de calor, doenças e secas, todos os quais podem impactar severamente a saúde pública. Uma infraestrutura de saúde aprimorada melhoraria a capacidade da cidade de responder a essas crises de saúde e fornecer os cuidados necessários à sua população. Esta ação aborda diretamente vulnerabilidades críticas e contribui para o bem-estar e a resiliência da comunidade.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -460,7 +460,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cáceres enfrenta riscos significativos de secas, que impactam os recursos hídricos e a segurança alimentar. Um sistema de monitoramento hidrológico pode fornecer dados cruciais para antecipar e gerenciar essas condições de seca de forma mais eficaz. Essa abordagem proativa é essencial para uma cidade com acesso à água moderadamente inadequado e uma população de baixa renda, pois pode ajudar a mitigar as graves consequências da escassez de água. O monitoramento aprimorado também pode apoiar um melhor planejamento para práticas agrícolas e respostas de saúde pública relacionadas à disponibilidade de água.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -532,7 +532,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma alta prioridade para Cáceres, dados os significativos riscos de saúde pública identificados. A cidade enfrenta riscos muito elevados de ondas de calor, secas e doenças, todos os quais podem impactar severamente a saúde pública. Um sistema de saúde aprimorado é crucial para responder e gerir eficazmente as consequências para a saúde desses perigos climáticos. Esta ação aborda diretamente a necessidade urgente de proteger o bem-estar da população face à escalada dos impactos climáticos.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -608,7 +608,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é uma alta prioridade para Cáceres, dado o seu status socioeconômico \"baixo\". Esses programas podem fornecer apoio crucial a populações vulneráveis, aumentando sua resiliência a vários choques, incluindo riscos relacionados ao clima. Ao abordar necessidades básicas, as redes de segurança social podem melhorar indiretamente a saúde pública e a segurança alimentar, que são impactos-chave para Cáceres. Esta ação é particularmente relevante em uma cidade que enfrenta altos riscos de secas, ondas de calor e inundações, pois ajuda a mitigar as consequências socioeconômicas desses eventos. Investir em redes de segurança social pode criar uma comunidade mais equitativa e resiliente.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -682,7 +682,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os programas de controle e conservação das áreas protegidas é uma prioridade para Cáceres. O bioma da cidade é de campos/savana, e enfrenta riscos significativos à biodiversidade tanto por secas quanto por ondas de calor. A conservação dessas áreas pode ajudar a mitigar os impactos desses perigos, protegendo o ambiente natural. Esta ação aborda diretamente os altos riscos à biodiversidade identificados na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -755,7 +755,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é uma preocupação crítica para Cáceres, especialmente dado o alto risco de secas e inundações que afetam o abastecimento de alimentos. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode mitigar diretamente esses riscos e aumentar a resiliência da cidade. Além disso, pode contribuir para a redução das emissões do uso da terra, que representam uma parcela significativa das emissões totais da cidade. Esta ação é uma prioridade porque aborda múltiplos desafios interconectados, incluindo resiliência climática, segurança alimentar e sustentabilidade ambiental.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -831,7 +831,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Cáceres, dadas as emissões extremamente elevadas provenientes do uso da terra, que representam a vasta maioria das emissões totais da cidade. Esta ação aborda diretamente a principal fonte da pegada de carbono da cidade. Além disso, a cidade enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar, o que pode ser exacerbado pelo uso insustentável da terra. A implementação desta ação pode ajudar a mitigar esses perigos relacionados ao clima e melhorar a resiliência geral.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -905,7 +905,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Cáceres enfrenta riscos significativos de eventos climáticos extremos, particularmente secas e ondas de calor, que impactam severamente a saúde pública, os recursos hídricos e a segurança alimentar. Um programa de apoio financeiro é crucial para ajudar a cidade e seus moradores a se recuperarem desses eventos frequentes e intensos. Essa iniciativa pode proporcionar o alívio tão necessário e facilitar esforços de reconstrução mais rápidos, reduzindo a interrupção socioeconômica a longo prazo. Dado o status de baixa renda da cidade e o acesso moderado a serviços públicos, tal programa é vital para construir resiliência e proteger populações vulneráveis.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -982,7 +982,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma prioridade para Cáceres, dadas as suas significativas emissões provenientes do uso da terra e os elevados riscos associados a secas e inundações que afetam os recursos hídricos e a segurança alimentar. Proteger e restaurar ecossistemas pode aumentar a resiliência da cidade a esses perigos climáticos. Essa abordagem também apoia a biodiversidade, que está em risco tanto de secas quanto de ondas de calor. Além disso, ecossistemas saudáveis podem contribuir para a melhoria da saúde pública e para a estabilidade da infraestrutura.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1069,7 +1069,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A manutenção e revitalização das florestas ripárias são cruciais para Cáceres, especialmente considerando os altos riscos associados a secas e inundações que impactam os recursos hídricos e a segurança alimentar. Zonas ripárias saudáveis podem ajudar a regular o fluxo da água, reduzir a erosão e melhorar a qualidade da água, mitigando diretamente os impactos desses perigos. Esta ação também apoia a biodiversidade, que está em risco moderado a alto tanto por secas quanto por ondas de calor na cidade. Além disso, pode contribuir para a resiliência ecológica geral da área, beneficiando uma cidade com emissões significativas de uso do solo.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -1142,7 +1142,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Cáceres enfrenta riscos significativos de secas, que afetam os recursos hídricos e a segurança alimentar. A cidade também sofre com um acesso inadequado à água em nível moderado, o que evidencia vulnerabilidades existentes. A implementação de soluções de captação e armazenamento de água aborda diretamente essas questões críticas. Essa ação pode melhorar a disponibilidade de água, aumentar a resiliência à seca e contribuir para a segurança hídrica geral da população.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1218,7 +1218,7 @@
     "actionId": "ipcc_0087",
     "actionName": "Infrastructure retrofitting",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A modernização da infraestrutura é uma prioridade para Cáceres, dados os riscos significativos representados por múltiplos perigos. A cidade enfrenta consideráveis riscos de infraestrutura devido a ondas de calor, inundações e deslizamentos de terra, conforme indicado pelos dados do CCRA. A modernização pode aumentar a resiliência da infraestrutura existente, reduzindo a vulnerabilidade a esses impactos climáticos. Esta ação é crucial para proteger serviços e bens essenciais em uma cidade com baixa renda e desafios existentes no acesso a serviços públicos.",
     "action": {
       "ActionID": "ipcc_0087",
       "ActionName": "Retrofitting de infraestrutura",
@@ -1291,7 +1291,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas em Cáceres é uma prioridade devido aos desafios significativos da cidade com a segurança alimentar, exacerbados por secas e inundações de alto risco. As hortas urbanas podem aumentar a produção local de alimentos, reduzindo a dependência de cadeias de suprimentos externas e melhorando a resiliência a interrupções relacionadas ao clima. Esta iniciativa também se alinha com o enfrentamento dos fatores socioeconômicos de baixa renda, fornecendo fontes de alimentos acessíveis e de baixo custo para a população. Além disso, pode contribuir para a biodiversidade local e para os espaços verdes dentro do ambiente urbano.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1363,7 +1363,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Esta ação aborda a necessidade crítica de realocar populações de áreas vulneráveis e restaurar o meio ambiente. Cáceres enfrenta riscos significativos de secas, ondas de calor e inundações, que impactam severamente a saúde pública, a segurança alimentar e a infraestrutura. A realocação pode proteger os moradores desses perigos recorrentes, especialmente dada a demografia de baixa renda da cidade e o acesso moderado a serviços públicos. A restauração ambiental também pode mitigar riscos futuros e melhorar a resiliência geral contra os impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1434,7 +1434,7 @@
     "actionId": "ipcc_0101",
     "actionName": "Efficient water supply/distribution",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a eficiência do abastecimento e distribuição de água, o que é altamente relevante dado o acesso moderadamente inadequado à água em Cáceres. A cidade também enfrenta riscos significativos de secas, que afetam os recursos hídricos e a segurança alimentar. Melhorar a eficiência hídrica pode mitigar esses riscos e aumentar a resiliência contra futuros desafios climáticos. Portanto, esta ação é uma prioridade para a cidade.",
     "action": {
       "ActionID": "ipcc_0101",
       "ActionName": "Fornecimento/distribuição de água eficiente",

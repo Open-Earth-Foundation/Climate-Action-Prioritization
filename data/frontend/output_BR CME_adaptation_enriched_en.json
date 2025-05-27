@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Camaragibe given its high vulnerability to multiple hazards. The city faces significant risks from droughts, heatwaves, floods, and landslides, all of which have high normalized risk scores for public health and other key impacts. A comprehensive plan will help mitigate the severe consequences of these extreme weather events on its population and infrastructure. This proactive measure is essential for protecting lives and ensuring the city's resilience against future climate shocks.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Camaragibe is located in a tropical rainforest biome, making the conservation of protected areas crucial for maintaining ecological balance and biodiversity. Strengthening these programs can help mitigate the impacts of climate hazards like droughts and heatwaves, which pose significant risks to the city's water resources and public health. Protecting these areas also contributes to the overall resilience of the city against environmental stressors. This action is a priority because it addresses long-term environmental sustainability and indirectly supports public health and resource security.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is a priority for Camaragibe. The city faces significant challenges with inadequate water access and sanitation, indicating a need for improved infrastructure and living conditions. Given the high population density and low-income status, addressing these zones can directly benefit vulnerable communities. This action aligns with improving public health and infrastructure, which are key impacts for multiple hazards in the city.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -231,7 +231,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Improving food storage and distribution is a priority for Camaragibe due to the high risk of floods impacting food security. The city faces a significant threat from floods, which can disrupt food supply chains and lead to shortages. Enhancing these systems will build resilience against such disruptions. This action directly addresses a critical vulnerability identified in the city's risk assessment, making it an important step towards ensuring the well-being of the population.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -307,7 +307,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from droughts and floods, which directly impact water resources and food security. Riparian forests play a crucial role in maintaining water quality, regulating water flow, and preventing soil erosion, all of which are vital for mitigating these hazards. Their revitalization can also enhance biodiversity, which is at risk from both droughts and heatwaves. Given the city's low-income status and existing inadequate water access, investing in natural infrastructure like riparian forests offers a sustainable and cost-effective solution to multiple climate challenges.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -380,7 +380,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from droughts, which significantly impact water resources and food security. Improving farms and fisheries can enhance resilience to these hazards, ensuring more stable food production. Given the city's low-income population, bolstering local food systems is crucial for community well-being and economic stability. This measure directly addresses critical vulnerabilities identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -457,7 +457,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant public health risks identified in Camaragibe. The city faces extreme risks from heatwaves, diseases, floods, and landslides, all of which can lead to a high number of climate victims. Strengthening the healthcare network is crucial to effectively respond to these health crises and mitigate their impact on the population. This proactive measure will enhance the city's resilience and protect its citizens from climate-related health emergencies.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -533,7 +533,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Camaragibe, especially given the high risks associated with public health impacts from heatwaves, diseases, floods, and landslides. Improving healthcare access directly addresses these vulnerabilities, enhancing the city's resilience to climate-related health crises. This action is essential for protecting the well-being of the population, particularly in a city with low-income socio-economic factors. Prioritizing healthcare ensures that residents can receive timely and adequate medical attention, mitigating the severe consequences of climate hazards.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -608,7 +608,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Camaragibe. The city faces significant risks from droughts and floods, which directly impact food security and water resources. Given the substantial land use emissions, this action can mitigate environmental degradation and enhance resilience. Promoting sustainable practices will help protect the city's tropical rainforest biome and reduce its vulnerability to climate hazards.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -682,7 +682,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a significant concern for Camaragibe, particularly due to high risks from floods and droughts. Promoting behaviour change in diets and reducing food waste can directly mitigate these risks. Given the city's low-income population, efficient food systems are crucial for resilience. This initiative can also indirectly reduce emissions associated with food production and waste management. Therefore, it is a priority for improving the city's overall sustainability and well-being.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -758,7 +758,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Social safety nets are a priority for Camaragibe due to the city's 'low' low-income socio-economic factor. This indicates a significant portion of the population is vulnerable and could benefit from such support. Furthermore, the city faces high risks from various hazards like droughts, heatwaves, diseases, landslides, and floods, all of which can disproportionately impact vulnerable populations. Social safety nets can provide crucial support during and after these events, helping to mitigate their negative effects on public health and food security, which are already identified as high-risk areas. Therefore, this action is essential for building resilience and protecting the well-being of the city's residents.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -832,7 +832,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the city's significant risks to public health. Camaragibe faces extreme risks from heatwaves, diseases, floods, and landslides, all of which can severely impact public health. Enhancing health infrastructure is crucial to manage these existing and future health crises. Given the high population density and low-income status, robust health infrastructure is essential for the well-being of the community.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -906,7 +906,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risks from multiple hazards, including droughts, heatwaves, landslides, and floods. Camaragibe also faces significant challenges with inadequate water access and sanitation, and a low-income population. Relocation and environmental restoration can directly address the vulnerability of residents in high-risk areas, improving public health and safety. This comprehensive approach helps mitigate the impacts of climate change and enhances the resilience of the community.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -977,7 +977,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high vulnerability to various extreme weather events, including droughts, heatwaves, floods, and landslides. The city faces significant risks to public health, food security, and water resources from these hazards. A financial support program would help residents and the city recover and adapt more effectively to the increasing frequency and intensity of these events. This proactive measure can mitigate the severe socio-economic impacts on a low-income population.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1054,7 +1054,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high population density and significant risks from floods and heatwaves. Implementing permeable pavements and increasing green areas can help manage stormwater runoff, reducing flood impacts. Additionally, green spaces can mitigate urban heat island effects, which is crucial given the high public health risk from heatwaves. This measure also contributes to improving infrastructure resilience against climate hazards.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1126,7 +1126,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens in Camaragibe is a priority due to the city's high risk to food security from floods. This action can enhance local food production and resilience against climate impacts. Furthermore, it can contribute to community well-being and green infrastructure within the urban environment. This initiative also aligns with addressing socio-economic factors, particularly in low-income areas.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1198,7 +1198,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a high priority for Camaragibe due to the city's significant vulnerability to multiple climate hazards. The city faces high risks from droughts, heatwaves, and floods, all of which can be mitigated through healthy ecosystems. Given the high population density and low-income status, protecting natural systems can offer cost-effective and sustainable solutions. This approach can also address critical issues like inadequate water access and sanitation by improving natural water filtration and regulation.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1285,7 +1285,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Camaragibe due to the city's significant vulnerability to droughts, as indicated by the very high normalized risk score for water resources. The city also faces high levels of inadequate water access, making water capture and storage solutions critical. Implementing this action can directly address these pressing water-related challenges. Improving water availability will enhance resilience and public well-being in the face of climate change.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1361,7 +1361,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Camaragibe faces significant risks from droughts and floods, both of which severely impact water resources and food security. A hydrological monitoring system is crucial for understanding water levels and predicting these hazards. This proactive approach can help the city prepare for and mitigate the impacts of extreme weather events. Given the high risk scores for water-related hazards, this action is a priority for enhancing resilience and protecting the population.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Camaragibe due to the city's significant vulnerability to droughts, which severely impact water resources. The city also faces high levels of inadequate water access, making water body preservation and recovery crucial for public health and daily life. Furthermore, the tropical rainforest biome suggests the importance of maintaining ecological balance for water quality and availability. Addressing water resources is fundamental for the city's resilience against climate hazards and for improving the well-being of its population.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",

@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de um pedágio urbano em Contagem é uma ação de alta prioridade. Essa medida pode reduzir significativamente as emissões de transporte, que atualmente contribuem com uma grande parte do total de emissões da cidade. Ao desencorajar o uso de veículos particulares, também pode aliviar o congestionamento do tráfego e melhorar a qualidade do ar. Além disso, a receita gerada pelo pedágio pode ser reinvestida na infraestrutura de transporte público, promovendo opções de mobilidade mais sustentáveis para os moradores. Essa ação aborda diretamente uma importante fonte de emissões e apoia os objetivos ambientais gerais da cidade.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Contagem possui emissões significativas relacionadas ao transporte, tornando a adoção do biometano em frotas públicas uma ação relevante. Essa iniciativa visa diretamente uma das principais fontes de gases de efeito estufa na cidade. Ao fazer a transição do transporte público para o biometano, a cidade pode reduzir sua pegada de carbono e melhorar a qualidade do ar. Essa ação se alinha aos esforços para mitigar as mudanças climáticas e promover o desenvolvimento urbano sustentável.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação promove o transporte sustentável, o que é crucial para Contagem, dadas as suas altas emissões de transporte. Incentivar o compartilhamento de bicicletas, especialmente com bicicletas elétricas, pode reduzir significativamente a pegada de carbono da cidade. Esta iniciativa também se alinha com a melhoria da mobilidade urbana e, potencialmente, da saúde pública, ao promover a atividade física. Ela oferece uma solução prática para mitigar os impactos das mudanças climáticas, afastando-se do transporte dependente de combustíveis fósseis. A prioridade da ação justifica-se pela sua contribuição direta para a redução de emissões e para a sustentabilidade urbana.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A expansão dos sistemas de transporte de massa sobre trilhos é uma prioridade para Contagem devido à contribuição significativa do transporte para as emissões totais da cidade. Com as emissões do transporte respondendo por uma parcela substancial da pegada de carbono da cidade, esta ação aborda diretamente uma das principais fontes de gases de efeito estufa. A melhoria da infraestrutura de transporte público pode reduzir a dependência de veículos particulares, levando à diminuição das emissões e à melhoria da qualidade do ar. Esta iniciativa também apoia o desenvolvimento urbano sustentável, oferecendo opções de mobilidade eficientes e ambientalmente amigáveis para a crescente população.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Abordar as emissões veiculares é um passo crucial para Contagem, dado que as emissões provenientes dos transportes constituem uma parcela significativa do total de emissões da cidade. Reduzir essas emissões contribuirá diretamente para a melhoria da qualidade do ar, o que tem implicações positivas para a saúde pública. Além disso, alinha-se com objetivos climáticos mais amplos, ao diminuir a pegada de carbono geral da cidade. Priorizar esta ação pode levar a um ambiente urbano mais saudável e sustentável para os moradores.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -373,7 +373,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda as significativas emissões de transporte em Contagem, que são um dos principais contribuintes para as emissões totais da cidade. Promover o transporte sustentável pode reduzir a poluição do ar e melhorar a saúde pública. Ao incentivar o uso racional do transporte motorizado individual, a cidade pode mitigar seu impacto ambiental. Esta iniciativa alinha-se com os esforços para criar um ambiente urbano mais sustentável.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Incentivar e promover medidas para o uso sustentável e racional do transporte motorizado individual",
@@ -445,7 +445,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca na modernização de portos e aeroportos com tecnologias de emissão zero. Embora importante para a redução de emissões, Contagem é uma cidade interiorana sem portos e sua infraestrutura aeroportuária não é um fator principal de suas emissões significativas. A cidade enfrenta riscos climáticos mais urgentes, como altos índices de risco normalizado para deslizamentos de terra, inundações e secas, que impactam diretamente a infraestrutura e a saúde pública. Priorizar ações que abordem esses perigos imediatos e de alto risco provavelmente traria resultados mais impactantes para a resiliência e o bem-estar da cidade. Portanto, esta ação não é uma prioridade máxima para Contagem neste momento.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -517,7 +517,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Contagem enfrenta emissões significativas de transporte, contribuindo substancialmente para suas emissões totais. Priorizar rotas para veículos sustentáveis aborda diretamente essa questão, promovendo modos de transporte mais limpos. Essa ação pode ajudar a reduzir a poluição do ar e melhorar a saúde pública, especialmente dada a alta densidade populacional da cidade. Além disso, alinha-se aos esforços para mitigar as mudanças climáticas, diminuindo a pegada de carbono da cidade. A implementação de tais rotas também pode incentivar uma mudança do uso de veículos particulares, aliviando o congestionamento do tráfego.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",
@@ -589,7 +589,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda diretamente as emissões de transportes, que são um contribuinte significativo para as emissões totais da cidade. Promover o transporte público pode levar a uma redução no uso de veículos particulares, melhorando assim a qualidade do ar e reduzindo a pegada de carbono da cidade. Um sistema de ônibus mais atraente também pode melhorar a mobilidade urbana para os residentes, especialmente aqueles com acesso limitado a transporte particular. Esta iniciativa alinha-se com os objetivos de desenvolvimento urbano sustentável, ao promover uma mudança para modos de transporte mais amigos do ambiente. Além disso, pode aliviar o congestionamento do tráfego, levando a um ambiente urbano mais eficiente e agradável.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",
@@ -661,7 +661,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Portuguese:**\n\nIncentivar políticas de energia renovável é uma ação de alta prioridade para Contagem. A cidade possui emissões totais significativas, e a promoção da energia renovável pode reduzi-las diretamente. Esta ação também se alinha com os esforços globais para combater as mudanças climáticas e pode melhorar a segurança energética. Além disso, pode estimular o desenvolvimento econômico local através de empregos verdes e investimentos. A implementação de tais políticas pode levar a benefícios ambientais e econômicos de longo prazo para a cidade.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -733,7 +733,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda diretamente a segurança alimentar, que é uma área de impacto chave para Contagem, particularmente no que diz respeito a secas e inundações. Ao priorizar produtos agroecológicos locais, a cidade pode aumentar sua resiliência a interrupções relacionadas ao clima nas cadeias de suprimentos de alimentos. Isso também apoia as economias locais e práticas agrícolas sustentáveis. Além disso, pode contribuir para a redução da pegada de carbono geral da cidade, minimizando as emissões de transporte associadas à distribuição de alimentos.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -805,7 +805,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de ecoparques em Contagem é uma prioridade devido aos significativos riscos à biodiversidade da cidade, tanto por secas quanto por ondas de calor. Esses parques podem servir como infraestrutura verde crucial, mitigando os efeitos das ilhas de calor urbanas e fornecendo espaços naturais que apoiam os ecossistemas locais. Eles também oferecem benefícios recreativos para a população, melhorando a saúde pública e o bem-estar. Além disso, os ecoparques podem contribuir para uma melhor gestão da água, o que é vital dado o alto risco de impactos da seca nos recursos hídricos.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Estabelecer eco-parques.",
@@ -877,7 +877,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma prioridade para Contagem. Essa ação pode encorajar práticas e investimentos sustentáveis dentro da cidade. Dados os riscos ambientais significativos de Contagem, como altas pontuações para secas, ondas de calor, deslizamentos de terra e inundações, esses incentivos poderiam ajudar a mitigar impactos futuros. Ao promover um comportamento ambientalmente responsável por meio de mecanismos financeiros, a cidade pode construir maior resiliência. Essa abordagem se alinha com a necessidade de abordar tanto a adaptação quanto a mitigação das mudanças climáticas de forma abrangente.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -949,7 +949,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação apoia cooperativas de catadores de material reciclável, o que pode reduzir significativamente as emissões de resíduos. Contagem possui emissões de resíduos muito altas, tornando esta uma intervenção relevante. Além disso, a cidade possui uma população de renda muito baixa, e o apoio a essas cooperativas pode proporcionar oportunidades econômicas e melhorar as condições de vida. Esta iniciativa também se alinha com objetivos de sustentabilidade mais amplos, promovendo uma economia circular e reduzindo o impacto ambiental.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar um projeto para apoiar cooperativas de coletores de materiais recicláveis",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A integração de energias renováveis nos sistemas municipais de água é uma prioridade para Contagem, dados os desafios significativos da cidade com acesso à água e saneamento. A cidade também enfrenta altos riscos de secas, que impactam diretamente os recursos hídricos. A utilização de energia renovável pode aumentar a resiliência e a sustentabilidade da infraestrutura hídrica, garantindo um serviço mais confiável. Esta ação aborda vulnerabilidades críticas e alinha-se com a necessidade de melhoria dos serviços públicos face aos perigos climáticos.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A Contagem enfrenta riscos significativos de secas, que impactam severamente a segurança alimentar. A promoção do controle agroecológico de pragas pode aumentar a resiliência dos sistemas agrícolas a esses perigos climáticos. Essa ação apoia a produção sustentável de alimentos e reduz a dependência de insumos externos, o que é crucial para uma cidade com uma população de renda muito baixa. Ao fortalecer os sistemas alimentares locais, contribui tanto para a sustentabilidade ambiental quanto para o bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Incentivar a produção agroecológica local e as cadeias de abastecimento curtas é uma prioridade para Contagem, dados os seus significativos riscos de segurança alimentar decorrentes tanto de secas quanto de inundações. Esta ação pode aumentar a resiliência alimentar local, diversificando as práticas agrícolas e reduzindo a dependência de cadeias de abastecimento externas. Também apoia o uso sustentável da terra, o que é crucial para uma cidade com grande densidade populacional e pressões ambientais existentes. Além disso, pode contribuir para o desenvolvimento econômico local e o bem-estar da comunidade, fomentando negócios locais e oferecendo opções de alimentos frescos e saudáveis.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é prioritária porque Contagem enfrenta desafios significativos relacionados à seca, que impactam diretamente a segurança alimentar e os recursos hídricos. As ações de Assistência Técnica e Extensão Rural (ATER) podem ajudar as comunidades locais, particularmente as das áreas rurais, a se adaptar a esses impactos climáticos. Ao fornecer apoio e conhecimento, a ATER pode melhorar as práticas agrícolas e a gestão da água, aumentando a resiliência contra futuras secas. Essa abordagem proativa é crucial para uma cidade com uma população de renda muito baixa e vulnerabilidades existentes no acesso à água.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0065",
     "actionName": "Implementation of green hydrogen infrastructure for heavy vehicles.",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Please provide the text you would like me to translate.",
     "action": {
       "ActionID": "icare_0065",
       "ActionName": "Implementação de infraestrutura de hidrogênio verde para veículos pesados.",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma prioridade para Contagem. Essa ação pode incentivar a proteção e restauração de ecossistemas naturais, que são cruciais para mitigar os impactos dos riscos climáticos. Dados os altos riscos da cidade de secas, inundações e deslizamentos de terra, a preservação da infraestrutura natural pode aumentar a resiliência. Além disso, os programas de PSA podem apoiar as comunidades locais e promover práticas sustentáveis de gestão da terra. Essa iniciativa se alinha com a necessidade de combater a degradação ambiental e os riscos associados em Contagem.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",

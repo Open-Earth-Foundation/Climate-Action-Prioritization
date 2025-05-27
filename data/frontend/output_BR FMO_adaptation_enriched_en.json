@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Formosa given its high risks from multiple extreme weather events. The city faces significant threats from droughts, heatwaves, landslides, and floods, all of which have high normalized risk scores for various key impacts. A comprehensive plan will help mitigate the severe consequences of these hazards on public health, infrastructure, and food security. This proactive measure is essential for protecting the population and critical city systems.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses social equity and urban planning within Formosa. Developing and restoring Special Social Interest Zones (ZEIS) can improve living conditions for vulnerable populations. This is particularly relevant given the city's 'low' socio-economic factor for low income. By focusing on these areas, the city can enhance access to essential services and infrastructure, contributing to overall urban resilience and well-being.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -158,7 +158,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Formosa faces significant risks to biodiversity from both droughts and heatwaves, as indicated by the CCRA data. Strengthening programs for control and conservation of protected areas directly addresses these environmental vulnerabilities. Protecting these areas can help preserve ecosystems that are crucial for the city's resilience against climate impacts. This action is a priority because it safeguards natural resources and biodiversity, which are essential for the long-term well-being of the city and its inhabitants.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -231,7 +231,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant public health risks identified in Formosa. The city faces very high risks from heatwaves and diseases, and a notable risk from floods, all of which can lead to increased demand on healthcare services. Strengthening the healthcare network is crucial to effectively respond to these climate-related health impacts. This proactive measure will enhance the city's resilience and protect its population from the adverse health consequences of climate change.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -307,7 +307,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk to food security from both droughts and floods. Improving food storage and distribution can help mitigate the impacts of these hazards, ensuring a more stable food supply for the population. Given the city's low-income socio-economic factors, enhancing food security is crucial for community well-being. This initiative directly addresses a critical vulnerability identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -383,7 +383,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Formosa faces significant land use emissions, which are the largest contributor to its total emissions. Encouraging sustainable land use practices directly addresses this major source of greenhouse gases. This action can also help mitigate the high risks associated with droughts and floods, which severely impact food security and water resources. Given the city's low-income status, sustainable practices can also offer economic benefits and improve resilience for vulnerable populations.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -457,7 +457,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Access to health care is a crucial action for Formosa, especially given the high risks associated with public health impacts from heatwaves, diseases, and floods. Improving healthcare access can directly address the vulnerabilities highlighted by these hazards. This action is a priority because it enhances the city's capacity to respond to health crises and provides essential services to its population. Furthermore, with a low-income socio-economic factor, ensuring adequate healthcare access is vital for the well-being and resilience of the community.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -532,7 +532,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Formosa faces significant risks to food security from both droughts and floods, with high normalized risk scores for both hazards. Improving farm and fishery practices can directly address these vulnerabilities by enhancing resilience to extreme weather events. This action is crucial for safeguarding the local food supply and supporting the livelihoods of those dependent on agriculture and fishing. Given the city's low-income socio-economic factors, strengthening food security is a fundamental step towards overall community well-being.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -609,7 +609,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from droughts, which severely impact water resources and food security. Revitalizing riparian forests can help mitigate these impacts by improving water retention and soil stability. Given the significant land use emissions, this action also offers co-benefits for carbon sequestration. Furthermore, it can enhance biodiversity, which is also at risk from droughts and heatwaves.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -682,7 +682,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Formosa faces significant risks from droughts, heatwaves, and floods, which can severely impact public health and food security. The city also has a low-income population, making them particularly vulnerable to these climate impacts. Social safety nets are crucial to protect the most vulnerable populations during and after climate-related disasters. This action helps ensure basic needs are met and provides a buffer against economic shocks caused by climate change.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -756,7 +756,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is crucial given the high risks to public health from heatwaves, diseases, and floods in Formosa. Improving health infrastructure can enhance the city's capacity to respond to these climate-related health impacts. While not the absolute top priority, it is a significant area for investment to protect the well-being of the population. This action supports the city's resilience against future climate challenges.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -830,7 +830,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from various hazards, particularly floods and landslides, which severely impact infrastructure. Relocation and environmental restoration directly address the vulnerability of populations in these high-risk areas. By restoring the environment, the city can mitigate future impacts and enhance resilience against climate-related disasters. This proactive approach protects both human lives and critical infrastructure from recurring damage.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -901,7 +901,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Formosa faces significant risks from extreme weather events, particularly droughts and heatwaves, which severely impact water resources, food security, and public health. A financial support program is crucial to help the city and its residents recover from these frequent and intense events. This initiative can provide much-needed relief and facilitate quicker rebuilding efforts. It also helps to build resilience against future climate shocks, protecting vulnerable populations and critical infrastructure.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -978,7 +978,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a priority for Formosa. This action directly addresses the city's high risks related to infrastructure, particularly from heatwaves and floods. Permeable surfaces can mitigate urban heat island effects and improve stormwater management, reducing flood impacts. Green areas also enhance biodiversity and public health, which are key impact areas for Formosa. Given the city's significant land use emissions, this action also contributes to carbon sequestration and overall environmental improvement.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1050,7 +1050,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens is a valuable action for Formosa. This initiative can enhance local food security, especially given the city's vulnerability to droughts impacting food supply. It also promotes community engagement and green spaces, contributing to a healthier urban environment. Furthermore, urban gardens can help mitigate the urban heat island effect, which is relevant considering the city's high risk from heatwaves.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1122,7 +1122,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Formosa faces significant risks from droughts, impacting water resources and food security. A hydrological monitoring system is crucial for understanding water availability and predicting drought conditions. This proactive approach can help the city manage its water resources more effectively. Implementing such a system is a priority to mitigate the high risks associated with water scarcity and ensure the well-being of the population.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1194,7 +1194,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a key impact area for Formosa, particularly due to droughts and floods. Promoting behaviour change in diets and reducing food waste can directly mitigate these risks. Given the city's low-income socio-economic factors, efficient food resource management is crucial. This action can contribute to a more resilient food system for the community.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Formosa faces significant risks from droughts, impacting water resources and food security. Implementing water capture and storage solutions directly addresses these high-risk areas. Given the city's low access to public services, particularly inadequate water access, this action can also improve essential service provision. Furthermore, it can help mitigate the broader impacts of drought on energy security and biodiversity.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1346,7 +1346,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Formosa given its significant vulnerability to droughts and floods, which severely impact water resources and food security. This approach can help mitigate the high risks associated with these hazards by restoring and protecting natural ecosystems. Furthermore, it can enhance biodiversity, which is also at risk from climate impacts like heatwaves. Prioritizing this action will build resilience against multiple climate threats and support the city's long-term sustainability.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0190",
         "actionName": "Encourage agrosilvopastoral systems",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Formosa faces significant risks from droughts, impacting water resources and food security. Encouraging agrosilvopastoral systems can enhance the resilience of agricultural practices to these drought conditions. This approach integrates trees, crops, and livestock, which can improve soil health, water retention, and biodiversity. Such systems can also contribute to carbon sequestration, aligning with broader climate goals. Therefore, this action is a priority for building climate resilience and supporting sustainable land use in Formosa.",
         "action": {
             "ActionID": "icare_0190",
             "ActionName": "Encourage agrosilvopastoral systems",

@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "São João de Meriti possui emissões de transporte muito elevadas, indicando uma dependência significativa de veículos. A implementação de um pedágio urbano pode ajudar a gerenciar o congestionamento do tráfego e reduzir essas emissões. Essa ação também poderia gerar receita que pode ser reinvestida em opções de transporte público sustentáveis. Dada a alta densidade populacional da cidade, a redução do tráfego de veículos é crucial para melhorar a qualidade do ar e a saúde pública.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque promove o transporte sustentável numa área urbana com alta densidade populacional. Programas de partilha de bicicletas elétricas podem reduzir significativamente as emissões de transporte, que são um dos principais contribuintes para as emissões totais da cidade. Esta iniciativa também se alinha com os esforços para melhorar a qualidade do ar e a saúde pública, incentivando a mobilidade ativa. Além disso, pode aliviar o congestionamento do tráfego e reduzir a dependência de combustíveis fósseis, contribuindo para a resiliência urbana geral.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação foca na adoção do biometano em frotas públicas, o que aborda diretamente as emissões do setor de transportes. São João de Meriti possui emissões significativas provenientes do transporte, tornando esta uma área relevante para intervenção. A redução dessas emissões contribui para os esforços gerais de mitigação climática. Embora não aborde diretamente os altos riscos de saúde pública da cidade relacionados a ondas de calor, doenças, inundações e deslizamentos de terra, é um passo valioso em direção a um ambiente urbano mais sustentável.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "c40_0035",
     "actionName": "Waste Efficiency",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "São João de Meriti possui emissões de resíduos muito elevadas, contribuindo significativamente para as suas emissões totais. A implementação de medidas de eficiência de resíduos pode reduzir diretamente essas emissões, melhorando a pegada ambiental da cidade. Esta ação também se alinha com objetivos de sustentabilidade mais amplos, promovendo a conservação de recursos e reduzindo a carga sobre os aterros sanitários. Dada a alta densidade populacional, a gestão eficiente de resíduos é crucial para a saúde pública e a qualidade ambiental. Portanto, priorizar a eficiência de resíduos é um passo estratégico em direção a uma cidade mais sustentável e resiliente.",
     "action": {
       "ActionID": "c40_0035",
       "ActionName": "Eficiência de Resíduos",
@@ -299,7 +299,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A expansão dos sistemas de transporte de massa sobre trilhos é uma ação de alta prioridade para São João de Meriti. Esta cidade apresenta emissões de transporte muito elevadas, indicando uma dependência significativa de modos de transporte menos sustentáveis. A melhoria da infraestrutura de transporte público pode reduzir essas emissões, incentivando uma mudança dos veículos particulares. Esta ação também se alinha com a alta densidade populacional da cidade, pois o transporte de massa eficiente é crucial para gerenciar a mobilidade urbana em áreas densamente povoadas. Portanto, esta iniciativa é vital tanto para a sustentabilidade ambiental quanto para o desenvolvimento urbano.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -371,7 +371,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please find the Portuguese translation below:\n\nSão João de Meriti possui emissões de transporte muito elevadas, indicando uma dependência significativa do transporte motorizado. Embora esta ação vise promover o uso sustentável, a sua prioridade é moderada dado o perfil geral de emissões da cidade. Outras ações que abordem riscos mais críticos ou fontes de emissão mais elevadas podem ter um impacto maior. No entanto, a redução do transporte motorizado individual é um passo crucial para diminuir a pegada de carbono da cidade e melhorar a qualidade do ar.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Incentivar e promover medidas para o uso sustentável e racional do transporte motorizado individual",
@@ -443,7 +443,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "São João de Meriti possui emissões de transporte muito elevadas, tornando as emissões veiculares um contribuinte significativo para a pegada de carbono geral da cidade. Abordar as emissões veiculares é crucial para reduzir a poluição do ar e melhorar a saúde pública. Esta ação visa diretamente uma das principais fontes de gases de efeito estufa na cidade. A implementação de medidas para reduzir as emissões veiculares contribuirá para as metas climáticas da cidade e aumentará a sustentabilidade urbana.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -522,7 +522,7 @@
     "actionId": "c40_0040",
     "actionName": "Volume-Based Collection",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "O município de São João de Meriti possui emissões significativas de resíduos, contribuindo para a sua pegada de carbono geral. A implementação da coleta baseada no volume pode incentivar moradores e empresas a reduzir a geração de resíduos, diminuindo assim essas emissões. Essa ação também promove práticas mais eficientes de gestão de resíduos, o que pode levar a uma melhor recuperação de recursos e à redução da dependência de aterros sanitários. Dada a alta densidade populacional da cidade, otimizar a coleta de resíduos é crucial para a sustentabilidade ambiental e a saúde pública. Portanto, esta ação é uma prioridade para melhorar o desempenho ambiental do município.",
     "action": {
       "ActionID": "c40_0040",
       "ActionName": "Coleta Baseada em Volume",
@@ -598,7 +598,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca na modernização de portos e aeroportos com tecnologias de emissão zero. São João de Meriti é uma cidade interiorana sem portos e sem infraestrutura aeroportuária significativa. Portanto, esta ação não é relevante para as necessidades específicas ou o contexto geográfico da cidade. Priorizar ações que abordem os altos riscos da cidade em saúde pública decorrentes de ondas de calor, doenças, inundações e deslizamentos de terra seria mais impactante.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernização de portos e aeroportos com tecnologias de emissão zero",
@@ -670,7 +670,7 @@
     "actionId": "c40_0036",
     "actionName": "Landfill Management",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A gestão de aterros sanitários é uma ação crucial para São João de Meriti, dadas as significativas emissões de resíduos na cidade. Uma gestão eficaz pode reduzir o impacto ambiental dos resíduos e potencialmente mitigar os riscos para a saúde pública associados a locais mal geridos. Esta ação aborda diretamente uma notável fonte de emissões, contribuindo para a resiliência climática geral. Priorizar esta ação pode levar a uma melhor qualidade do ar e à redução da contaminação do solo, beneficiando a população local.",
     "action": {
       "ActionID": "c40_0036",
       "ActionName": "Gestão de Aterros Sanitários",
@@ -747,7 +747,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese: Esta ação foca na implementação de rotas priorizadas para veículos sustentáveis. Dado que as emissões de transporte são as maiores contribuintes para as emissões totais em São João de Meriti, esta ação aborda diretamente uma fonte significativa de poluição. Ao promover o transporte sustentável, a cidade pode trabalhar para reduzir sua pegada de carbono e melhorar a qualidade do ar. Esta iniciativa alinha-se com a necessidade da cidade de mitigar os impactos das mudanças climáticas e melhorar a sustentabilidade urbana.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",
@@ -819,7 +819,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar políticas de energia renovável é um passo crucial para reduzir a pegada de carbono geral da cidade. São João de Meriti possui emissões significativas provenientes de transporte e resíduos, e a diversificação de suas fontes de energia pode ajudar a mitigar isso. Embora não aborde diretamente os riscos climáticos mais urgentes, como riscos à saúde pública decorrentes de ondas de calor ou inundações, contribui para a resiliência climática a longo prazo. Esta ação apoia um futuro sustentável, promovendo a produção de energia mais limpa dentro do município.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -891,7 +891,7 @@
     "actionId": "icare_0053",
     "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação apoia cooperativas de catadores de material reciclável, o que pode melhorar significativamente a gestão de resíduos e reduzir as emissões de lixo em São João de Meriti. Dadas as substanciais emissões de resíduos da cidade, esta iniciativa aborda diretamente uma preocupação ambiental fundamental. Além disso, pode criar oportunidades econômicas e melhorar as condições de vida para populações de baixa renda, alinhando-se com os fatores socioeconômicos da cidade. Este projeto fomenta uma economia circular, promovendo a eficiência de recursos e a sustentabilidade dentro da comunidade.",
     "action": {
       "ActionID": "icare_0053",
       "ActionName": "Implementar um projeto para apoiar cooperativas de coletores de materiais recicláveis",
@@ -963,7 +963,7 @@
     "actionId": "icare_0122",
     "actionName": "Establish eco-parks.",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de ecoparques em São João de Meriti é uma iniciativa valiosa, especialmente considerando o bioma de floresta tropical da cidade. Esses parques podem ajudar a preservar a biodiversidade e fornecer espaços verdes para recreação e educação ambiental. Embora não abordem diretamente os maiores riscos, como impactos na saúde pública de ondas de calor ou inundações, os ecoparques contribuem para a resiliência urbana geral e o bem-estar. Eles também podem mitigar indiretamente alguns impactos climáticos, melhorando a qualidade do ar e reduzindo os efeitos das ilhas de calor urbanas. Essa ação apoia a sustentabilidade a longo prazo e a qualidade de vida da população da cidade.",
     "action": {
       "ActionID": "icare_0122",
       "ActionName": "Estabelecer eco-parques.",
@@ -1035,7 +1035,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Aumentar a atratividade do sistema municipal de ônibus é uma prioridade para São João de Meriti. Esta ação aborda diretamente as altas emissões de transporte na cidade, que são uma contribuição significativa para as emissões totais. Promover o transporte público pode reduzir a dependência de veículos particulares, levando a menores emissões de carbono e melhor qualidade do ar. Além disso, um sistema de ônibus eficiente e atraente pode melhorar a mobilidade urbana para os moradores, especialmente em uma área densamente povoada como São João de Meriti.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",
@@ -1107,7 +1107,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Priorizar produtos agroecológicos de produção local nas compras públicas é uma ação valiosa para São João de Meriti. Essa iniciativa pode fortalecer a segurança alimentar local, que é uma área de impacto fundamental para a cidade, especialmente dada a sua vulnerabilidade a secas e inundações. Também apoia as economias locais e promove práticas agrícolas sustentáveis. Embora não aborde diretamente os maiores riscos, como os impactos na saúde pública de ondas de calor ou doenças, contribui para a resiliência geral e o bem-estar da comunidade. Esta ação alinha-se com uma abordagem holística para a sustentabilidade urbana.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -1179,7 +1179,7 @@
     "actionId": "ipcc_0080",
     "actionName": "Avoiding, Minimising, and Recycling Waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nThis action is a priority because waste emissions contribute significantly to the city's total emissions. Implementing strategies to avoid, minimize, and recycle waste directly addresses a substantial source of greenhouse gases. Reducing waste can also alleviate pressure on landfills and improve public health. This action aligns with sustainable development goals by promoting resource efficiency and environmental protection.\n\n**Portuguese Translation:**\n\nEsta ação é uma prioridade porque as emissões de resíduos contribuem significativamente para as emissões totais da cidade. A implementação de estratégias para evitar, minimizar e reciclar resíduos aborda diretamente uma fonte substancial de gases de efeito estufa. A redução de resíduos também pode aliviar a pressão sobre os aterros sanitários e melhorar a saúde pública. Esta ação alinha-se com os objetivos de desenvolvimento sustentável, promovendo a eficiência dos recursos e a proteção ambiental.",
     "action": {
       "ActionID": "ipcc_0080",
       "ActionName": "Evitando, Minimizando e Reciclando Resíduos",
@@ -1253,7 +1253,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar programas de certificação agroecológica é uma prioridade para São João de Meriti devido ao risco significativo que a cidade enfrenta em relação à segurança alimentar, tanto por secas quanto por inundações. Esses programas podem aumentar a resiliência da produção alimentar local e diversificar as práticas agrícolas. Ao promover a agricultura sustentável, a cidade pode mitigar os impactos dos perigos climáticos em seu abastecimento de alimentos. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco da cidade.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -1325,7 +1325,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A integração de energias renováveis nos sistemas hídricos municipais é uma ação crucial para São João de Meriti. A cidade enfrenta riscos significativos de saúde pública tanto por inundações quanto por secas, que podem impactar a disponibilidade e a qualidade da água. Esta ação pode aumentar a resiliência da infraestrutura hídrica, garantindo um abastecimento de água mais estável e sustentável. Ao reduzir a dependência de fontes de energia tradicionais, também contribui para menores custos operacionais e diminuição das emissões, alinhando-se com objetivos climáticos mais amplos.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
@@ -1397,7 +1397,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma ação de importância moderada para São João de Meriti. Embora não seja a mais alta prioridade, pode contribuir para o desenvolvimento sustentável, incentivando práticas ambientalmente amigáveis. Tais incentivos podem ajudar a diversificar as atividades econômicas da cidade e promover iniciativas verdes. Esta ação se alinha com a construção de resiliência a longo prazo, mesmo que seu impacto imediato em riscos críticos como a saúde pública decorrente de ondas de calor ou inundações seja indireto. É um passo valioso para promover um ambiente urbano mais consciente ambientalmente.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",

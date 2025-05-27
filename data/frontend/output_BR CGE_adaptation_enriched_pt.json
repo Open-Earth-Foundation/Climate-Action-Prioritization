@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Contagem enfrenta riscos significativos de eventos climáticos extremos, incluindo altas pontuações de risco normalizado para secas, ondas de calor, deslizamentos de terra e inundações, impactando vários setores como saúde pública, infraestrutura e segurança alimentar. O estabelecimento de um plano de preparação e resposta a emergências é crucial para mitigar esses impactos generalizados e severos. Esta ação aborda diretamente a vulnerabilidade da cidade a múltiplos perigos, garantindo uma abordagem proativa para proteger sua população e sistemas críticos. Dado o acesso muito baixo da cidade a água e saneamento adequados, e a população de renda muito baixa, medidas de emergência robustas são ainda mais vitais para salvaguardar as comunidades vulneráveis.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Contagem enfrenta riscos significativos para a biodiversidade tanto de secas quanto de ondas de calor, conforme indicado por altas pontuações de risco normalizado. O fortalecimento dos programas de controle e conservação de áreas protegidas aborda diretamente essas vulnerabilidades, salvaguardando ecossistemas críticos. A proteção dessas áreas pode aumentar a resiliência da cidade aos impactos climáticos, preservando recursos naturais e o equilíbrio ecológico. Essa ação é crucial para mitigar os efeitos a longo prazo das mudanças climáticas no ambiente natural da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -157,7 +157,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque aborda diretamente a restauração das Zonas Especiais de Interesse Social (ZEIS). Dado o acesso muito baixo de Contagem a serviços públicos, particularmente a inadequação de água e saneamento, melhorar essas áreas é crucial. A restauração das ZEIS pode levar a melhores condições de vida e acesso a serviços essenciais para populações vulneráveis. Esta iniciativa alinha-se com a necessidade da cidade de aprimorar a infraestrutura e a saúde pública, que são impactos-chave identificados na CCRA para perigos como inundações e deslizamentos de terra.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque Contagem enfrenta riscos significativos para a segurança alimentar, tanto de secas quanto de inundações, com altas pontuações de risco normalizado. A melhoria de fazendas e pescarias aborda diretamente essas vulnerabilidades, aumentando a resiliência e a produtividade diante dos perigos climáticos. Dada a população de renda muito baixa da cidade, o fortalecimento dos sistemas alimentares locais também pode contribuir para a estabilidade econômica e reduzir a dependência de fontes externas de alimentos. Esta ação se alinha com a necessidade de construir capacidade adaptativa em uma cidade com notáveis desafios de segurança alimentar relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -308,7 +308,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso a cuidados de saúde é uma ação crítica para Contagem, especialmente dados os altos escores de risco normalizados para impactos na saúde pública decorrentes de ondas de calor, doenças, inundações e deslizamentos de terra. Melhorar o acesso aos cuidados de saúde pode mitigar diretamente os resultados adversos para a saúde associados a esses perigos. Esta ação é uma prioridade porque um sistema de saúde robusto é fundamental para a resiliência e o bem-estar da comunidade, particularmente diante dos desafios de saúde relacionados ao clima. Abordar essa necessidade aumentará a capacidade da cidade de responder e se recuperar de crises de saúde, protegendo sua população vulnerável.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -383,7 +383,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é um impacto chave para Contagem, particularmente devido a secas e inundações. Melhorar o armazenamento e a distribuição de alimentos pode ajudar a mitigar os riscos associados a esses perigos. Dado o acesso muito baixo da cidade a serviços públicos, incluindo água e saneamento inadequados, garantir a disponibilidade de alimentos é crucial para o bem-estar de sua população. Esta ação apoia diretamente a resiliência contra interrupções na cadeia de suprimentos de alimentos relacionadas ao clima. Portanto, é uma prioridade aprimorar a capacidade da cidade de gerenciar os recursos alimentares de forma eficaz.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -459,7 +459,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Contagem enfrenta riscos significativos de inundações, com a infraestrutura e a saúde pública sendo altamente impactadas. A manutenção e revitalização das matas ciliares podem ajudar a mitigar esses riscos de inundação, estabilizando as margens dos rios e absorvendo o excesso de água. Essa ação também apoia a biodiversidade, que é outra área de impacto chave para a cidade, particularmente em relação a secas e ondas de calor. Dado o acesso muito baixo da cidade a água e saneamento adequados, proteger as fontes de água através de zonas ripárias saudáveis é crucial. Portanto, esta ação é uma prioridade para aumentar a resiliência da cidade a riscos climáticos e melhorar a saúde ambiental.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -532,7 +532,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Contagem enfrenta riscos significativos de vários perigos, incluindo secas, ondas de calor, deslizamentos de terra e inundações, todos os quais podem ser agravados pelo uso insustentável da terra. A cidade também possui um status socioeconômico muito baixo e acesso inadequado a serviços públicos, tornando sua população particularmente vulnerável aos impactos ambientais. Incentivar práticas sustentáveis de uso da terra pode mitigar a gravidade desses perigos, protegendo tanto a infraestrutura quanto a saúde pública. Essa ação é crucial para construir resiliência e melhorar o bem-estar geral da comunidade em Contagem.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -606,7 +606,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Contagem enfrenta riscos significativos de múltiplos perigos, incluindo secas, ondas de calor, deslizamentos de terra e inundações, todos os quais podem impactar severamente a saúde pública e a segurança alimentar. A cidade também possui uma população de renda muito baixa e um acesso muito limitado a serviços adequados de água e saneamento, indicando alta vulnerabilidade social. A implementação de redes de segurança social é crucial para proteger as populações mais vulneráveis dos efeitos adversos desses perigos climáticos. Essa ação pode fornecer apoio essencial, garantindo que as necessidades básicas sejam atendidas e reduzindo o impacto geral dos desastres relacionados ao clima na comunidade.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -680,7 +680,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Contagem enfrenta riscos significativos de deslizamentos de terra e inundações, que impactam severamente a infraestrutura e a saúde pública. A cidade também possui uma população de renda muito baixa e acesso inadequado a serviços básicos como água e saneamento. A realocação de moradores de áreas vulneráveis e a restauração do meio ambiente abordam diretamente esses riscos críticos e vulnerabilidades socioeconômicas. Essa ação aumentaria a segurança, melhoraria as condições de vida e construiria resiliência contra futuros impactos climáticos.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -751,7 +751,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Contagem enfrenta riscos significativos de vários perigos climáticos, incluindo ondas de calor, inundações e deslizamentos de terra, todos os quais podem impactar severamente a saúde pública. Fortalecer a rede de saúde é crucial para responder eficazmente ao aumento da demanda por serviços médicos durante e após tais eventos. Esta ação aborda diretamente a vulnerabilidade da cidade a crises de saúde relacionadas ao clima, garantindo que os moradores recebam atendimento oportuno e adequado. Priorizar esta ação aumentará a resiliência da cidade e protegerá sua população das consequências diretas das mudanças climáticas na saúde.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -827,7 +827,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Contagem enfrenta riscos significativos de inundações e secas, ambos com forte impacto na infraestrutura e na saúde pública. Um sistema de monitoramento hidrológico é crucial para fornecer avisos antecipados e dados em tempo real sobre os níveis e o fluxo da água. Essas informações são vitais para uma preparação e resposta eficazes a desastres, ajudando a mitigar as graves consequências desses perigos. Dadas as altas pontuações de risco normalizado para inundações e secas, esta ação aborda diretamente as vulnerabilidades críticas na cidade.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -899,7 +899,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please find the Portuguese translation below:\n\nContagem enfrenta riscos significativos de saúde pública decorrentes de ondas de calor, doenças e inundações, conforme indicado por altas pontuações de risco normalizadas. Melhorar a infraestrutura de saúde é crucial para aumentar a capacidade da cidade de responder a esses desafios de saúde relacionados ao clima. Essa ação aborda diretamente a vulnerabilidade da população a vários perigos. Um sistema de saúde robusto pode mitigar os impactos de eventos climáticos extremos e surtos de doenças, protegendo o bem-estar dos moradores.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -973,7 +973,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas em Contagem é uma ação valiosa, considerando os desafios da cidade. Essa iniciativa pode aumentar a segurança alimentar, especialmente dada a população de renda muito baixa da cidade e o risco moderado de seca que afeta o abastecimento de alimentos. As hortas urbanas também contribuem para a biodiversidade local e podem ajudar a mitigar o efeito de ilha de calor urbana, o que é relevante dado o alto risco de ondas de calor. Além disso, elas podem promover o engajamento comunitário e melhorar a saúde pública através do acesso a produtos frescos e espaços verdes.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1045,7 +1045,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A cidade de Contagem enfrenta riscos significativos de inundações, com alto impacto na infraestrutura e na saúde pública. A implementação de pavimentos permeáveis e o aumento de áreas verdes abordam diretamente esses riscos de inundação, melhorando a absorção de água e reduzindo o escoamento superficial. Essa ação também contribui para mitigar os impactos das ondas de calor, que são outro perigo importante para a saúde pública e a infraestrutura da cidade. Dado o acesso muito baixo da cidade a água e saneamento adequados, essa ação também pode apoiar indiretamente uma melhor gestão da água. Portanto, esta ação é uma prioridade para aumentar a resiliência urbana contra os perigos climáticos.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1117,7 +1117,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação aborda a mudança de comportamento em dietas e desperdício de alimentos, o que pode contribuir para a redução de emissões e para a melhoria da segurança alimentar. Embora importante, Contagem enfrenta riscos mais imediatos e severos de perigos como secas, inundações, deslizamentos de terra e ondas de calor, que apresentam altas pontuações de risco normalizado em múltiplos impactos-chave. A cidade também tem um acesso muito baixo a água e saneamento adequados, indicando necessidades críticas de infraestrutura. Portanto, embora valiosa, esta ação não é a prioridade mais urgente, dado o perfil de alto risco da cidade para desastres relacionados ao clima e deficiências nos serviços básicos.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1193,7 +1193,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A cidade de Contagem enfrenta riscos significativos de eventos climáticos extremos, incluindo altas pontuações de risco normalizado para secas, ondas de calor, deslizamentos de terra e inundações, que afetam vários setores como saúde pública, infraestrutura e segurança alimentar. Um programa de apoio financeiro é crucial para ajudar a cidade e seus moradores a se recuperarem dos impactos devastadores desses eventos. Tal programa pode fornecer alívio imediato e auxiliar nos esforços de reconstrução, reduzindo as consequências socioeconômicas a longo prazo. Esta ação aborda diretamente a vulnerabilidade da cidade a perigos climáticos, tornando-a uma alta prioridade para a construção de resiliência.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Contagem enfrenta riscos significativos de secas, impactando os recursos hídricos e a segurança alimentar. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades críticas. Essa ação ajuda a garantir um abastecimento de água mais estável para a população e para as necessidades agrícolas. Também contribui para a resiliência geral contra futuras escassezes hídricas relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1346,7 +1346,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Contagem enfrenta riscos significativos de secas, ondas de calor, deslizamentos de terra e inundações, impactando os recursos hídricos, a segurança alimentar, a saúde pública e a infraestrutura. A adaptação baseada em ecossistemas pode oferecer soluções naturais para mitigar esses perigos, como a restauração de zonas húmidas para gerir inundações ou a reflorestação de áreas para prevenir deslizamentos de terra e melhorar a retenção de água. Dado o acesso muito baixo da cidade a água e saneamento adequados, e a sua população de rendimentos muito baixos, tal abordagem poderia proporcionar múltiplos co-benefícios, incluindo a melhoria da qualidade ambiental e potencialmente novas oportunidades económicas. Priorizar esta ação construiria resiliência contra os impactos climáticos, ao mesmo tempo que abordaria as vulnerabilidades existentes na comunidade.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Contagem enfrenta um risco muito elevado de secas, o que impacta diretamente os recursos hídricos. Preservar e recuperar corpos d'água é crucial para mitigar os efeitos dessas secas e garantir a disponibilidade de água para a população. Dado o acesso muito baixo da cidade a água adequada, esta ação aborda diretamente uma vulnerabilidade crítica. Além disso, corpos d'água saudáveis contribuem para a resiliência geral do ecossistema, o que é vital para uma cidade que experimenta múltiplos riscos climáticos.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservação e Recuperação de Corpos Hídricos",

@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "The implementation of an urban toll is a priority for Cuiab\u00e1 given the significant transportation emissions, which are the highest among all emission categories. This action directly addresses a major source of the city's carbon footprint. By discouraging private vehicle use, it can lead to reduced traffic congestion and improved air quality. Furthermore, the revenue generated could be reinvested into sustainable public transportation infrastructure, offering long-term benefits for the city's environmental and economic health.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "The adoption of biomethane in public fleets is a priority for Cuiab\u00e1 due to the significant transportation emissions, which are the highest among all emission categories. This action directly addresses a major source of greenhouse gases, contributing to overall emissions reduction. By transitioning public transport to biomethane, the city can improve air quality and reduce its carbon footprint. This initiative also aligns with sustainable development goals by promoting cleaner energy sources within urban infrastructure.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action promotes sustainable transportation, which is crucial given the city's significant transportation emissions. Encouraging bike-sharing, especially with electric bikes, can help reduce reliance on fossil fuel-powered vehicles. This initiative also contributes to public health by promoting physical activity and reducing air pollution. It aligns with efforts to improve urban livability and reduce the city's overall carbon footprint.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -222,7 +222,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority because expanding mass transit systems on rails can significantly reduce transportation emissions, which are a major contributor to the city's total emissions. Cuiab\u00e1 has very high transportation emissions, indicating a strong need for sustainable transport solutions. Improving public transport infrastructure can also alleviate traffic congestion and improve air quality, benefiting public health. This initiative aligns with the city's need to reduce its carbon footprint and enhance urban mobility.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -294,7 +294,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Cuiab\u00e1 has very high transportation emissions, making vehicle emissions a significant contributor to the city's overall carbon footprint. Addressing vehicle emissions is crucial for improving air quality and public health, especially given the city's population size. Reducing these emissions aligns with broader climate goals and can lead to a more sustainable urban environment. Therefore, this action is a priority for mitigating climate change impacts and enhancing urban liveability.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -373,7 +373,7 @@
         "actionId": "icare_0075",
         "actionName": "Set carbon emissions reduction targets for industrial sectors",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Setting carbon emissions reduction targets for industrial sectors is a priority for Cuiab\u00e1 given the significant industrial process emissions. This action directly addresses a major source of greenhouse gases, contributing to overall climate change mitigation efforts. Reducing these emissions can also lead to improved air quality and public health benefits for the city's residents. It is crucial for fostering sustainable industrial practices and aligning with broader environmental goals.",
         "action": {
             "ActionID": "icare_0075",
             "ActionName": "Set carbon emissions reduction targets for industrial sectors",
@@ -445,7 +445,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Prioritizing the procurement of locally produced agroecological products in public purchases is a crucial step for Cuiab\u00e1. This action directly supports local farmers and strengthens the regional economy. It also promotes sustainable agricultural practices, which can help mitigate the city's high food security risks associated with droughts and floods. Furthermore, it can contribute to reducing land use emissions by encouraging more localized food systems. This initiative aligns with building a more resilient and environmentally conscious food supply chain for the city.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -517,7 +517,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a priority for Cuiab\u00e1 due to the city's significant vulnerability to droughts, which severely impact water resources, food security, and biodiversity. Agroforestry can enhance water retention, improve soil health, and diversify agricultural output, thereby building resilience against these hazards. Given the high normalized risk scores for drought-related impacts, this action directly addresses critical environmental and socio-economic challenges. Furthermore, it aligns with sustainable land use practices, contributing to long-term ecological and community well-being.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -589,7 +589,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a high-priority action for Cuiab\u00e1. The city faces significant risks from heatwaves, impacting public health, infrastructure, and biodiversity. Increasing green spaces can help mitigate the urban heat island effect, providing cooling benefits and improving air quality. This action also supports biodiversity, which is severely impacted by both droughts and heatwaves in the city. Furthermore, it can enhance the overall quality of life for residents.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -661,7 +661,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a priority for Cuiab\u00e1 due to the high risk of droughts impacting food security. This action can enhance agricultural resilience by reducing reliance on external inputs and fostering healthier ecosystems. It directly addresses the city's vulnerability to climate hazards, contributing to more sustainable food systems. Furthermore, it aligns with broader environmental goals by minimizing the use of harmful chemicals. This makes it a crucial step towards climate adaptation and food security in the region.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -733,7 +733,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Strengthening mechanisms for deforestation control is a high priority for Cuiab\u00e1 given its grassland/savanna biome and significant land use emissions. Deforestation directly contributes to climate change and can exacerbate hazards like droughts, which are already a major concern for water resources and food security in the city. This action helps mitigate these risks by preserving natural ecosystems. It also aligns with the city's need to address its substantial land use emissions, making it a crucial step towards environmental sustainability.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -805,7 +805,7 @@
         "actionId": "icare_0078",
         "actionName": "Develop and implement industrial waste management programs",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Cuiab\u00e1 has significant industrial process emissions, contributing substantially to its total emissions. Implementing industrial waste management programs directly addresses this source, leading to a reduction in overall emissions. This action is crucial for mitigating the city's environmental impact and promoting sustainable industrial practices. Given the high industrial emissions, this program is a necessary step towards a greener economy.",
         "action": {
             "ActionID": "icare_0078",
             "ActionName": "Develop and implement industrial waste management programs",
@@ -877,7 +877,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Cuiab\u00e1 given its significant land use emissions and high biodiversity risk from droughts and heatwaves. This action can incentivize the protection and restoration of ecosystems, which are crucial for mitigating climate impacts and preserving natural capital. By valuing environmental services, the city can foster sustainable land management practices and enhance its resilience against climate hazards. This approach also aligns with addressing the city's very low-income socio-economic factors by potentially creating new economic opportunities for local communities involved in conservation.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -949,7 +949,7 @@
         "actionId": "icare_0074",
         "actionName": "Support research into carbon-neutral manufacturing technologies",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action is not a high priority for Cuiab\u00e1. The city's primary climate risks are related to droughts, heatwaves, and floods, impacting water resources, public health, and infrastructure. While supporting carbon-neutral manufacturing technologies is beneficial for long-term emissions reduction, it does not directly address the immediate and severe climate hazards faced by the city. The city's industrial process emissions are significant, but other hazards pose more immediate threats to the population and critical systems. Therefore, resources might be better allocated to actions that directly mitigate these pressing risks.",
         "action": {
             "ActionID": "icare_0074",
             "ActionName": "Support research into carbon-neutral manufacturing technologies",
@@ -1021,7 +1021,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action, focused on Technical Assistance and Rural Extension (ATER), is a priority for Cuiab\u00e1 due to the city's significant land use emissions. Improving agricultural practices through ATER can directly mitigate these emissions. Furthermore, given the high risks associated with droughts impacting food security and water resources, ATER can help build resilience in the agricultural sector. This proactive approach supports sustainable land management and adaptation to climate change impacts.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -1093,7 +1093,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses the critical need for conservation practices in Cuiab\u00e1. Given the city's biome as grassland/savanna and its high risks related to water resources, food security, and biodiversity due to droughts, facilitating technology transfer for conservation is crucial. This initiative can help mitigate the severe impacts of climate hazards by promoting sustainable land and water management. It supports long-term resilience and environmental protection, which are vital for the city's future well-being.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -1165,7 +1165,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority for Cuiab\u00e1 due to the city's high risk scores for food security impacted by both droughts and floods. Encouraging local agroecological production can enhance food security by diversifying local food sources and reducing reliance on external supply chains, which are vulnerable to climate hazards. This approach also promotes sustainable land use practices, which can mitigate the impacts of droughts and floods on agricultural systems. Furthermore, strengthening short supply chains can improve the resilience of the food system against climate-related disruptions, ensuring more consistent access to food for the population.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1237,7 +1237,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies is a priority for Cuiab\u00e1 given its significant total emissions, particularly from industrial processes and transportation. While not directly addressing the city's high risks from droughts, heatwaves, and floods, reducing reliance on fossil fuels contributes to long-term climate resilience. This action helps mitigate the root causes of climate change, which in turn can lessen the intensity and frequency of extreme weather events. Therefore, it is a crucial step towards a more sustainable and resilient future for the city.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -1309,7 +1309,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Supporting regenerative agriculture practices is a priority for Cuiab\u00e1 due to the city's high risk from droughts, which severely impact water resources and food security. Regenerative agriculture can improve soil health, water retention, and biodiversity, making the agricultural sector more resilient to climate shocks. Given the significant land use emissions in Cuiab\u00e1, this action also offers a pathway to sequester carbon and reduce the city's overall environmental footprint. This approach aligns with the need to address both climate adaptation and mitigation in a holistic manner.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -1381,7 +1381,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Cuiab\u00e1 faces significant land use emissions, indicating a need for sustainable land management. Agroforestry practices can help mitigate these emissions by sequestering carbon and improving soil health. This action also supports biodiversity, which is a key impact area for Cuiab\u00e1, especially concerning droughts and heatwaves. Implementing incentives for agroforestry in livestock systems can contribute to a more resilient and environmentally friendly agricultural sector in the city.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",

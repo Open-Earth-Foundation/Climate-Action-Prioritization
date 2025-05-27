@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "The implementation of an urban toll is a priority action for Campo Grande. This measure can significantly reduce transportation emissions, which are currently very high in the city. By discouraging private vehicle use, it can alleviate traffic congestion and improve air quality. Furthermore, the revenue generated from the toll can be reinvested into sustainable public transportation infrastructure, offering long-term benefits for the city's environmental and economic health.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it promotes sustainable transportation, directly addressing the significant transportation emissions in Campo Grande. Electric bike-sharing programs can reduce reliance on fossil fuel vehicles, improving air quality and public health. Additionally, it aligns with urban development goals by offering accessible and eco-friendly mobility options. This initiative contributes to a greener city and enhances the quality of life for residents.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action focuses on adopting biomethane in public fleets, which directly addresses transportation emissions. Given that transportation emissions are a significant contributor to the city's total emissions, this initiative has the potential for substantial impact. Reducing these emissions is crucial for improving air quality and mitigating climate change. Therefore, this action is a priority for Campo Grande.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -222,7 +222,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority because expanding mass transit systems on rails can significantly reduce transportation emissions, which are a major contributor to the city's total emissions. Campo Grande has very high transportation emissions, indicating a strong need for sustainable alternatives. Improving public transport infrastructure can also alleviate traffic congestion and enhance urban mobility for residents. This initiative aligns with efforts to build a more resilient and environmentally friendly city.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -294,7 +294,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action addresses vehicle emissions, which are a significant contributor to the city's total emissions. Reducing these emissions can improve air quality and public health. Given the high transportation emissions in Campo Grande, this action is a priority for mitigating climate change impacts. It also aligns with broader sustainability goals for urban development.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -373,7 +373,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a priority for Campo Grande given its grassland/savanna biome and significant land use emissions. This action can help mitigate the high risks associated with droughts, which severely impact food security and water resources. By integrating trees with crops and livestock, agroforestry enhances biodiversity and soil health, offering a sustainable solution to environmental challenges. This approach also contributes to climate resilience by improving ecosystem services and reducing vulnerability to climate hazards.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -445,7 +445,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Campo Grande is located in a grassland/savanna biome, making it susceptible to land-use changes and deforestation. The city's land use emissions are significantly high, indicating a potential issue with deforestation. Strengthening mechanisms for deforestation control directly addresses this major source of emissions. This action is crucial for mitigating climate change and preserving the local ecosystem.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -517,7 +517,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a high-priority action for Campo Grande. The city faces significant risks from heatwaves, impacting public health and infrastructure. Increasing green spaces can help mitigate the urban heat island effect, providing cooling benefits and improving air quality. This action also supports biodiversity, which is moderately impacted by both droughts and heatwaves in the city. Furthermore, green infrastructure can contribute to better water management, indirectly addressing drought-related impacts on water resources.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -589,7 +589,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Campo Grande. The city faces significant risks from droughts, impacting water resources and food security, and floods, affecting infrastructure and food security. PES programs can incentivize the protection and restoration of ecosystems that provide crucial services like water regulation and soil conservation, directly mitigating these hazards. This action supports long-term resilience by fostering sustainable land management practices within the community.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -661,7 +661,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Campo Grande's economy is heavily reliant on agriculture, making rural extension crucial for climate adaptation. The city faces significant risks from droughts and floods, which directly impact food security and water resources. Technical assistance can help farmers implement resilient practices, safeguarding livelihoods and the local food supply. This proactive approach strengthens the agricultural sector against climate shocks.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -733,7 +733,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Campo Grande is located in a grassland/savanna biome, which is susceptible to environmental degradation. Facilitating technology transfer for conservation practices can help mitigate the impacts of hazards like droughts and heatwaves, which significantly affect biodiversity and food security in the region. Given the city's substantial land use emissions, promoting sustainable land management is crucial. This initiative can also indirectly support water resources and public health by maintaining ecological balance. Therefore, investing in conservation practices is a proactive step towards enhancing the city's resilience.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -805,7 +805,7 @@
         "actionId": "icare_0117",
         "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it addresses transportation emissions, which are a significant contributor to the city's total emissions. Promoting public transport can reduce reliance on private vehicles, leading to improved air quality and reduced carbon footprint. Furthermore, a more attractive bus system can enhance urban mobility for residents, especially those with limited access to private transportation. This initiative aligns with sustainable urban development goals and can have broad positive impacts on the city's environment and social equity.",
         "action": {
             "ActionID": "icare_0117",
             "ActionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
@@ -877,7 +877,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Promoting sustainable agricultural practices is a priority for Campo Grande given the high risks associated with droughts and floods impacting food security. The city's grassland/savanna biome is particularly vulnerable to these climate hazards. Implementing such practices can enhance resilience, reduce environmental degradation, and secure food production for the population. This action directly addresses critical vulnerabilities identified in the city's climate change risk assessment.",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -949,7 +949,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Campo Grande's biome is grassland/savanna, which is highly suitable for agroforestry practices. The city also faces significant risks from droughts, impacting food security, making sustainable land use crucial. Implementing agroforestry can enhance resilience against these climate hazards. Furthermore, land use emissions are a substantial contributor to the city's total emissions, and this action directly addresses that. Promoting agroforestry can lead to improved soil health, biodiversity, and carbon sequestration, offering multiple co-benefits for the city's environmental and socio-economic well-being.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -1021,7 +1021,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Campo Grande faces significant food security risks due to droughts and floods, both scoring 0.99 in normalized risk. Prioritizing local agroecological products can enhance food system resilience against these climate hazards. It also supports local economies and sustainable agricultural practices, which can mitigate environmental impacts. This approach fosters a more secure and stable food supply for the city's population.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -1093,7 +1093,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for Campo Grande given the city's significant food security risks from both droughts and floods. These programs can enhance agricultural resilience and promote sustainable land use practices. This action also aligns with addressing the substantial land use emissions, which contribute significantly to the city's total emissions. By fostering agroecology, the city can mitigate climate impacts and improve food system stability.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1165,7 +1165,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Campo Grande faces significant food security risks due to droughts and floods, both scoring 0.99 in normalized risk. Supporting regenerative agriculture practices can enhance soil health, improve water retention, and increase resilience to these climate hazards. This directly addresses the city's vulnerability in food production. Furthermore, regenerative agriculture can contribute to carbon sequestration, aligning with broader climate mitigation goals.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -1237,7 +1237,7 @@
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Promoting organic farming in Campo Grande is a priority due to the city's significant food security risks, particularly from droughts and floods. Organic farming practices can enhance soil health and water retention, making agricultural systems more resilient to these hazards. This action also aligns with reducing land use emissions, which are a substantial contributor to the city's total emissions. Furthermore, it can contribute to biodiversity preservation, an area identified as being impacted by both droughts and heatwaves. Overall, this action addresses multiple interconnected challenges faced by Campo Grande.",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -1309,7 +1309,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a priority for Campo Grande given the city's significant food security risks, particularly from droughts and floods. This action directly supports sustainable agricultural practices, which are crucial for maintaining food production in the face of climate change impacts. By reducing reliance on chemical pesticides, it also contributes to biodiversity preservation, an area where the city faces moderate risks from both droughts and heatwaves. Furthermore, healthier ecosystems can indirectly support water resources, which are also under stress from droughts in Campo Grande.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1381,7 +1381,7 @@
         "actionId": "icare_0091",
         "actionName": "Implementation of prioritized routes for sustainable vehicles.",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action focuses on implementing prioritized routes for sustainable vehicles, which can significantly reduce transportation emissions. Given that transportation emissions are a major contributor to the city's total emissions, this initiative directly addresses a key environmental concern. By promoting sustainable transport, it can also alleviate issues like air pollution and noise, improving public health and quality of life. This action aligns with broader climate goals by fostering a shift towards cleaner urban mobility.",
         "action": {
             "ActionID": "icare_0091",
             "ActionName": "Implementation of prioritized routes for sustainable vehicles.",

@@ -7,7 +7,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant risks identified in Cruzeiro do Sul, particularly from floods and landslides. The city faces extremely high normalized risk scores for public health impacts from both floods (0.834) and landslides (0.692). Relocation and environmental restoration directly address these hazards by moving populations out of vulnerable areas and stabilizing the environment. This proactive measure can prevent future health crises and infrastructure damage, making it a critical intervention for the city's resilience.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -78,7 +78,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses the conservation of protected areas, which is crucial for maintaining biodiversity and ecosystem services. Given the city's biome is tropical rainforest, these areas are likely rich in biodiversity and play a vital role in climate regulation. Strengthening these programs can help mitigate the impacts of climate change, such as those related to droughts and heatwaves, which are identified hazards for the city. Protecting these natural assets is fundamental for the long-term environmental health and resilience of Cruzeiro do Sul.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -151,7 +151,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses infrastructure and public health risks associated with floods, which are significant hazards in Cruzeiro do Sul. Permeable pavements and increased green areas can help manage stormwater runoff, reducing the likelihood and severity of flooding. This also contributes to urban cooling, which can mitigate the impact of heatwaves, another identified hazard. The action's focus on green infrastructure aligns with sustainable urban development and climate resilience.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -223,7 +223,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's vulnerability to floods, which pose a significant risk to public health and food security. Maintaining and revitalizing riparian forests can help mitigate the impact of floods by stabilizing riverbanks, reducing erosion, and improving water absorption. This natural infrastructure solution supports ecosystem health while directly addressing a major climate hazard identified in the city's risk assessment. Investing in this action can enhance the city's resilience against future flood events.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -296,7 +296,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the significant risks posed by floods and landslides in Cruzeiro do Sul. The city faces very high normalized risk scores for public health impacts from both floods (0.834) and landslides (0.692). A hydrological monitoring system with telemetry stations can provide early warnings, allowing for timely evacuation and preparedness measures. This proactive approach is crucial for protecting public health and minimizing damage to infrastructure in a region highly susceptible to these hazards.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -368,7 +368,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Cruzeiro do Sul. The city has very high land use emissions, indicating a significant impact from current practices. Implementing sustainable land use can directly address this major source of emissions. This action will help mitigate climate change and promote environmental stewardship within the community.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -442,7 +442,7 @@
         "actionId": "icare_0154",
         "actionName": "Cleaning and Unclogging of Channels with Installation of Eco-barriers",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from floods, which significantly impact public health and infrastructure. Cleaning and unclogging channels directly addresses flood mitigation by improving water flow and reducing overflow. The installation of eco-barriers further enhances this by preventing debris accumulation, maintaining channel efficiency. This proactive measure is crucial for protecting the community from the severe consequences of flooding.",
         "action": {
             "ActionID": "icare_0154",
             "ActionName": "Cleaning and Unclogging of Channels with Installation of Eco-barriers",
@@ -511,7 +511,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a priority for Cruzeiro do Sul as it can enhance food security, especially given the city's vulnerability to floods impacting food supply. This action also promotes local food production, reducing reliance on external food systems and potentially lowering transportation emissions. Furthermore, urban gardens can contribute to local biodiversity and improve the overall well-being of residents. This initiative aligns with building resilience against climate impacts and fostering sustainable urban development.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -583,7 +583,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Cruzeiro do Sul, especially given the high normalized risk scores for public health impacts from floods, landslides, and heatwaves. Improving healthcare access can significantly mitigate the human cost of these hazards. This action directly addresses the well-being of the population, which is paramount in climate adaptation efforts. Ensuring robust healthcare infrastructure and services is essential for community resilience against climate-related health crises.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -658,7 +658,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action addresses water resources, which is a key impact area for Cruzeiro do Sul, particularly concerning droughts. While the normalized risk score for drought-related water impacts is relatively low, proactive measures are crucial for long-term resilience. Implementing water capture and storage solutions can help mitigate future water scarcity issues. This is a foundational step towards climate adaptation, ensuring water availability for the community.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -734,7 +734,7 @@
         "actionId": "icare_0142",
         "actionName": "Improvement of Water Supply and Sanitation Systems",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a high priority because the city faces significant risks from floods, which can severely impact public health and infrastructure. Improving water supply and sanitation systems is crucial for mitigating the health risks associated with contaminated water during and after flood events. Although the city has very low inadequate water access and sanitation, the high flood risk necessitates robust systems to prevent disease outbreaks. This proactive measure will enhance the city's resilience to climate hazards and protect its population.",
         "action": {
             "ActionID": "icare_0142",
             "ActionName": "Improvement of Water Supply and Sanitation Systems",
@@ -804,7 +804,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a priority for Cruzeiro do Sul due to the significant risks posed by various hazards, particularly floods and landslides. The city faces very high public health risks from both floods and landslides, and ecosystem-based approaches can help mitigate these impacts. Given the tropical rainforest biome, preserving and restoring natural ecosystems can enhance resilience against these climate impacts. This action supports the overall well-being of the community by reducing vulnerability to climate-related disasters.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -891,7 +891,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action focuses on developing diagnostics and restoring Special Social Interest Zones (ZEIS). Given that Cruzeiro do Sul has very low inadequate water access and sanitation, improving these areas could directly benefit vulnerable populations. While the city faces significant risks from floods and landslides impacting public health, addressing social interest zones can contribute to overall community resilience. This action aligns with improving living conditions and potentially mitigating some indirect impacts of climate hazards on these communities. Therefore, it is a relevant step towards enhancing urban sustainability and equity.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -965,7 +965,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is impacted by hazards like droughts and floods in Cruzeiro do Sul. Improving farms and fisheries can enhance local food production and resilience against these climate impacts. Given the city's tropical rainforest biome, sustainable agricultural practices are crucial. This action supports the community's ability to maintain a stable food supply despite environmental challenges. Therefore, it is a priority for building climate resilience.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -1042,7 +1042,7 @@
         "actionId": "icare_0172",
         "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action is a high priority because Cruzeiro do Sul faces significant risks from climate hazards, particularly floods and landslides, which have very high normalized risk scores for public health. Developing a Municipal Risk Reduction Plan (PMRR) is crucial for systematically addressing these threats and protecting the population. Identifying vulnerable groups will ensure that interventions are targeted and effective, enhancing the city's resilience. This proactive planning is essential for mitigating future impacts and safeguarding community well-being.",
         "action": {
             "ActionID": "icare_0172",
             "ActionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
@@ -1114,7 +1114,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is impacted by hazards like droughts and floods in Cruzeiro do Sul. Improving food storage and distribution can help mitigate the effects of these climate-related events on the local population. While not the highest risk, food security is a fundamental need. Enhancing these systems can build resilience against future climate shocks, ensuring a more stable food supply for the community.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -1190,7 +1190,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the significant risks associated with water-related hazards in Cruzeiro do Sul. The city faces high risks from floods, which severely impact public health and food security. Preserving and recovering water bodies can mitigate these flood risks by improving natural drainage and water retention. This also helps address the \"water resources\" key impact identified in the city's climate risk assessment, even though drought risk is currently low. Investing in healthy water ecosystems is crucial for the city's long-term resilience against climate change impacts.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",
@@ -1262,7 +1262,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is a critical priority for Cruzeiro do Sul. The city faces significant risks from floods and landslides, both of which have a very high normalized risk score for public health impacts. Ensuring robust health infrastructure is essential to respond effectively to these hazards and protect the well-being of the population. Given the high public health risks, improving health infrastructure is a foundational step in building resilience.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -1336,7 +1336,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response is crucial for Cruzeiro do Sul due to its high vulnerability to extreme weather events. The city faces significant risks from floods, which have a very high normalized risk score for public health. Additionally, landslides pose a substantial threat to public health. A comprehensive plan would help mitigate these risks and protect the population.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -1413,7 +1413,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is impacted by both droughts and floods in Cruzeiro do Sul. Promoting behaviour change in diets and reducing food waste can enhance the city's resilience to these hazards. While not the highest risk, food security is a fundamental need for the population. This action can contribute to a more sustainable and resilient food system within the city.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",

@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una acción de alta prioridad para Miranda. Este enfoque puede mejorar significativamente la seguridad alimentaria, que es un área de impacto clave con un riesgo moderado por sequías e inundaciones. También contribuye a la biodiversidad, un área con riesgo moderado tanto por sequías como por olas de calor. Además, la agrosilvicultura puede mejorar la gestión de los recursos hídricos, abordando un área de impacto crítico con un alto riesgo de sequías. Esta acción se alinea bien con el bioma de pastizales/sabana de la ciudad, promoviendo el uso sostenible de la tierra y reduciendo potencialmente las sustanciales emisiones por el uso de la tierra.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -79,7 +79,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la reforestación urbana y los corredores verdes es una acción de alta prioridad para Miranda. Esta iniciativa aborda directamente las importantes emisiones derivadas del uso del suelo, que son el mayor contribuyente a las emisiones totales de la ciudad. Al aumentar los espacios verdes, también puede ayudar a mitigar los impactos de las olas de calor, un peligro con una alta puntuación de riesgo para la infraestructura y la salud pública. Además, puede mejorar la biodiversidad, que actualmente está en riesgo tanto por las sequías como por las olas de calor. Esta acción ofrece múltiples co-beneficios, mejorando la salud ambiental y la resiliencia urbana.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -151,7 +151,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nFortalecer los mecanismos para el control de la deforestación es una alta prioridad para Miranda, dadas las significativas emisiones por el uso del suelo. El bioma de la ciudad es pastizal/sabana, que es particularmente vulnerable a la deforestación y la degradación de la tierra. Controlar la deforestación aborda directamente una importante fuente de emisiones y ayuda a preservar el medio ambiente natural. Esta acción es crucial para mitigar los impactos del cambio climático y proteger la biodiversidad en la región.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -223,7 +223,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Here's the Spanish translation:\n\nFacilitar la transferencia de tecnología para prácticas de conservación es una acción crucial para Miranda. Dadas las significativas emisiones por el uso del suelo de la ciudad y su bioma de pastizales/sabana, promover la gestión sostenible de la tierra es esencial. Esta acción puede ayudar a mitigar la degradación ambiental y apoyar la salud a largo plazo del ecosistema. Se alinea con la necesidad de abordar las altas emisiones totales de la ciudad, particularmente las provenientes del uso del suelo, fomentando prácticas más sostenibles.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -295,7 +295,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "La creación de programas municipales de Pago por Servicios Ambientales (PSA) es una prioridad para Miranda debido a las importantes emisiones derivadas del uso del suelo en la ciudad y a su bioma de pastizales/sabana. Estos programas pueden incentivar prácticas sostenibles de gestión de la tierra, que son cruciales para mitigar el cambio climático y preservar la biodiversidad. Dados los altos puntajes de riesgo normalizado de sequías que afectan los recursos hídricos y la seguridad alimentaria, los PSA también pueden apoyar la salud de los ecosistemas que sustentan estos servicios vitales. Esta acción aborda directamente los desafíos ambientales que enfrenta Miranda, promoviendo la resiliencia y la sostenibilidad a largo plazo.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -367,7 +367,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "La realización de acciones de Asistencia Técnica y Extensión Rural (ATER) es una prioridad para Miranda, especialmente dadas sus importantes emisiones por el uso del suelo. Esta acción puede ayudar a implementar prácticas agrícolas sostenibles, que son cruciales para una ciudad con un gran bioma de pastizales/sabana. Al mejorar las prácticas rurales, la ciudad puede mitigar los impactos ambientales yAumentar la resiliencia. Esta iniciativa apoya la economía local al mismo tiempo que aborda desafíos ambientales clave.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -439,7 +439,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar las prácticas de agricultura regenerativa es una prioridad para Miranda, dadas sus importantes emisiones por el uso de la tierra, que son el mayor contribuyente a las emisiones totales de la ciudad. Esta acción aborda directamente la causa fundamental de estas emisiones al promover métodos agrícolas sostenibles. Además, el bioma de la ciudad es de pastizales/sabana, que puede beneficiarse en gran medida de prácticas que mejoran la salud del suelo y la captura de carbono. Esta iniciativa también se alinea con la seguridad alimentaria y el impacto en los recursos hídricos, los cuales son riesgos climáticos clave para Miranda, particularmente en lo que respecta a las sequías.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -511,7 +511,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la agricultura orgánica es una acción relevante para Miranda, especialmente considerando las significativas emisiones por el uso del suelo de la ciudad. Esta iniciativa puede ayudar a mitigar estas emisiones al promover prácticas agrícolas más sostenibles. Además, podría mejorar la seguridad alimentaria, que es un área de impacto clave para Miranda, particularmente dada la vulnerabilidad de la ciudad a las sequías e inundaciones. Esta acción también se alinea con el bioma de pastizales/sabana de la ciudad, lo que podría apoyar la biodiversidad y la salud del ecosistema. En general, presenta un enfoque multifacético para abordar las preocupaciones ambientales y de seguridad alimentaria.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -583,7 +583,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas agrícolas sostenibles es una alta prioridad para Miranda. La ciudad enfrenta riesgos significativos por las sequías, que impactan severamente los recursos hídricos y la seguridad alimentaria. Dado que el bioma de Miranda es pastizal/sabana, las prácticas agrícolas son probablemente un componente importante de su uso de la tierra, y los métodos insostenibles podrían exacerbar estos peligros climáticos. Esta acción aborda directamente vulnerabilidades clave al fomentar la resiliencia en la producción de alimentos y la gestión del agua, que son críticas para el bienestar de la población y la economía local.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -655,7 +655,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Las importantes emisiones por el uso del suelo en Miranda sugieren la necesidad de una gestión sostenible de la tierra. Las prácticas agroforestales pueden ayudar a mitigar estas emisiones mediante la captura de carbono y la mejora de la salud del suelo. Dado el bioma de pastizales/sabana de la ciudad, la integración de árboles en los sistemas ganaderos también puede mejorar la biodiversidad y proporcionar servicios ecosistémicos adicionales. Esta acción se alinea con la atención a las preocupaciones ambientales y la promoción de prácticas agrícolas resilientes en la región.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -727,7 +727,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el uso de maquinaria agrícola de bajas emisiones es una prioridad para Miranda debido a las importantes emisiones por el uso del suelo de la ciudad. Siendo las emisiones por el uso del suelo el mayor contribuyente a las emisiones totales de la ciudad, abordar este sector es crucial para la acción climática. Esta acción se dirige directamente a una de las principales fuentes de gases de efecto invernadero, lo que se alinea con la necesidad de reducir la huella de carbono general de la ciudad. Al promover prácticas agrícolas más limpias, Miranda puede lograr un progreso sustancial hacia sus objetivos ambientales.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Fomentar el uso de maquinaria agrícola de bajas emisiones",
@@ -799,7 +799,7 @@
     "actionId": "icare_0127",
     "actionName": "Accelerate Environmental Regularization of Rural Properties",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Acelerar la regularización ambiental de las propiedades rurales es una prioridad para Miranda, dadas las importantes emisiones por el uso del suelo, que son el mayor contribuyente a las emisiones totales de la ciudad. Esta acción aborda directamente el impacto ambiental de las actividades rurales, lo cual es crucial para una ciudad con una gran superficie y un bioma de pastizal/sabana. Además, puede ayudar a mitigar los riesgos relacionados con sequías e inundaciones, que son peligros identificados que afectan los recursos hídricos y la seguridad alimentaria. Mejorar las prácticas ambientales en las zonas rurales es esencial para la sostenibilidad y resiliencia a largo plazo de la ciudad.",
     "action": {
       "ActionID": "icare_0127",
       "ActionName": "Acelerar la Regularización Ambiental de Propiedades Rurales",
@@ -871,7 +871,7 @@
     "actionId": "ipcc_0061",
     "actionName": "Soil Carbon Management in Croplands and Grasslands",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Here's the Spanish translation:\n\nMiranda tiene un bioma significativo de pastizales/sabana, lo que indica un fuerte potencial para la gestión del carbono en el suelo. Esta acción aborda directamente las emisiones por uso del suelo, que son excepcionalmente altas en Miranda, representando la mayor fuente de emisiones. Al mejorar el carbono del suelo, la ciudad puede mitigar estas emisiones y mejorar la salud del ecosistema. Esto convierte a la acción en una alta prioridad para la sostenibilidad ambiental y la resiliencia climática.",
     "action": {
       "ActionID": "ipcc_0061",
       "ActionName": "Gestión del Carbono del Suelo en Tierras de Cultivo y Pastizales",
@@ -942,7 +942,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Priorizar los productos agroecológicos de producción local puede mejorar significativamente la seguridad alimentaria, que es un área de impacto clave para Miranda, especialmente dada su vulnerabilidad a las sequías e inundaciones. Esta acción apoya las economías locales y promueve prácticas agrícolas sostenibles, lo que se alinea con el bioma de pastizales/sabana de la ciudad. Además, puede contribuir a reducir las emisiones por el uso de la tierra al disminuir potencialmente la huella de carbono asociada con el transporte de alimentos a larga distancia. Esta iniciativa también apoya indirectamente la salud pública al proporcionar opciones de alimentos más saludables y reducir la exposición a productos químicos nocivos a menudo asociados con la agricultura convencional.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "La promoción del control agroecológico de plagas es una prioridad para Miranda, especialmente dadas las importantes emisiones por el uso del suelo de la ciudad. Esta acción puede ayudar a reducir la dependencia de los pesticidas sintéticos, que a menudo tienen una alta huella de carbono asociada con su producción y aplicación. Además, apoya prácticas agrícolas sostenibles que pueden mejorar la salud del suelo y la biodiversidad, contribuyendo a la resiliencia general del ecosistema. Al fomentar sistemas agrícolas más saludables, esta iniciativa puede apoyar indirectamente la seguridad alimentaria, que es un área de impacto clave para Miranda, particularmente en lo que respecta a sequías e inundaciones. Esta acción se alinea con un enfoque holístico de la resiliencia climática al abordar los aspectos de mitigación y adaptación dentro del sector agrícola.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar la implementación de incentivos fiscales ecológicos es una prioridad para Miranda, dadas sus importantes emisiones por el uso del suelo. Estos incentivos pueden fomentar prácticas sostenibles de gestión del suelo, que son cruciales para reducir la mayor fuente de emisiones de la ciudad. Al promover la preservación y restauración ecológica, esta acción también puede ayudar a mitigar los riesgos para la biodiversidad, un área de impacto clave identificada en la evaluación de riesgos climáticos de la ciudad. Además, tales iniciativas pueden fomentar una economía local más resiliente al valorar el capital natural. Esta acción se alinea con la necesidad de la ciudad de abordar los desafíos ambientales a través de mecanismos económicos.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la producción agroecológica local y las cadenas de suministro cortas es una prioridad para Miranda. Esta acción puede mejorar la seguridad alimentaria, que es un área de impacto clave con riesgo moderado a alto tanto por sequías como por inundaciones. También se alinea con el bioma de pastizales/sabana de la ciudad, promoviendo prácticas sostenibles de uso de la tierra. Además, puede contribuir a reducir las emisiones por el uso de la tierra, que actualmente son muy altas en Miranda. Esta iniciativa apoya la resiliencia local y la estabilidad económica.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Miranda, una ciudad con un importante bioma de pastizales/sabana y sustanciales emisiones por el uso de la tierra. Esta acción puede ayudar a promover prácticas agrícolas sostenibles, que son cruciales para mitigar el impacto ambiental en una región que depende en gran medida del uso de la tierra. Al fomentar la agricultura ecológica, también puede contribuir a la preservación de la biodiversidad y, potencialmente, mejorar la seguridad alimentaria. Dada la población de ingresos bajos a moderados de la ciudad, estos programas también podrían ofrecer beneficios económicos a los agricultores locales. Esta iniciativa se alinea con la resolución de los desafíos ambientales de la ciudad y el fomento de la resiliencia a largo plazo.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1302,7 +1302,7 @@
     "actionId": "ipcc_0053",
     "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "La forestación, reforestación y restauración de ecosistemas forestales son cruciales para Miranda, dadas sus importantes emisiones por el uso del suelo. Estas actividades abordan directamente la mayor fuente de emisiones en la ciudad, que es el uso del suelo. Además, pueden ayudar a mitigar los impactos de las sequías y las olas de calor, que son peligros identificados en la Evaluación de Riesgos y Vulnerabilidad Climática (CCRA) de la ciudad, al mejorar la retención de agua y reducir las temperaturas. Esta acción también apoya la biodiversidad, un área de impacto que ya está en riesgo tanto por las sequías como por las olas de calor. Priorizar esta acción ofrece múltiples cobeneficios tanto para la mitigación como para la adaptación climática.",
     "action": {
       "ActionID": "ipcc_0053",
       "ActionName": "Aforestación, Reforestación y Restauración de Ecosistemas Forestales",
@@ -1374,7 +1374,7 @@
     "actionId": "c40_0042",
     "actionName": "Biodiversity Expansion",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción se centra en la expansión de la biodiversidad, una preocupación relevante para Miranda dado su bioma de pastizales/sabana. La ciudad enfrenta riesgos para la biodiversidad tanto por sequías como por olas de calor, como lo indican los datos del CCRA. La expansión de la biodiversidad puede mejorar la resiliencia del ecosistema, ayudando a la ciudad a adaptarse mejor a estos peligros climáticos. Esta medida proactiva apoya la salud y estabilidad ecológica a largo plazo de la región.",
     "action": {
       "ActionID": "c40_0042",
       "ActionName": "Expansión de la Biodiversidad",

@@ -7,7 +7,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the city's significant vulnerability to droughts, which severely impact food security. Tangar\u00e1 da Serra also faces high levels of inadequate sanitation, which can exacerbate food-related health issues. Improving farms and fisheries can directly address food security concerns and build resilience against climate impacts. Given the very low-income socio-economic factors, enhancing local food production can also provide economic benefits and improve livelihoods.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -84,7 +84,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a high priority for Tangar\u00e1 da Serra, especially given the high normalized risk score for public health due to heatwaves and diseases. Improving healthcare access can mitigate the impacts of these hazards on the population. This action directly addresses a critical vulnerability identified in the city's climate change risk assessment. Ensuring robust healthcare infrastructure and services is crucial for the well-being of the city's residents.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -159,7 +159,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is a priority for Tangar\u00e1 da Serra. The city faces significant challenges with very low income levels and high inadequate sanitation. Addressing these zones can directly improve living conditions and access to essential services for vulnerable populations. This action aligns with the urgent need to enhance public services and socio-economic factors within the city.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -233,7 +233,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Tangar\u00e1 da Serra faces significant risks to food security, with droughts and floods both having a normalised risk score of 0.99. Improving food storage and distribution can directly mitigate these impacts by ensuring food availability even during extreme weather events. Given the city's 'very_low' low-income status, enhancing food systems is crucial for the well-being of its vulnerable population. This measure can build resilience against climate-related disruptions to the food supply chain.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -309,7 +309,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is crucial for Tangar\u00e1 da Serra due to its very low-income socio-economic factors. This action directly addresses the vulnerability of the population, especially in the face of high risks from droughts affecting water and food security, and diseases impacting public health. By providing a safety net, the city can mitigate the immediate impacts of these hazards on its most vulnerable residents. This proactive measure helps build resilience and ensures basic needs are met during times of crisis.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -383,7 +383,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Tangar\u00e1 da Serra faces significant risks from extreme weather events, particularly droughts and floods, which severely impact water and food security. The city also experiences high risks from heatwaves affecting public health. Establishing a plan for preparation and emergency response is crucial to mitigate these immediate and severe impacts. This action directly addresses the city's high vulnerability to multiple climate hazards, making it a high priority for protecting its population and resources.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -460,7 +460,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is crucial given the city's high normalized risk scores for public health impacts from heatwaves and diseases. Improving health infrastructure can enhance the city's capacity to respond to these climate-related health challenges. While not the highest priority, it is a significant concern for the well-being of the population. Investing in this area can build resilience against future health crises exacerbated by climate change.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -534,7 +534,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Tangar\u00e1 da Serra faces significant risks from droughts, impacting water resources and food security. A hydrological monitoring system is crucial for early warning and effective water management in a city with very low income and high inadequate sanitation. This action directly addresses the city's most pressing climate hazards and vulnerabilities. Implementing this system can help mitigate the severe consequences of drought on the population and essential services.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -606,7 +606,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Strengthening the healthcare network is a high priority for Tangar\u00e1 da Serra, especially given the city's significant public health risks from heatwaves and diseases. The city also faces high risks from droughts and floods, which can exacerbate health issues. Improving healthcare infrastructure will help the city respond effectively to the health impacts of these climate hazards. This action directly addresses the vulnerability of the population to climate-related health crises.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -682,7 +682,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's significant vulnerability to food security issues, as indicated by the high normalised risk score for droughts and floods impacting food security. Promoting behaviour change in diets and reducing food waste can directly mitigate these risks by fostering more resilient food systems. Given the very low-income socio-economic factors, efficient food resource management becomes even more critical. This action can contribute to both climate adaptation and mitigation efforts within the community.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -758,7 +758,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens is a priority for Tangar\u00e1 da Serra, especially given the high risk of drought and its impact on food security. This action can enhance local food production, reducing reliance on external food sources which may be vulnerable to climate shocks. Furthermore, it can contribute to community resilience and potentially improve public health outcomes by increasing access to fresh produce. Urban gardens also offer educational opportunities and foster community engagement, aligning with the city's socio-economic factors.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -830,7 +830,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Tangar\u00e1 da Serra given its significant land use emissions and the prevalence of drought and flood hazards impacting water resources and food security. Protecting and restoring ecosystems can enhance the city's resilience to these climate impacts. This approach also offers co-benefits for biodiversity, which is already impacted by both droughts and heatwaves. Prioritizing this action can help mitigate the high risks identified in the city's climate change risk assessment.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -917,7 +917,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Tangar\u00e1 da Serra faces significant risks from droughts, with very high normalised risk scores for water resources and food security. The city also has low access to adequate water, making water capture and storage crucial for resilience. Implementing this action can directly address the immediate and severe impacts of water scarcity. It will help secure essential resources for the population and agricultural sector, which are highly vulnerable to drought conditions.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -993,7 +993,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Strengthening programs for control and conservation of protected areas is a priority for Tangar\u00e1 da Serra. The city's biome is grassland/savanna, which is often vulnerable to environmental degradation. Given the significant land use emissions, protecting these areas can help mitigate further environmental impact. This action supports biodiversity and ecosystem health, which are crucial for the city's long-term resilience. It also aligns with broader environmental conservation goals, contributing to the city's sustainability.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -1066,7 +1066,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Tangar\u00e1 da Serra, given its significant land use emissions. The city's biome is grassland/savanna, which is particularly vulnerable to unsustainable practices. With very low income and high inadequate sanitation, the community may be more reliant on land for livelihoods, making sustainable practices crucial. This action directly addresses a major source of emissions and can help mitigate key impacts like drought and food security, which are already high risks for the city.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -1140,7 +1140,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high vulnerability to droughts, which severely impact water resources and food security. Maintaining and revitalizing riparian forests can help mitigate these impacts by improving water retention, reducing erosion, and supporting local ecosystems. Given the very low-income socio-economic factors, such an action can also provide co-benefits like local employment and improved environmental health for vulnerable populations. This proactive measure addresses critical environmental risks and supports community resilience in Tangar\u00e1 da Serra.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -1213,7 +1213,7 @@
         "actionId": "ipcc_0087",
         "actionName": "Infrastructure retrofitting",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Infrastructure retrofitting is a priority for Tangar\u00e1 da Serra given the city's high vulnerability to various climate hazards. While the city faces significant risks from droughts and floods impacting water and food security, infrastructure is also at risk from heatwaves and floods. Retrofitting infrastructure can enhance its resilience against these climate impacts, protecting essential services and assets. This action is crucial for adapting to the changing climate and safeguarding the city's physical foundations.",
         "action": {
             "ActionID": "ipcc_0087",
             "ActionName": "Infrastructure retrofitting",
@@ -1286,7 +1286,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Tangar\u00e1 da Serra faces significant risks from extreme weather events, particularly droughts and floods, which severely impact water resources and food security. The city also has very low income and high inadequate sanitation, making its population vulnerable to these shocks. A financial support program would provide crucial aid to residents and businesses affected by these events, helping them recover and build resilience. This action directly addresses the city's high exposure to climate hazards and its socio-economic vulnerabilities.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1363,7 +1363,7 @@
         "actionId": "ipcc_0101",
         "actionName": "Efficient water supply/distribution",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Tangar\u00e1 da Serra faces significant challenges with inadequate water access, despite its grassland/savanna biome. The city also experiences high risks from droughts, which severely impact water resources and food security. Improving water supply and distribution is crucial for addressing these vulnerabilities. This measure will enhance resilience against climate impacts and improve public health outcomes.",
         "action": {
             "ActionID": "ipcc_0101",
             "ActionName": "Efficient water supply/distribution",
@@ -1435,7 +1435,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high vulnerability to various hazards, particularly droughts and floods, which significantly impact water resources and food security. Given the \"very_low\" socio-economic factors and \"high\" inadequate sanitation, relocating and restoring vulnerable areas can directly address public health and infrastructure risks. This proactive measure can mitigate future damages and improve the living conditions for the most affected populations. It aligns with building resilience in a city facing multiple climate-related challenges.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",

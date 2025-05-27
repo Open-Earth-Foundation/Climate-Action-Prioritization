@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Abaetetuba enfrenta riscos significativos de eventos climáticos extremos, incluindo altas pontuações de risco normalizado para impactos na saúde pública decorrentes de ondas de calor, doenças e inundações, bem como impactos na segurança energética decorrentes de secas e ondas de calor. O estabelecimento de um plano abrangente de preparação e resposta a emergências é crucial para mitigar esses impactos generalizados e severos. Esta ação aborda diretamente a vulnerabilidade da cidade a múltiplos perigos, protegendo sua população e infraestrutura crítica. Dada a alta população e os desafios socioeconômicos existentes, o planejamento proativo é essencial para a resiliência.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação é uma prioridade porque aborda diretamente as necessidades das Zonas Especiais de Interesse Social (ZEIS), que frequentemente abrigam populações vulneráveis. A melhoria dessas áreas pode levar a melhores condições de vida e maior resiliência para os moradores. Dada a alta população de baixa renda da cidade e os desafios com os serviços públicos, focar nas ZEIS é crucial para um desenvolvimento equitativo. Esta iniciativa também pode contribuir para a redução de riscos à saúde pública e para a melhoria da infraestrutura dentro dessas zonas específicas.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido ao alto risco da cidade em relação à segurança alimentar decorrente de inundações, conforme indicado por uma pontuação de risco normalizada de 0,99. Melhorar o armazenamento e a distribuição de alimentos pode mitigar diretamente os impactos de tais perigos, garantindo maior resiliência para a população. Dada a demografia de baixa renda da cidade, o acesso confiável a alimentos é ainda mais crítico. Esta medida pode ajudar a estabilizar as cadeias de suprimentos de alimentos e reduzir a vulnerabilidade durante eventos climáticos extremos.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -234,7 +234,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Abaetetuba, especialmente dado o alto escore de risco normalizado para impactos na saúde pública decorrentes de ondas de calor, doenças e inundações. Melhorar o acesso à saúde pode mitigar diretamente esses riscos, garantindo atenção médica oportuna e cuidados preventivos. Esta ação é essencial para proteger o bem-estar da população, particularmente aqueles em famílias de baixa renda que podem ter acesso limitado aos serviços existentes. Priorizar a infraestrutura e os serviços de saúde construirá resiliência contra os desafios de saúde relacionados ao clima, tanto atuais quanto futuros.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -309,7 +309,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os programas de controle e conservação das áreas protegidas é crucial para Abaetetuba, dado o seu bioma de floresta tropical. Esta ação aborda diretamente o alto risco à biodiversidade decorrente tanto de secas quanto de ondas de calor, conforme indicado pelos dados do CCRA da cidade. Proteger essas áreas também pode apoiar indiretamente os recursos hídricos e a segurança alimentar, que são impactos-chave enfrentados pelos riscos de seca. Dados os fatores socioeconômicos de baixa renda da cidade, preservar os recursos naturais também pode contribuir para meios de subsistência sustentáveis e para o bem-estar geral da comunidade. Portanto, esta ação é de alta prioridade para a resiliência ambiental e social da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -382,7 +382,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Abaetetuba enfrenta riscos significativos de eventos climáticos extremos, particularmente secas, ondas de calor e inundações, que impactam severamente a saúde pública, a segurança energética e a segurança alimentar. Um programa de apoio financeiro é crucial para ajudar a comunidade a se recuperar e se adaptar a esses perigos recorrentes. Esta iniciativa pode proporcionar alívio imediato e resiliência a longo prazo para populações vulneráveis. Dada a alta população de baixa renda da cidade e os serviços públicos inadequados, tal programa é essencial para uma adaptação climática equitativa.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -459,7 +459,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Abaetetuba enfrenta riscos significativos de secas e inundações, impactando os recursos hídricos, a segurança alimentar e a saúde pública. Um sistema de monitoramento hidrológico é crucial para compreender os níveis da água e prever esses perigos. Essa abordagem proativa pode ajudar a cidade a se preparar e mitigar os efeitos de eventos climáticos extremos. A implementação de tal sistema abordaria diretamente várias áreas de alto risco identificadas na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -531,7 +531,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma prioridade crítica para Abaetetuba, dados os altos escores de risco normalizados para impactos na saúde pública decorrentes de ondas de calor, doenças e inundações. A população de baixa renda da cidade é particularmente vulnerável a esses riscos de saúde relacionados ao clima. Melhorar a infraestrutura de saúde abordará diretamente as necessidades imediatas das vítimas do clima e aumentará a resiliência da cidade. Esta ação é essencial para proteger o bem-estar da comunidade diante dos crescentes desafios climáticos.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -607,7 +607,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Melhorias na agricultura/pesca são uma alta prioridade para Abaetetuba.** A cidade enfrenta riscos significativos à segurança alimentar devido a inundações, com uma pontuação de risco normalizada de 0,99. A melhoria das práticas agrícolas e pesqueiras pode aumentar diretamente a resiliência e a produtividade diante de tais perigos. Esta ação ajudará a garantir as fontes de alimentos locais e a apoiar os meios de subsistência, o que é crucial dada a alta população de baixa renda da cidade. Investir nessas melhorias pode mitigar os impactos severos das mudanças climáticas na capacidade da comunidade de se alimentar.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -684,7 +684,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Abaetetuba enfrenta um risco muito elevado para a saúde pública devido a ondas de calor e doenças, e um risco moderado devido a inundações e deslizamentos de terra. Melhorar a disponibilidade de infraestrutura de saúde é crucial para abordar estas significativas vulnerabilidades de saúde pública. Dada a alta população de baixa renda, o acesso a cuidados de saúde é ainda mais vital para garantir o bem-estar equitativo. Esta ação apoia diretamente a resiliência da cidade contra os impactos na saúde relacionados com o clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -758,7 +758,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Redes de segurança social são cruciais para Abaetetuba, dada a sua alta população de baixa renda e os significativos riscos climáticos. A cidade enfrenta um acesso inadequado à água muito elevado e um saneamento inadequado moderado, o que exacerba as vulnerabilidades. Além disso, os altos riscos de secas, ondas de calor e inundações que afetam a saúde pública e a segurança alimentar exigem um apoio social robusto. A implementação de redes de segurança social pode fornecer apoio essencial às populações vulneráveis, ajudando-as a lidar com os impactos das mudanças climáticas e a melhorar a resiliência geral.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -832,7 +832,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Abaetetuba, dadas as suas significativas emissões provenientes do uso da terra. O bioma da cidade é a floresta tropical, tornando-a particularmente vulnerável ao uso insustentável da terra. Esta ação pode ajudar a mitigar as mudanças climáticas, reduzindo o desmatamento e promovendo práticas que sequestram carbono. Também apoia a biodiversidade e a saúde a longo prazo do ecossistema.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -906,7 +906,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas em Abaetetuba é uma prioridade devido ao alto risco de segurança alimentar da cidade decorrente de inundações, conforme indicado por uma pontuação de risco normalizada de 0,99. As hortas urbanas podem aumentar a produção local de alimentos, reduzindo a dependência de fontes externas e melhorando a resiliência a interrupções relacionadas ao clima. Esta ação também aborda os fatores socioeconômicos de baixa renda, fornecendo opções de alimentos acessíveis e de baixo custo para a comunidade. Além disso, pode contribuir para a biodiversidade local e o bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -978,7 +978,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação aborda a segurança alimentar, que é uma área de impacto fundamental para Abaetetuba, particularmente no que diz respeito às inundações. Embora a cidade enfrente riscos significativos de vários perigos, a segurança alimentar está diretamente ligada ao bem-estar de sua população. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode aumentar a resiliência e a gestão de recursos. Isso é especialmente relevante dada a demografia de baixa renda da cidade, onde a utilização eficiente de alimentos pode ter um impacto positivo substancial.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1054,7 +1054,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A Manutenção e Revitalização de Matas Ciliares é uma ação crucial para Abaetetuba. A cidade enfrenta riscos significativos de inundações, que impactam severamente a segurança alimentar. Matas ciliares saudáveis podem mitigar os impactos das inundações, estabilizando as margens dos rios e absorvendo o excesso de água. Esta ação também apoia a biodiversidade, que é uma área de impacto chave tanto para secas quanto para ondas de calor na cidade. Dada a alta vulnerabilidade a riscos relacionados à água, esta ação é uma prioridade para aumentar a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é a seguinte:\n\nEsta ação aborda a necessidade crítica de realocação e restauração ambiental em áreas vulneráveis. Dada a alta densidade populacional de Abaetetuba e as significativas emissões decorrentes do uso da terra, tais iniciativas são cruciais para mitigar a degradação ambiental. A cidade também enfrenta altos riscos de vários perigos, como inundações e deslizamentos de terra, que afetam desproporcionalmente as populações vulneráveis. Portanto, esta ação é uma prioridade para aumentar a resiliência da comunidade e a sustentabilidade ambiental.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1198,7 +1198,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias são ações cruciais para Abaetetuba. Esta iniciativa aborda diretamente a vulnerabilidade da cidade a inundações, que representam um risco significativo para a segurança alimentar. Ao melhorar a absorção de água e reduzir o escoamento superficial, pode-se mitigar o impacto de chuvas intensas. Além disso, o aumento de espaços verdes contribui para o arrefecimento urbano, o que é vital dado o alto risco de ondas de calor que afetam a saúde pública e a segurança energética na cidade. Esta ação oferece múltiplos co-benefícios, melhorando tanto a resiliência climática quanto a habitabilidade urbana.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Abaetetuba, dado o seu bioma de floresta tropical e as significativas emissões provenientes do uso da terra. Essa abordagem pode ajudar a mitigar os impactos de perigos como secas e inundações, que representam altos riscos para os recursos hídricos, a segurança alimentar e a saúde pública. Ao restaurar e proteger os ecossistemas naturais, a cidade pode aumentar sua resiliência às mudanças climáticas. Essa ação também se alinha com o enfrentamento da alta população de baixa renda, podendo proporcionar meios de subsistência sustentáveis e melhorar a qualidade ambiental geral.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1357,7 +1357,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A captação/armazenamento de água é uma ação crítica para Abaetetuba, dada a altíssima inadequação no acesso à água e o risco significativo de secas que impactam os recursos hídricos. A implementação desta ação aborda diretamente uma deficiência fundamental no serviço público e constrói resiliência contra um grande perigo climático. Priorizar a infraestrutura hídrica é essencial para melhorar a qualidade de vida dos moradores e garantir a sustentabilidade a longo prazo. Esta ação ajudará a garantir um recurso vital para a comunidade.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1433,7 +1433,7 @@
     "actionId": "ipcc_0087",
     "actionName": "Infrastructure retrofitting",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A modernização da infraestrutura é uma ação crucial para Abaetetuba, dada a sua vulnerabilidade a vários perigos climáticos. A cidade enfrenta riscos significativos para a infraestrutura devido a ondas de calor, deslizamentos de terra e inundações, conforme indicado pelos dados da CCRA. A modernização pode aumentar a resiliência da infraestrutura existente, reduzindo danos e interrupções durante eventos climáticos extremos. Esta medida proativa é essencial para proteger os bens públicos e garantir a continuidade dos serviços essenciais numa cidade com alta população de baixa renda.",
     "action": {
       "ActionID": "ipcc_0087",
       "ActionName": "Retrofitting de infraestrutura",

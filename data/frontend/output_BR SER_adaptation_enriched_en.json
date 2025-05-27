@@ -7,7 +7,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to Serra's significant vulnerability to various extreme weather events. The city faces high risks from droughts, heatwaves, landslides, and floods, impacting critical sectors like infrastructure, public health, and food security. Establishing a comprehensive plan for preparation and emergency response is crucial to mitigate these widespread and severe impacts. This proactive measure will enhance the city's resilience and protect its population and assets from future climate-related disasters.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -84,7 +84,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to Serra's biome being a tropical rainforest, which is highly sensitive to environmental changes. Strengthening programs for control and conservation of protected areas is crucial for preserving biodiversity and ecosystem services. Given the city's very low access to public services in terms of water and sanitation, protecting natural water sources within these areas can also indirectly benefit the population. Furthermore, healthy ecosystems can provide resilience against hazards like droughts and floods, which are significant risks for Serra, impacting water resources, food security, and infrastructure.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -157,7 +157,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a significant concern for Serra, particularly due to the high risk of floods and droughts. Improving food storage and distribution can mitigate the impacts of these hazards on the food supply. Given the city's vulnerability to climate-related disruptions, ensuring a stable food system is crucial for community resilience. This action directly supports the well-being of the population by enhancing access to food, especially during extreme weather events.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -233,7 +233,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's vulnerability to multiple hazards, including droughts, heatwaves, landslides, and floods. Riparian forests play a crucial role in mitigating the impacts of these hazards by stabilizing soil, preventing erosion, and regulating water flow. Given the high normalized risk scores for key impacts like water resources, food security, public health, and infrastructure, maintaining and revitalizing these forests is essential for enhancing the city's resilience. This action directly addresses several critical environmental and public safety concerns in Serra.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -306,7 +306,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant public health risks identified in Serra. The city faces high normalized risk scores for public health impacts from heatwaves, diseases, floods, and landslides. Strengthening the healthcare network is crucial to effectively respond to these climate-related health emergencies. This proactive measure will enhance the city's resilience and protect its population from the adverse health effects of climate change.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -382,7 +382,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action focuses on Special Social Interest Zones (ZEIS), which are likely areas with vulnerable populations. Addressing these zones can improve living conditions and resilience for those most susceptible to climate impacts. Given the city's 'very_low' socio-economic factors, this action is crucial for equitable development. Improving these areas can also indirectly reduce risks associated with inadequate public services, such as water and sanitation. Therefore, this action is a priority for enhancing social equity and climate resilience in Serra.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -456,7 +456,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Serra, especially given the high normalized risk scores for public health impacts from heatwaves, diseases, floods, and landslides. Improving healthcare access can directly mitigate the severe health consequences of these hazards. This action is essential for building resilience and protecting the well-being of the population in the face of climate change-related health threats. Prioritizing this action will help ensure that the city's residents receive timely and adequate medical attention during and after extreme weather events and disease outbreaks.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -531,7 +531,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Serra. The city faces significant risks from various hazards, including droughts, heatwaves, landslides, and floods, all of which can be exacerbated by unsustainable land use. Given the city's tropical rainforest biome, protecting and restoring natural ecosystems through sustainable practices is crucial for mitigating these impacts. This action can help reduce the severity of key impacts like infrastructure damage, food insecurity, and public health issues, making it a vital step towards climate resilience.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -605,7 +605,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a key impact area for Serra, particularly due to droughts and floods. Improving farms and fisheries can enhance resilience to these hazards and ensure a more stable food supply for the population. Given the city's tropical rainforest biome, sustainable practices in these sectors are crucial for long-term environmental and economic stability. Prioritizing this action can directly mitigate the high risks associated with food security in the region.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -682,7 +682,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant public health risks identified in Serra. The city faces high normalized risk scores for public health impacts from heatwaves, diseases, floods, and landslides. Improving health infrastructure is crucial to mitigate these existing and future health challenges. This will enhance the city's resilience and capacity to respond to climate-related health crises.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -756,7 +756,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is crucial for Serra, given its 'very_low' socio-economic status. This action directly addresses the vulnerability of the population, especially in the face of high-risk hazards like floods, landslides, and heatwaves, which severely impact public health and food security. By providing a safety net, the city can mitigate the immediate human impacts of these events and support recovery efforts. This proactive measure helps build resilience within the community, ensuring that the most vulnerable are protected during and after climate-related disasters.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -830,7 +830,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high vulnerability to extreme weather events, particularly floods, landslides, and heatwaves, which have significant impacts on infrastructure, public health, and food security. A financial support program can provide crucial aid to residents and businesses affected by these events, facilitating recovery and building resilience. Given the high normalized risk scores for these hazards, proactive financial mechanisms are essential for effective disaster response and mitigation. This program directly addresses the urgent need for support in the face of climate-related disasters.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -907,7 +907,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risks related to landslides and floods, which severely impact infrastructure and public health. Relocation of vulnerable populations is crucial to prevent future casualties and damage. Environmental restoration can help mitigate the underlying causes of these hazards, such as soil erosion. Given the city's very low access to public services in water and sanitation, addressing these environmental issues is even more critical for overall well-being.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -978,7 +978,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "The implementation of urban gardens is a priority for Serra due to its potential to enhance food security, which is a key impact area with a high normalized risk score from floods. This action can also contribute to local resilience against climate hazards by diversifying food sources. Furthermore, urban gardens can improve public health by providing access to fresh produce and green spaces. This initiative aligns with addressing the city's vulnerabilities, particularly concerning food supply disruptions.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -1050,7 +1050,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the city's significant vulnerability to floods and droughts, both of which have high normalized risk scores for various key impacts. A hydrological monitoring system can provide crucial early warnings for floods, protecting infrastructure, food security, and public health. It can also aid in managing water resources during droughts, which pose a very high risk to energy security and water resources. Given the city's tropical rainforest biome, effective water management is essential for resilience against climate hazards.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1122,7 +1122,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a crucial action for Serra. The city faces significant risks from floods, with infrastructure, food security, and public health all having a normalized risk score of 0.99. Permeable pavements help manage stormwater runoff, reducing the burden on drainage systems and mitigating flood impacts. Increased green areas also absorb water, further reducing runoff and providing additional environmental benefits. This action directly addresses the city's high vulnerability to flooding, making it a high priority for climate resilience.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1194,7 +1194,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action, focusing on behaviour change in diets and food waste, is a priority due to its potential to address food security issues. The city of Serra faces significant risks from droughts and floods, both of which severely impact food security. Reducing food waste can alleviate pressure on food systems, making them more resilient to climate-related disruptions. Furthermore, shifts in diet can contribute to broader sustainability goals, indirectly supporting the city's climate adaptation efforts.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1270,7 +1270,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Serra, given its tropical rainforest biome and the high risks associated with various hazards. The city faces significant risks from droughts, heatwaves, floods, and landslides, all of which can severely impact key sectors like infrastructure, public health, and food security. Implementing ecosystem-based solutions can enhance the city's resilience by leveraging natural processes to mitigate these impacts. This approach can also contribute to biodiversity preservation, which is particularly relevant for a city located in a tropical rainforest. Therefore, prioritizing this action is essential for building a more sustainable and resilient future for Serra.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1357,7 +1357,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action addresses water resources, which are significantly impacted by droughts in Serra, as indicated by a high normalized risk score. Enhancing water capture and storage can mitigate the effects of these droughts, improving water security for the population. Given the city's very low access to public services for water, this action is crucial for improving basic infrastructure and public well-being. It directly supports resilience against a major climate hazard identified for the city.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1433,7 +1433,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from droughts, which significantly impact water resources and energy security. Preserving and recovering water bodies directly addresses these vulnerabilities. Furthermore, the city faces high risks from floods, which also affect water-related infrastructure and public health. This action can help mitigate the impacts of both water scarcity and excess, making it crucial for the city's resilience.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",

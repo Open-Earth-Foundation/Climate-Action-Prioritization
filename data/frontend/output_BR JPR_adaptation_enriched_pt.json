@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A elaboração de um plano de preparação e resposta a emergências é crucial para Ji-Paraná, dada a sua alta exposição a eventos climáticos extremos. A cidade enfrenta riscos significativos de secas, ondas de calor e inundações, que impactam vários setores, incluindo recursos hídricos, segurança alimentar, saúde pública e infraestrutura. Um plano abrangente permitirá à cidade mitigar os impactos desses perigos, proteger sua população e garantir a continuidade dos serviços essenciais. Essa abordagem proativa é essencial para construir resiliência contra futuros desafios climáticos.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A seguinte ação foca no desenvolvimento de diagnósticos e na restauração de Zonas Especiais de Interesse Social (ZEIS). Dado o contexto da cidade, particularmente os altos riscos associados a secas, ondas de calor e inundações que impactam a saúde pública e a segurança alimentar, abordar áreas vulneráveis é crucial. A melhoria dessas zonas pode aumentar a resiliência para as populações mais afetadas. Esta medida proativa pode mitigar impactos futuros e melhorar a sustentabilidade urbana geral.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Ji-Paraná enfrenta riscos significativos para a segurança alimentar tanto de secas quanto de inundações, com pontuações de risco normalizadas de 0,99 e 0,909, respetivamente. Melhorar o armazenamento e a distribuição de alimentos pode mitigar diretamente esses impactos, garantindo uma cadeia de suprimentos alimentares mais resiliente. Isso é crucial para uma cidade com uma população de mais de 124.000 habitantes, especialmente dada a alta probabilidade desses perigos climáticos. Uma infraestrutura alimentar aprimorada pode ajudar a prevenir a escassez e estabilizar o acesso a alimentos para os residentes durante e após eventos climáticos extremos.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -234,7 +234,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Ji-Paraná, especialmente dado o alto risco de impactos na saúde pública decorrentes de ondas de calor, doenças e inundações. Garantir um acesso robusto à saúde pode mitigar as graves consequências desses perigos para a população. Esta ação aborda diretamente o bem-estar e a resiliência da comunidade diante dos desafios de saúde relacionados ao clima. Priorizar o acesso à saúde é essencial para proteger populações vulneráveis e fortalecer a capacidade adaptativa da cidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -309,7 +309,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é prioritária devido às significativas emissões do uso da terra na cidade, que são o maior contribuinte para suas emissões totais. O fortalecimento de programas de controle e conservação de áreas protegidas pode combater diretamente o desmatamento e a degradação da terra, que são os principais impulsionadores dessas emissões. Dado que o bioma da cidade é a floresta tropical, proteger essas áreas é crucial para o sequestro de carbono e a biodiversidade. Esta ação também se alinha com a mitigação de riscos à biodiversidade, que é identificada como um impacto chave tanto de secas quanto de ondas de calor na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -382,7 +382,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a disponibilidade de infraestrutura de saúde, que é crucial dados os altos índices de risco da cidade para impactos na saúde pública decorrentes de ondas de calor, doenças e secas. Garantir uma infraestrutura de saúde robusta pode ajudar a cidade a responder melhor a esses desafios de saúde relacionados ao clima. Embora não seja a mais alta prioridade, é um elemento fundamental para a resiliência urbana. Melhorar a infraestrutura de saúde pode mitigar as consequências graves dos perigos climáticos no bem-estar da população. Esta ação apoia a capacidade da cidade de proteger seus residentes de crises de saúde induzidas pelo clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -456,7 +456,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A cidade de Ji-Paraná enfrenta riscos significativos para a segurança alimentar, tanto de secas quanto de inundações, conforme indicado por altas pontuações de risco normalizado. A melhoria das fazendas e pescarias aborda diretamente essas vulnerabilidades, aumentando a resiliência e a produtividade diante dos impactos climáticos. Essa ação pode ajudar a estabilizar o abastecimento local de alimentos e apoiar os meios de subsistência, o que é crucial para uma cidade que experimenta riscos tão elevados de segurança alimentar. Priorizar essa ação é essencial para construir um sistema alimentar mais resiliente em Ji-Paraná.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -533,7 +533,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar práticas sustentáveis de uso da terra é uma alta prioridade para Ji-Paraná, especialmente dadas as significativas emissões provenientes do uso da terra na cidade. Esta ação aborda diretamente um dos principais contribuintes para o total de emissões da cidade. A implementação dessas práticas pode ajudar a mitigar os impactos das mudanças climáticas e proteger o meio ambiente local. É crucial para promover a saúde ambiental a longo prazo e a resiliência na região.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -607,7 +607,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A Manutenção e Revitalização de Matas Ciliares é uma ação de alta prioridade para Ji-Paraná. A cidade enfrenta riscos significativos de secas, que impactam severamente os recursos hídricos, a segurança alimentar e a segurança energética. Matas ciliares saudáveis são cruciais para manter a qualidade e quantidade da água, mitigar os impactos da seca e apoiar os ecossistemas locais. Esta ação aborda diretamente a vulnerabilidade da cidade a riscos climáticos e contribui para a resiliência ambiental a longo prazo.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -680,7 +680,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "As redes de segurança social são cruciais para Ji-Paraná, dados os altos riscos associados a secas e inundações que impactam a segurança alimentar e a saúde pública. Esses eventos podem afetar desproporcionalmente as populações vulneráveis, tornando uma rede de segurança robusta essencial para a resiliência. Embora a cidade enfrente desafios ambientais significativos, abordar o impacto humano imediato por meio do apoio social é um passo fundamental. Essa ação ajuda a mitigar as consequências socioeconômicas dos riscos climáticos, garantindo que os cidadãos tenham um nível básico de apoio durante as crises. Investir em redes de segurança social pode prevenir maior desestabilização e permitir que a comunidade se recupere melhor de choques relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -754,7 +754,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer a rede de saúde é uma prioridade crítica para Ji-Paraná, dados os altos riscos associados aos impactos na saúde pública decorrentes de perigos climáticos. A cidade enfrenta riscos significativos de ondas de calor, secas e doenças, todos os quais podem sobrecarregar a infraestrutura de saúde existente. A melhoria do sistema de saúde aumentará a capacidade da cidade de responder a emergências de saúde relacionadas ao clima e proteger sua população. Esta ação aborda diretamente a necessidade urgente de salvaguardar o bem-estar público diante dos crescentes desafios climáticos.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -830,7 +830,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Ji-Paraná enfrenta riscos significativos de secas e inundações, ambos com forte impacto nos recursos hídricos e na segurança alimentar. Um sistema de monitoramento hidrológico pode fornecer avisos cruciais e antecipados para esses perigos, permitindo uma melhor preparação e resposta. Essa abordagem proativa pode mitigar as graves consequências de desastres relacionados à água para a população e a infraestrutura da cidade. A implementação de tal sistema é essencial para aumentar a resiliência da cidade aos impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -902,7 +902,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Ji-Paraná enfrenta riscos significativos de eventos climáticos extremos, particularmente secas, ondas de calor e inundações, que apresentam altos escores de risco normalizado em vários impactos-chave, como recursos hídricos, segurança alimentar, saúde pública e infraestrutura. Um programa de apoio financeiro proporcionaria assistência crucial à comunidade na recuperação e adaptação a esses eventos frequentes e intensos. Esta medida proativa pode ajudar a mitigar as interrupções econômicas e sociais causadas por desastres relacionados ao clima. É essencial para construir resiliência e proteger populações vulneráveis diante da escalada dos impactos das mudanças climáticas.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -979,7 +979,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma ação valiosa para Ji-Paraná. Essa iniciativa pode aumentar a segurança alimentar, especialmente considerando o alto risco da cidade a secas e inundações que impactam o abastecimento de alimentos. As hortas urbanas também contribuem para a biodiversidade local e podem ajudar a mitigar o efeito de ilha de calor urbana, o que é relevante considerando o alto risco de ondas de calor. Além disso, elas podem promover o engajamento comunitário e melhorar a saúde pública através do acesso a produtos frescos e espaços verdes.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1051,7 +1051,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é uma preocupação crítica para Ji-Paraná, particularmente dado o alto risco de secas e inundações que afetam o abastecimento de alimentos. Promover a mudança de comportamento nas dietas e reduzir o desperdício de alimentos pode mitigar diretamente esses riscos, aumentando a disponibilidade e a resiliência dos alimentos. Esta iniciativa também contribui para objetivos de sustentabilidade mais amplos, reduzindo a pegada ambiental associada à produção e ao desperdício de alimentos. É um passo prático e impactante para aumentar a resiliência geral da cidade aos desafios relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque aborda diretamente múltiplos riscos climáticos enfrentados por Ji-Paraná. A implementação de pavimentos permeáveis e o aumento de áreas verdes podem ajudar a gerenciar os riscos de inundações, que são significativos para a segurança alimentar na cidade. Essas medidas também contribuem para mitigar os impactos das ondas de calor, reduzindo os efeitos das ilhas de calor urbanas, beneficiando assim a saúde pública e a infraestrutura. Além disso, as áreas verdes podem melhorar a biodiversidade, que está em risco tanto por secas quanto por ondas de calor. Esta ação oferece uma abordagem multifacetada para a resiliência urbana.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1199,7 +1199,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Ji-Paraná enfrenta riscos significativos de secas, impactando os recursos hídricos, a segurança alimentar e a segurança energética. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades, melhorando a disponibilidade e a resiliência hídrica. Esta medida proativa pode mitigar as graves consequências de períodos de seca prolongados nos serviços essenciais da cidade e no bem-estar da população. Investir em infraestrutura hídrica é crucial para a adaptação climática a longo prazo nesta região.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1275,7 +1275,7 @@
     "actionId": "ipcc_0087",
     "actionName": "Infrastructure retrofitting",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A requalificação da infraestrutura é uma ação crucial para Ji-Paraná, dados os altos riscos da cidade a vários perigos. A cidade enfrenta riscos significativos de infraestrutura devido a ondas de calor, inundações e deslizamentos de terra, conforme indicado pelas altas pontuações de risco normalizado nos dados do CCRA. A requalificação da infraestrutura existente pode aumentar sua resiliência contra esses impactos climáticos, prevenindo danos e garantindo a continuidade dos serviços essenciais. Essa medida proativa é vital para proteger os ativos da cidade e garantir a segurança e o bem-estar de sua população diante dos crescentes desafios climáticos.",
     "action": {
       "ActionID": "ipcc_0087",
       "ActionName": "Retrofitting de infraestrutura",
@@ -1348,7 +1348,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A seguinte ação é prioritária devido aos altos riscos da cidade a múltiplos perigos, incluindo secas, ondas de calor e inundações, que impactam severamente a saúde pública, a infraestrutura e a segurança alimentar. A realocação e a restauração ambiental podem mitigar os impactos desses perigos, especialmente em áreas vulneráveis. Dadas as significativas emissões do uso da terra, a restauração ambiental também pode contribuir para o sequestro de carbono e a saúde do ecossistema. Esta ação aborda diretamente a necessidade de proteger a população e a infraestrutura crítica de desastres relacionados ao clima.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -1419,7 +1419,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Ji-Paraná, dado o seu bioma de floresta tropical e os riscos significativos à biodiversidade decorrentes de secas e ondas de calor. Proteger e restaurar ecossistemas naturais pode aumentar a resiliência aos impactos climáticos, como a regulação dos recursos hídricos e a mitigação do calor. Essa abordagem também apoia a segurança alimentar, que é altamente vulnerável a secas e inundações na região. Além disso, ecossistemas saudáveis podem contribuir para a saúde pública, reduzindo a exposição a perigos relacionados ao clima e apoiando o bem-estar ambiental geral. Priorizar essa ação alinha-se com a necessidade da cidade de abordar múltiplos riscos climáticos interconectados.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",

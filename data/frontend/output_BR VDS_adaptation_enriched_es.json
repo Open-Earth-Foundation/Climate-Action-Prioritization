@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "Establecer un plan de preparación y medidas de respuesta ante emergencias es crucial para Vitória de Santo Antão, dada su alta vulnerabilidad a múltiples eventos climáticos extremos. La ciudad enfrenta riesgos significativos por sequías, olas de calor, deslizamientos de tierra e inundaciones, todos los cuales tienen altas puntuaciones de riesgo normalizado para varios impactos clave como la salud pública y la infraestructura. Un plan integral ayudará a mitigar las graves consecuencias de estos peligros, protegiendo tanto a la población como a la infraestructura crítica. Este enfoque proactivo es esencial para una ciudad con una alta población de bajos ingresos, ya que estas comunidades a menudo se ven desproporcionadamente afectadas por los desastres.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Establecer un Plan de Preparación y Medidas de Respuesta de Emergencia en caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "El mantenimiento y la revitalización de los bosques ribereños son una prioridad para Vitória de Santo Antão debido al alto riesgo de inundaciones que enfrenta la ciudad, las cuales impactan significativamente la infraestructura, la seguridad alimentaria y la salud pública. Los bosques ribereños saludables pueden mitigar los impactos de las inundaciones al estabilizar las riberas de los ríos, reducir la erosión y absorber el exceso de agua. Dado que la ciudad se encuentra en un bioma de selva tropical, esta acción se alinea con las funciones naturales del ecosistema para mejorar la resiliencia frente a los peligros climáticos. Además, puede contribuir a la biodiversidad y a la gestión de los recursos hídricos, que son impactos clave identificados en la evaluación de riesgos climáticos de la ciudad.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Mantenimiento y Revitalización de Bosques Ribereños",
@@ -157,7 +157,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad debido al bioma de selva tropical de la ciudad, lo que indica un ecosistema rico y sensible. Proteger estas áreas es crucial para mantener la biodiversidad y el equilibrio ecológico. Dada la vulnerabilidad de la ciudad a diversos peligros como sequías, olas de calor e inundaciones, los ecosistemas saludables pueden proporcionar resiliencia natural. Fortalecer los programas de conservación ayuda a mitigar los impactos del cambio climático y preserva recursos naturales vitales para la comunidad.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer los programas de control y conservación de áreas protegidas",
@@ -230,7 +230,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente el desarrollo y la restauración de las Zonas de Especial Interés Social (ZEIS). Dada la alta proporción de residentes de bajos ingresos en la ciudad, mejorar estas áreas puede mejorar significativamente las condiciones de vida y el acceso a servicios esenciales para las poblaciones vulnerables. Esta iniciativa también puede contribuir a la resiliencia urbana al garantizar un desarrollo equitativo y reducir las disparidades. Además, se alinea con los principios de planificación urbana sostenible, fomentando el crecimiento inclusivo y el bienestar comunitario. Priorizar el desarrollo de las ZEIS es crucial para crear un entorno urbano más equitativo y resiliente.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desarrollar diagnósticos y restaurar áreas de Zonas de Interés Social Especial (ZEIS)",
@@ -304,7 +304,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Here's the Spanish translation:\n\nEl acceso a la atención médica es una prioridad crítica para Vitória de Santo Antão, especialmente dadas las altas puntuaciones de riesgo normalizado para los impactos en la salud pública de las olas de calor, las enfermedades y las inundaciones. Mejorar el acceso a la atención médica puede mitigar directamente las graves consecuencias de estos peligros para la población. Con una alta proporción de residentes de bajos ingresos, garantizar un acceso equitativo a los servicios de salud es aún más vital. Esta acción mejorará la resiliencia de la ciudad ante las crisis de salud relacionadas con el clima y mejorará el bienestar general.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acceso a la atención médica",
@@ -379,7 +379,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Las mejoras agrícolas y pesqueras son una prioridad para Vitória de Santo Antão debido a los importantes riesgos que representan las sequías e inundaciones para la seguridad alimentaria. La ciudad enfrenta puntuaciones de riesgo normalizado altas para la seguridad alimentaria tanto bajo peligros de sequía (0.28) como de inundación (0.84). La implementación de mejoras en las prácticas agrícolas y pesqueras puedeAumentar la resiliencia y la adaptabilidad a estos impactos climáticos. Esta acción aborda directamente una vulnerabilidad crítica,Asegurando una producción de alimentos más estable para la población. Dado el bioma de selva tropical de la ciudad, las prácticas sostenibles son cruciales para la seguridad alimentaria a largo plazo.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Mejoras en granjas/pesquerías",
@@ -456,7 +456,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Mejorar el almacenamiento y la distribución de alimentos es una prioridad para Vitória de Santo Antão debido a los importantes riesgos asociados con la seguridad alimentaria. La ciudad presenta puntuaciones de riesgo normalizado elevadas en seguridad alimentaria tanto por sequías (0,28) como por inundaciones (0,84). Dada la población de bajos ingresos \"alta\" de la ciudad, garantizar un acceso constante a los alimentos es crucial para el bienestar y la estabilidad de la comunidad. Esta acción aborda directamente una vulnerabilidad crítica, ayudando a mitigar los impactos de los peligros climáticos en la capacidad de la población para acceder al sustento. Invertir en estas mejoras puede generar resiliencia contra futuras interrupciones relacionadas con el clima en la cadena de suministro de alimentos.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Mejoras en el almacenamiento/distribución de alimentos",
@@ -532,7 +532,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Fortalecer la red de atención médica es una prioridad crítica para Vitória de Santo Antão, dados los altos riesgos para la salud pública derivados de diversas amenazas climáticas. La ciudad enfrenta riesgos significativos para la salud pública debido a olas de calor, enfermedades, deslizamientos de tierra e inundaciones, todos los cuales tienen puntuaciones de riesgo normalizadas altas. Un sistema de atención médica mejorado puede proporcionar apoyo y tratamiento esenciales para los residentes afectados por estos impactos en la salud relacionados con el clima. Esta acción aborda directamente la vulnerabilidad de la ciudad al cambio climático al desarrollar resiliencia en un sector de servicio público crucial.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer la red de atención médica para atender a las víctimas del clima",
@@ -607,7 +607,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas sostenibles de uso del suelo es una alta prioridad para Vitória de Santo Antão. La ciudad enfrenta riesgos significativos de inundaciones y deslizamientos de tierra, que pueden ser exacerbados por un uso insostenible del suelo. Dada la alta densidad de población y el acceso moderado e inadecuado al agua, una gestión adecuada del suelo es crucial para proteger la infraestructura y la salud pública. Esta acción también puede ayudar a mitigar las altas emisiones derivadas del uso del suelo, contribuyendo a la resiliencia climática general.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Fomentar prácticas sostenibles de uso de la tierra",
@@ -681,7 +681,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "La ciudad de Vitória de Santo Antão enfrenta importantes riesgos para la salud pública debido a las olas de calor, las enfermedades y las inundaciones, todos los cuales tienen puntuaciones de riesgo normalizadas altas. Mejorar la infraestructura de salud es crucial para abordar estas amenazas inmediatas y graves para la población. Dados los altos riesgos para la salud pública, mejorar la infraestructura de salud es un paso crítico para desarrollar la resiliencia y proteger el bienestar de la comunidad. Esta acción apoya directamente la capacidad de la ciudad para responder y mitigar los impactos de los desafíos de salud relacionados con el clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidad de infraestructura sanitaria",
@@ -755,7 +755,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad debido a la alta vulnerabilidad de la ciudad a los fenómenos meteorológicos extremos, como lo indican múltiples puntuaciones de riesgo normalizadas elevadas para peligros como sequías, olas de calor, deslizamientos de tierra e inundaciones que afectan a varios sectores clave. Un programa de apoyo financiero puede proporcionar una ayuda crucial a los residentes y las empresas afectados por estos eventos, ayudándoles a recuperarse y reconstruir. Esta medida proactiva puede mitigar los impactos socioeconómicos del cambio climático, especialmente dada la alta población de bajos ingresos de la ciudad. Dicho programa fomenta la resiliencia y reduce la carga a largo plazo sobre los servicios públicos y la infraestructura.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Creación de un Programa de Apoyo Financiero para Abordar Eventos Climáticos Extremos",
@@ -832,7 +832,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es de alta prioridad debido a los importantes riesgos de deslizamientos de tierra e inundaciones que afectan gravemente la salud pública y la infraestructura de la ciudad. La reubicación y la restauración ambiental abordan directamente estos peligros al trasladar a las poblaciones de áreas peligrosas y estabilizar el medio ambiente. Dada la alta densidad de población y el grupo demográfico de bajos ingresos, las medidas proactivas son cruciales para proteger a las comunidades vulnerables. Esta acción también se alinea con la necesidad de mitigar riesgos futuros y desarrollar resiliencia contra los impactos del cambio climático.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Reubicación y Restauración Ambiental en Áreas Vulnerables",
@@ -903,7 +903,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de huertos urbanos es una prioridad para Vitória de Santo Antão debido a su potencial para mejorar la seguridad alimentaria, especialmente dada la alta población de bajos ingresos de la ciudad. Esta acción también puede contribuir a la biodiversidad local y mejorar el entorno urbano. Además, se alinea con la resiliencia climática al promover sistemas alimentarios locales y reducir la dependencia de las cadenas de suministro externas. El bioma de selva tropical de la ciudad podría apoyar tales iniciativas, convirtiéndola en una intervención viable y beneficiosa.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementación de huertos urbanos",
@@ -975,7 +975,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad debido a la alta población de bajos ingresos de la ciudad, lo que hace que los residentes sean particularmente vulnerables a los impactos climáticos. Las redes de seguridad social pueden proporcionar un apoyo crucial, ayudando a mitigar las consecuencias económicas y sociales de los peligros climáticos. Dados los altos riesgos de sequías, olas de calor e inundaciones, estas redes de seguridad pueden ofrecer un amortiguador vital para las poblaciones más afectadas. Esta medida proactiva puede mejorar la resiliencia de la comunidad y reducir el sufrimiento general durante los eventos relacionados con el clima.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de seguridad social",
@@ -1049,7 +1049,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad debido al acceso inadecuado moderado al agua en la ciudad y al alto riesgo de sequías que afectan los recursos hídricos. Un sistema de monitoreo hidrológico puede proporcionar datos cruciales para gestionar el suministro de agua y mitigar los efectos de la sequía. Esto es especialmente importante dada la alta densidad de población y los factores socioeconómicos de bajos ingresos, que pueden exacerbar los impactos de la escasez de agua. La implementación de un sistema de este tipo puede ayudar a garantizar una gestión del agua más resiliente para la comunidad.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoreo Hidrológico con Estaciones de Telemetría",
@@ -1121,7 +1121,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "La implementación de pavimentos permeables y el aumento de las áreas verdes en las carreteras es una prioridad para Vitória de Santo Antão. La ciudad enfrenta riesgos significativos por inundaciones, con puntuaciones de riesgo normalizado altas para infraestructura, seguridad alimentaria y salud pública. Las superficies permeables pueden ayudar a gestionar la escorrentía de aguas pluviales, reduciendo el impacto de las inundaciones. Además, las áreas verdes pueden mitigar los impactos de las olas de calor, que también representan un alto riesgo para la salud pública y la seguridad energética en la ciudad. Esta acción contribuye a la resiliencia urbana al abordar múltiples peligros climáticos simultáneamente.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeables y aumentar las áreas verdes en las vías públicas",
@@ -1193,7 +1193,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción aborda la seguridad alimentaria, que es un área de impacto clave para Vitória de Santo Antão, particularmente en lo que respecta a sequías e inundaciones. Promover cambios de comportamiento en las dietas y reducir el desperdicio de alimentos puede mejorar la resiliencia de la ciudad ante estos peligros. Dadas las altas puntuaciones de riesgo para la seguridad alimentaria relacionadas tanto con las sequías como con las inundaciones, esta acción contribuye directamente a mitigar estas vulnerabilidades. Además, puede apoyar indirectamente la salud pública y la gestión de recursos dentro de la comunidad.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Cambio de comportamiento en dietas y desperdicio de alimentos",
@@ -1269,7 +1269,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "La adaptación basada en ecosistemas es una estrategia crucial para Vitória de Santo Antão, dado su bioma de selva tropical y los altos riesgos asociados con diversas amenazas. Este enfoque puede mejorar la resiliencia de la ciudad a sequías, inundaciones y olas de calor, que son amenazas significativas. Al restaurar y proteger los ecosistemas naturales, la ciudad puede mejorar la gestión del agua, reducir los impactos de las inundaciones y mitigar los efectos de las islas de calor urbanas. Esta acción también apoya la biodiversidad, que es un área de impacto clave para las sequías y las olas de calor, y puede beneficiar indirectamente la salud pública y la seguridad alimentaria al fomentar un entorno más estable.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptación basada en ecosistemas",
@@ -1356,7 +1356,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "La ciudad de Vitória de Santo Antão se enfrenta a importantes riesgos derivados de las sequías, que afectan a los recursos hídricos y a la seguridad energética. La implementación de soluciones de captación y almacenamiento de agua aborda directamente estas vulnerabilidades al mejorar la disponibilidad de agua. Esta acción es crucial para desarrollar resiliencia frente a futuros eventos de sequía y garantizar un suministro de agua más estable para la comunidad. Dada la alta densidad de población y el acceso inadecuado al agua ya existente, mejorar la infraestructura hídrica es una clara prioridad.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/almacenamiento de agua",
@@ -1432,7 +1432,7 @@
     "actionId": "icare_0190",
     "actionName": "Encourage agrosilvopastoral systems",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar los sistemas agrosilvopastorales es una prioridad para Vitória de Santo Antão debido a las importantes emisiones por el uso del suelo en la ciudad. Esta acción puede ayudar a secuestrar carbono, mitigando así las altas emisiones derivadas del uso del suelo. Además, puede mejorar la seguridad alimentaria, que es un área de impacto clave con alto riesgo de sequías e inundaciones en la ciudad. Este enfoque también apoya la biodiversidad, un área que, si bien actualmente presenta un riesgo menor, se beneficia de las prácticas integradas de gestión de la tierra.",
     "action": {
       "ActionID": "icare_0190",
       "ActionName": "Fomentar sistemas agrosilvopastoriles",

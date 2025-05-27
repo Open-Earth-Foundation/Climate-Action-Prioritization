@@ -7,7 +7,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses the restoration of Special Social Interest Zones (ZEIS). Given the city's high low-income population and significant issues with inadequate sanitation, improving these areas is crucial for public health and well-being. Restoring these zones can lead to better living conditions and reduced vulnerability for the most at-risk populations. This aligns with the city's need to mitigate risks associated with public health, especially considering the high normalized risk scores for heatwaves, diseases, and floods.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -81,7 +81,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Strengthening programs for control and conservation of protected areas is a priority for Palmeira dos \u00cdndios. The city's biome is classified as desert, making its natural ecosystems particularly vulnerable. Protecting these areas is crucial for maintaining biodiversity, which is at risk from both droughts and heatwaves. Given the city's high low-income population, these conservation efforts can also contribute to sustainable livelihoods and resource management for vulnerable communities.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -154,7 +154,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for emergency response to extreme weather events is crucial for Palmeira dos \u00cdndios. The city faces significant risks from heatwaves, floods, and droughts, which can severely impact public health, food security, and infrastructure. A comprehensive plan will help mitigate these risks and protect the population. Given the high normalized risk scores for public health due to heatwaves and diseases, and food security due to floods, this action is a high priority. It will ensure the city is better prepared to respond to future climate-related disasters.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -231,7 +231,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Strengthening the healthcare network is a critical priority for Palmeira dos \u00cdndios. The city faces significant risks from heatwaves, which have a very high normalized risk score for public health. Additionally, diseases and landslides also pose substantial public health threats. An improved healthcare system is essential to effectively respond to these climate-related health emergencies and protect the well-being of the population.",
         "action": {
             "ActionID": "icare_0145",
             "ActionName": "Strengthen the healthcare network to attend to climate victims",
@@ -307,7 +307,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens is a priority for Palmeira dos \u00cdndios, especially given the high risk of food insecurity due to droughts and floods. These gardens can enhance local food production, providing a more resilient food supply for the community. Furthermore, they can contribute to public health by offering access to fresh produce and promoting healthier lifestyles. This action also aligns with efforts to improve the overall well-being of residents in a city facing significant socio-economic challenges.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -379,7 +379,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from various hazards, particularly floods and landslides, which directly impact infrastructure and public health. Given the high percentage of the population with inadequate sanitation, relocation and environmental restoration can significantly improve living conditions and reduce vulnerability. The city's low-income socio-economic factors also suggest that many residents may live in precarious housing, making them more susceptible to environmental risks. Addressing these issues through this action can lead to substantial improvements in safety and well-being for the community.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -450,7 +450,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Access to healthcare is a critical priority for Palmeira dos \u00cdndios. The city faces significant risks from heatwaves and diseases, both of which directly impact public health. With a high normalized risk score for public health due to heatwaves (0.99) and diseases (0.99), improving healthcare access is essential to mitigate these impacts. Furthermore, the city's high low-income population and moderate to high inadequate access to water and sanitation services suggest a vulnerable population that would greatly benefit from enhanced healthcare infrastructure and services. Addressing this action will directly improve the well-being and resilience of the community against current and future health challenges.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -525,7 +525,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Improving food storage and distribution is a high priority for Palmeira dos \u00cdndios. The city faces significant risks to food security from floods, as indicated by a very high normalized risk score. Given the city's desert biome, efficient food systems are crucial for resilience. This action directly addresses a critical vulnerability, ensuring better access to food for the population. Prioritizing this action will help mitigate the impacts of climate hazards on the community's well-being.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -601,7 +601,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a priority for Palmeira dos \u00cdndios. This action directly addresses the city's high risk from floods, as indicated by the significant normalized risk score for food security and infrastructure due to floods. By improving stormwater management, it can mitigate the impact of heavy rainfall, which is crucial given the city's vulnerability. Furthermore, increasing green areas can help reduce the impact of heatwaves, a major public health concern in the city. This action also contributes to overall urban resilience and environmental well-being.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -673,7 +673,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant food security risks identified in Palmeira dos \u00cdndios, particularly from droughts and floods. Improving farms and fisheries can directly enhance local food production and resilience against these hazards. Given the city's \"desert\" biome, sustainable agricultural practices are crucial for long-term food security. This initiative can also contribute to the local economy and improve livelihoods for residents.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -750,7 +750,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "The availability of health infrastructure is a critical priority for Palmeira dos \u00cdndios. The city faces significant risks from heatwaves and diseases, both of which have a high normalized risk score for public health. With a high proportion of low-income residents and moderate to high inadequate access to water and sanitation, the population is particularly vulnerable. Improving health infrastructure is essential to address these existing public health challenges and build resilience against future climate impacts.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -824,7 +824,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a priority for Palmeira dos \u00cdndios, especially given its significant land use emissions. The city's biome is classified as desert, which makes land management crucial for environmental stability and resource preservation. Implementing these practices can help mitigate the high risks associated with droughts, which severely impact water resources and food security. Furthermore, sustainable land use can contribute to reducing overall emissions and improving the city's resilience to climate change impacts.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -898,7 +898,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Palmeira dos \u00cdndios, especially given its desert biome and high risk of droughts. This approach can help mitigate the impacts of water scarcity and food insecurity, which are significant concerns for the city. By restoring and protecting natural ecosystems, the city can enhance its resilience to climate change hazards. This action also supports biodiversity, which is currently at low risk but could be further protected through such initiatives.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -985,7 +985,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Palmeira dos \u00cdndios is located in a desert biome and faces significant risks from droughts, impacting water resources and food security. Maintaining and revitalizing riparian forests can help mitigate these impacts by improving water retention, reducing erosion, and supporting local ecosystems. This action is crucial for enhancing the city's resilience to drought conditions and protecting vital natural resources. Given the high risks associated with droughts, this action is a priority for the city's environmental and socio-economic well-being.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -1058,7 +1058,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action, focusing on behaviour change in diets and food waste, is a priority given the city's significant food security risks, particularly from floods. Reducing food waste can directly alleviate pressure on food systems and improve resilience. Furthermore, the high proportion of low-income households suggests that efficient food utilization and reduced waste could have substantial positive impacts on household budgets and overall well-being. While not directly addressing the most severe public health risks from heatwaves and diseases, this action contributes to a more sustainable and resilient urban environment.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -1134,7 +1134,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Palmeira dos \u00cdndios faces significant risks from droughts and floods, impacting water resources and food security. A hydrological monitoring system can provide crucial data for early warning and effective water management. This proactive approach is essential for a city with moderate inadequate water access and high inadequate sanitation, as it can help mitigate the impacts of extreme weather events. Improved monitoring can also support better planning for infrastructure and public health, which are also vulnerable to these hazards.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -1206,7 +1206,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is a crucial action for Palmeira dos \u00cdndios. The city faces significant challenges, including high low-income populations and inadequate access to public services, particularly sanitation. Social safety nets can provide essential support to vulnerable communities, helping to mitigate the impacts of these socio-economic disparities. Furthermore, given the high risks from hazards like droughts, heatwaves, and floods, these programs can offer a vital buffer against climate-related shocks, improving overall community resilience. This action directly addresses the well-being of the population and can alleviate pressures exacerbated by environmental stressors.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -1280,7 +1280,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Palmeira dos \u00cdndios faces significant risks from extreme weather events, including high risks from heatwaves and floods impacting public health and food security. A financial support program is crucial to help the community recover and adapt to these recurring hazards. This initiative can provide much-needed relief and build resilience against future climate shocks. Addressing these impacts is vital for the well-being and stability of the city's population.",
         "action": {
             "ActionID": "icare_0144",
             "ActionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
@@ -1357,7 +1357,7 @@
         "actionId": "icare_0155",
         "actionName": "Preservation and Recovery of Water Bodies",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Palmeira dos \u00cdndios is located in a desert biome and faces significant risks from droughts, impacting water resources and food security. The city also has moderate inadequate water access, highlighting existing vulnerabilities. Preserving and recovering water bodies is crucial for mitigating these drought-related risks and improving water availability for the population. This action directly addresses a critical environmental and social need within the city.",
         "action": {
             "ActionID": "icare_0155",
             "ActionName": "Preservation and Recovery of Water Bodies",
@@ -1429,7 +1429,7 @@
         "actionId": "ipcc_0087",
         "actionName": "Infrastructure retrofitting",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Infrastructure retrofitting is a crucial action for Palmeira dos \u00cdndios, especially given the high risks associated with heatwaves, floods, and landslides. The city faces significant infrastructure vulnerability, as indicated by high normalized risk scores for these hazards. Retrofitting existing infrastructure can enhance its resilience against these climate impacts, protecting essential services and assets. This proactive measure is vital for safeguarding the community's well-being and ensuring long-term urban stability.",
         "action": {
             "ActionID": "ipcc_0087",
             "ActionName": "Infrastructure retrofitting",

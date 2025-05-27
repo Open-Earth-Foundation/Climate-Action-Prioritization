@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Estabelecer um plano de preparação e medidas de resposta a emergências é crucial para Aracruz, dados os seus elevados riscos de eventos climáticos extremos. A cidade enfrenta riscos significativos para a infraestrutura e a saúde pública, tanto de inundações quanto de ondas de calor, e riscos para os recursos hídricos e a segurança energética, de secas. Um plano abrangente ajudará a mitigar os impactos desses perigos, protegendo tanto a população quanto a infraestrutura crítica. Essa abordagem proativa é essencial para construir resiliência contra futuros desafios climáticos.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda o desenvolvimento e a restauração de Zonas Especiais de Interesse Social (ZEIS). A melhoria dessas áreas pode beneficiar diretamente populações vulneráveis e aumentar a resiliência urbana. Dado o fator de baixa renda \"muito_baixo\" da cidade, tais iniciativas são cruciais para a equidade social. Embora não esteja diretamente ligada a um perigo climático específico de alto risco, a melhoria das condições de vida nessas zonas pode, indiretamente, reforçar a capacidade adaptativa da comunidade.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -158,7 +158,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer programas de controle e conservação de áreas protegidas é importante para Aracruz, dado o seu bioma de floresta tropical. Esta ação ajuda a proteger a biodiversidade, que é uma área de impacto chave tanto para secas quanto para ondas de calor, embora com pontuações de risco normalizado mais baixas. A preservação dessas áreas também pode apoiar indiretamente os recursos hídricos e a segurança alimentar, mantendo o equilíbrio ecológico. Embora não aborde diretamente os riscos mais altos, como a saúde pública decorrente de doenças ou a infraestrutura decorrente de inundações, contribui para a resiliência ambiental de longo prazo da cidade.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -231,7 +231,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Melhorar o armazenamento e a distribuição de alimentos é uma prioridade para Aracruz devido aos riscos significativos que inundações e secas representam para a segurança alimentar. As inundações têm uma pontuação de risco normalizado muito alta para a segurança alimentar, e as secas também representam um risco considerável. Aprimorar esses sistemas pode ajudar a mitigar os impactos desses perigos, garantindo um abastecimento alimentar mais estável para a população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -307,7 +307,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Aracruz, especialmente dado o alto índice de risco normalizado para a saúde pública devido a doenças (0.9686936063122). Melhorar o acesso à saúde pode mitigar diretamente os impactos de tais riscos na população. Embora a cidade tenha baixo índice de acesso inadequado à água e saneamento, a saúde pública continua sendo uma preocupação significativa. Esta ação aumentará a resiliência da cidade aos impactos climáticos relacionados à saúde e melhorará o bem-estar geral de seus moradores. Abordar essa vulnerabilidade é essencial para o desenvolvimento sustentável da cidade.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -382,7 +382,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorar a disponibilidade da infraestrutura de saúde é uma prioridade crítica para Aracruz. A cidade enfrenta um risco muito alto para a saúde pública devido a doenças, conforme indicado por uma pontuação de risco normalizada de 0,9686936063122. Além disso, a saúde pública é significativamente impactada por inundações, com uma pontuação de risco normalizada de 0,99, e ondas de calor, com uma pontuação de 0,62410424890443. A melhoria da infraestrutura de saúde abordará diretamente essas vulnerabilidades, aprimorando a capacidade da cidade de responder a crises de saúde e proteger sua população. Esta ação é essencial para construir resiliência contra os desafios de saúde atuais e futuros relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -456,7 +456,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Aracruz enfrenta riscos significativos tanto de secas quanto de inundações, que impactam diretamente os recursos hídricos e a infraestrutura. Um sistema de monitoramento hidrológico pode fornecer dados cruciais em tempo real para gerenciar esses perigos de forma mais eficaz. Capacidades de alerta precoce para eventos climáticos extremos são essenciais para proteger a população e a infraestrutura crítica. Este sistema aumentará a resiliência da cidade contra desafios hídricos relacionados ao clima.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -528,7 +528,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Melhorias na agricultura e pesca são uma prioridade para Aracruz devido aos riscos significativos representados por secas e inundações para a segurança alimentar, com pontuações de risco normalizadas de 0,38 e 0,68, respetivamente. A melhoria das práticas agrícolas e pesqueiras pode aumentar a resiliência contra esses perigos climáticos, garantindo uma produção alimentar mais estável para a população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco de mudanças climáticas da cidade. Investir nessas melhorias pode mitigar os impactos negativos das mudanças climáticas na economia local e nos meios de subsistência.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -605,7 +605,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos de saúde pública identificados em Aracruz. A cidade enfrenta uma pontuação de risco normalizado muito alta para impactos na saúde pública decorrentes de doenças e inundações, e um risco alto devido a ondas de calor. Fortalecer a rede de saúde é crucial para responder eficazmente a esses desafios de saúde relacionados ao clima. Esta medida proativa aumentará a resiliência da cidade e protegerá sua população dos efeitos adversos das mudanças climáticas na saúde.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -681,7 +681,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade para Aracruz devido ao risco significativo de secas impactarem os recursos hídricos, a segurança alimentar e a segurança energética. A implementação de soluções de captação e armazenamento de água aborda diretamente essas vulnerabilidades, garantindo um abastecimento de água mais estável. Dados os altos escores de risco normalizado para impactos relacionados à seca, esta ação é crucial para construir resiliência na cidade. Ela ajudará a mitigar os efeitos adversos da escassez de água em vários setores e na população.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -757,7 +757,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "As redes de segurança social são cruciais para Aracruz, dados os altos riscos identificados na saúde pública devido a doenças e inundações. Esses perigos podem afetar desproporcionalmente as populações vulneráveis, tornando essencial um suporte social robusto. A implementação de redes de segurança social pode ajudar a mitigar os impactos socioeconômicos desses eventos relacionados ao clima. Essa ação garante que a comunidade, especialmente aqueles com renda muito baixa, tenha uma proteção contra os choques das mudanças climáticas. É uma prioridade proteger o bem-estar e a estabilidade dos moradores da cidade.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -831,7 +831,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas em Aracruz é uma prioridade devido ao seu potencial para melhorar a segurança alimentar, especialmente dada a vulnerabilidade da cidade a inundações que impactam o abastecimento de alimentos. Essa ação também pode contribuir para a saúde pública, proporcionando acesso a produtos frescos e promovendo o bem-estar da comunidade. Além disso, as hortas urbanas podem oferecer benefícios climáticos localizados, como a redução dos efeitos de ilhas de calor urbanas, o que é relevante dado o risco da cidade a ondas de calor. Essa iniciativa se alinha com a construção de resiliência contra múltiplos riscos climáticos identificados na avaliação de risco da cidade.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -903,7 +903,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação aborda a necessidade crítica de realocar populações de áreas altamente vulneráveis a riscos climáticos, o que é particularmente relevante dado o alto risco da cidade a inundações e secas. Ao restaurar essas áreas, ela também contribui para a saúde ecológica e potencialmente reduz riscos futuros. Esta medida proativa pode melhorar significativamente a segurança pública e reduzir danos de infraestrutura a longo prazo. É uma prioridade porque mitiga diretamente o impacto de eventos climáticos extremos na vida humana e no meio ambiente.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -974,7 +974,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a segurança alimentar, que é uma área de impacto chave para Aracruz, particularmente no que diz respeito a secas e inundações. Promover a mudança de comportamento nas dietas e reduzir o desperdício alimentar pode mitigar diretamente estes riscos. Dado o bioma de floresta tropical da cidade, práticas alimentares sustentáveis são cruciais para a preservação ambiental. Esta iniciativa também apoia indiretamente a saúde pública, ao promover hábitos alimentares mais saudáveis e reduzir problemas relacionados com o desperdício.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma prioridade para Aracruz, dadas as suas significativas emissões provenientes do uso da terra. Com as emissões do uso da terra contribuindo com uma grande parte do total de emissões da cidade, abordar essa área é crucial para a redução geral das emissões. Além disso, o bioma de floresta tropical da cidade sugere um alto potencial para um impacto ambiental positivo através de uma gestão responsável da terra. Esta ação pode ajudar a mitigar os riscos climáticos e promover o equilíbrio ecológico na região.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -1124,7 +1124,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma estratégia crucial para Aracruz, dados os seus riscos significativos de vários perigos. A cidade enfrenta altos riscos de inundações que afetam a infraestrutura e a saúde pública, e secas que afetam os recursos hídricos e a segurança energética. A implementação de soluções baseadas em ecossistemas pode ajudar a mitigar esses impactos, restaurando barreiras naturais e melhorando a gestão da água. Essa abordagem também apoia a biodiversidade, que atualmente está em risco tanto de secas quanto de ondas de calor. Priorizar essa ação construirá resiliência e proporcionará múltiplos co-benefícios para a cidade e seus habitantes.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1211,7 +1211,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Aracruz enfrenta riscos significativos de inundações, que impactam severamente a infraestrutura e a saúde pública. A manutenção e revitalização das matas ciliares podem ajudar a mitigar esses riscos de inundação, estabilizando as margens dos rios e absorvendo o excesso de água. Dados os altos índices de risco normalizado para infraestrutura e saúde pública devido a inundações, esta ação aborda diretamente vulnerabilidades críticas. Além disso, zonas ripárias saudáveis contribuem para a saúde geral do ecossistema, o que pode apoiar indiretamente outros impactos importantes como recursos hídricos e biodiversidade, ambos também afetados por perigos em Aracruz.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -1284,7 +1284,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade devido à alta vulnerabilidade da cidade a eventos climáticos extremos, particularmente inundações e secas, que representam riscos significativos para a saúde pública, infraestrutura e segurança alimentar. Um programa de apoio financeiro pode ajudar a comunidade a se recuperar e reconstruir após tais eventos, reduzindo os impactos a longo prazo. Ele oferece uma rede de segurança crucial para residentes e empresas afetadas por desastres relacionados ao clima. Esta medida proativa pode aumentar a resiliência da cidade e minimizar a interrupção econômica.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1361,7 +1361,7 @@
     "actionId": "ipcc_0101",
     "actionName": "Efficient water supply/distribution",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A tradução para português é:\n\nEsta ação é prioritária porque o abastecimento e a distribuição eficientes de água abordam diretamente o alto risco de seca que afeta os recursos hídricos em Aracruz. Melhorar a infraestrutura hídrica pode mitigar os efeitos da escassez de água, que é uma preocupação significativa para a cidade. Além disso, dado o baixo acesso inadequado à água na cidade, esta ação pode prevenir proativamente problemas futuros e aumentar a resiliência geral. Investir nesta área garantirá um abastecimento de água mais estável e confiável para a população.",
     "action": {
       "ActionID": "ipcc_0101",
       "ActionName": "Fornecimento/distribuição de água eficiente",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Aracruz enfrenta riscos significativos de inundações, com a infraestrutura e a saúde pública sendo altamente impactadas. A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias podem ajudar a gerenciar o escoamento de águas pluviais, reduzindo a severidade das inundações. Isso aborda diretamente o risco climático mais crítico da cidade. Além disso, a infraestrutura verde pode oferecer co-benefícios, como o resfriamento urbano, o que é relevante dada a exposição da cidade a ondas de calor.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",

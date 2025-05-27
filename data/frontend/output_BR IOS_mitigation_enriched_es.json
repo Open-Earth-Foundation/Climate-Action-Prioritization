@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una alta prioridad para Ilhéus, dados los importantes riesgos identificados para la seguridad alimentaria y la biodiversidad a causa de sequías e inundaciones. Esta acción aborda directamente la seguridad alimentaria al promover prácticas agrícolas resilientes. También apoya la biodiversidad al integrar árboles en los sistemas agrícolas, lo que puede mejorar la salud del ecosistema. Además, la agroforestería puede ayudar a mitigar los impactos de los fenómenos meteorológicos extremos, que son peligros frecuentes en esta región.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -79,7 +79,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "**Ilhéus se encuentra en un bioma de selva tropical, lo que hace que el control de la deforestación sea crucial para la preservación del medio ambiente.** La ciudad también presenta emisiones significativas por el uso del suelo, lo que indica posibles problemas con la gestión de la tierra que el control de la deforestación podría abordar. El fortalecimiento de estos mecanismos puede ayudar a mitigar los riesgos climáticos y proteger la biodiversidad, que actualmente presenta un bajo riesgo de sequías y olas de calor, pero que podría verse afectada por los cambios en el uso del suelo. Esta acción apoya la sostenibilidad y la resiliencia a largo plazo de los recursos naturales de la ciudad.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -151,7 +151,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la reforestación urbana y los corredores verdes es una acción de alta prioridad para Ilhéus. La ciudad se enfrenta a riesgos significativos por las olas de calor, que pueden mitigarse aumentando las zonas verdes. Además, la reforestación puede ayudar aB abordar las altas emisiones derivadas del uso del suelo, contribuyendo a la resiliencia climática general. Esta acción también apoya la biodiversidad, que se ve afectada tanto por las sequías como por las olas de calor en la ciudad. Finalmente, la infraestructura verde puede ayudar aB gestionar las aguas pluviales, reduciendo el impacto de las inundaciones, otro peligro importante para Ilhéus.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -223,7 +223,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Establecer Programas Municipales de Pago por Servicios Ambientales (PSA) es una prioridad para Ilhéus debido a las significativas emisiones por uso del suelo de la ciudad, que son las más altas entre todas las categorías de emisión. Los programas de PSA pueden incentivar prácticas sostenibles de gestión del suelo, abordando directamente las causas fundamentales de estas emisiones. Además, dado el bioma de selva tropical de la ciudad, proteger y restaurar los ecosistemas naturales a través de los PSA puede mejorar la biodiversidad y la resiliencia frente a peligros como sequías e inundaciones, que plantean altos riesgos para la seguridad alimentaria y los recursos hídricos. Esta acción apoya tanto los esfuerzos de mitigación como los de adaptación climática al promover la salud ecológica y la gestión sostenible de los recursos.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Ilhéus enfrenta riesgos significativos para la seguridad alimentaria tanto por sequías como por inundaciones, con puntuaciones de riesgo normalizadas de 0.99 para ambas. La realización de acciones de Asistencia Técnica y Extensión Rural (ATER) puede apoyar directamente las prácticas agrícolas locales, ayudando a construir resiliencia contra estos peligros climáticos. Al mejorar las técnicas y el conocimiento agrícola, esta acción puede mitigar los impactos del clima extremo en la producción de alimentos. Esto es crucial para una ciudad con una población de ingresos moderadamente bajos, ya que la seguridad alimentaria impacta directamente en su bienestar y estabilidad económica.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -367,7 +367,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Please translate the following text to Spanish:\n\nThis action is a priority because Ilhéus is a tropical rainforest biome, making conservation practices crucial for maintaining its ecological balance. The city also faces significant risks from droughts and floods, which can severely impact food security and water resources. Facilitating technology transfer for conservation can help mitigate these risks and protect the city's natural assets. This proactive approach supports long-term resilience against climate impacts.\n\n**Spanish Translation:**\n\nEsta acción es una prioridad porque Ilhéus es un bioma de selva tropical, lo que hace que las prácticas de conservación sean cruciales para mantener su equilibrio ecológico. La ciudad también enfrenta riesgos significativos de sequías e inundaciones, que pueden afectar gravemente la seguridad alimentaria y los recursos hídricos. Facilitar la transferencia de tecnología para la conservación puede ayudar a mitigar estos riesgos y proteger los activos naturales de la ciudad. Este enfoque proactivo apoya la resiliencia a largo plazo frente a los impactos climáticos.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -439,7 +439,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar las prácticas de agricultura regenerativa es una alta prioridad para Ilhéus, dados los importantes riesgos asociados con las sequías e inundaciones que afectan la seguridad alimentaria. La ciudad enfrenta un puntaje de riesgo normalizado muy alto para la seguridad alimentaria debido tanto a las sequías (0.99) como a las inundaciones (0.99). La agricultura regenerativa puede mejorar la salud del suelo, aumentar la retención de agua y la resiliencia a eventos climáticos extremos, abordando directamente estas vulnerabilidades. Esta acción también se alinea con las grandes emisiones por uso del suelo de la ciudad, ya que la gestión sostenible de la tierra puede contribuir a la captura de carbono y reducir las emisiones generales. Por lo tanto, esta acción es crucial para reforzar la seguridad alimentaria y mitigar los riesgos climáticos en Ilhéus.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -511,7 +511,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas agrícolas sostenibles es una alta prioridad para Ilhéus debido a los riesgos significativos asociados con las sequías y las inundaciones para la seguridad alimentaria. La ciudad enfrenta un puntaje de riesgo normalizado muy alto para la seguridad alimentaria tanto por sequías (0.99) como por inundaciones (0.99). La implementación de estas prácticas puede mejorar la resiliencia contra estos peligros, asegurando un suministro de alimentos más estable para la población. Esta acción aborda directamente las vulnerabilidades críticas identificadas en la evaluación de riesgos del cambio climático de la ciudad.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -583,7 +583,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la agricultura orgánica es una acción de alta prioridad para Ilhéus. La ciudad enfrenta riesgos significativos para la seguridad alimentaria tanto por sequías como por inundaciones, con puntuaciones de riesgo normalizadas de 0.99 para ambos peligros. Las prácticas de agricultura orgánica pueden mejorar la salud del suelo y la retención de agua, haciendo que los sistemas agrícolas sean más resilientes a estos impactos climáticos. Esta acción también se alinea con el bioma de selva tropical de la ciudad, apoyando el uso sostenible de la tierra y la biodiversidad. Dados los altos riesgos para la seguridad alimentaria, esta iniciativa es crucial para el bienestar de la población.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -655,7 +655,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque Ilhéus tiene importantes emisiones por el uso del suelo, lo que indica la necesidad de una gestión sostenible de la tierra. Las prácticas agroforestales pueden ayudar a mitigar estas emisiones mediante la captura de carbono y la mejora de la salud del suelo. Además, la ciudad se enfrenta a altos riesgos de sequías e inundaciones, que pueden afectar la seguridad alimentaria. La promoción de la agrosilvicultura en los sistemas ganaderos puede mejorar la resiliencia a estos peligros climáticos y contribuir a la seguridad alimentaria.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -727,7 +727,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda la seguridad alimentaria, que es un área de impacto clave para Ilhéus, particularmente en lo que respecta a sequías e inundaciones. Al priorizar los productos agroecológicos locales, la ciudad puede mejorar la resiliencia de su cadena de suministro de alimentos. Esto también apoya las economías locales y las prácticas agrícolas sostenibles. Además, puede contribuir a reducir las emisiones asociadas con el transporte de alimentos a larga distancia.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -799,7 +799,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la producción agroecológica local y las cadenas de suministro cortas es una prioridad para Ilhéus, especialmente dado el alto riesgo de sequías que afectan la seguridad alimentaria. Esta acción puede mejorar la resiliencia alimentaria local al diversificar los métodos de producción y reducir la dependencia de las cadenas de suministro externas. También apoya el uso sostenible de la tierra, lo cual es crucial para una ciudad con importantes emisiones derivadas del uso de la tierra. Además, puede contribuir a la economía local y al bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -871,7 +871,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar los incentivos fiscales ecológicos es una prioridad para Ilhéus debido a sus importantes emisiones por el uso del suelo, que son las más altas entre todas las categorías de emisión. Estos incentivos pueden fomentar prácticas sostenibles de gestión del suelo, abordando directamente una de las principales fuentes de la huella de carbono de la ciudad. Dado el bioma de selva tropical de la ciudad, proteger y restaurar los ecosistemas naturales a través de tales incentivos también puede mejorar la biodiversidad y la resiliencia climática. Esta acción se alinea con la necesidad de mitigar los riesgos ambientales, especialmente considerando la vulnerabilidad de la ciudad a diversos peligros climáticos como sequías e inundaciones.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -943,7 +943,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el control agroecológico de plagas es una prioridad para Ilhéus dadas sus importantes emisiones por el uso del suelo. Esta acción puede ayudar a reducir la dependencia de los pesticidas químicos, que a menudo tienen una alta huella de carbono asociada con su producción y aplicación. Además, apoya prácticas agrícolas sostenibles que pueden mejorar la biodiversidad y la salud del suelo, contribuyendo a la resiliencia ambiental general de la ciudad. Dado el bioma de selva tropical de la ciudad, mantener el equilibrio ecológico es crucial, y esta acción se alinea con ese objetivo.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1015,7 +1015,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Ilhéus debido a los importantes riesgos de la ciudad relacionados con la seguridad alimentaria, particularmente por sequías e inundaciones. Estos programas pueden mejorar las prácticas agrícolas sostenibles, haciendo que los sistemas alimentarios sean más resilientes a los impactos climáticos. Además, dado el bioma de selva tropical de la ciudad, la promoción de la agroecología se alinea con los esfuerzos de conservación de la biodiversidad. Esta acción también aborda indirectamente a la población de ingresos bajos a moderados al crear potencialmente medios de vida más estables y sostenibles en el sector agrícola. En general, contribuye tanto a la sostenibilidad ambiental como al bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1087,7 +1087,7 @@
     "actionId": "icare_0127",
     "actionName": "Accelerate Environmental Regularization of Rural Properties",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad debido a las significativas emisiones por uso del suelo en Ilhéus, que son el mayor contribuyente a las emisiones totales de la ciudad. Acelerar la regularización ambiental de las propiedades rurales puede ayudar a mitigar estas emisiones al promover prácticas sostenibles de gestión del suelo. Dado el bioma de selva tropical de la ciudad, proteger y restaurar estas áreas es crucial para la captura de carbono y la biodiversidad. Esta acción aborda directamente una importante fuente de impacto ambiental y se alinea con objetivos más amplios de resiliencia climática.",
     "action": {
       "ActionID": "icare_0127",
       "ActionName": "Acelerar la Regularización Ambiental de Propiedades Rurales",
@@ -1159,7 +1159,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque Ilhéus tiene emisiones significativas por el uso del suelo, lo que indica la necesidad de intervenciones en las prácticas agrícolas. Fomentar la maquinaria agrícola de bajas emisiones puede reducir directamente estas emisiones, contribuyendo a los objetivos climáticos generales. Aunque no es la acción mejor clasificada, su relevancia para una importante fuente de emisiones la convierte en un paso valioso. Esta iniciativa apoya el desarrollo sostenible al promover métodos agrícolas más limpios.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Fomentar el uso de maquinaria agrícola de bajas emisiones",
@@ -1231,7 +1231,7 @@
     "actionId": "icare_0045",
     "actionName": "Promote organic and agroecological agriculture in the rural areas",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la agricultura orgánica y agroecológica es una prioridad para Ilhéus debido a las importantes emisiones por el uso del suelo de la ciudad, que son el mayor contribuyente a sus emisiones totales. Esta acción aborda directamente la seguridad alimentaria, un área de impacto clave con alto riesgo tanto de sequías como de inundaciones. Además, puede mejorar la biodiversidad, que también se ve afectada por los peligros climáticos. Esta iniciativa apoya prácticas sostenibles de gestión de la tierra, cruciales para una ciudad con un bioma de selva tropical.",
     "action": {
       "ActionID": "icare_0045",
       "ActionName": "Promover la agricultura orgánica y agroecológica en las áreas rurales",
@@ -1303,7 +1303,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "La implementación de un peaje urbano puede ayudar a gestionar la congestión del tráfico y a reducir las emisiones del transporte, que son significativas en Ilhéus. Esta medida también puede generar ingresos que podrían reinvertirse en el desarrollo urbano sostenible o en mejoras del transporte público. Aunque no aborda directamente los altos riesgos de sequías, olas de calor o inundaciones de la ciudad, contribuye a la sostenibilidad urbana general. Se debe considerar la población de ingresos bajos a moderados de la ciudad para garantizar una implementación equitativa y evitar cargas desproporcionadas.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -1374,7 +1374,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Please see the Spanish translation below:\n\nEsta acción, si bien es beneficiosa para reducir las emisiones del transporte y promover la movilidad sostenible, no es una prioridad principal para Ilhéus. La ciudad se enfrenta a riesgos climáticos más apremiantes, como sequías de alto impacto, olas de calor e inundaciones, que afectan significativamente la salud pública, la seguridad alimentaria y la infraestructura. Abordar estas amenazas inmediatas debería tener prioridad. Si bien fomentar el uso compartido de bicicletas es un paso positivo, su impacto en las vulnerabilidades más críticas de la ciudad es comparativamente menor en este momento.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",

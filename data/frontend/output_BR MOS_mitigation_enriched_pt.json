@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de portagens urbanas pode reduzir significativamente as emissões dos transportes, que são um dos principais contribuintes para as emissões totais de Mossoró. Ao desencorajar o uso de veículos particulares, esta ação pode aliviar o congestionamento do tráfego e melhorar a qualidade do ar. Esta medida também se alinha com os esforços para promover o desenvolvimento urbano sustentável e reduzir a pegada de carbono da cidade. Além disso, a receita gerada pelas portagens pode ser reinvestida na infraestrutura de transportes públicos, oferecendo benefícios a longo prazo para a cidade.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A adoção de biometano em frotas públicas é uma prioridade para Mossoró, uma cidade com emissões significativas provenientes do transporte. Esta ação aborda diretamente uma fonte substancial de gases de efeito estufa, contribuindo para a redução geral das emissões. Ao fazer a transição de veículos públicos para biometano, a cidade pode melhorar a qualidade do ar e reduzir sua dependência de combustíveis fósseis. Esta iniciativa também se alinha com objetivos de sustentabilidade mais amplos, promovendo um ambiente urbano mais limpo e resiliente.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação promove o transporte sustentável, o que é crucial para Mossoró dadas as suas significativas emissões de transporte. Incentivar a partilha de bicicletas, especialmente bicicletas elétricas, pode ajudar a reduzir a dependência de combustíveis fósseis e melhorar a qualidade do ar. Esta iniciativa também se alinha com os esforços para melhorar a mobilidade urbana e a saúde pública. Embora não aborde diretamente os riscos climáticos mais prementes da cidade, como secas ou ondas de calor, contribui para a resiliência urbana geral e a sustentabilidade ambiental.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0042",
     "actionName": "Encourage renewable energy policies at the municipal level",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Apoiar políticas de energia renovável a nível municipal é uma prioridade para Mossoró, dados os seus elevados riscos de segurança energética, tanto de secas como de ondas de calor. Diversificar a matriz energética com energias renováveis pode aumentar a resiliência contra esses perigos climáticos. Esta ação também se alinha com a redução das significativas emissões de energia estacionária da cidade. A implementação de tais políticas pode levar a benefícios a longo prazo para a independência energética e a sustentabilidade ambiental da cidade.",
     "action": {
       "ActionID": "icare_0042",
       "ActionName": "Incentivar políticas de energia renovável a nível municipal",
@@ -294,7 +294,7 @@
     "actionId": "icare_0097",
     "actionName": "Support Distributed Energy Generation in Residences and Businesses",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Mossoró enfrenta riscos significativos de segurança energética devido a secas e ondas de calor, que podem impactar o fornecimento de energia. Apoiar a geração de energia distribuída em residências e empresas pode aumentar a resiliência energética, diversificando as fontes e reduzindo a dependência de uma rede centralizada. Essa ação também se alinha ao combate às altas emissões estacionárias de energia, contribuindo para a redução geral das emissões. Além disso, pode capacitar comunidades e empresas locais, promovendo o desenvolvimento econômico e a autossuficiência na produção de energia.",
     "action": {
       "ActionID": "icare_0097",
       "ActionName": "Apoiar a Geração de Energia Distribuída em Residências e Negócios",
@@ -366,7 +366,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A expansão dos sistemas de transporte público sobre trilhos é uma prioridade para Mossoró devido às significativas emissões provenientes do transporte. Esta ação aborda diretamente uma das principais fontes do total de emissões da cidade. A melhoria da infraestrutura de transporte público pode reduzir a dependência de veículos particulares, levando a menores pegadas de carbono. Esta iniciativa também apoia o desenvolvimento urbano sustentável e pode melhorar a qualidade do ar para os moradores.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -438,7 +438,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Priorizar a aquisição de produtos agroecológicos de produção local é uma ação crucial para Mossoró.** Essa iniciativa aborda diretamente a segurança alimentar, que é uma área de impacto chave com alto risco de secas na cidade. Ao apoiar a agroecologia local, a cidade pode aumentar sua resiliência a choques climáticos e reduzir a dependência de sistemas alimentares externos. Além disso, pode contribuir para práticas sustentáveis de uso da terra e, potencialmente, mitigar as emissões do uso da terra, alinhando-se com os objetivos ambientais da cidade.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -510,7 +510,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A realização de Ações de Assistência Técnica e Extensão Rural (ATER) é uma prioridade para Mossoró, dado o seu significativo setor agrícola e a vulnerabilidade a secas. Esta ação aborda diretamente a segurança alimentar, uma área de impacto chave com uma alta pontuação de risco normalizado devido às secas. Ao fornecer apoio às comunidades rurais, pode-se aumentar a resiliência e a capacidade adaptativa face aos desafios climáticos. Esta iniciativa é crucial para sustentar os meios de subsistência e garantir o bem-estar da população numa região fortemente dependente da agricultura.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -582,7 +582,7 @@
     "actionId": "icare_0024",
     "actionName": "Integrate renewables into municipal water systems",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A integração de energias renováveis nos sistemas municipais de água é uma ação de alta prioridade para Mossoró. A cidade enfrenta riscos significativos relacionados aos recursos hídricos devido a secas, conforme indicado por uma pontuação de risco normalizado muito alta. Além disso, a cidade apresenta um acesso muito baixo a água adequada, destacando uma necessidade urgente de melhoria da infraestrutura hídrica. A integração de energias renováveis pode aumentar a resiliência e a sustentabilidade do abastecimento de água, reduzindo a dependência de fontes de energia convencionais vulneráveis. Esta ação aborda diretamente vulnerabilidades críticas e contribui para a adaptação climática geral e a melhoria dos serviços públicos da cidade.",
     "action": {
       "ActionID": "icare_0024",
       "ActionName": "Integrar energias renováveis nos sistemas municipais de água",
@@ -654,7 +654,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Mossoró é uma cidade de bioma desértico com riscos significativos de secas, impactando a segurança hídrica e alimentar. Facilitar a transferência de tecnologia para práticas de conservação é crucial para uma cidade que enfrenta desafios tão severos de recursos hídricos. Esta ação pode introduzir métodos inovadores para gerenciar recursos escassos de forma mais eficaz. Ela aborda diretamente a vulnerabilidade da cidade à seca, que é um perigo de alta prioridade.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -726,7 +726,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma prioridade para Mossoró. Dado o bioma desértico da cidade e os altos riscos associados às secas que impactam os recursos hídricos e a segurança alimentar, os programas de PSA podem incentivar práticas sustentáveis de gestão da terra. Esses programas podem ajudar a proteger e restaurar ecossistemas que fornecem serviços essenciais, como a regulação hídrica e a conservação do solo. Esta ação aborda diretamente a vulnerabilidade da cidade a riscos climáticos, promovendo a gestão ambiental e a resiliência.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -798,7 +798,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar programas de certificação agroecológica é uma prioridade para Mossoró, uma cidade com bioma desértico e riscos significativos para a segurança alimentar devido a secas e inundações. Esses programas podem aumentar a resiliência agrícola e promover práticas sustentáveis, que são cruciais para uma região que enfrenta altos riscos climáticos. Dada a população de baixa renda da cidade, tais iniciativas também podem contribuir para a estabilidade econômica e a melhoria dos meios de subsistência. Além disso, ao promover o uso sustentável da terra, esses programas podem ajudar a mitigar as emissões do uso da terra, que são um componente notável das emissões totais da cidade. Esta ação aborda diretamente múltiplas vulnerabilidades identificadas na avaliação de risco climático da cidade.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -870,7 +870,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar a produção agroecológica local e as cadeias de abastecimento curtas é uma prioridade para Mossoró, uma cidade com bioma desértico e riscos significativos de seca que impactam a segurança alimentar. Esta ação aborda diretamente a vulnerabilidade da cidade a questões de segurança alimentar, promovendo práticas agrícolas resilientes. Também pode contribuir para a redução das emissões associadas ao transporte de alimentos de longa distância. Além disso, apoia as economias locais e pode aumentar a resiliência da comunidade face aos desafios climáticos.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -942,7 +942,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Promover o controle agroecológico de pragas é uma ação relevante para Mossoró, uma cidade com bioma desértico e riscos significativos para a segurança alimentar devido a secas e inundações. Essa abordagem pode aumentar a resiliência agrícola e reduzir a dependência de insumos químicos, o que é crucial para uma região que enfrenta desafios relacionados a recursos hídricos. Ao apoiar práticas agrícolas sustentáveis, a cidade pode melhorar sua segurança alimentar e saúde ambiental a longo prazo. Essa ação se alinha com a necessidade de abordar impactos-chave como a segurança alimentar, que é altamente vulnerável em Mossoró.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -1014,7 +1014,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Mossoró possui emissões significativas de transporte, contribuindo para sua pegada de carbono geral. Abordar as emissões veiculares é crucial para melhorar a qualidade do ar e a saúde pública na cidade. Embora não seja a mais alta prioridade, a redução dessas emissões se alinha com metas climáticas mais amplas. Essa ação também pode levar a co-benefícios, como a redução de doenças respiratórias e um ambiente urbano mais habitável.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma prioridade para Mossoró. Essa ação pode encorajar práticas sustentáveis e a proteção ambiental dentro da cidade. Dados os riscos ambientais significativos de Mossoró, particularmente de secas e ondas de calor que impactam os recursos hídricos e a saúde pública, tais incentivos poderiam fomentar a resiliência. Ao promover a responsabilidade ecológica através de mecanismos fiscais, a cidade pode trabalhar para mitigar seus altos escores de risco normalizado em vários impactos-chave. Esta ação se alinha a uma abordagem proativa para a gestão ambiental e adaptação climática.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0021",
     "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda as emissões dos transportes, que são um contribuinte significativo para as emissões totais da cidade. Incentivar o transporte sustentável pode levar à redução da poluição do ar e à melhoria da saúde pública. Dado o estatuto de baixa renda da cidade, promover o uso racional do transporte existente pode ser mais viável do que grandes mudanças na infraestrutura. Esta ação alinha-se com os esforços para mitigar as alterações climáticas, reduzindo a pegada de carbono da mobilidade individual.",
     "action": {
       "ActionID": "icare_0021",
       "ActionName": "Incentivar e promover medidas para o uso sustentável e racional do transporte motorizado individual",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Fortalecer os mecanismos de controle do desmatamento é uma ação relevante para Mossoró, dado o seu bioma desértico e as significativas emissões provenientes do uso da terra. Embora não seja a mais alta prioridade, combater o desmatamento pode contribuir para mitigar os riscos climáticos e preservar a biodiversidade. Esta ação alinha-se com a necessidade da cidade de gerir os seus recursos naturais de forma eficaz. É um passo proativo em direção à sustentabilidade ambiental.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0038",
     "actionName": "Promote community solar farms",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A promoção de fazendas solares comunitárias é uma ação relevante para Mossoró, especialmente dado o alto risco de segurança energética da cidade devido a secas e ondas de calor. A diversificação das fontes de energia através da energia solar pode aumentar a resiliência e reduzir a dependência das redes tradicionais. Esta iniciativa também pode contribuir para a redução das significativas emissões de energia estacionária da cidade. Além disso, alinha-se com os esforços para melhorar a segurança energética geral e mitigar os impactos das mudanças climáticas em um bioma desértico.",
     "action": {
       "ActionID": "icare_0038",
       "ActionName": "Promover fazendas solares comunitárias",
@@ -1380,7 +1380,7 @@
     "actionId": "icare_0011",
     "actionName": "Provide tax incentives for renewable energy in residential projects",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação, embora benéfica para a promoção de energia renovável, não é uma prioridade máxima para Mossoró, dados os riscos climáticos mais urgentes da cidade. Mossoró enfrenta riscos extremamente altos de secas, ondas de calor e inundações, impactando recursos hídricos, segurança alimentar, saúde pública e infraestrutura. Embora a energia renovável seja importante para a sustentabilidade a longo prazo e a redução de emissões, abordar os perigos climáticos imediatos e seus impactos em serviços essenciais como água e saneamento deve ter precedência. A cidade também possui emissões significativas provenientes de transporte e resíduos, o que pode oferecer áreas de intervenção mais impactantes.",
     "action": {
       "ActionID": "icare_0011",
       "ActionName": "Fornecer incentivos fiscais para energia renovável em projetos residenciais",

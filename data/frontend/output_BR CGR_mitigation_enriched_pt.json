@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de um pedágio urbano é uma ação prioritária para Campo Grande. Essa medida pode reduzir significativamente as emissões de transporte, que atualmente são muito altas na cidade. Ao desencorajar o uso de veículos particulares, pode aliviar o congestionamento do tráfego e melhorar a qualidade do ar. Além disso, a receita gerada pelo pedágio pode ser reinvestida em infraestrutura de transporte público sustentável, oferecendo benefícios a longo prazo para a saúde ambiental e econômica da cidade.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementação de pedágio urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque promove o transporte sustentável, abordando diretamente as significativas emissões de transporte em Campo Grande. Programas de compartilhamento de bicicletas elétricas podem reduzir a dependência de veículos movidos a combustíveis fósseis, melhorando a qualidade do ar e a saúde pública. Além disso, alinha-se com os objetivos de desenvolvimento urbano ao oferecer opções de mobilidade acessíveis e ecologicamente corretas. Esta iniciativa contribui para uma cidade mais verde e melhora a qualidade de vida dos moradores.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo à criação de programas de compartilhamento de bicicletas em áreas urbanas, com foco em bicicletas elétricas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Please translate the following text to Portuguese:\nThis action focuses on adopting biomethane in public fleets, which directly addresses transportation emissions. Given that transportation emissions are a significant contributor to the city's total emissions, this initiative has the potential for substantial impact. Reducing these emissions is crucial for improving air quality and mitigating climate change. Therefore, this action is a priority for Campo Grande.\n\n**Portuguese Translation:**\n\nEsta ação foca na adoção do biometano em frotas públicas, o que aborda diretamente as emissões do transporte. Dado que as emissões do transporte são um contribuinte significativo para as emissões totais da cidade, esta iniciativa tem o potencial de um impacto substancial. A redução dessas emissões é crucial para melhorar a qualidade do ar e mitigar as mudanças climáticas. Portanto, esta ação é uma prioridade para Campo Grande.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adoção de biometano em frotas públicas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque a expansão dos sistemas de transporte público de massa sobre trilhos pode reduzir significativamente as emissões do setor de transportes, que são um dos principais contribuintes para as emissões totais da cidade. Campo Grande possui emissões de transporte muito elevadas, indicando uma forte necessidade de alternativas sustentáveis. A melhoria da infraestrutura de transporte público também pode aliviar o congestionamento do tráfego e melhorar a mobilidade urbana para os residentes. Esta iniciativa alinha-se com os esforços para construir uma cidade mais resiliente e ambientalmente amigável.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansão dos sistemas de transporte público em massa sobre trilhos (metrôs, VLTs e monotrilhos).",
@@ -294,7 +294,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda as emissões veiculares, que são uma contribuição significativa para o total de emissões da cidade. A redução dessas emissões pode melhorar a qualidade do ar e a saúde pública. Dadas as altas emissões de transporte em Campo Grande, esta ação é uma prioridade para mitigar os impactos das mudanças climáticas. Ela também se alinha com objetivos de sustentabilidade mais amplos para o desenvolvimento urbano.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emissões de Veículos",
@@ -373,7 +373,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de sistemas agroflorestais é uma prioridade para Campo Grande, dado o seu bioma de campo/savana e as significativas emissões provenientes do uso da terra. Esta ação pode ajudar a mitigar os altos riscos associados às secas, que impactam severamente a segurança alimentar e os recursos hídricos. Ao integrar árvores com culturas agrícolas e gado, a agrofloresta melhora a biodiversidade e a saúde do solo, oferecendo uma solução sustentável para os desafios ambientais. Esta abordagem também contribui para a resiliência climática, melhorando os serviços ecossistêmicos e reduzindo a vulnerabilidade a riscos climáticos.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroflorestais",
@@ -445,7 +445,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Campo Grande está localizada em um bioma de campo/savana, o que a torna suscetível a mudanças no uso da terra e desmatamento. As emissões do uso da terra da cidade são significativamente altas, indicando um problema potencial com o desmatamento. O fortalecimento dos mecanismos de controle do desmatamento aborda diretamente essa importante fonte de emissões. Essa ação é crucial para mitigar as mudanças climáticas e preservar o ecossistema local.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -517,7 +517,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção do reflorestamento urbano e de corredores verdes é uma ação de alta prioridade para Campo Grande. A cidade enfrenta riscos significativos de ondas de calor, impactando a saúde pública e a infraestrutura. O aumento de espaços verdes pode ajudar a mitigar o efeito de ilha de calor urbana, proporcionando benefícios de resfriamento e melhorando a qualidade do ar. Esta ação também apoia a biodiversidade, que é moderadamente impactada tanto por secas quanto por ondas de calor na cidade. Além disso, a infraestrutura verde pode contribuir para uma melhor gestão da água, abordando indiretamente os impactos relacionados à seca nos recursos hídricos.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover o Reflorestamento Urbano e Corredores Verdes",
@@ -589,7 +589,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma prioridade para Campo Grande. A cidade enfrenta riscos significativos de secas, que afetam os recursos hídricos e a segurança alimentar, e inundações, que impactam a infraestrutura e a segurança alimentar. Os programas de PSA podem incentivar a proteção e restauração de ecossistemas que fornecem serviços cruciais como a regulação hídrica e a conservação do solo, mitigando diretamente esses perigos. Esta ação apoia a resiliência a longo prazo, promovendo práticas sustentáveis de gestão da terra dentro da comunidade.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -661,7 +661,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque a economia de Campo Grande depende fortemente da agricultura, tornando a extensão rural crucial para a adaptação climática. A cidade enfrenta riscos significativos de secas e inundações, que impactam diretamente a segurança alimentar e os recursos hídricos. A assistência técnica pode ajudar os agricultores a implementar práticas resilientes, salvaguardando os meios de subsistência e o abastecimento alimentar local. Essa abordagem proativa fortalece o setor agrícola contra choques climáticos.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -733,7 +733,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação é uma prioridade porque Campo Grande está localizada em um bioma de campos/savana, que é suscetível à degradação ambiental. Facilitar a transferência de tecnologia para práticas de conservação pode ajudar a mitigar os impactos de perigos como secas e ondas de calor, que afetam significativamente a biodiversidade e a segurança alimentar na região. Dadas as substanciais emissões de uso da terra da cidade, promover a gestão sustentável da terra é crucial. Esta iniciativa também pode apoiar indiretamente os recursos hídricos e a saúde pública, mantendo o equilíbrio ecológico. Portanto, investir em práticas de conservação é um passo proativo para aumentar a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -805,7 +805,7 @@
     "actionId": "icare_0117",
     "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda as emissões de transportes, que são um contribuinte significativo para as emissões totais da cidade. Promover o transporte público pode reduzir a dependência de veículos particulares, levando a uma melhoria da qualidade do ar e a uma redução da pegada de carbono. Além disso, um sistema de autocarros mais atrativo pode melhorar a mobilidade urbana para os residentes, especialmente aqueles com acesso limitado a transporte privado. Esta iniciativa alinha-se com os objetivos de desenvolvimento urbano sustentável e pode ter amplos impactos positivos no ambiente e na equidade social da cidade.",
     "action": {
       "ActionID": "icare_0117",
       "ActionName": "Aumentar a atratividade do sistema de ônibus municipal para promover este modo de transporte.",
@@ -877,7 +877,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção de práticas agrícolas sustentáveis é uma prioridade para Campo Grande, dados os altos riscos associados a secas e inundações que impactam a segurança alimentar. O bioma de campo/savana da cidade é particularmente vulnerável a esses perigos climáticos. A implementação de tais práticas pode aumentar a resiliência, reduzir a degradação ambiental e garantir a produção de alimentos para a população. Esta ação aborda diretamente as vulnerabilidades críticas identificadas na avaliação de risco de mudança climática da cidade.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Práticas Agrícolas Sustentáveis",
@@ -949,7 +949,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:Esta ação é uma prioridade porque o bioma de Campo Grande é de campo/savana, o que é altamente adequado para práticas agroflorestais. A cidade também enfrenta riscos significativos de secas, impactando a segurança alimentar, tornando o uso sustentável da terra crucial. A implementação da agrofloresta pode aumentar a resiliência contra esses riscos climáticos. Além disso, as emissões do uso da terra são uma contribuição substancial para as emissões totais da cidade, e esta ação aborda diretamente isso. A promoção da agrofloresta pode levar a uma melhor saúde do solo, biodiversidade e sequestro de carbono, oferecendo múltiplos co-benefícios para o bem-estar ambiental e socioeconômico da cidade.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Criar Incentivos para Práticas de Agroflorestas em Sistemas de Pecuária",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Esta ação é uma prioridade porque Campo Grande enfrenta riscos significativos de segurança alimentar devido a secas e inundações, ambos com pontuação de 0,99 em risco normalizado. Priorizar produtos agroecológicos locais pode aumentar a resiliência do sistema alimentar contra esses perigos climáticos. Também apoia as economias locais e práticas agrícolas sustentáveis, o que pode mitigar impactos ambientais. Essa abordagem promove um abastecimento alimentar mais seguro e estável para a população da cidade.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Apoiar programas de certificação agroecológica é uma prioridade para Campo Grande, dados os riscos significativos de segurança alimentar que a cidade enfrenta, tanto por secas quanto por inundações. Esses programas podem aumentar a resiliência agrícola e promover práticas sustentáveis de uso da terra. Esta ação também se alinha com o enfrentamento das substanciais emissões do uso da terra, que contribuem significativamente para as emissões totais da cidade. Ao fomentar a agroecologia, a cidade pode mitigar os impactos climáticos e melhorar a estabilidade do sistema alimentar.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Campo Grande enfrenta riscos significativos de segurança alimentar devido a secas e inundações, ambos com pontuação de 0,99 em risco normalizado. Apoiar práticas de agricultura regenerativa pode melhorar a saúde do solo, aprimorar a retenção de água e aumentar a resiliência a esses perigos climáticos. Isso aborda diretamente a vulnerabilidade da cidade na produção de alimentos. Além disso, a agricultura regenerativa pode contribuir para o sequestro de carbono, alinhando-se com objetivos mais amplos de mitigação climática.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoiar Práticas de Agricultura Regenerativa",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção da agricultura orgânica em Campo Grande é uma prioridade devido aos significativos riscos de segurança alimentar da cidade, particularmente decorrentes de secas e inundações. As práticas de agricultura orgânica podem melhorar a saúde do solo e a retenção de água, tornando os sistemas agrícolas mais resilientes a esses perigos. Esta ação também se alinha com a redução das emissões provenientes do uso da terra, que são um contribuinte substancial para as emissões totais da cidade. Além disso, pode contribuir para a preservação da biodiversidade, uma área identificada como sendo impactada tanto por secas quanto por ondas de calor. No geral, esta ação aborda múltiplos desafios interconectados enfrentados por Campo Grande.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover a Agricultura Orgânica",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Promover o controlo agroecológico de pragas é uma prioridade para Campo Grande, dados os significativos riscos de segurança alimentar da cidade, particularmente devido a secas e inundações. Esta ação apoia diretamente práticas agrícolas sustentáveis, que são cruciais para manter a produção alimentar face aos impactos das alterações climáticas. Ao reduzir a dependência de pesticidas químicos, também contribui para a preservação da biodiversidade, uma área onde a cidade enfrenta riscos moderados tanto de secas quanto de ondas de calor. Além disso, ecossistemas mais saudáveis podem apoiar indiretamente os recursos hídricos, que também estão sob stress devido a secas em Campo Grande.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0091",
     "actionName": "Implementation of prioritized routes for sustainable vehicles.",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca na implementação de rotas priorizadas para veículos sustentáveis, o que pode reduzir significativamente as emissões de transporte. Dado que as emissões de transporte são um dos principais contribuintes para as emissões totais da cidade, esta iniciativa aborda diretamente uma preocupação ambiental chave. Ao promover o transporte sustentável, também pode aliviar problemas como a poluição do ar e o ruído, melhorando a saúde pública e a qualidade de vida. Esta ação alinha-se com objetivos climáticos mais amplos ao fomentar uma mudança em direção a uma mobilidade urbana mais limpa.",
     "action": {
       "ActionID": "icare_0091",
       "ActionName": "Implementação de rotas prioritárias para veículos sustentáveis.",

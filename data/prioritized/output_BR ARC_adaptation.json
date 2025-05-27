@@ -7,7 +7,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm"
+        "explanation": "This action is a priority because it directly addresses the city's social vulnerabilities, particularly the 'moderate' low-income population. Restoring Special Social Interest Zones can improve living conditions and access to services for these communities. Given the high risks associated with inadequate sanitation and public health hazards like diseases, floods, and landslides, improving these zones can significantly enhance resilience. This initiative aligns with the need to protect vulnerable populations from the impacts of climate change and other urban challenges. Therefore, it is a crucial step towards creating a more equitable and resilient city."
     },
     {
         "locode": "BR ARC",
@@ -17,7 +17,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm"
+        "explanation": "Arapiraca faces significant risks from multiple extreme weather events, including droughts, heatwaves, floods, and landslides, all of which have high normalized risk scores for public health and infrastructure. Establishing a comprehensive plan for preparation and emergency response is crucial to mitigate the severe impacts of these hazards. This action directly addresses the city's vulnerability to climate-related disasters, which are exacerbated by existing challenges like inadequate sanitation. Prioritizing this plan will enhance the city's resilience and protect its population and critical infrastructure from future climate shocks."
     },
     {
         "locode": "BR ARC",
@@ -27,7 +27,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm"
+        "explanation": "This action is a priority because Arapiraca is located in a desert biome, making its protected areas particularly vulnerable to environmental degradation. Strengthening conservation programs is crucial for preserving the unique biodiversity and ecological balance of these fragile ecosystems. Given the city's moderate low-income status, these programs can also offer opportunities for sustainable livelihoods and community engagement. Protecting these areas can also mitigate some impacts of hazards like droughts and heatwaves, which are significant risks for the city."
     },
     {
         "locode": "BR ARC",
@@ -37,7 +37,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm"
+        "explanation": "Encouraging sustainable land use practices is a crucial action for Arapiraca, especially given its desert biome and existing challenges. This initiative can help mitigate the impacts of droughts, which are a significant hazard affecting water resources and food security. By promoting sustainable practices, the city can improve its resilience to climate change and protect its natural environment. This action also indirectly supports public health by addressing underlying environmental stressors."
     },
     {
         "locode": "BR ARC",
@@ -47,7 +47,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm"
+        "explanation": "Arapiraca is located in a desert biome and faces significant risks from droughts, impacting water resources and food security. Maintaining and revitalizing riparian forests can help mitigate these impacts by improving water retention and soil health. This action is crucial for enhancing the city's resilience to climate change, particularly given the high normalized risk scores for drought-related key impacts. Furthermore, healthy riparian zones can support biodiversity, which is currently at low risk but could be further protected by this intervention."
     },
     {
         "locode": "BR ARC",
@@ -57,7 +57,7 @@
         "actionId": "icare_0145",
         "actionName": "Strengthen the healthcare network to attend to climate victims",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm"
+        "explanation": "Strengthening the healthcare network is a critical priority for Arapiraca due to the city's high vulnerability to climate-related health impacts. The city faces significant risks from heatwaves, diseases, and floods, all of which can severely strain public health services. Given the high normalized risk scores for public health across multiple hazards, improving healthcare capacity is essential to protect the population. This action directly addresses the urgent need to prepare for and respond to the health consequences of climate change, ensuring the well-being of climate victims."
     },
     {
         "locode": "BR ARC",
@@ -67,7 +67,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm"
+        "explanation": "This action is a priority due to the city's high risks related to public health from heatwaves, diseases, and landslides, as well as significant food security risks from floods. Relocation and environmental restoration can directly address the vulnerabilities of populations living in high-risk areas. By restoring the environment, the city can mitigate some of the hazards, such as reducing flood impacts or stabilizing land prone to landslides. This proactive measure protects citizens and infrastructure from the most severe climate impacts."
     },
     {
         "locode": "BR ARC",
@@ -77,7 +77,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm"
+        "explanation": "Access to health care is a critical priority for Arapiraca, given the high normalized risk scores for public health across multiple hazards. The city faces significant public health risks from heatwaves, diseases, and landslides, all scoring 0.99, and floods at 0.967. Improving healthcare access directly addresses these severe vulnerabilities, enhancing the city's resilience to climate-related health crises. This action is essential for protecting the well-being of the population and mitigating the impacts of current and future climate hazards."
     },
     {
         "locode": "BR ARC",
@@ -87,7 +87,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm"
+        "explanation": "Improving food storage and distribution is a critical action for Arapiraca, especially given the city's high risk to food security from floods. The city also faces moderate low-income challenges, which can exacerbate food access issues. Enhancing these systems can build resilience against climate hazards and improve overall food security for the population. This action directly addresses a key vulnerability identified in the city's climate risk assessment."
     },
     {
         "locode": "BR ARC",
@@ -97,7 +97,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm"
+        "explanation": "The implementation of urban gardens is a priority for Arapiraca, especially given the city's 'desert' biome and existing food security concerns. This action can directly address food security by providing local food sources, which is crucial as the city faces a high normalized risk score for food security due to floods. Furthermore, urban gardens can contribute to community resilience and potentially offer educational benefits, fostering sustainable practices within the population. This initiative aligns with efforts to mitigate the impacts of climate hazards on vulnerable populations."
     },
     {
         "locode": "BR ARC",
@@ -107,7 +107,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm"
+        "explanation": "This action is a priority due to the city's 'moderate' low-income population, indicating a need for social support. Furthermore, the city faces 'high' inadequate sanitation and 'moderate' inadequate water access, which disproportionately affect vulnerable populations. Social safety nets can help mitigate the impacts of these challenges and improve overall well-being. This is especially critical given the high risks to public health from heatwaves, diseases, and floods, as well as food security risks from droughts and floods, which can exacerbate existing social vulnerabilities."
     },
     {
         "locode": "BR ARC",
@@ -117,7 +117,7 @@
         "actionId": "icare_0144",
         "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm"
+        "explanation": "Arapiraca faces significant risks from extreme weather events, including droughts, heatwaves, and floods, which severely impact public health, food security, and infrastructure. The city also has high inadequate sanitation and moderate low-income populations, making its residents particularly vulnerable to these climate hazards. Establishing a financial support program is crucial to help the community recover and rebuild after such events. This initiative directly addresses the urgent need for resilience and adaptation in a city highly susceptible to climate-related disasters."
     },
     {
         "locode": "BR ARC",
@@ -127,7 +127,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm"
+        "explanation": "Improving the availability of health infrastructure is a critical priority for Arapiraca. The city faces significant risks from heatwaves, diseases, and floods, all of which have a high normalized risk score for public health. Enhanced health infrastructure can directly address these vulnerabilities by providing better medical care and emergency services. This action is essential for protecting the well-being of the population and building resilience against climate-related health impacts. Prioritizing this action will help mitigate the severe public health consequences identified in the city's risk assessment."
     },
     {
         "locode": "BR ARC",
@@ -137,7 +137,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm"
+        "explanation": "Arapiraca faces significant risks from heatwaves, impacting public health and energy security. Implementing permeable pavements and increasing green areas can help mitigate the urban heat island effect, directly addressing the public health risks associated with high temperatures. This action also contributes to better water management, which is crucial given the city's moderate inadequate water access and high inadequate sanitation. Furthermore, green infrastructure can enhance biodiversity, which is currently at low risk but can be proactively supported. Overall, this action offers multiple co-benefits that align with the city's climate challenges and public service deficiencies."
     },
     {
         "locode": "BR ARC",
@@ -147,7 +147,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm"
+        "explanation": "Arapiraca is located in a desert biome and faces significant risks from droughts, impacting water resources and food security. Ecosystem-based adaptation can help restore and protect natural systems, enhancing the city's resilience to these climate hazards. Given the high population density and existing moderate low-income population, such an approach can also provide co-benefits like improved livelihoods and public health. Prioritizing this action is crucial for long-term sustainability and climate resilience in the face of increasing environmental pressures."
     },
     {
         "locode": "BR ARC",
@@ -157,7 +157,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm"
+        "explanation": "This action addresses food security, which is a significant concern for Arapiraca, especially given the high normalized risk score for floods impacting food security. Improving farms and fisheries can enhance local food production and resilience against climate hazards. This is crucial for a city with a moderate low-income population, as it can directly improve livelihoods and access to nutritious food. Furthermore, strengthening the local food system can reduce reliance on external supply chains, making the city more self-sufficient in the face of climate change impacts."
     },
     {
         "locode": "BR ARC",
@@ -167,7 +167,7 @@
         "actionId": "icare_0172",
         "actionName": "Develop and implement the Municipal Risk Reduction Plan (PMRR) and identify population groups vulnerable to climate risks.",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm"
+        "explanation": "Arapiraca faces significant climate risks, including high risks from heatwaves, diseases, and floods impacting public health, and floods also severely affecting food security. Developing and implementing a Municipal Risk Reduction Plan (PMRR) is crucial for proactively addressing these diverse and high-impact hazards. Identifying vulnerable population groups within this plan ensures that interventions are targeted and effective, protecting those most at risk. This action is a foundational step for building resilience and mitigating the severe consequences of climate change in the city."
     },
     {
         "locode": "BR ARC",
@@ -177,7 +177,7 @@
         "actionId": "icare_0161",
         "actionName": "Expand reforestation and degraded area recovery projects",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm"
+        "explanation": "Expanding reforestation and degraded area recovery projects is a priority for Arapiraca, especially given its 'desert' biome and the significant land use emissions. This action directly addresses the city's vulnerability to droughts, which are a key impact on water resources and food security. Reforestation can help mitigate these impacts by improving soil health, water retention, and potentially reducing the severity of heatwaves. Furthermore, it contributes to biodiversity, which is currently at low risk from droughts but could benefit from enhanced ecosystem services."
     },
     {
         "locode": "BR ARC",
@@ -187,7 +187,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm"
+        "explanation": "Arapiraca faces significant risks from droughts and floods, impacting water resources and food security. An inadequate water access and high inadequate sanitation further exacerbate these issues. A hydrological monitoring system with telemetry stations is crucial for effective water management. This system can provide early warnings for extreme weather events, helping to mitigate their impact on public health and infrastructure."
     },
     {
         "locode": "BR ARC",
@@ -197,6 +197,6 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm"
+        "explanation": "Arapiraca faces significant food security risks, particularly from floods. Addressing food waste through behaviour change can directly mitigate these risks by improving resource efficiency and reducing demand. This action also aligns with broader sustainability goals by potentially lowering emissions associated with food production and waste management. Given the city's challenges, promoting responsible consumption habits is a crucial step towards building resilience."
     }
 ]

@@ -7,7 +7,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido à significativa vulnerabilidade de Serra a vários eventos climáticos extremos. A cidade enfrenta altos riscos de secas, ondas de calor, deslizamentos de terra e inundações, impactando setores críticos como infraestrutura, saúde pública e segurança alimentar. O estabelecimento de um plano abrangente de preparação e resposta a emergências é crucial para mitigar esses impactos generalizados e severos. Esta medida proativa aumentará a resiliência da cidade e protegerá sua população e bens de futuros desastres relacionados ao clima.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -84,7 +84,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido ao bioma da Serra ser uma floresta tropical, que é altamente sensível a mudanças ambientais. O fortalecimento de programas de controle e conservação de áreas protegidas é crucial para a preservação da biodiversidade e dos serviços ecossistêmicos. Dado o acesso muito baixo da cidade a serviços públicos de água e saneamento, a proteção de fontes naturais de água dentro dessas áreas também pode beneficiar indiretamente a população. Além disso, ecossistemas saudáveis podem proporcionar resiliência contra perigos como secas e inundações, que são riscos significativos para a Serra, impactando recursos hídricos, segurança alimentar e infraestrutura.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -157,7 +157,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a segurança alimentar, que é uma preocupação significativa para a Serra, particularmente devido ao alto risco de inundações e secas. Melhorar o armazenamento e a distribuição de alimentos pode mitigar os impactos desses perigos no abastecimento de alimentos. Dada a vulnerabilidade da cidade a interrupções relacionadas ao clima, garantir um sistema alimentar estável é crucial para a resiliência da comunidade. Esta ação apoia diretamente o bem-estar da população, melhorando o acesso a alimentos, especialmente durante eventos climáticos extremos.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -233,7 +233,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido à vulnerabilidade da cidade a múltiplos perigos, incluindo secas, ondas de calor, deslizamentos de terra e inundações. As matas ciliares desempenham um papel crucial na mitigação dos impactos desses perigos, estabilizando o solo, prevenindo a erosão e regulando o fluxo de água. Dados os altos escores de risco normalizado para impactos-chave como recursos hídricos, segurança alimentar, saúde pública e infraestrutura, manter e revitalizar essas florestas é essencial para aumentar a resiliência da cidade. Esta ação aborda diretamente várias preocupações críticas ambientais e de segurança pública em Serra.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -306,7 +306,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos de saúde pública identificados em Serra. A cidade enfrenta altas pontuações de risco normalizado para impactos na saúde pública decorrentes de ondas de calor, doenças, inundações e deslizamentos de terra. Fortalecer a rede de saúde é crucial para responder eficazmente a essas emergências de saúde relacionadas ao clima. Esta medida proativa aumentará a resiliência da cidade e protegerá sua população dos efeitos adversos das mudanças climáticas na saúde.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -382,7 +382,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\n\nEsta ação foca nas Zonas Especiais de Interesse Social (ZEIS), que são provavelmente áreas com populações vulneráveis. Intervir nessas zonas pode melhorar as condições de vida e a resiliência para aqueles mais suscetíveis aos impactos climáticos. Dados os fatores socioeconômicos \"muito_baixos\" da cidade, esta ação é crucial para um desenvolvimento equitativo. A melhoria dessas áreas também pode reduzir indiretamente os riscos associados a serviços públicos inadequados, como água e saneamento. Portanto, esta ação é uma prioridade para aprimorar a equidade social e a resiliência climática em Serra.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -456,7 +456,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Serra, especialmente dadas as altas pontuações de risco normalizado para impactos na saúde pública decorrentes de ondas de calor, doenças, inundações e deslizamentos de terra. Melhorar o acesso à saúde pode mitigar diretamente as graves consequências para a saúde desses perigos. Esta ação é essencial para construir resiliência e proteger o bem-estar da população diante das ameaças à saúde relacionadas às mudanças climáticas. Priorizar esta ação ajudará a garantir que os moradores da cidade recebam atenção médica oportuna e adequada durante e após eventos climáticos extremos e surtos de doenças.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -531,7 +531,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar práticas sustentáveis de uso da terra é uma alta prioridade para Serra. A cidade enfrenta riscos significativos de vários perigos, incluindo secas, ondas de calor, deslizamentos de terra e inundações, todos os quais podem ser exacerbados pelo uso insustentável da terra. Dado o bioma de floresta tropical da cidade, proteger e restaurar ecossistemas naturais através de práticas sustentáveis é crucial para mitigar esses impactos. Essa ação pode ajudar a reduzir a gravidade de impactos importantes como danos à infraestrutura, insegurança alimentar e problemas de saúde pública, tornando-a um passo vital em direção à resiliência climática.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -605,7 +605,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese:\nEsta ação aborda a segurança alimentar, que é uma área de impacto chave para a Serra, particularmente devido a secas e inundações. A melhoria das explorações agrícolas e pesqueiras pode aumentar a resiliência a estes perigos e assegurar um abastecimento alimentar mais estável para a população. Dado o bioma de floresta tropical húmida da cidade, as práticas sustentáveis nestes setores são cruciais para a estabilidade ambiental e económica a longo prazo. Priorizar esta ação pode mitigar diretamente os elevados riscos associados à segurança alimentar na região.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -682,7 +682,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos de saúde pública identificados em Serra. A cidade enfrenta altas pontuações de risco normalizado para impactos na saúde pública decorrentes de ondas de calor, doenças, inundações e deslizamentos de terra. Melhorar a infraestrutura de saúde é crucial para mitigar esses desafios de saúde existentes e futuros. Isso aumentará a resiliência e a capacidade da cidade de responder a crises de saúde relacionadas ao clima.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -756,7 +756,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de redes de segurança social é crucial para Serra, dado o seu status socioeconômico \"muito_baixo\". Esta ação aborda diretamente a vulnerabilidade da população, especialmente diante de perigos de alto risco como inundações, deslizamentos de terra e ondas de calor, que impactam severamente a saúde pública e a segurança alimentar. Ao fornecer uma rede de segurança, a cidade pode mitigar os impactos humanos imediatos desses eventos e apoiar os esforços de recuperação. Esta medida proativa ajuda a construir resiliência dentro da comunidade, garantindo que os mais vulneráveis sejam protegidos durante e após desastres relacionados ao clima.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -830,7 +830,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido à alta vulnerabilidade da cidade a eventos climáticos extremos, particularmente inundações, deslizamentos de terra e ondas de calor, que têm impactos significativos na infraestrutura, saúde pública e segurança alimentar. Um programa de apoio financeiro pode fornecer ajuda crucial a residentes e empresas afetados por esses eventos, facilitando a recuperação e construindo resiliência. Dadas as altas pontuações de risco normalizado para esses perigos, mecanismos financeiros proativos são essenciais para uma resposta e mitigação eficazes de desastres. Este programa aborda diretamente a necessidade urgente de apoio diante de desastres relacionados ao clima.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -907,7 +907,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade devido aos altos riscos da cidade relacionados a deslizamentos de terra e inundações, que impactam severamente a infraestrutura e a saúde pública. A realocação de populações vulneráveis é crucial para prevenir futuras vítimas e danos. A restauração ambiental pode ajudar a mitigar as causas subjacentes desses perigos, como a erosão do solo. Dado o acesso muito baixo da cidade a serviços públicos de água e saneamento, abordar essas questões ambientais é ainda mais crítico para o bem-estar geral.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -978,7 +978,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma prioridade para a Serra devido ao seu potencial para melhorar a segurança alimentar, que é uma área de impacto chave com uma alta pontuação de risco normalizado de inundações. Esta ação também pode contribuir para a resiliência local contra perigos climáticos, diversificando as fontes de alimentos. Além disso, as hortas urbanas podem melhorar a saúde pública, proporcionando acesso a produtos frescos e espaços verdes. Esta iniciativa alinha-se com o enfrentamento das vulnerabilidades da cidade, particularmente no que diz respeito a interrupções no abastecimento de alimentos.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Portuguese:\nEsta ação é de alta prioridade devido à significativa vulnerabilidade da cidade a inundações e secas, ambas com altas pontuações de risco normalizado para vários impactos-chave. Um sistema de monitoramento hidrológico pode fornecer avisos antecipados cruciais para inundações, protegendo a infraestrutura, a segurança alimentar e a saúde pública. Também pode auxiliar no gerenciamento de recursos hídricos durante secas, que representam um risco muito alto para a segurança energética e os recursos hídricos. Dado o bioma de floresta tropical úmida da cidade, o gerenciamento eficaz da água é essencial para a resiliência contra os riscos climáticos.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -1122,7 +1122,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de pavimentos permeáveis e o aumento de áreas verdes nas vias urbanas é uma ação crucial para a Serra. A cidade enfrenta riscos significativos de inundações, com infraestrutura, segurança alimentar e saúde pública apresentando um índice de risco normalizado de 0,99. Os pavimentos permeáveis ajudam a gerenciar o escoamento de á águas pluviais, reduzindo a carga sobre os sistemas de drenagem e mitigando os impactos das inundações. O aumento das áreas verdes também absorve água, reduzindo ainda mais o escoamento e proporcionando benefícios ambientais adicionais. Esta ação aborda diretamente a alta vulnerabilidade da cidade a inundações, tornando-a uma alta prioridade para a resiliência climática.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1194,7 +1194,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A seguinte ação, focada na mudança de comportamento em dietas e desperdício alimentar, é uma prioridade devido ao seu potencial para abordar questões de segurança alimentar. A cidade de Serra enfrenta riscos significativos de secas e inundações, ambos com grave impacto na segurança alimentar. A redução do desperdício alimentar pode aliviar a pressão sobre os sistemas alimentares, tornando-os mais resilientes a interrupções relacionadas ao clima. Além disso, mudanças na dieta podem contribuir para objetivos de sustentabilidade mais amplos, apoiando indiretamente os esforços de adaptação climática da cidade.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -1270,7 +1270,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma ação crucial para Serra, dado o seu bioma de floresta tropical e os altos riscos associados a vários perigos. A cidade enfrenta riscos significativos de secas, ondas de calor, inundações e deslizamentos de terra, todos os quais podem impactar severamente setores-chave como infraestrutura, saúde pública e segurança alimentar. A implementação de soluções baseadas em ecossistemas pode aumentar a resiliência da cidade, aproveitando processos naturais para mitigar esses impactos. Essa abordagem também pode contribuir para a preservação da biodiversidade, o que é particularmente relevante para uma cidade localizada em uma floresta tropical. Portanto, priorizar essa ação é essencial para construir um futuro mais sustentável e resiliente para Serra.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",
@@ -1357,7 +1357,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "Portuguese:\nEsta ação aborda os recursos hídricos, que são significativamente impactados pelas secas na Serra, conforme indicado por uma alta pontuação de risco normalizado. Melhorar a captação e o armazenamento de água pode mitigar os efeitos dessas secas, aprimorando a segurança hídrica para a população. Dado o acesso muito baixo da cidade a serviços públicos de água, esta ação é crucial para melhorar a infraestrutura básica e o bem-estar público. Ela apoia diretamente a resiliência contra um grande perigo climático identificado para a cidade.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1433,7 +1433,7 @@
     "actionId": "icare_0155",
     "actionName": "Preservation and Recovery of Water Bodies",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Portuguese: Esta ação é prioritária devido ao alto risco de secas na cidade, que impactam significativamente os recursos hídricos e a segurança energética. A preservação e recuperação de corpos d'água aborda diretamente essas vulnerabilidades. Além disso, a cidade enfrenta altos riscos de inundações, que também afetam a infraestrutura hídrica e a saúde pública. Esta ação pode ajudar a mitigar os impactos tanto da escassez quanto do excesso de água, tornando-a crucial para a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0155",
       "ActionName": "Preservação e Recuperação de Corpos Hídricos",

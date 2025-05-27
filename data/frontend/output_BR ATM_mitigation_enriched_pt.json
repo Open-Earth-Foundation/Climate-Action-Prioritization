@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A implementação de sistemas agroflorestais é uma alta prioridade para Altamira. A cidade enfrenta riscos significativos relacionados à segurança alimentar e à biodiversidade, particularmente de secas e ondas de calor. A agrofloresta pode aumentar a resiliência da produção de alimentos e proteger os ecossistemas locais. Esta ação aborda diretamente essas vulnerabilidades críticas, tornando-a uma intervenção crucial para a sustentabilidade da cidade.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroflorestais",
@@ -79,7 +79,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Fortalecer os mecanismos de controle do desmatamento é uma alta prioridade para Altamira. A cidade possui emissões de uso da terra extremamente elevadas, indicando desmatamento significativo. Controlar o desmatamento aborda diretamente esta importante fonte de emissões. Esta ação também ajuda a proteger o bioma da floresta tropical, que é crucial para a biodiversidade e a regulação climática. Dada a vulnerabilidade da cidade às secas e seu impacto na segurança alimentar e energética, preservar a cobertura florestal pode mitigar esses riscos.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer Mecanismos para o Controle do Desmatamento",
@@ -151,7 +151,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção do reflorestamento urbano e de corredores verdes é uma prioridade para Altamira. Esta ação pode ajudar a mitigar os impactos das ondas de calor, que representam um alto risco para a saúde pública e a infraestrutura da cidade. Além disso, pode contribuir para a biodiversidade, que também é altamente impactada pelas ondas de calor. Os espaços verdes também podem ajudar a gerir os recursos hídricos, que são afetados pelas secas, e melhorar a resiliência urbana geral.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover o Reflorestamento Urbano e Corredores Verdes",
@@ -223,7 +223,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A criação de Programas Municipais de Pagamento por Serviços Ambientais (PSA) é uma prioridade para Altamira, dadas as suas significativas emissões provenientes do uso da terra e o seu bioma de floresta tropical. Esta ação aborda diretamente as elevadas emissões do uso da terra, incentivando práticas sustentáveis de gestão do solo. Pode ajudar a proteger a biodiversidade da cidade, que está em risco tanto por secas quanto por ondas de calor. Além disso, os programas de PSA podem contribuir para a melhoria dos recursos hídricos e da segurança alimentar, ambos altamente impactados pelas secas em Altamira. Esta iniciativa apoia o bem-estar ecológico e econômico a longo prazo da cidade.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Estabelecer Programas Municipais de Pagamento por Serviços Ambientais (PSA)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Altamira está localizada em um bioma de floresta tropical, que é altamente suscetível à degradação ambiental. Facilitar a transferência de tecnologia para práticas de conservação pode ajudar a mitigar as significativas emissões do uso da terra, que atualmente são muito altas. Esta iniciativa apoia diretamente a preservação da biodiversidade e dos recursos naturais. Também aborda a vulnerabilidade da cidade a perigos como secas e ondas de calor, que são exacerbados pelas mudanças ambientais. Investir em tecnologias de conservação pode construir resiliência a longo prazo para a comunidade e seus ecossistemas.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar a Transferência de Tecnologia para Práticas de Conservação",
@@ -367,7 +367,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é uma prioridade porque Altamira possui emissões significativas relacionadas ao uso da terra, indicando uma forte presença agrícola ou florestal. As ações de Assistência Técnica e Extensão Rural (ATER) podem abordar diretamente essas emissões, promovendo práticas sustentáveis de gestão da terra. Dados os altos riscos associados a secas e inundações que impactam a segurança alimentar e os recursos hídricos, melhorar a resiliência agrícola através da ATER é crucial. Além disso, a população de baixa renda \"moderada\" da cidade sugere que o apoio aos meios de subsistência rurais por meio de tais programas também poderia ter impactos socioeconômicos positivos.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Conduzir Ações de Assistência Técnica e Extensão Rural (ATER)",
@@ -439,7 +439,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar práticas agrícolas regenerativas é uma prioridade para Altamira, dados os altos riscos associados à segurança alimentar e às secas. A cidade enfrenta desafios significativos em segurança alimentar devido às secas, conforme indicado por uma pontuação de risco normalizada de 0,99. A agricultura regenerativa pode melhorar a saúde do solo, aumentar a retenção de água e a resiliência às condições de seca, abordando diretamente essas vulnerabilidades. Além disso, as emissões do uso da terra são extremamente altas em Altamira, e essas práticas podem contribuir para o sequestro de carbono e reduzir o impacto ambiental geral da agricultura. Esta ação apoia diretamente a necessidade da cidade de construir resiliência contra os impactos climáticos, ao mesmo tempo em que mitiga as emissões.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoiar Práticas de Agricultura Regenerativa",
@@ -511,7 +511,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque Altamira possui emissões de uso da terra extremamente altas, indicando um impacto significativo das atuais práticas de gestão do solo. A promoção da agrofloresta pode ajudar a mitigar essas emissões através do sequestro de carbono e da melhoria da saúde do solo. Além disso, a cidade enfrenta altos riscos relacionados à segurança alimentar e aos recursos hídricos devido às secas, que as práticas agroflorestais podem ajudar a resolver, melhorando a resiliência dos ecossistemas. Esta abordagem também apoia a biodiversidade, que está em risco tanto pelas secas quanto pelas ondas de calor na região.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Criar Incentivos para Práticas de Agroflorestas em Sistemas de Pecuária",
@@ -583,7 +583,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção da agricultura orgânica é uma prioridade para Altamira, especialmente dados os altos riscos associados à segurança alimentar devido a secas e inundações. Esta ação pode aumentar a resiliência da produção local de alimentos e reduzir a dependência de sistemas alimentares externos. Além disso, alinha-se com o bioma de floresta tropical da cidade, podendo apoiar a biodiversidade e práticas sustentáveis de uso da terra. Esta iniciativa também pode contribuir para a redução das emissões do uso da terra, que são um componente significativo das emissões totais da cidade.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover a Agricultura Orgânica",
@@ -655,7 +655,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A promoção de práticas agrícolas sustentáveis é uma alta prioridade para Altamira, especialmente dadas as significativas emissões provenientes do uso da terra. A cidade enfrenta altos riscos relacionados à segurança alimentar devido a secas e inundações, que podem ser mitigados por métodos agrícolas resilientes. A implementação dessas práticas também pode ajudar a reduzir as substanciais emissões do uso da terra da cidade. Esta ação aborda diretamente vulnerabilidades-chave e contribui para a sustentabilidade ambiental.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Práticas Agrícolas Sustentáveis",
@@ -727,7 +727,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Incentivar o uso de máquinas agrícolas de baixa emissão é uma prioridade para Altamira devido às emissões extremamente altas do uso da terra na cidade, que são a fonte dominante de suas emissões totais. Embora a cidade enfrente riscos significativos de secas e inundações que impactam a segurança alimentar, abordar as emissões das práticas agrícolasB aborda diretamente um dos principais contribuintes para as mudanças climáticas. Esta ação pode ajudar a mitigar o impacto ambiental da agricultura, alinhando-se com objetivos climáticos mais amplos. A redução dessas emissões é crucial para a sustentabilidade e resiliência a longo prazo da cidade.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Incentivar o Uso de Máquinas Agrícolas de Baixa Emissão",
@@ -799,7 +799,7 @@
     "actionId": "icare_0127",
     "actionName": "Accelerate Environmental Regularization of Rural Properties",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acelerar a regularização ambiental de propriedades rurais é uma prioridade para Altamira devido às significativas emissões provenientes do uso da terra, que são as maiores contribuintes para suas emissões totais. Esta ação aborda diretamente a causa raiz dessas emissões, promovendo práticas sustentáveis de gestão da terra. Dado o bioma de floresta tropical úmida da cidade, proteger e regularizar propriedades rurais é crucial para preservar a biodiversidade e mitigar os impactos das mudanças climáticas. Além disso, os altos riscos associados a secas e inundações, que afetam a segurança alimentar e os recursos hídricos, ressaltam a urgência desta ação. Ao garantir a devida regularização ambiental, a cidade pode aumentar sua resiliência a esses perigos climáticos.",
     "action": {
       "ActionID": "icare_0127",
       "ActionName": "Acelerar a Regularização Ambiental de Propriedades Rurais",
@@ -871,7 +871,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A priorização de produtos agroecológicos de produção local nas compras públicas pode melhorar significativamente a segurança alimentar, que é uma área de impacto fundamental para Altamira, especialmente dado o alto risco de secas e inundações. Esta ação apoia as economias locais e reduz a pegada de carbono associada ao transporte de mercadorias por longas distâncias. Também promove práticas agrícolas sustentáveis, contribuindo para a preservação da biodiversidade numa região com bioma de floresta tropical. Além disso, pode melhorar a saúde pública, proporcionando acesso a opções alimentares mais saudáveis, abordando uma preocupação crítica destacada por vários perigos.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar a Aquisição de Produtos Agroecológicos Produzidos Localmente em Compras Públicas",
@@ -943,7 +943,7 @@
     "actionId": "ipcc_0061",
     "actionName": "Soil Carbon Management in Croplands and Grasslands",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A seguinte ação foca na gestão do carbono no solo, o que é crucial para mitigar as mudanças climáticas através do sequestro de carbono em terras agrícolas. Dadas as significativas emissões de uso da terra de Altamira, esta ação aborda diretamente uma importante fonte de gases de efeito estufa. Melhorar a saúde do solo também pode aumentar a segurança alimentar, que é uma área de impacto chave para as secas na cidade. Além disso, solos saudáveis podem melhorar a retenção de água, oferecendo benefícios em uma região que enfrenta riscos de seca.",
     "action": {
       "ActionID": "ipcc_0061",
       "ActionName": "Gestão de Carbono do Solo em Terras Agrícolas e Pastagens",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Apoiar a implementação de incentivos fiscais ecológicos é uma prioridade para Altamira. Dadas as significativas emissões de uso da terra da cidade e seu bioma de floresta tropical, tais incentivos podem encorajar práticas sustentáveis de gestão da terra. Esta ação pode ajudar a mitigar os altos riscos associados às secas, que impactam severamente os recursos hídricos, a segurança alimentar e a segurança energética. Ao promover a preservação ecológica, também aborda os altos riscos de biodiversidade identificados na cidade. Esta iniciativa se alinha com a necessidade de proteger o meio ambiente natural e reduzir as vulnerabilidades climáticas.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoiar a Implementação de Incentivos Fiscais Ecológicos",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A promoção do controle agroecológico de pragas é uma prioridade para Altamira, especialmente dadas as significativas emissões de uso da terra da cidade e seu bioma de floresta tropical. Esta ação pode ajudar a reduzir a dependência de pesticidas químicos, que frequentemente têm impactos ambientais negativos e contribuem para a perda de biodiversidade. Ao fomentar práticas agrícolas sustentáveis, também pode apoiar a segurança alimentar, uma área de impacto chave com alto risco de secas e inundações. Além disso, alinha-se com os esforços para mitigar as mudanças climáticas, promovendo ecossistemas mais saudáveis e potencialmente reduzindo as emissões associadas à agricultura convencional.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover a Adoção do Controle de Pragas Agroecológico",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Incentivar a produção agroecológica local e as cadeias de abastecimento curtas é uma prioridade para Altamira, especialmente dados os altos riscos à segurança alimentar decorrentes de secas e inundações. Esta ação pode aumentar a resiliência alimentar local e reduzir a dependência de cadeias de abastecimento externas, que são vulneráveis aos impactos climáticos. Também apoia práticas sustentáveis de uso da terra, o que é crucial para uma cidade com emissões significativas provenientes do uso da terra. Além disso, pode contribuir para o desenvolvimento econômico local e o bem-estar da comunidade.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Incentivar a Produção Agroecológica Local e Cadeias Curtas de Abastecimento",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Apoiar programas de certificação agroecológica é uma prioridade para Altamira, dadas as significativas emissões de uso da terra da cidade e os altos riscos relacionados à segurança alimentar e à biodiversidade. Esses programas podem ajudar a promover práticas agrícolas sustentáveis, que são cruciais para reduzir as grandes emissões de uso da terra. Ao fomentar a agroecologia, a cidade pode melhorar a segurança alimentar e proteger seu bioma de floresta tropical, que é vulnerável aos impactos climáticos. Esta ação aborda diretamente as causas profundas da degradação ambiental e da vulnerabilidade climática na região.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoiar Programas de Certificação Agroecológica",
@@ -1302,7 +1302,7 @@
     "actionId": "ipcc_0052",
     "actionName": "Reduce Deforestation and Degradation",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A redução do desmatamento e da degradação é uma prioridade crítica para Altamira, dadas as suas significativas emissões provenientes do uso da terra. As emissões totais da cidade são esmagadoramente dominadas pelo uso da terra, indicando que abordar este setor é de suma importância para a ação climática. Além disso, Altamira está localizada em um bioma de floresta tropical, tornando a preservação florestal essencial para a biodiversidade e os serviços ecossistêmicos. Esta ação aborda diretamente a principal fonte de emissões e apoia a integridade ecológica da região.",
     "action": {
       "ActionID": "ipcc_0052",
       "ActionName": "Reduzir o Desmatamento e a Degradação",
@@ -1373,7 +1373,7 @@
     "actionId": "ipcc_0053",
     "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade para Altamira devido às significativas emissões de uso da terra da cidade, que são de longe o maior contribuinte para suas emissões totais. A florestação, reflorestação e restauração de ecossistemas florestais abordam diretamente esta questão, aumentando o sequestro de carbono. Dado que Altamira está localizada num bioma de floresta tropical, existe um potencial substancial para uma implementação bem-sucedida e um impacto ambiental positivo. Além disso, esta ação pode ajudar a mitigar riscos relacionados com a biodiversidade, que é identificada como uma área de impacto chave tanto para secas quanto para ondas de calor na Avaliação de Risco Climático (CCRA) da cidade.",
     "action": {
       "ActionID": "ipcc_0053",
       "ActionName": "Aflorestamento, Reflorestamento e Restauração de Ecossistemas Florestais",

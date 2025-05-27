@@ -7,7 +7,7 @@
         "actionId": "icare_0151",
         "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Developing diagnostics and restoring Special Social Interest Zones (ZEIS) is a high priority for Caracara\u00ed. The city faces significant challenges with inadequate water access and moderate sanitation issues, indicating a need for improved public services, especially in vulnerable areas. Addressing ZEIS can directly improve living conditions and public health for low-income populations, who are often disproportionately affected by these deficiencies. This action aligns with the city's socio-economic factors, where low income is a moderate concern, making targeted interventions in these zones crucial for equitable development and resilience.",
         "action": {
             "ActionID": "icare_0151",
             "ActionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
@@ -81,7 +81,7 @@
         "actionId": "ipcc_0097",
         "actionName": "Food storage/distribution improvements",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's vulnerability to droughts and floods, both of which significantly impact food security. Improving food storage and distribution can mitigate the effects of these hazards, ensuring a more stable food supply for the population. Given the moderate low-income factor, enhancing food security directly addresses a critical need for the community. This action helps build resilience against climate-related disruptions to the food system.",
         "action": {
             "ActionID": "ipcc_0097",
             "ActionName": "Food storage/distribution improvements",
@@ -157,7 +157,7 @@
         "actionId": "ipcc_0094",
         "actionName": "Access to health care",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Improving access to healthcare is a crucial action for Caracara\u00ed, especially given the city's moderate low-income population and existing public health risks. The city faces risks from heatwaves and diseases, which can exacerbate health issues. Enhanced healthcare access can mitigate the impacts of these hazards on the population. This action directly addresses the well-being of residents and builds resilience against climate-related health challenges.",
         "action": {
             "ActionID": "ipcc_0094",
             "ActionName": "Access to health care",
@@ -232,7 +232,7 @@
         "actionId": "icare_0156",
         "actionName": "Implementation of urban gardens",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Implementing urban gardens in Caracara\u00ed is a beneficial action, especially considering the city's moderate low-income population and existing food security risks from droughts and floods. Urban gardens can enhance local food security by providing fresh produce directly to residents, reducing reliance on external food sources. This initiative also promotes community engagement and can offer educational opportunities on sustainable practices. While not directly addressing the most critical infrastructure or biodiversity risks, it contributes to resilience and well-being.",
         "action": {
             "ActionID": "icare_0156",
             "ActionName": "Implementation of urban gardens",
@@ -304,7 +304,7 @@
         "actionId": "ipcc_0096",
         "actionName": "Farm/fishery improvements",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's significant risks related to food security, particularly from droughts and floods. Improving farms and fisheries directly addresses these vulnerabilities by enhancing local food production and resilience. Given the 'moderate' low-income factor, strengthening food systems can also contribute to economic stability and livelihoods. This action aligns with the need to bolster essential services and reduce dependence on external food sources, which is crucial for a city with a relatively small population and high land use emissions.",
         "action": {
             "ActionID": "ipcc_0096",
             "ActionName": "Farm/fishery improvements",
@@ -381,7 +381,7 @@
         "actionId": "ipcc_0092",
         "actionName": "Social safety nets",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Implementing social safety nets is a crucial action for Caracara\u00ed, given its moderate low-income population and high inadequate water access. These programs can provide essential support to vulnerable communities, helping them cope with the impacts of climate hazards like droughts and heatwaves. By improving the resilience of the population, social safety nets indirectly contribute to better public health and food security outcomes. This action is a priority because it addresses fundamental human needs and strengthens the community's ability to adapt to environmental challenges.",
         "action": {
             "ActionID": "ipcc_0092",
             "ActionName": "Social safety nets",
@@ -455,7 +455,7 @@
         "actionId": "icare_0162",
         "actionName": "Strengthen programs for control and conservation of protected areas",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to Caracara\u00ed's significant land use emissions, which are the largest contributor to its total emissions. Strengthening programs for control and conservation of protected areas can directly address the drivers of these emissions, such as deforestation and land degradation. Given the city's tropical rainforest biome and high biodiversity risk from droughts and heatwaves, protecting these areas is crucial for ecological resilience. This action also aligns with the city's vulnerability to climate impacts on biodiversity, making it a critical intervention for environmental stability and long-term sustainability.",
         "action": {
             "ActionID": "icare_0162",
             "ActionName": "Strengthen programs for control and conservation of protected areas",
@@ -528,7 +528,7 @@
         "actionId": "icare_0149",
         "actionName": "Encourage sustainable land use practices",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Encouraging sustainable land use practices is a high priority for Caracara\u00ed given its significant land use emissions, which are by far the largest contributor to the city's total emissions. This action directly addresses the primary source of greenhouse gas emissions in the city. Implementing such practices can also help mitigate risks associated with droughts and floods, which impact food security and water resources. Furthermore, it can protect the tropical rainforest biome and its biodiversity, which is at high risk from both droughts and heatwaves. This action is crucial for both climate change mitigation and adaptation in Caracara\u00ed.",
         "action": {
             "ActionID": "icare_0149",
             "ActionName": "Encourage sustainable land use practices",
@@ -602,7 +602,7 @@
         "actionId": "icare_0169",
         "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Establishing a plan for preparation and emergency response measures is crucial for Caracara\u00ed given its vulnerability to extreme weather events. The city faces significant risks from heatwaves, which severely impact infrastructure and biodiversity, and droughts, affecting water and energy security. While floods also pose a risk, the most pressing concerns are related to heatwaves and droughts. A comprehensive plan will help mitigate the impacts of these hazards, protecting both the population and the environment.",
         "action": {
             "ActionID": "icare_0169",
             "ActionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
@@ -679,7 +679,7 @@
         "actionId": "icare_0164",
         "actionName": "Hydrological Monitoring System with Telemetry Stations",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high risk from droughts and floods, which directly impact water resources and food security. A hydrological monitoring system can provide crucial early warnings for these hazards, allowing for better preparedness and response. Given the city's moderate inadequate sanitation and high inadequate water access, managing water resources effectively is paramount. This system would support the city in mitigating the impacts of extreme weather events on its population and infrastructure.",
         "action": {
             "ActionID": "icare_0164",
             "ActionName": "Hydrological Monitoring System with Telemetry Stations",
@@ -751,7 +751,7 @@
         "actionId": "ipcc_0098",
         "actionName": "Behaviour change in diets and food waste",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action addresses food security, which is a key impact area for Caracara\u00ed, particularly concerning droughts and floods. Given the city's tropical rainforest biome and moderate low-income population, promoting sustainable diets and reducing food waste can significantly enhance resilience. This initiative can also indirectly alleviate pressure on water resources and energy security, both of which are impacted by droughts. While not directly addressing the highest risks like infrastructure damage from heatwaves, it contributes to overall community well-being and resource management.",
         "action": {
             "ActionID": "ipcc_0098",
             "ActionName": "Behaviour change in diets and food waste",
@@ -827,7 +827,7 @@
         "actionId": "icare_0182",
         "actionName": "Urban Afforestation and Green Spaces Implementation",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Implementing urban afforestation and green spaces is a priority for Caracara\u00ed due to the high normalized risk score for biodiversity impacted by heatwaves (0.837). This action directly addresses the need to mitigate the urban heat island effect and protect local ecosystems. Given the city's tropical rainforest biome, enhancing green infrastructure aligns with its natural environment and can improve overall resilience. Furthermore, it can contribute to public health by providing cooler areas and improving air quality, which is crucial in a city with moderate low-income populations. This initiative also supports climate change adaptation by increasing carbon sinks and enhancing the city's natural defenses against extreme weather events.",
         "action": {
             "ActionID": "icare_0182",
             "ActionName": "Urban Afforestation and Green Spaces Implementation",
@@ -896,7 +896,7 @@
         "actionId": "icare_0157",
         "actionName": "Maintenance and Revitalization of Riparian Forests",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's significant land use emissions, which are a major contributor to its total emissions. Riparian forests play a crucial role in maintaining ecosystem health, preventing erosion, and sequestering carbon. Their maintenance and revitalization can directly address the high land use emissions and improve the overall environmental resilience of Caracara\u00ed. This initiative also supports biodiversity, which is a key impact area with high risk scores for both droughts and heatwaves in the city.",
         "action": {
             "ActionID": "icare_0157",
             "ActionName": "Maintenance and Revitalization of Riparian Forests",
@@ -969,7 +969,7 @@
         "actionId": "ipcc_0086",
         "actionName": "Ecosystem-based adaptation",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Ecosystem-based adaptation is a crucial action for Caracara\u00ed given its tropical rainforest biome and significant biodiversity risks from both droughts and heatwaves. The city faces high normalized risk scores for biodiversity impacts, particularly from heatwaves (0.837) and droughts (0.502). Implementing this action can help mitigate these specific environmental threats and enhance the resilience of natural systems. Furthermore, a healthy ecosystem can indirectly support water resources and food security, which are also impacted by droughts in the region. Prioritizing this action aligns with addressing the city's most pressing environmental vulnerabilities.",
         "action": {
             "ActionID": "ipcc_0086",
             "ActionName": "Ecosystem-based adaptation",
@@ -1056,7 +1056,7 @@
         "actionId": "icare_0181",
         "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action addresses the critical need for relocation and environmental restoration in vulnerable areas. Given Caracara\u00ed's significant risks from heatwaves, particularly to infrastructure and biodiversity, and its high land-use emissions, this action is highly relevant. Relocating populations from high-risk zones can protect lives and reduce infrastructure damage. Simultaneously, environmental restoration can mitigate the impacts of climate hazards and enhance ecosystem resilience, which is crucial for a city with a tropical rainforest biome. This comprehensive approach directly tackles both human safety and ecological integrity in the face of climate change.",
         "action": {
             "ActionID": "icare_0181",
             "ActionName": "Relocation and Environmental Restoration in Vulnerable Areas",
@@ -1127,7 +1127,7 @@
         "actionId": "ipcc_0099",
         "actionName": "Water capture/storage",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high inadequate water access and moderate inadequate sanitation. The city also faces significant risks from droughts, impacting water resources and food security. Implementing water capture and storage solutions can directly address these vulnerabilities. This will improve water availability for the population and mitigate the effects of drought on essential services and livelihoods.",
         "action": {
             "ActionID": "ipcc_0099",
             "ActionName": "Water capture/storage",
@@ -1203,7 +1203,7 @@
         "actionId": "ipcc_0093",
         "actionName": "Availability of health infrastructure",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action addresses the availability of health infrastructure, which is crucial for public well-being. Given the city's moderate low-income population and existing public health risks from heatwaves, diseases, and floods, robust health infrastructure is essential. Improving this area can enhance the city's resilience to climate-related health impacts. Prioritizing this action will directly benefit the community by strengthening its capacity to respond to health crises and provide necessary medical services.",
         "action": {
             "ActionID": "ipcc_0093",
             "ActionName": "Availability of health infrastructure",
@@ -1277,7 +1277,7 @@
         "actionId": "icare_0180",
         "actionName": "Implement permeable pavements and increase green areas in roadways",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Implementing permeable pavements and increasing green areas in roadways is a priority for Caracara\u00ed due to the city's significant infrastructure risk from heatwaves and floods. Permeable surfaces can help manage stormwater runoff, reducing flood impacts, while green areas can mitigate urban heat island effects, addressing heatwave risks. Given the city's tropical rainforest biome, these interventions align with natural systems to enhance resilience. This action also supports biodiversity, which is highly impacted by both droughts and heatwaves in Caracara\u00ed. Overall, this action directly addresses multiple high-risk areas identified in the city's climate change risk assessment.",
         "action": {
             "ActionID": "icare_0180",
             "ActionName": "Implement permeable pavements and increase green areas in roadways",
@@ -1349,7 +1349,7 @@
         "actionId": "icare_0190",
         "actionName": "Encourage agrosilvopastoral systems",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Encouraging agrosilvopastoral systems is a priority for Caracara\u00ed given its significant land use emissions. This action directly addresses the largest source of emissions in the city, which is crucial for climate change mitigation. Furthermore, the city's tropical rainforest biome and high biodiversity risk from droughts and heatwaves suggest that sustainable land management practices are vital. Implementing such systems can help restore degraded lands, enhance ecosystem services, and improve the resilience of agricultural practices against climate hazards. This approach offers a holistic solution to both environmental protection and sustainable development in the region.",
         "action": {
             "ActionID": "icare_0190",
             "ActionName": "Encourage agrosilvopastoral systems",
@@ -1422,7 +1422,7 @@
         "actionId": "ipcc_0100",
         "actionName": "Efficient water use/demand",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the city's high inadequate water access, indicating a significant need for improved water management. Efficient water use can directly address this vulnerability, ensuring better resource availability for the population. Furthermore, the city faces drought risks, which could exacerbate existing water scarcity issues. Implementing this action would build resilience against future climate impacts, particularly those related to water resources and food security. It is a foundational step towards sustainable development in Caracara\u00ed.",
         "action": {
             "ActionID": "ipcc_0100",
             "ActionName": "Efficient water use/demand",

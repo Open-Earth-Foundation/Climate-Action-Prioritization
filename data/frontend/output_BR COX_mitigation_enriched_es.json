@@ -7,7 +7,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una acción de alta prioridad para Coxim. El bioma de la ciudad es de pastizales/sabana, y se enfrenta a riesgos significativos por sequías, que impactan particularmente la biodiversidad y los recursos hídricos. La agrosilvicultura puede mejorar la resiliencia del ecosistema, la salud del suelo y contribuir a la retención de agua, abordando directamente estas vulnerabilidades. Este enfoque también apoya la seguridad alimentaria, que es otra área de impacto clave afectada por las sequías en Coxim.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -79,7 +79,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Fortalecer los mecanismos de control de la deforestación es una alta prioridad para Coxim. La ciudad tiene emisiones por uso de la suelo muy elevadas, lo que indica una deforestación significativa. Esta acción aborda directamente la mayor fuente de emisiones de la ciudad. Reducir la deforestación también ayudará a proteger la biodiversidad, que es un área de impacto clave tanto para las sequías como para las olas de calor en Coxim.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -151,7 +151,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "La promoción de la reforestación urbana y los corredores verdes es una prioridad para Coxim, especialmente dado su bioma de pastizales/sabana y las importantes emisiones derivadas del uso del suelo. Esta acción puede ayudar a mitigar los altos riesgos para la biodiversidad identificados tanto por las sequías como por las olas de calor. La mejora de los espacios verdes también puede mejorar los resultados de salud pública, que se ven moderadamente afectados por las olas de calor y las enfermedades. Además, contribuye a la captura de carbono, abordando las considerables emisiones derivadas del uso del suelo en la ciudad.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -223,7 +223,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente la seguridad alimentaria, que es un área de impacto clave para Coxim, particularmente en lo que respecta a sequías e inundaciones. La asistencia técnica y la extensión rural pueden ayudar a los agricultores a adoptar prácticas más resilientes, mitigando los riesgos asociados con estos peligros. Dado el bioma de pastizales/sabana de la ciudad, apoyar métodos agrícolas sostenibles es crucial tanto para la producción de alimentos como para la preservación del medio ambiente. Esta iniciativa también puede mejorar indirectamente los factores socioeconómicos al empoderar a las comunidades de bajos ingresos a través de una mayor productividad agrícola.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -295,7 +295,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Establecer programas municipales de Pago por Servicios Ambientales (PSA) es una prioridad para Coxim dadas sus importantes emisiones por uso del suelo. Esta acción aborda directamente las altas emisiones por uso del suelo al incentivar prácticas sostenibles de gestión de la tierra. También puede ayudar a mitigar los impactos de las sequías, que son un riesgo importante para los recursos hídricos y la seguridad alimentaria en la ciudad. Además, los programas de PSA pueden proteger la biodiversidad, que es altamente vulnerable tanto a las sequías como a las olas de calor en Coxim. Esta iniciativa promueve la sostenibilidad ambiental a largo plazo y la resiliencia frente a los riesgos climáticos.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -367,7 +367,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "La facilitación de la transferencia de tecnología para las prácticas de conservación es una prioridad para Coxim, dadas sus importantes emisiones por el uso de la tierra. El bioma de la ciudad es de pastizales/sabana, que es muy susceptible a la degradación si no se gestiona de forma sostenible. La implementación de prácticas de conservación puede ayudar a mitigar estas emisiones y proteger el medio ambiente natural. Esta acción aborda directamente las altas emisiones por el uso de la tierra, que son el mayor contribuyente a las emisiones totales de la ciudad. Por lo tanto, es un paso crucial hacia la mejora de la sostenibilidad ambiental en Coxim.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -439,7 +439,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "La promoción de la agricultura orgánica es una prioridad para Coxim, especialmente dadas las importantes emisiones por el uso del suelo de la ciudad. Esta acción puede ayudar a mitigar estas emisiones al fomentar prácticas agrícolas sostenibles. Además, puede mejorar la seguridad alimentaria, que es un área de impacto clave para Coxim, particularmente en lo que respecta a los peligros de sequía. Las prácticas de agricultura orgánica a menudo mejoran la salud del suelo y la retención de agua, lo cual es crucial en una región propensa a las sequías. Esta iniciativa también se alinea con la protección de la biodiversidad, otra área de alto riesgo para Coxim, ya que los métodos orgánicos suelenSoportar ecosistemas más saludables.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -511,7 +511,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar las prácticas de agricultura regenerativa es una prioridad para Coxim debido a las importantes emisiones por el uso de la tierra, que son el mayor contribuyente a las emisiones totales de la ciudad. Esta acción aborda directamente la causa principal de un impacto ambiental importante. Además, dado el bioma de la ciudad como pastizal/sabana y el alto riesgo de sequías que afectan la seguridad alimentaria y los recursos hídricos, la agricultura regenerativa puede mejorar la salud del suelo, la retención de agua y la resiliencia general del ecosistema. Este enfoque puede mitigar los efectos negativos de los peligros climáticos y mejorar la productividad agrícola de manera sostenible. Por lo tanto, esta acción es crucial tanto para la sostenibilidad ambiental como para la adaptación climática en Coxim.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",
@@ -583,7 +583,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque aborda directamente las importantes emisiones por uso del suelo en Coxim, que son el mayor contribuyente a las emisiones totales de la ciudad. La promoción de prácticas agroforestales puede ayudar a secuestrar carbono, mejorar la salud del suelo y aumentar la biodiversidad, todo lo cual es crucial para la resiliencia climática. Dado el bioma de pastizales/sabana de la ciudad y el alto riesgo para la biodiversidad debido a sequías y olas de calor, esta acción ofrece una solución sostenible para mitigar la degradación ambiental. Además, puede apoyar la seguridad alimentaria y los recursos hídricos, que también se ven afectados por las sequías en la región.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -655,7 +655,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas agrícolas sostenibles es una acción de alta prioridad para Coxim. La ciudad se enfrenta a riesgos significativos derivados de las sequías, que afectan gravemente tanto a los recursos hídricos como a la seguridad alimentaria. Dado que las emisiones por el uso del suelo son el mayor contribuyente a las emisiones totales de la ciudad, abordar las prácticas agrícolas también puede conducir a reducciones sustanciales de las emisiones. Esta acción aborda directamente vulnerabilidades clave y contribuye a los esfuerzos de mitigación del cambio climático.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -727,7 +727,7 @@
     "actionId": "icare_0101",
     "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el uso de maquinaria agrícola de bajas emisiones es una prioridad para Coxim debido a las importantes emisiones por el uso del suelo de la ciudad. Dado que las emisiones por el uso del suelo son el mayor contribuyente a las emisiones totales de la ciudad, abordar este sector es crucial para la reducción general de emisiones. Esta acción se dirige directamente a una fuente importante de gases de efecto invernadero dentro de las prácticas agrícolas prevalentes en la región. Al promover maquinaria más limpia, la ciudad puede lograr un progreso sustancial hacia sus objetivos climáticos y fomentar prácticas agrícolas más sostenibles.",
     "action": {
       "ActionID": "icare_0101",
       "ActionName": "Fomentar el uso de maquinaria agrícola de bajas emisiones",
@@ -799,7 +799,7 @@
     "actionId": "icare_0127",
     "actionName": "Accelerate Environmental Regularization of Rural Properties",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Acelerar la regularización ambiental de las propiedades rurales es una prioridad para Coxim debido a las importantes emisiones por el uso de la tierra, que son el mayor contribuyente a las emisiones totales de la ciudad. Esta acción aborda directamente la fuente de estas emisiones al promover prácticas sostenibles de gestión de la tierra. Dado que el bioma de la ciudad es pastizal/sabana, el uso adecuado de la tierra es crucial para mantener el equilibrio ecológico y mitigar los riesgos climáticos. Además, la alta puntuación de riesgo normalizado para la biodiversidad debido a sequías y olas de calor subraya la urgencia de proteger los ecosistemas naturales. Esta acción puede ayudar a reducir la vulnerabilidad de la región a estos peligros al fomentar un uso de la tierra más resiliente.",
     "action": {
       "ActionID": "icare_0127",
       "ActionName": "Acelerar la Regularización Ambiental de Propiedades Rurales",
@@ -871,7 +871,7 @@
     "actionId": "ipcc_0061",
     "actionName": "Soil Carbon Management in Croplands and Grasslands",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque la mayor fuente de emisión de Coxim es el uso de la tierra, y esta acción aborda directamente eso. La implementación de la gestión del carbono del suelo en tierras de cultivo y pastizales puede reducir significativamente estas emisiones. Dado que el bioma de la ciudad es pastizal/sabana, esta acción es muy relevante e impactante. Además, mejorar la salud del suelo también puedeAumentar la resiliencia a las sequías, que son un peligro importante para los recursos hídricos y la seguridad alimentaria en Coxim.",
     "action": {
       "ActionID": "ipcc_0061",
       "ActionName": "Gestión del Carbono del Suelo en Tierras de Cultivo y Pastizales",
@@ -942,7 +942,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Priorizar la adquisición de productos agroecológicos de producción local en las compras públicas es una acción valiosa para Coxim. Esta iniciativa puede reforzar la seguridad alimentaria local, que es un área de impacto clave para la ciudad, especialmente dado su riesgo moderado de sequías que afectan la seguridad alimentaria. También apoya las economías locales y promueve prácticas agrícolas sostenibles, lo que concuerda con el bioma de pastizales/sabana de la ciudad. Aunque no aborda directamente los riesgos más altos, contribuye a la resiliencia y al bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -1014,7 +1014,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar los programas de certificación agroecológica es una prioridad para Coxim dadas sus importantes emisiones por el uso de la tierra. Esta acción puede ayudar a promover prácticas agrícolas sostenibles, que son cruciales para reducir la huella de carbono general de la ciudad. Al fomentar una agricultura respetuosa con el medio ambiente, también aborda las preocupaciones sobre la seguridad alimentaria y la biodiversidad, ambas afectadas por las sequías en la región. Esta iniciativa se alinea con la necesidad de la ciudad de mitigar los riesgos climáticos y mejorar la resiliencia ambiental.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1086,7 +1086,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el control agroecológico de plagas es una prioridad para Coxim, especialmente dadas las importantes emisiones por el uso del suelo de la ciudad y el alto riesgo para la biodiversidad derivado de las sequías y las olas de calor. Esta acción apoya directamente las prácticas de gestión sostenible de la tierra, que pueden mitigar la degradación ambiental y mejorar la resiliencia de los ecosistemas. Al reducir la dependencia de los pesticidas químicos, también contribuye a mejorar la salud pública y la seguridad alimentaria, lo que concuerda con la vulnerabilidad de la ciudad a los problemas de seguridad alimentaria relacionados con la sequía. Este enfoque fomenta un sistema agrícola más sostenible, beneficiando tanto al medio ambiente como a la comunidad.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1158,7 +1158,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Apoyar la implementación de incentivos fiscales ecológicos es una prioridad para Coxim. Esta acción puede fomentar prácticas sostenibles de uso de la tierra y esfuerzos de conservación. Dada las significativas emisiones por el uso de la tierra de la ciudad y el alto riesgo para la biodiversidad debido a sequías y olas de calor, tales incentivos son cruciales. Pueden ayudar a mitigar la degradación ambiental y promover la resiliencia ecológica dentro del bioma de pastizales/sabana.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -1230,7 +1230,7 @@
     "actionId": "icare_0132",
     "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la producción agroecológica local y las cadenas de suministro cortas es una prioridad para Coxim, especialmente dadas las importantes emisiones por el uso del suelo de la ciudad. Esta acción puede ayudar a reducir la huella de carbono asociada con el transporte de alimentos y las prácticas agrícolas convencionales. Además, puede mejorar la seguridad alimentaria, que es un área de impacto clave para Coxim, particularmente en lo que respecta a los peligros de sequía. Al fomentar la producción local, la ciudad puede desarrollar resiliencia contra las interrupciones relacionadas con el clima en su suministro de alimentos. Esta iniciativa también se alinea con la gestión sostenible de la tierra, que es crucial para una ciudad con una gran superficie terrestre y un bioma de pastizales/sabana.",
     "action": {
       "ActionID": "icare_0132",
       "ActionName": "Fomentar la Producción Agroecológica Local y las Cadenas de Suministro Cortas",
@@ -1302,7 +1302,7 @@
     "actionId": "ipcc_0053",
     "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Esta acción es una prioridad porque Coxim tiene emisiones de uso de suelo muy altas, lo que indica una deforestación o degradación de la tierra significativas. La forestación, reforestación y restauración de ecosistemas forestales abordan directamente esta importante fuente de emisiones. Además, el bioma de la ciudad es pastizal/sabana, que puede beneficiarse enormemente de los esfuerzos de restauración de ecosistemas. Esta acción también ayuda a mitigar los riesgos asociados con las sequías y las olas de calor, que son peligros importantes para la biodiversidad en Coxim.",
     "action": {
       "ActionID": "ipcc_0053",
       "ActionName": "Aforestación, Reforestación y Restauración de Ecosistemas Forestales",
@@ -1374,7 +1374,7 @@
     "actionId": "icare_0045",
     "actionName": "Promote organic and agroecological agriculture in the rural areas",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "La promoción de la agricultura orgánica y agroecológica es una prioridad para Coxim debido a sus importantes emisiones por el uso de la tierra. Esta acción aborda directamente la mayor fuente de emisiones en la ciudad, que es el uso de la tierra. Al cambiar las prácticas agrícolas, la ciudad puede reducir su huella ambiental y mejorar la sostenibilidad. Además, esta iniciativa puede mejorar la seguridad alimentaria y potencialmente mitigar los impactos de las sequías, que son un peligro clave para la seguridad alimentaria en Coxim.",
     "action": {
       "ActionID": "icare_0045",
       "ActionName": "Promover la agricultura orgánica y agroecológica en las áreas rurales",

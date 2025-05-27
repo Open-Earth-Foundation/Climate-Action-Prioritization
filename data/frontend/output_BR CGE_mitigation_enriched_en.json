@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Implementing an urban toll in Contagem is a high priority action. This measure can significantly reduce transportation emissions, which currently contribute a large portion of the city's total emissions. By discouraging private vehicle use, it can also alleviate traffic congestion and improve air quality. Furthermore, the revenue generated from the toll can be reinvested into public transportation infrastructure, promoting more sustainable mobility options for residents. This action directly addresses a major source of emissions and supports the city's overall environmental goals.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Contagem has significant transportation emissions, making the adoption of biomethane in public fleets a relevant action. This initiative directly targets a major source of greenhouse gases within the city. By transitioning public transport to biomethane, the city can reduce its carbon footprint and improve air quality. This action aligns with efforts to mitigate climate change and promote sustainable urban development.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "This action promotes sustainable transportation, which is crucial for Contagem given its high transportation emissions. Encouraging bike-sharing, especially with electric bikes, can significantly reduce the city's carbon footprint. This initiative also aligns with improving urban mobility and potentially public health by promoting physical activity. It offers a practical solution to mitigate climate change impacts by shifting away from fossil fuel-dependent transport. The action's priority is justified by its direct contribution to emission reduction and urban sustainability.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -222,7 +222,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Expanding mass transit systems on rails is a priority for Contagem due to the significant contribution of transportation to the city's total emissions. With transportation emissions accounting for a substantial portion of the city's carbon footprint, this action directly addresses a major source of greenhouse gases. Improving public transportation infrastructure can reduce reliance on private vehicles, leading to decreased emissions and improved air quality. This initiative also supports sustainable urban development by offering efficient and environmentally friendly mobility options for the growing population.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -294,7 +294,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Addressing vehicle emissions is a crucial step for Contagem, given that transportation emissions constitute a significant portion of the city's total emissions. Reducing these emissions will directly contribute to improving air quality, which has positive implications for public health. Furthermore, it aligns with broader climate goals by decreasing the city's overall carbon footprint. Prioritizing this action can lead to a healthier and more sustainable urban environment for residents.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -373,7 +373,7 @@
         "actionId": "icare_0021",
         "actionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action addresses the significant transportation emissions in Contagem, which are a major contributor to the city's overall emissions. Promoting sustainable transportation can reduce air pollution and improve public health. By encouraging rational use of individual motorized transport, the city can mitigate its environmental impact. This initiative aligns with efforts to create a more sustainable urban environment.",
         "action": {
             "ActionID": "icare_0021",
             "ActionName": "Encourage and promote measures for the sustainable and rational use of individual motorized transportation",
@@ -445,7 +445,7 @@
         "actionId": "icare_0059",
         "actionName": "Modernization of ports and airports with zero-emission technologies",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action focuses on modernizing ports and airports with zero-emission technologies. While important for reducing emissions, Contagem is an inland city with no ports and its airport infrastructure is not a primary driver of its significant emissions. The city faces more pressing climate risks such as high normalized risk scores for landslides, floods, and droughts, which directly impact infrastructure and public health. Prioritizing actions that address these immediate and high-risk hazards would likely yield more impactful results for the city's resilience and well-being. Therefore, this action is not a top priority for Contagem at this time.",
         "action": {
             "ActionID": "icare_0059",
             "ActionName": "Modernization of ports and airports with zero-emission technologies",
@@ -517,7 +517,7 @@
         "actionId": "icare_0091",
         "actionName": "Implementation of prioritized routes for sustainable vehicles.",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Contagem faces significant transportation emissions, contributing substantially to its total emissions. Prioritizing routes for sustainable vehicles directly addresses this issue by promoting cleaner modes of transport. This action can help reduce air pollution and improve public health, especially given the city's high population density. Furthermore, it aligns with efforts to mitigate climate change by lowering the city's carbon footprint. Implementing such routes can also encourage a shift away from private vehicle use, easing traffic congestion.",
         "action": {
             "ActionID": "icare_0091",
             "ActionName": "Implementation of prioritized routes for sustainable vehicles.",
@@ -589,7 +589,7 @@
         "actionId": "icare_0117",
         "actionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses transportation emissions, which are a significant contributor to the city's total emissions. Promoting public transport can lead to a reduction in private vehicle use, thereby improving air quality and reducing the city's carbon footprint. A more attractive bus system can also enhance urban mobility for residents, especially those with limited access to private transportation. This initiative aligns with sustainable urban development goals by fostering a shift towards more environmentally friendly modes of transport. Furthermore, it can alleviate traffic congestion, leading to a more efficient and pleasant urban environment.",
         "action": {
             "ActionID": "icare_0117",
             "ActionName": "Increase the attractiveness of the municipal bus system in order to promote this mode of transport.",
@@ -661,7 +661,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies is a high-priority action for Contagem. The city has significant total emissions, and promoting renewable energy can directly reduce these. This action also aligns with global efforts to combat climate change and can improve energy security. Furthermore, it can stimulate local economic development through green jobs and investments. Implementing such policies can lead to long-term environmental and economic benefits for the city.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -733,7 +733,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses food security, which is a key impact area for Contagem, particularly concerning droughts and floods. By prioritizing local agroecological products, the city can enhance its resilience to climate-related disruptions in food supply chains. This also supports local economies and sustainable agricultural practices. Furthermore, it can contribute to reducing the city's overall carbon footprint by minimizing transportation emissions associated with food distribution.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -805,7 +805,7 @@
         "actionId": "icare_0122",
         "actionName": "Establish eco-parks.",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Establishing eco-parks in Contagem is a priority due to the city's significant biodiversity risks from both droughts and heatwaves. These parks can serve as crucial green infrastructure, mitigating urban heat island effects and providing natural spaces that support local ecosystems. They also offer recreational benefits for the population, improving public health and well-being. Furthermore, eco-parks can contribute to better water management, which is vital given the high risk of drought impacts on water resources.",
         "action": {
             "ActionID": "icare_0122",
             "ActionName": "Establish eco-parks.",
@@ -877,7 +877,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a priority for Contagem. This action can encourage sustainable practices and investments within the city. Given Contagem's significant environmental risks, such as high scores for droughts, heatwaves, landslides, and floods, these incentives could help mitigate future impacts. By fostering environmentally responsible behavior through financial mechanisms, the city can build greater resilience. This approach aligns with the need to address both climate change adaptation and mitigation in a comprehensive manner.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -949,7 +949,7 @@
         "actionId": "icare_0053",
         "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "This action supports cooperatives of recyclable material collectors, which can significantly reduce waste emissions. Contagem has very high waste emissions, making this a relevant intervention. Furthermore, the city has a very low-income population, and supporting these cooperatives can provide economic opportunities and improve livelihoods. This initiative also aligns with broader sustainability goals by promoting a circular economy and reducing environmental impact.",
         "action": {
             "ActionID": "icare_0053",
             "ActionName": "Implement a project to support cooperatives of recyclabe material collectors",
@@ -1021,7 +1021,7 @@
         "actionId": "icare_0024",
         "actionName": "Integrate renewables into municipal water systems",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Integrating renewables into municipal water systems is a priority for Contagem given the city's significant challenges with water access and sanitation. The city also faces high risks from droughts, which directly impact water resources. Utilizing renewable energy can enhance the resilience and sustainability of the water infrastructure, ensuring more reliable service. This action addresses critical vulnerabilities and aligns with the need for improved public services in the face of climate hazards.",
         "action": {
             "ActionID": "icare_0024",
             "ActionName": "Integrate renewables into municipal water systems",
@@ -1093,7 +1093,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Contagem faces significant risks from droughts, which severely impact food security. Promoting agroecological pest control can enhance the resilience of agricultural systems to these climate hazards. This action supports sustainable food production and reduces reliance on external inputs, which is crucial for a city with a very low-income population. By strengthening local food systems, it contributes to both environmental sustainability and community well-being.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1165,7 +1165,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for Contagem given its significant food security risks from both droughts and floods. This action can enhance local food resilience by diversifying agricultural practices and reducing reliance on external supply chains. It also supports sustainable land use, which is crucial for a city with a large population density and existing environmental pressures. Furthermore, it can contribute to local economic development and community well-being by fostering local businesses and providing fresh, healthy food options.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1237,7 +1237,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Contagem faces significant challenges related to drought, which directly impacts food security and water resources. Technical Assistance and Rural Extension (ATER) actions can help local communities, particularly those in rural areas, adapt to these climate impacts. By providing support and knowledge, ATER can improve agricultural practices and water management, enhancing resilience against future droughts. This proactive approach is crucial for a city with a very low-income population and existing vulnerabilities in water access.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -1309,7 +1309,7 @@
         "actionId": "icare_0065",
         "actionName": "Implementation of green hydrogen infrastructure for heavy vehicles.",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action focuses on implementing green hydrogen infrastructure for heavy vehicles. While it contributes to reducing transportation emissions, Contagem faces more immediate and severe risks from hazards like droughts, floods, landslides, and heatwaves, which significantly impact public health, infrastructure, and water resources. The city also has very low access to adequate water and sanitation, indicating a need for more fundamental infrastructure improvements. Addressing these critical vulnerabilities and basic service deficiencies should take precedence over developing green hydrogen infrastructure at this stage.",
         "action": {
             "ActionID": "icare_0065",
             "ActionName": "Implementation of green hydrogen infrastructure for heavy vehicles.",
@@ -1381,7 +1381,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Contagem. This action can incentivize the protection and restoration of natural ecosystems, which are crucial for mitigating the impacts of climate hazards. Given the city's high risks from droughts, floods, and landslides, preserving natural infrastructure can enhance resilience. Furthermore, PES programs can support local communities and promote sustainable land management practices. This initiative aligns with the need to address environmental degradation and its associated risks in Contagem.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",

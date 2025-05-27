@@ -7,7 +7,7 @@
         "actionId": "c40_0035",
         "actionName": "Waste Efficiency",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "This action is a high priority due to the significant waste emissions in Petr\u00f3polis, which account for a large portion of the city's total emissions. Addressing waste efficiency can lead to substantial reductions in the city's carbon footprint. Furthermore, improving waste management often has co-benefits for public health and environmental quality. Given the city's 'very low' low-income factor, efficient waste management can also contribute to a healthier and more equitable urban environment. Therefore, focusing on waste efficiency is a crucial step towards sustainability and resilience in Petr\u00f3polis.",
         "action": {
             "ActionID": "c40_0035",
             "ActionName": "Waste Efficiency",
@@ -84,7 +84,7 @@
         "actionId": "c40_0036",
         "actionName": "Landfill Management",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Landfill Management is a high-priority action for Petr\u00f3polis. The city has very high waste emissions, which significantly contribute to its overall emissions profile. Improving landfill management can directly reduce these emissions, leading to substantial environmental benefits. This action also aligns with broader sustainability goals by promoting more efficient waste disposal and potentially resource recovery.",
         "action": {
             "ActionID": "c40_0036",
             "ActionName": "Landfill Management",
@@ -161,7 +161,7 @@
         "actionId": "c40_0040",
         "actionName": "Volume-Based Collection",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Petr\u00f3polis has very high waste emissions, indicating a significant challenge in waste management. Implementing volume-based collection can incentivize residents to reduce waste generation, thereby lowering overall emissions. This action directly addresses a major source of the city's emissions. It also promotes sustainable behavior among the population.",
         "action": {
             "ActionID": "c40_0040",
             "ActionName": "Volume-Based Collection",
@@ -237,7 +237,7 @@
         "actionId": "icare_0053",
         "actionName": "Implement a project to support cooperatives of recyclabe material collectors",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "This action supports cooperatives of recyclable material collectors, which can significantly reduce waste emissions. Petr\u00f3polis has very high waste emissions, making this a relevant intervention. Furthermore, supporting cooperatives can provide economic opportunities and improve livelihoods for low-income populations, which is beneficial given the city's very low-income socio-economic factors. This initiative aligns with both environmental sustainability and social equity goals for the city.",
         "action": {
             "ActionID": "icare_0053",
             "ActionName": "Implement a project to support cooperatives of recyclabe material collectors",
@@ -309,7 +309,7 @@
         "actionId": "icare_0122",
         "actionName": "Establish eco-parks.",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Establishing eco-parks in Petr\u00f3polis is a priority due to the city's tropical rainforest biome, which indicates a rich natural environment that could benefit from conservation and public access. While not directly addressing the city's most pressing risks like floods, landslides, or public health issues, eco-parks can contribute to biodiversity preservation and potentially offer green spaces for recreation. This action aligns with long-term environmental sustainability goals, even if it doesn't mitigate immediate high-risk hazards. It could also indirectly support water resource management and reduce heat island effects, which are relevant given the city's climate risks.",
         "action": {
             "ActionID": "icare_0122",
             "ActionName": "Establish eco-parks.",
@@ -381,7 +381,7 @@
         "actionId": "ipcc_0080",
         "actionName": "Avoiding, Minimising, and Recycling Waste",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for Petr\u00f3polis due to the significant contribution of waste to the city's total emissions. Waste emissions are the largest single source of emissions in Petr\u00f3polis, indicating a critical area for intervention. Implementing strategies to avoid, minimize, and recycle waste can directly address this major contributor to the city's carbon footprint. Reducing waste will also have co-benefits for public health and environmental quality. Therefore, this action is crucial for achieving substantial emissions reductions and improving overall urban sustainability.",
         "action": {
             "ActionID": "ipcc_0080",
             "ActionName": "Avoiding, Minimising, and Recycling Waste",
@@ -455,7 +455,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Petr\u00f3polis has significant transportation emissions, making initiatives that promote sustainable transport crucial. Bike-sharing programs, especially with electric bikes, can encourage a shift away from fossil fuel-dependent modes of transport. This action directly addresses a major source of emissions in the city. While not directly linked to the city's high risks from floods, landslides, and droughts, reducing overall emissions is a vital component of long-term climate resilience.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -527,7 +527,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "Petr\u00f3polis has significant transportation emissions, making the adoption of biomethane in public fleets a relevant action. This initiative directly targets a major source of greenhouse gases within the city. By transitioning to biomethane, the city can reduce its carbon footprint and improve air quality. This action aligns with efforts to mitigate climate change and promote sustainable urban development.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -599,7 +599,7 @@
         "actionId": "icare_0042",
         "actionName": "Encourage renewable energy policies at the municipal level",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Encouraging renewable energy policies at the municipal level is a high-priority action for Petr\u00f3polis. This initiative directly addresses the city's significant total emissions, particularly from stationary energy and transportation. By promoting renewables, Petr\u00f3polis can reduce its reliance on fossil fuels, contributing to a cleaner energy mix. This action also aligns with broader climate resilience goals, lessening the city's vulnerability to energy security impacts from climate hazards.",
         "action": {
             "ActionID": "icare_0042",
             "ActionName": "Encourage renewable energy policies at the municipal level",
@@ -671,7 +671,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Prioritizing the procurement of locally produced agroecological products in public purchases is a crucial action for Petr\u00f3polis. This initiative directly supports local farmers and strengthens the regional economy. It also promotes sustainable agricultural practices, which can enhance food security and reduce the city's environmental footprint. Given the city's 'very_low' low-income factor, this action can also contribute to improving livelihoods and reducing poverty within the community. Furthermore, it aligns with addressing food security concerns, especially considering the city's moderate risk from droughts and floods on this key impact.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -743,7 +743,7 @@
         "actionId": "c40_0039",
         "actionName": "Gas Management",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action focuses on gas management, which is important for reducing overall emissions. While Petr\u00f3polis has significant emissions from waste and transportation, stationary energy also contributes. Addressing gas management can lead to a more diversified approach to emissions reduction. This action supports the city's broader climate goals by targeting a specific source of greenhouse gases.",
         "action": {
             "ActionID": "c40_0039",
             "ActionName": "Gas Management",
@@ -820,7 +820,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for Petr\u00f3polis, especially given the city's high risk to food security from both droughts and floods. This action can enhance food resilience by diversifying local food sources and reducing reliance on external supply chains, which are vulnerable to climate impacts. Furthermore, it can contribute to sustainable land use and potentially reduce emissions associated with long-distance food transportation. This initiative aligns with building a more robust and self-sufficient food system in the face of climate change.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -892,7 +892,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "The implementation of an urban toll could help manage traffic congestion and reduce transportation emissions in Petr\u00f3polis. This action aligns with efforts to improve air quality and potentially generate revenue for sustainable urban development. While beneficial, its priority might be lower compared to actions addressing more immediate and severe risks identified in the city's climate risk assessment, such as those related to public health, infrastructure, and water resources. The city faces significant risks from droughts, heatwaves, landslides, and floods, which may require more urgent interventions. Therefore, while a good initiative, it may not be the most critical action for Petr\u00f3polis at this time.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -963,7 +963,7 @@
         "actionId": "icare_0024",
         "actionName": "Integrate renewables into municipal water systems",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Integrating renewables into municipal water systems is a relevant action for Petr\u00f3polis, especially considering the city's moderate inadequate water access. While not directly addressing the highest risks like floods or landslides, it contributes to long-term resilience and sustainability. This action can reduce operational costs for water infrastructure and decrease the city's carbon footprint. It also aligns with broader climate adaptation goals by diversifying energy sources for essential services.",
         "action": {
             "ActionID": "icare_0024",
             "ActionName": "Integrate renewables into municipal water systems",
@@ -1035,7 +1035,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Supporting the implementation of ecological fiscal incentives is a valuable action for Petr\u00f3polis. This initiative can encourage sustainable practices and environmental protection within the city. By providing financial motivation, it can drive businesses and individuals towards more eco-friendly behaviors. This action aligns with the city's need to address various environmental risks, even if not directly targeting the highest-risk hazards. It fosters a long-term approach to environmental stewardship and resilience.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1107,7 +1107,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "This action focuses on providing technical assistance and rural extension, which can be crucial for a city like Petr\u00f3polis, especially given its 'very_low' low-income factor. Improving agricultural practices and rural livelihoods can enhance food security, which is a key impact area with high risk from droughts and floods. Furthermore, such initiatives can build resilience against climate hazards by diversifying income sources and promoting sustainable land use. This action directly supports the well-being of the rural population and contributes to overall urban-rural linkages.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -1179,7 +1179,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for Petr\u00f3polis. The city's biome is a tropical rainforest, indicating significant natural capital that provides essential ecosystem services. Given the high risks from droughts, floods, and landslides, protecting and enhancing these natural systems through PES can build resilience. This action can also address the moderate inadequate water access by incentivizing practices that improve water quality and availability. Furthermore, it aligns with the city's need to manage its environmental resources effectively to mitigate climate change impacts.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -1251,7 +1251,7 @@
         "actionId": "icare_0097",
         "actionName": "Support Distributed Energy Generation in Residences and Businesses",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Supporting distributed energy generation in residences and businesses is a priority for Petr\u00f3polis. This action can help diversify the city's energy sources and reduce reliance on centralized grids, which may be vulnerable to climate impacts. It also contributes to reducing overall emissions, aligning with climate mitigation goals. Furthermore, it can empower local communities and businesses by providing more resilient and potentially more affordable energy options.",
         "action": {
             "ActionID": "icare_0097",
             "ActionName": "Support Distributed Energy Generation in Residences and Businesses",
@@ -1323,7 +1323,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a valuable initiative for Petr\u00f3polis. This action can enhance food security and promote sustainable agricultural practices within the city. Given the city's tropical rainforest biome, such programs can also contribute to biodiversity preservation. While not directly addressing the most critical risks like floods or landslides, it fosters long-term environmental resilience. This action aligns with broader sustainability goals and can improve the local food system.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1395,7 +1395,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Petr\u00f3polis faces significant risks to food security from both droughts and floods, as indicated by high normalized risk scores. Promoting agroecological pest control can enhance the resilience of agricultural systems, directly addressing these food security vulnerabilities. This action supports sustainable farming practices that are less reliant on external inputs, which can be disrupted by extreme weather events. By fostering healthier ecosystems, it also indirectly contributes to water resource management, which is another key impact area for the city.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",

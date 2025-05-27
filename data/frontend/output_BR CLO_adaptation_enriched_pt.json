@@ -7,7 +7,7 @@
     "actionId": "icare_0162",
     "actionName": "Strengthen programs for control and conservation of protected areas",
     "actionPriority": 1,
-    "explanation": "Classificado(a) em 1º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Fortalecer programas de controle e conservação de áreas protegidas é uma alta prioridade para Campo Largo. O bioma da cidade é a floresta tropical, que é um ecossistema crítico que requer proteção. Dada a baixa densidade populacional da cidade e sua área significativa, é provável que existam habitats naturais substanciais que se beneficiam de tais programas. Esta ação aborda diretamente os riscos à biodiversidade, que estão presentes tanto em secas quanto em ondas de calor, garantindo a saúde a longo prazo do meio ambiente local.",
     "action": {
       "ActionID": "icare_0162",
       "ActionName": "Fortalecer programas de controle e conservação de áreas protegidas",
@@ -80,7 +80,7 @@
     "actionId": "ipcc_0093",
     "actionName": "Availability of health infrastructure",
     "actionPriority": 2,
-    "explanation": "Classificado em 2º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Esta ação aborda a disponibilidade de infraestrutura de saúde, que é crucial para Campo Largo. A cidade enfrenta riscos significativos à saúde pública devido a perigos como doenças, ondas de calor e inundações, conforme indicado por altas pontuações de risco normalizado. A melhoria da infraestrutura de saúde pode aprimorar a capacidade da cidade de responder a essas crises de saúde e proteger sua população. Dadas as vulnerabilidades existentes na saúde pública, esta ação é de alta prioridade para a construção de resiliência.",
     "action": {
       "ActionID": "ipcc_0093",
       "ActionName": "Disponibilidade de infraestrutura de saúde",
@@ -154,7 +154,7 @@
     "actionId": "icare_0169",
     "actionName": "Establish a Plan for Preparation and Emergency Response Measures in the event of extreme weather events",
     "actionPriority": 3,
-    "explanation": "Classificado em 3º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Estabelecer um plano de preparação e resposta a emergências é crucial para Campo Largo devido aos seus altos riscos decorrentes de eventos climáticos extremos. A cidade enfrenta riscos significativos para a infraestrutura e a saúde pública devido a inundações, e riscos notáveis para a saúde pública devido a doenças. Um plano abrangente ajudará a mitigar os impactos desses perigos, protegendo tanto a população quanto a infraestrutura crítica. Essa abordagem proativa é essencial para construir resiliência contra futuros desafios climáticos.",
     "action": {
       "ActionID": "icare_0169",
       "ActionName": "Estabelecer um Plano de Preparação e Medidas de Resposta a Emergências em caso de eventos climáticos extremos",
@@ -231,7 +231,7 @@
     "actionId": "icare_0164",
     "actionName": "Hydrological Monitoring System with Telemetry Stations",
     "actionPriority": 4,
-    "explanation": "Classificado em 4º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "Portuguese:\nEsta ação é uma prioridade porque Campo Largo enfrenta riscos significativos relacionados aos recursos hídricos, particularmente de secas, que possuem uma alta pontuação de risco normalizado. Um sistema de monitoramento hidrológico pode fornecer dados cruciais para gerenciar os recursos hídricos de forma mais eficaz e mitigar os impactos da seca. Dado o baixo índice de acesso inadequado à água na cidade, o monitoramento proativo pode ajudar a manter esse status positivo e prevenir futuros problemas de escassez de água. Este sistema também apoiaria um melhor planejamento e resposta a outros perigos relacionados à água, como inundações, que também representam um alto risco para a infraestrutura e a saúde pública.",
     "action": {
       "ActionID": "icare_0164",
       "ActionName": "Sistema de Monitoramento Hidrológico com Estações de Telemetria",
@@ -303,7 +303,7 @@
     "actionId": "icare_0151",
     "actionName": "Develop diagnostics and restore areas of Special Social Interest Zones (ZEIS)",
     "actionPriority": 5,
-    "explanation": "Classificado em 5º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação foca no desenvolvimento de diagnósticos e na restauração de Zonas Especiais de Interesse Social (ZEIS). Dado o fator de baixa renda 'muito_baixo' da cidade, abordar essas zonas é crucial para melhorar as condições de vida e a equidade. Embora não diretamente ligada aos maiores riscos climáticos, como inundações ou saúde pública, a melhoria da infraestrutura social pode indiretamente aumentar a resiliência da comunidade. Priorizar essas áreas pode levar a melhores moradias, saneamento e bem-estar geral para populações vulneráveis. Esta ação apoia a equidade social e o desenvolvimento urbano sustentável.",
     "action": {
       "ActionID": "icare_0151",
       "ActionName": "Desenvolver diagnósticos e restaurar áreas de Zonas Especiais de Interesse Social (ZEIS)",
@@ -377,7 +377,7 @@
     "actionId": "ipcc_0094",
     "actionName": "Access to health care",
     "actionPriority": 6,
-    "explanation": "Classificado em 6º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Acesso à saúde é uma prioridade crítica para Campo Largo, especialmente dado o alto escore de risco normalizado para impactos na saúde pública decorrentes de doenças. Melhorar o acesso à saúde pode mitigar diretamente os efeitos de tais perigos na população. Esta ação é essencial para construir resiliência e garantir o bem-estar dos moradores da cidade. Priorizar esta ação ajudará a cidade a se preparar e responder melhor a futuras crises de saúde.",
     "action": {
       "ActionID": "ipcc_0094",
       "ActionName": "Acesso aos cuidados de saúde",
@@ -452,7 +452,7 @@
     "actionId": "ipcc_0097",
     "actionName": "Food storage/distribution improvements",
     "actionPriority": 7,
-    "explanation": "Classificado em 7º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "Esta ação aborda a segurança alimentar, que é uma preocupação significativa para Campo Largo, particularmente devido ao alto risco de secas e inundações. Melhorar o armazenamento e a distribuição de alimentos pode mitigar os impactos desses perigos no abastecimento de alimentos. Dada a vulnerabilidade da cidade a interrupções nos sistemas alimentares relacionadas ao clima, esta ação é um passo crucial para aumentar a resiliência. Ela apoia diretamente o bem-estar da população, garantindo um acesso mais estável aos recursos alimentares.",
     "action": {
       "ActionID": "ipcc_0097",
       "ActionName": "Melhorias no armazenamento/distribuição de alimentos",
@@ -528,7 +528,7 @@
     "actionId": "icare_0181",
     "actionName": "Relocation and Environmental Restoration in Vulnerable Areas",
     "actionPriority": 8,
-    "explanation": "Classificado em 8º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos riscos significativos da cidade relacionados a inundações e deslizamentos de terra, que impactam diretamente a infraestrutura e a saúde pública. A realocação de moradores de áreas vulneráveis é crucial para a segurança e para a redução de danos futuros. A restauração ambiental também pode ajudar a mitigar esses perigos, estabilizando o solo e melhorando a drenagem natural. Dado os altos escores de risco normalizado para esses perigos, esta ação aborda diretamente vulnerabilidades críticas.",
     "action": {
       "ActionID": "icare_0181",
       "ActionName": "Relocação e Restauração Ambiental em Áreas Vulneráveis",
@@ -599,7 +599,7 @@
     "actionId": "icare_0145",
     "actionName": "Strengthen the healthcare network to attend to climate victims",
     "actionPriority": 9,
-    "explanation": "Classificado em 9º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para o português é:\n\nEsta ação é de alta prioridade devido aos significativos riscos à saúde pública identificados em Campo Largo. A cidade enfrenta altas pontuações de risco normalizadas para impactos na saúde pública decorrentes de doenças (0,99), inundações (0,676) e ondas de calor (0,43). O fortalecimento da rede de saúde aborda diretamente essas vulnerabilidades, melhorando a capacidade da cidade de responder a crises de saúde relacionadas ao clima. Esta medida proativa pode mitigar o custo humano das mudanças climáticas e aumentar a resiliência da comunidade.",
     "action": {
       "ActionID": "icare_0145",
       "ActionName": "Fortalecer a rede de saúde para atender às vítimas do clima",
@@ -675,7 +675,7 @@
     "actionId": "ipcc_0096",
     "actionName": "Farm/fishery improvements",
     "actionPriority": 10,
-    "explanation": "Classificado em 10º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A seguinte ação aborda a segurança alimentar, que é uma preocupação significativa para Campo Largo, particularmente devido ao alto risco de secas e inundações. A melhoria de fazendas e pescarias pode aumentar a produção local de alimentos e a resiliência contra interrupções relacionadas ao clima. Dada a vulnerabilidade da cidade a esses perigos, fortalecer o sistema alimentar é um passo crucial para garantir o bem-estar da comunidade. Essa medida proativa pode mitigar os impactos de futuros eventos climáticos no acesso da população aos alimentos.",
     "action": {
       "ActionID": "ipcc_0096",
       "ActionName": "Melhorias na fazenda/pesqueira",
@@ -752,7 +752,7 @@
     "actionId": "icare_0149",
     "actionName": "Encourage sustainable land use practices",
     "actionPriority": 11,
-    "explanation": "Classificado em 11º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Português:**\n\nIncentivar práticas sustentáveis de uso da terra é uma prioridade para Campo Largo, dadas as suas significativas emissões provenientes do uso da terra. Com as emissões do uso da terra contribuindo com 77.163,005 toneladas, esta ação aborda diretamente uma das principais fontes das emissões totais da cidade. A implementação de práticas sustentáveis pode mitigar essas emissões e potencialmente reduzir a pegada ambiental geral da cidade. Esta ação também se alinha com o enfrentamento de impactos-chave como a segurança alimentar e a biodiversidade, que estão em risco devido a perigos como secas e inundações, conforme indicado pelos dados do CCRA da cidade.",
     "action": {
       "ActionID": "icare_0149",
       "ActionName": "Incentivar práticas sustentáveis de uso da terra",
@@ -826,7 +826,7 @@
     "actionId": "icare_0156",
     "actionName": "Implementation of urban gardens",
     "actionPriority": 12,
-    "explanation": "Classificado em 12º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A implementação de hortas urbanas é uma prioridade devido ao seu potencial para melhorar a segurança alimentar, especialmente dada a vulnerabilidade da cidade a secas e inundações que impactam o abastecimento de alimentos. Esta ação também pode contribuir para a biodiversidade local e melhorar a saúde pública através do acesso a produtos frescos. Além disso, as hortas urbanas podem oferecer oportunidades educacionais e promover o envolvimento da comunidade. Embora não aborde diretamente os riscos mais elevados, proporciona um benefício multifacetado para a resiliência da cidade.",
     "action": {
       "ActionID": "icare_0156",
       "ActionName": "Implementação de hortas urbanas",
@@ -898,7 +898,7 @@
     "actionId": "ipcc_0098",
     "actionName": "Behaviour change in diets and food waste",
     "actionPriority": 13,
-    "explanation": "Classificado em 13º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "**Portuguese Translation:**\n\nEsta ação aborda a segurança alimentar, que é uma área de impacto fundamental para Campo Largo, particularmente no que diz respeito a secas e inundações. A redução do desperdício de alimentos e a promoção de mudanças dietéticas podem aumentar a resiliência da cidade a esses perigos. Embora não seja o risco mais bem classificado, a segurança alimentar é um aspecto fundamental do bem-estar urbano. A implementação desta ação pode contribuir para um sistema alimentar mais sustentável e reduzir as emissões associadas.",
     "action": {
       "ActionID": "ipcc_0098",
       "ActionName": "Mudança de comportamento em dietas e desperdício de alimentos",
@@ -974,7 +974,7 @@
     "actionId": "ipcc_0099",
     "actionName": "Water capture/storage",
     "actionPriority": 14,
-    "explanation": "Classificado em 14º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A seguinte ação aborda os recursos hídricos, que é uma área de impacto fundamental para Campo Largo, particularmente no que diz respeito às secas. A cidade possui uma alta pontuação de risco normalizado para recursos hídricos devido às secas, indicando uma vulnerabilidade significativa. A implementação de soluções de captação e armazenamento de água pode mitigar diretamente esse risco, melhorando a disponibilidade de água durante os períodos de seca. Isso é crucial para uma cidade com um bioma de floresta tropical, onde a gestão da água é essencial, apesar dos padrões de chuva típicos.",
     "action": {
       "ActionID": "ipcc_0099",
       "ActionName": "Captura/armazenamento de água",
@@ -1050,7 +1050,7 @@
     "actionId": "icare_0144",
     "actionName": "Creation of a Financial Support Program to Adress Extreme Weather Events",
     "actionPriority": 15,
-    "explanation": "Classificado em 15º lugar pelo algoritmo de classificação do torneio",
+    "explanation": "Portuguese: Esta ação é uma prioridade porque Campo Largo enfrenta riscos significativos de eventos climáticos extremos, particularmente inundações e secas, que possuem altos índices de risco normalizado para impactos-chave como infraestrutura, saúde pública e segurança alimentar. Um programa de apoio financeiro ajudaria a cidade e seus moradores a se recuperarem dos danos econômicos causados por esses eventos. Esta medida proativa pode construir resiliência e reduzir os custos a longo prazo associados a desastres relacionados ao clima. Ela aborda diretamente a vulnerabilidade da cidade a perigos que já estão impactando setores críticos.",
     "action": {
       "ActionID": "icare_0144",
       "ActionName": "Criação de um Programa de Apoio Financeiro para Abordar Eventos Climáticos Extremos",
@@ -1127,7 +1127,7 @@
     "actionId": "icare_0157",
     "actionName": "Maintenance and Revitalization of Riparian Forests",
     "actionPriority": 16,
-    "explanation": "Classificado em 16º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "A manutenção e revitalização das florestas ripárias são cruciais para Campo Largo, dado o alto risco de inundações que afetam a infraestrutura e a segurança alimentar. Zonas ripárias saudáveis podem mitigar os danos das inundações, absorvendo o excesso de água e estabilizando as margens dos rios. Esta ação também apoia a biodiversidade e a qualidade da água, que são vitais para uma cidade que enfrenta riscos de seca. Priorizar esta ação ajuda a construir resiliência contra múltiplos perigos climáticos identificados na avaliação de risco da cidade.",
     "action": {
       "ActionID": "icare_0157",
       "ActionName": "Manutenção e Revitalização de Florestas Ripárias",
@@ -1200,7 +1200,7 @@
     "actionId": "ipcc_0092",
     "actionName": "Social safety nets",
     "actionPriority": 17,
-    "explanation": "Classificado em 17º lugar pelo algoritmo de ranking de torneios",
+    "explanation": "As redes de segurança social são uma prioridade para Campo Largo devido ao fator de baixa renda 'muito_baixo' da cidade, indicando uma população vulnerável. Embora não abordem diretamente os riscos climáticos, essas redes podem construir resiliência ao apoiar os cidadãos durante as interrupções relacionadas ao clima. Por exemplo, elas podem ajudar a mitigar os impactos da insegurança alimentar e dos problemas de saúde pública, que são riscos significativos de secas e inundações. Investir em redes de segurança social pode, portanto, fortalecer indiretamente a capacidade da comunidade de lidar e se recuperar dos impactos das mudanças climáticas.",
     "action": {
       "ActionID": "ipcc_0092",
       "ActionName": "Redes de proteção social",
@@ -1274,7 +1274,7 @@
     "actionId": "icare_0180",
     "actionName": "Implement permeable pavements and increase green areas in roadways",
     "actionPriority": 18,
-    "explanation": "Classificado em 18º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A tradução para português é:\n\nEsta ação é uma prioridade porque aborda diretamente o elevado risco de inundações em Campo Largo, que possui uma pontuação de risco normalizada de 0,9015 para infraestrutura e 0,6765 para saúde pública. A implementação de pavimentos permeáveis e o aumento de áreas verdes podem melhorar significativamente a gestão da água da chuva, reduzindo o impacto de chuvas intensas. Isso protegerá infraestruturas críticas e salvaguardará a saúde pública, mitigando problemas relacionados a inundações. Além disso, as áreas verdes contribuem para o arrefecimento urbano, o que é benéfico dada a exposição da cidade a ondas de calor.",
     "action": {
       "ActionID": "icare_0180",
       "ActionName": "Implementar pavimentos permeáveis e aumentar as áreas verdes nas vias públicas",
@@ -1346,7 +1346,7 @@
     "actionId": "ipcc_0101",
     "actionName": "Efficient water supply/distribution",
     "actionPriority": 19,
-    "explanation": "Classificado em 19º lugar pelo algoritmo de ranking do torneio",
+    "explanation": "A distribuição/abastecimento eficiente de água é uma prioridade para Campo Largo devido ao alto risco associado aos recursos hídricos e às secas. A cidade enfrenta um risco normalizado significativo de 0,71 para recursos hídricos impactados por secas. Melhorar a infraestrutura hídrica pode mitigar esses riscos, garantindo um abastecimento de água mais resiliente para a população. Esta ação aborda diretamente uma vulnerabilidade crítica identificada na avaliação de risco de mudanças climáticas da cidade.",
     "action": {
       "ActionID": "ipcc_0101",
       "ActionName": "Fornecimento/distribuição de água eficiente",
@@ -1418,7 +1418,7 @@
     "actionId": "ipcc_0086",
     "actionName": "Ecosystem-based adaptation",
     "actionPriority": 20,
-    "explanation": "Classificado em 20º lugar pelo algoritmo de classificação de torneios",
+    "explanation": "A adaptação baseada em ecossistemas é uma estratégia crucial para Campo Largo, dado o seu bioma de floresta tropical e os riscos significativos identificados na sua Avaliação de Risco Climático (CCRA). Esta abordagem pode ajudar a mitigar os altos riscos associados a secas, inundações e ondas de calor, que impactam os recursos hídricos, a segurança alimentar e a saúde pública. Ao restaurar e proteger os ecossistemas naturais, a cidade pode aumentar a sua resiliência aos impactos das mudanças climáticas. Esta ação é particularmente relevante, pois aborda múltiplos impactos e perigos chave, oferecendo uma solução holística para os desafios ambientais.",
     "action": {
       "ActionID": "ipcc_0086",
       "ActionName": "Adaptação baseada em ecossistemas",

@@ -7,7 +7,7 @@
     "actionId": "icare_0139",
     "actionName": "Implementation of urban toll.",
     "actionPriority": 1,
-    "explanation": "Clasificado #1 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de peajes urbanos puede reducir significativamente las emisiones del transporte, que son uno de los principales contribuyentes a las emisiones totales de la ciudad. Esta acción aborda directamente una fuente sustancial de contaminación y congestión. Al desalentar el uso de vehículos privados, también puede promover el transporte público y la movilidad activa. Esto contribuye a un entorno urbano más saludable y a una mejor calidad del aire para los residentes.",
     "action": {
       "ActionID": "icare_0139",
       "ActionName": "Implementación de peaje urbano.",
@@ -78,7 +78,7 @@
     "actionId": "icare_0094",
     "actionName": "Adoption of biomethane in public fleets.",
     "actionPriority": 2,
-    "explanation": "Clasificado #2 por el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda directamente las emisiones del transporte, que contribuyen significativamente al total de emisiones de la ciudad. Al adoptar biometano en las flotas públicas, Gravataí puede reducir su huella de carbono y mejorar la calidad del aire. Esta iniciativa también promueve el uso de fuentes de energía renovables, lo que se alinea con objetivos de sostenibilidad más amplios. Además, puede sentar un ejemplo para la adopción en el sector privado, lo que generaría mayores beneficios ambientales. Invertir en un transporte público más limpio es un paso tangible hacia un entorno urbano más sostenible.",
     "action": {
       "ActionID": "icare_0094",
       "ActionName": "Adopción de biometano en flotas públicas.",
@@ -150,7 +150,7 @@
     "actionId": "icare_0121",
     "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
     "actionPriority": 3,
-    "explanation": "Clasificado #3 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción promueve el transporte sostenible, lo cual es crucial dadas las importantes emisiones de transporte de la ciudad. Fomentar el uso compartido de bicicletas, especialmente con bicicletas eléctricas, puede reducir la dependencia de los vehículos que usan combustibles fósiles. Esta iniciativa también se alinea con la mejora de la movilidad urbana y la salud pública. Si bien no aborda directamente los riesgos más altos, como los impactos en la salud pública de inundaciones o deslizamientos de tierra, contribuye a la sostenibilidad urbana general y la calidad de vida. Es un paso proactivo hacia una ciudad más verde.",
     "action": {
       "ActionID": "icare_0121",
       "ActionName": "Incentivo para crear programas de bicicletas compartidas en áreas urbanas, con un enfoque en bicicletas eléctricas.",
@@ -222,7 +222,7 @@
     "actionId": "icare_0057",
     "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
     "actionPriority": 4,
-    "explanation": "Clasificado #4 por el algoritmo de clasificación del torneo",
+    "explanation": "La expansión de los sistemas de transporte público masivo sobre rieles es un paso crucial hacia el desarrollo urbano sostenible. Esta acción aborda directamente las emisiones del transporte, que contribuyen significativamente al total de emisiones de la ciudad. Al proporcionar alternativas eficientes de transporte público, puede reducir la dependencia de los vehículos privados, mejorando así la calidad del aire y disminuyendo la congestión del tráfico. Esta iniciativa también apoya objetivos climáticos más amplios al fomentar una infraestructura urbana más respetuosa con el medio ambiente.",
     "action": {
       "ActionID": "icare_0057",
       "ActionName": "Expansión de los sistemas de transporte masivo sobre rieles (metros, LRTs y monorraíles).",
@@ -294,7 +294,7 @@
     "actionId": "icare_0059",
     "actionName": "Modernization of ports and airports with zero-emission technologies",
     "actionPriority": 5,
-    "explanation": "Clasificado #5 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción se centra en la modernización de puertos y aeropuertos con tecnologías de cero emisiones. Si bien es importante para reducir las emisiones, Gravataí es una ciudad del interior sin puertos y su elevación de 50 metros sugiere que los aeropuertos son menos críticos para la resiliencia climática inmediata en comparación con otros peligros. La ciudad enfrenta riesgos significativos de inundaciones y deslizamientos de tierra, particularmente en lo que respecta a la salud pública y la infraestructura. Por lo tanto, esta acción puede no ser la prioridad más apremiante para los desafíos climáticos inmediatos de la ciudad.",
     "action": {
       "ActionID": "icare_0059",
       "ActionName": "Modernización de puertos y aeropuertos con tecnologías de cero emisiones",
@@ -366,7 +366,7 @@
     "actionId": "c40_0026",
     "actionName": "Vehicle Emissions",
     "actionPriority": 6,
-    "explanation": "Clasificado #6 por el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción aborda las emisiones vehiculares, que contribuyen significativamente al total de emisiones de la ciudad, particularmente dentro del sector del transporte. Reducir estas emisiones puede mejorar la calidad del aire y la salud pública, especialmente dada la densidad de población moderada de la ciudad. Si bien no es la máxima prioridad, contribuye a la resiliencia climática general y se alinea con objetivos de sostenibilidad más amplios. La implementación de esta acción también puede tener beneficios colaterales para la planificación urbana y el desarrollo de infraestructuras.",
     "action": {
       "ActionID": "c40_0026",
       "ActionName": "Emisiones de Vehículos",
@@ -445,7 +445,7 @@
     "actionId": "icare_0050",
     "actionName": "Implement Agroforestry Systems",
     "actionPriority": 7,
-    "explanation": "Clasificado #7 por el algoritmo de clasificación de torneos",
+    "explanation": "La implementación de sistemas agroforestales es una prioridad para Gravataí debido a su potencial para abordar las preocupaciones sobre la seguridad alimentaria y la biodiversidad, ambas afectadas por las sequías. Esta acción puede mejorar la resiliencia de los sistemas agrícolas y contribuir a la salud del ecosistema. Dado el bioma de pastizales/sabana de la ciudad, dichos sistemas también podrían ofrecer importantes beneficios de secuestro de carbono. Además, se alinea con las prácticas de uso sostenible de la tierra, que son cruciales dadas las sustanciales emisiones por uso de la tierra de la ciudad.",
     "action": {
       "ActionID": "icare_0050",
       "ActionName": "Implementar Sistemas Agroforestales",
@@ -517,7 +517,7 @@
     "actionId": "icare_0129",
     "actionName": "Facilitate Technology Transfer for Conservation Practices",
     "actionPriority": 8,
-    "explanation": "Clasificado #8 según el algoritmo de clasificación de torneos",
+    "explanation": "Esta acción es una prioridad porque aborda directamente la necesidad de prácticas sostenibles en Gravataí. Facilitar la transferencia de tecnología para la conservación puede ayudar a mitigar la degradación ambiental y mejorar la gestión de los recursos. Dado el bioma de pastizal/sabana de la ciudad, las prácticas de conservación son cruciales para mantener el equilibrio ecológico. Esta iniciativa también puede apoyar indirectamente la resiliencia frente a peligros como las sequías, que plantean riesgos significativos para los recursos hídricos y la seguridad alimentaria en la región. Invertir en tales prácticas contribuye a la salud ambiental a largo plazo y al bienestar de la comunidad.",
     "action": {
       "ActionID": "icare_0129",
       "ActionName": "Facilitar la Transferencia de Tecnología para Prácticas de Conservación",
@@ -589,7 +589,7 @@
     "actionId": "icare_0130",
     "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
     "actionPriority": 9,
-    "explanation": "Clasificado #9 según el algoritmo de clasificación de torneos",
+    "explanation": "Please see the Spanish translation below:\n\nEsta acción, centrada en la Asistencia Técnica y Extensión Rural (ATER), es una prioridad dadas las importantes emisiones por el uso del suelo de Gravataí. La mejora de las prácticas agrícolas a través de ATER puede reducir directamente estas emisiones. Además, la ciudad se enfrenta a riesgos para la seguridad alimentaria tanto por sequías como por inundaciones, que ATER puede ayudar a mitigar promoviendo métodos agrícolas más resilientes. Esta acción también apoya el bioma de pastizales/sabana de la ciudad, asegurando una gestión sostenible de la tierra. En general, ATER puede mejorar tanto la mitigación del cambio climático como los esfuerzos de adaptación en Gravataí.",
     "action": {
       "ActionID": "icare_0130",
       "ActionName": "Realizar Acciones de Asistencia Técnica y Extensión Rural (ATER)",
@@ -661,7 +661,7 @@
     "actionId": "icare_0133",
     "actionName": "Promote Urban Reforestation and Green Corridors",
     "actionPriority": 10,
-    "explanation": "Clasificado #10 según el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar la reforestación urbana y los corredores verdes es una acción de alta prioridad para Gravataí. Esta iniciativa puede mitigar significativamente los impactos de las olas de calor, que representan un riesgo moderado para la salud pública y la infraestructura de la ciudad. Además, el aumento de los espacios verdes puede ayudar a gestionar los recursos hídricos, que se ven afectados por las sequías. Esta acción también contribuye a la biodiversidad y a la salud general del ecosistema, proporcionando múltiples cobeneficios para el entorno urbano.",
     "action": {
       "ActionID": "icare_0133",
       "ActionName": "Promover la Reforestación Urbana y los Corredores Verdes",
@@ -733,7 +733,7 @@
     "actionId": "icare_0128",
     "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
     "actionPriority": 11,
-    "explanation": "Clasificado #11 según el algoritmo de clasificación del torneo",
+    "explanation": "Establecer Programas Municipales de Pago por Servicios Ambientales (PSA) es una acción de alta prioridad para Gravataí. Esta iniciativa puede ayudar a proteger y restaurar los ecosistemas naturales, que son cruciales para la resiliencia climática. Dada la vulnerabilidad de la ciudad a diversos peligros como sequías, inundaciones y olas de calor, mantener ecosistemas saludables puede mitigar sus impactos. Además, los programas de PSA pueden proporcionar incentivos económicos para la gestión sostenible de la tierra, beneficiando a las comunidades locales y la biodiversidad. Esta acción se alinea con la necesidad de abordar los riesgos ambientales y construir una ciudad más resiliente.",
     "action": {
       "ActionID": "icare_0128",
       "ActionName": "Establecer Programas Municipales de Pago por Servicios Ambientales (PES)",
@@ -805,7 +805,7 @@
     "actionId": "icare_0102",
     "actionName": "Promote Sustainable Agricultural Practices",
     "actionPriority": 12,
-    "explanation": "Clasificado #12 por el algoritmo de clasificación de torneos",
+    "explanation": "Fomentar prácticas agrícolas sostenibles es importante para Gravataí, especialmente dado el bioma de pastizales/sabana de la ciudad. Esta acción puede ayudar a mitigar los riesgos relacionados con la seguridad alimentaria, que se ve afectada por peligros como sequías e inundaciones. Al adoptar métodos sostenibles, la ciudad puede mejorar la resiliencia contra los impactos climáticos y la salud ambiental en general. Esta iniciativa también se alinea con esfuerzos más amplios para reducir las emisiones por el uso de la tierra, contribuyendo a los objetivos generales de sostenibilidad de la ciudad.",
     "action": {
       "ActionID": "icare_0102",
       "ActionName": "Promover Prácticas Agrícolas Sostenibles",
@@ -877,7 +877,7 @@
     "actionId": "icare_0136",
     "actionName": "Support the Implementation of Ecological Fiscal Incentives",
     "actionPriority": 13,
-    "explanation": "Clasificado #13 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar los incentivos fiscales ecológicos es una prioridad para Gravataí debido a sus importantes emisiones por el uso del suelo, que contribuyen sustancialmente a las emisiones totales de la ciudad. Estos incentivos pueden fomentar prácticas sostenibles de gestión del suelo, ayudando a reducir estas emisiones. Además, dado el bioma de pastizal/sabana de la ciudad, tales iniciativas pueden proteger y restaurar los ecosistemas naturales, mejorando la biodiversidad y la resiliencia climática. Esta acción se alinea con la resolución de los desafíos ambientales y la promoción del desarrollo sostenible dentro de la ciudad.",
     "action": {
       "ActionID": "icare_0136",
       "ActionName": "Apoyar la Implementación de Incentivos Fiscales Ecológicos",
@@ -949,7 +949,7 @@
     "actionId": "icare_0096",
     "actionName": "Promote Organic Farming",
     "actionPriority": 14,
-    "explanation": "Clasificado #14 por el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar la agricultura orgánica es una acción valiosa para Gravataí, especialmente considerando el bioma de pastizal/sabana de la ciudad. Esta iniciativa puede mejorar la seguridad alimentaria, que es un área de impacto clave con riesgo moderado de sequías e inundaciones. También contribuye a la biodiversidad, un área impactada tanto por las sequías como por las olas de calor. Además, las prácticas de agricultura orgánica pueden reducir las emisiones por el uso de la tierra, que son un contribuyente significativo a las emisiones totales de la ciudad. Esta acción se alinea con los objetivos de desarrollo sostenible y puede mejorar la resiliencia general de los sistemas alimentarios de la ciudad.",
     "action": {
       "ActionID": "icare_0096",
       "ActionName": "Promover la Agricultura Orgánica",
@@ -1021,7 +1021,7 @@
     "actionId": "icare_0134",
     "actionName": "Strengthen Mechanisms for Deforestation Control",
     "actionPriority": 15,
-    "explanation": "Clasificado #15 según el algoritmo de clasificación de torneos",
+    "explanation": "Fortalecer los mecanismos de control de la deforestación es una acción crucial para Gravataí. La ciudad tiene importantes emisiones por el uso del suelo, lo que indica posibles problemas con la gestión de la tierra y la deforestación. Controlar la deforestación puede ayudar a mitigar estas emisiones y proteger el bioma local, que es de pastizales/sabana. Esta acción es importante para la sostenibilidad ambiental y puede contribuir a la resiliencia climática general de la ciudad.",
     "action": {
       "ActionID": "icare_0134",
       "ActionName": "Fortalecer los Mecanismos para el Control de la Deforestación",
@@ -1093,7 +1093,7 @@
     "actionId": "icare_0131",
     "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
     "actionPriority": 16,
-    "explanation": "Clasificado #16 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque puede mejorar significativamente la seguridad alimentaria, que es un área de impacto clave para Gravataí, especialmente dada la vulnerabilidad de la ciudad a las sequías e inundaciones. Al priorizar los productos agroecológicos locales, la ciudad puede construir un sistema alimentario más resiliente, reduciendo la dependencia de las cadenas de suministro externas. Este enfoque también apoya a los agricultores locales y promueve prácticas agrícolas sostenibles, contribuyendo al bienestar general de la comunidad. Además, puede ayudar a mitigar el impacto de los peligros climáticos en la disponibilidad y el acceso a los alimentos para la población.",
     "action": {
       "ActionID": "icare_0131",
       "ActionName": "Priorizar la Adquisición de Productos Agroecológicos de Producción Local en Compras Públicas",
@@ -1165,7 +1165,7 @@
     "actionId": "icare_0084",
     "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
     "actionPriority": 17,
-    "explanation": "Clasificado #17 según el algoritmo de clasificación del torneo",
+    "explanation": "Esta acción es una prioridad porque aborda la seguridad alimentaria, que es un área de impacto clave para Gravataí, particularmente en lo que respecta a sequías e inundaciones. Las prácticas agroforestales pueden mejorar la resiliencia en los sistemas ganaderos, contribuyendo a una producción de alimentos más estable. Dado el bioma de pastizales/sabana de la ciudad, tales prácticas también podrían ofrecer importantes beneficios ecológicos. Además, la acción se alinea con el uso sostenible de la tierra, lo que podría reducir las emisiones por el uso de la tierra con el tiempo. Este enfoque holístico la convierte en una intervención valiosa para la sostenibilidad a largo plazo de la ciudad.",
     "action": {
       "ActionID": "icare_0084",
       "ActionName": "Crear incentivos para prácticas de agroforestería en sistemas ganaderos",
@@ -1237,7 +1237,7 @@
     "actionId": "icare_0085",
     "actionName": "Promote the Adoption of Agroecological Pest Control",
     "actionPriority": 18,
-    "explanation": "Clasificado #18 según el algoritmo de clasificación del torneo",
+    "explanation": "Fomentar el control agroecológico de plagas es una acción valiosa para Gravataí. Esta iniciativa puede mejorar la seguridad alimentaria y la biodiversidad, que son impactos clave para la ciudad. Dado el bioma de pastizales/sabana de la ciudad, las prácticas agrícolas sostenibles son particularmente relevantes. Esta acción también se alinea con la mitigación de los impactos de la sequía, ya que los ecosistemas saludables son más resilientes. En general, contribuye a un entorno urbano más sostenible y resiliente.",
     "action": {
       "ActionID": "icare_0085",
       "ActionName": "Promover la Adopción del Control de Plagas Agroecológico",
@@ -1309,7 +1309,7 @@
     "actionId": "icare_0099",
     "actionName": "Support Agroecological Certification Programs",
     "actionPriority": 19,
-    "explanation": "Clasificado en el puesto #19 según el algoritmo de clasificación del torneo.",
+    "explanation": "Apoyar los programas de certificación agroecológica es una acción de baja prioridad para Gravataí. La ciudad enfrenta riesgos significativos por inundaciones y deslizamientos de tierra, que afectan particularmente la salud pública y la infraestructura. Si bien la seguridad alimentaria es una preocupación, las amenazas inmediatas y graves de los peligros climáticos deben tener prioridad. Sería mejor asignar los recursos a abordar estas vulnerabilidades más apremiantes.",
     "action": {
       "ActionID": "icare_0099",
       "ActionName": "Apoyar los Programas de Certificación Agroecológica",
@@ -1381,7 +1381,7 @@
     "actionId": "icare_0100",
     "actionName": "Support Regenerative Agriculture Practices",
     "actionPriority": 20,
-    "explanation": "Clasificado en el puesto #20 según el algoritmo de clasificación de torneos",
+    "explanation": "Apoyar las prácticas agrícolas regenerativas es una prioridad para Gravataí, especialmente dado el bioma de pastizales/sabana de la ciudad y los riesgos existentes para la seguridad alimentaria debido a sequías e inundaciones. Esta acción puede mejorar la salud del suelo, aumentar la retención de agua y la resiliencia agrícola frente a los peligros climáticos. Al promover la agricultura sostenible, aborda directamente la seguridad alimentaria y apoya indirectamente la gestión de los recursos hídricos. Esta iniciativa se alinea con los objetivos a largo plazo de adaptación y mitigación climática para la región.",
     "action": {
       "ActionID": "icare_0100",
       "ActionName": "Apoyar las Prácticas de Agricultura Regenerativa",

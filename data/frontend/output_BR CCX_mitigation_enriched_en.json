@@ -7,7 +7,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a high priority for C\u00e1ceres given the significant risks associated with droughts, particularly concerning water resources and food security. This action directly addresses the city's vulnerability to drought by promoting sustainable land use practices that can enhance water retention and improve agricultural resilience. Furthermore, it can contribute to biodiversity, which is also at risk from droughts and heatwaves. Given the city's low-income socio-economic factors, such systems can also provide economic benefits and improve livelihoods.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -79,7 +79,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a high priority for C\u00e1ceres. The city faces significant risks from heatwaves, which directly impact public health and infrastructure. Increasing green spaces can help mitigate urban heat island effects, providing crucial cooling benefits. Furthermore, given the city's grassland/savanna biome, enhancing green infrastructure supports biodiversity and ecological resilience. This action also contributes to improving air quality and overall urban liveability, which are important for a city with low-income socioeconomic factors.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -151,7 +151,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "Strengthening mechanisms for deforestation control is a high priority for C\u00e1ceres given its significant land use emissions. The city's total emissions are overwhelmingly dominated by land use, indicating a critical need to address this sector. Controlling deforestation directly tackles the primary source of these emissions, contributing substantially to overall climate mitigation efforts. This action is crucial for protecting the local biome and its biodiversity, which are likely impacted by deforestation. Furthermore, it can help preserve vital ecosystem services that support the community.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -223,7 +223,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority for C\u00e1ceres given its significant land use emissions. This action directly addresses the environmental impact of land use, which accounts for a substantial portion of the city's total emissions. By incentivizing sustainable land management practices, PES programs can help mitigate these emissions and protect the city's natural resources. This is particularly relevant for a city with a large area and a grassland/savanna biome, where land use practices can have a profound effect on the environment.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -295,7 +295,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "This action is a priority because C\u00e1ceres is a rural area with significant land use emissions. Providing technical assistance and rural extension can help implement sustainable agricultural practices. This is crucial for mitigating climate change impacts and improving food security, which is a key impact area for droughts and floods in the city. Furthermore, it can support the low-income population by enhancing agricultural productivity and resilience.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -367,7 +367,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "This action is a priority because C\u00e1ceres has extremely high land use emissions, indicating significant environmental impact from current land management practices. Facilitating technology transfer for conservation practices can directly address these emissions by promoting sustainable land use. Given the city's grassland/savanna biome, such practices are crucial for maintaining ecological balance and mitigating climate change impacts. This initiative can also support the city's low-income population by fostering more resilient and sustainable livelihoods.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -439,7 +439,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "Promoting sustainable agricultural practices is a high priority for C\u00e1ceres, given the significant risks associated with droughts and floods impacting food security. The city faces extreme risks to food security from both droughts and floods, indicating a strong need for interventions that can build resilience in agricultural systems. With a large portion of the city's emissions coming from land use, this action can also contribute to reducing the environmental footprint of agriculture. Implementing sustainable practices can help mitigate these risks, ensuring more stable food production and potentially reducing land-use related emissions.",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -511,7 +511,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for C\u00e1ceres due to the city's significant land use emissions, which are the largest contributor to its total emissions. Promoting agroforestry practices can help sequester carbon, thereby reducing these emissions. Furthermore, given the city's grassland/savanna biome and high risk from droughts impacting water resources and food security, agroforestry can enhance ecosystem resilience and diversify agricultural outputs, offering a sustainable solution to multiple challenges. This approach also aligns with addressing the low-income socio-economic factors by potentially creating new economic opportunities for local communities.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -583,7 +583,7 @@
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "Promoting organic farming is a high-priority action for C\u00e1ceres. The city faces significant risks to food security from both droughts and floods, with very high normalized risk scores. Organic farming practices can enhance soil health, improve water retention, and increase agricultural resilience to these climate hazards. This action directly addresses a critical vulnerability and supports sustainable food production in the face of climate change.",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
@@ -655,7 +655,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "Supporting regenerative agriculture practices is a high priority for C\u00e1ceres, especially given the city's significant land use emissions. This action directly addresses the substantial land use emissions, which are the largest contributor to the city's total emissions. Furthermore, C\u00e1ceres faces high risks from droughts impacting water resources and food security, and regenerative agriculture can enhance soil health and water retention, mitigating these impacts. The city's low-income socio-economic factors also suggest that sustainable agricultural practices could offer long-term economic benefits and resilience for the local population. Therefore, this action is crucial for both climate change mitigation and adaptation in C\u00e1ceres.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -727,7 +727,7 @@
         "actionId": "icare_0127",
         "actionName": "Accelerate Environmental Regularization of Rural Properties",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses land use, which is the largest contributor to emissions in C\u00e1ceres. Accelerating environmental regularization of rural properties can help mitigate the significant land use emissions. Given the city's grassland/savanna biome, proper land management is crucial for environmental health. This action can also indirectly support water resources and food security, which are key impacts facing high risks from droughts in the region. Therefore, this action is highly relevant for improving the city's environmental sustainability and resilience.",
         "action": {
             "ActionID": "icare_0127",
             "ActionName": "Accelerate Environmental Regularization of Rural Properties",
@@ -799,7 +799,7 @@
         "actionId": "icare_0101",
         "actionName": "Encourage the Use of Low-Emission Agricultural Machinery",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Encouraging low-emission agricultural machinery is a priority for C\u00e1ceres given its significant land use emissions. With land use emissions being the largest contributor to the city's total emissions, addressing this sector is crucial for overall climate action. This action directly targets a major source of greenhouse gases, aligning with the city's need to reduce its environmental footprint. Furthermore, as a city with a large agricultural area, transitioning to more sustainable practices in this sector can have a substantial positive impact on the local environment and economy.",
         "action": {
             "ActionID": "icare_0101",
             "ActionName": "Encourage the Use of Low-Emission Agricultural Machinery",
@@ -871,7 +871,7 @@
         "actionId": "ipcc_0061",
         "actionName": "Soil Carbon Management in Croplands and Grasslands",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "This action focuses on soil carbon management, which is highly relevant for C\u00e1ceres given its significant land use emissions. Improving soil health can enhance carbon sequestration, directly addressing a major source of the city's total emissions. Furthermore, healthy soils can improve water retention, offering a co-benefit in a region facing high drought risks. This action aligns with the city's environmental challenges and offers a pathway to both mitigation and adaptation.",
         "action": {
             "ActionID": "ipcc_0061",
             "ActionName": "Soil Carbon Management in Croplands and Grasslands",
@@ -942,7 +942,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Prioritizing procurement of locally produced agroecological products can significantly enhance food security, which is a key impact area for C\u00e1ceres, especially given the high risk of droughts and floods. This action supports local economies and promotes sustainable agricultural practices, contributing to the city's resilience against climate impacts. It also aligns with addressing the low-income socio-economic factor by potentially creating economic opportunities for local farmers. Furthermore, it can indirectly reduce emissions associated with long-distance food transportation.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -1014,7 +1014,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "Supporting ecological fiscal incentives is a priority for C\u00e1ceres, a city with significant land use emissions. These incentives can encourage sustainable land management practices, which are crucial given the city's large land area and grassland/savanna biome. By promoting environmentally responsible behaviors through financial mechanisms, the city can work towards mitigating its substantial land-use related emissions. This action aligns with the need to address the city's environmental challenges and foster a more sustainable local economy.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1086,7 +1086,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for C\u00e1ceres, especially given the city's significant risks related to food security from both droughts and floods. This action directly addresses food security by promoting resilient and sustainable agricultural practices. It can also contribute to reducing land use emissions, which are a major component of the city's total emissions. Furthermore, supporting local production can enhance community resilience and economic stability in a low-income area.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1158,7 +1158,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a relevant action for C\u00e1ceres, given its significant land use emissions. This approach can reduce reliance on synthetic pesticides, which often have a high carbon footprint associated with their production and application. Furthermore, it can enhance biodiversity and soil health, contributing to overall ecosystem resilience. This action aligns with sustainable land management practices that are crucial for a city with a large agricultural footprint.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1230,7 +1230,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for C\u00e1ceres, a city with a significant land use emissions profile. This action can help promote sustainable agricultural practices, which are crucial for mitigating climate change and enhancing food security. Given the city's vulnerability to droughts and floods, which severely impact food security, fostering resilient agricultural systems is essential. Furthermore, with a low-income population, such programs can also contribute to economic stability and improved livelihoods for farmers.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1302,7 +1302,7 @@
         "actionId": "ipcc_0053",
         "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "This action is a high priority for C\u00e1ceres due to the city's significant land use emissions, which are the largest contributor to its total emissions. Afforestation, reforestation, and forest ecosystem restoration directly address this issue by enhancing carbon sequestration. Given the city's grassland/savanna biome, these efforts can also help mitigate the high risks associated with droughts, which severely impact water resources and food security. Furthermore, restoring ecosystems can improve biodiversity, which is also at high risk from both droughts and heatwaves in the region.",
         "action": {
             "ActionID": "ipcc_0053",
             "ActionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
@@ -1374,7 +1374,7 @@
         "actionId": "c40_0042",
         "actionName": "Biodiversity Expansion",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "This action focuses on biodiversity expansion, which is a relevant concern for C\u00e1ceres given its grassland/savanna biome. The city faces significant risks to biodiversity from both droughts and heatwaves, as indicated by high normalized risk scores. Enhancing biodiversity can contribute to ecosystem resilience, potentially mitigating some of these climate impacts. Therefore, this action addresses a direct environmental vulnerability of the city.",
         "action": {
             "ActionID": "c40_0042",
             "ActionName": "Biodiversity Expansion",

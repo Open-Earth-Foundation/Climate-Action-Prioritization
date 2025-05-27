@@ -7,7 +7,7 @@
         "actionId": "icare_0139",
         "actionName": "Implementation of urban toll.",
         "actionPriority": 1,
-        "explanation": "Ranked #1 by tournament ranking algorithm",
+        "explanation": "Implementing an urban toll can significantly reduce transportation emissions, which are a major contributor to the city's total emissions. By discouraging private vehicle use, it can alleviate traffic congestion and improve air quality. This action also aligns with the city's need to manage its high population density and associated environmental impacts. Furthermore, the revenue generated from tolls can be reinvested into sustainable public transportation infrastructure, offering long-term benefits for the city's climate resilience and urban development.",
         "action": {
             "ActionID": "icare_0139",
             "ActionName": "Implementation of urban toll.",
@@ -78,7 +78,7 @@
         "actionId": "icare_0121",
         "actionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
         "actionPriority": 2,
-        "explanation": "Ranked #2 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it promotes sustainable transportation, which can help reduce the city's significant transportation emissions. With a high population density, encouraging bike-sharing, especially electric bikes, offers a viable alternative to motorized transport. This initiative also aligns with efforts to improve urban mobility and public health by encouraging physical activity. It can contribute to a greener urban environment and potentially alleviate traffic congestion.",
         "action": {
             "ActionID": "icare_0121",
             "ActionName": "Incentive to create bike-sharing programs in urban areas, with a focus on electric bikes.",
@@ -150,7 +150,7 @@
         "actionId": "icare_0094",
         "actionName": "Adoption of biomethane in public fleets.",
         "actionPriority": 3,
-        "explanation": "Ranked #3 by tournament ranking algorithm",
+        "explanation": "The adoption of biomethane in public fleets is a priority for Vit\u00f3ria de Santo Ant\u00e3o due to the city's significant transportation emissions, which are the highest among all emission categories. This action directly addresses a major source of greenhouse gases, contributing to overall emissions reduction. By transitioning public fleets to biomethane, the city can improve air quality and reduce its reliance on fossil fuels. This initiative also aligns with sustainable development goals by promoting cleaner energy sources within urban infrastructure.",
         "action": {
             "ActionID": "icare_0094",
             "ActionName": "Adoption of biomethane in public fleets.",
@@ -222,7 +222,7 @@
         "actionId": "icare_0050",
         "actionName": "Implement Agroforestry Systems",
         "actionPriority": 4,
-        "explanation": "Ranked #4 by tournament ranking algorithm",
+        "explanation": "Implementing agroforestry systems is a priority for Vit\u00f3ria de Santo Ant\u00e3o, a city with a tropical rainforest biome and significant land use emissions. This action can help mitigate climate change by sequestering carbon and reducing deforestation. Furthermore, it can enhance food security, which is a key impact area for the city, especially given its high risk from droughts and floods. This approach also supports biodiversity, an area where the city faces risks from both droughts and heatwaves. Overall, agroforestry offers a multi-faceted solution addressing environmental, social, and economic aspects relevant to the city's challenges.",
         "action": {
             "ActionID": "icare_0050",
             "ActionName": "Implement Agroforestry Systems",
@@ -294,7 +294,7 @@
         "actionId": "icare_0134",
         "actionName": "Strengthen Mechanisms for Deforestation Control",
         "actionPriority": 5,
-        "explanation": "Ranked #5 by tournament ranking algorithm",
+        "explanation": "Strengthening mechanisms for deforestation control is a priority for Vit\u00f3ria de Santo Ant\u00e3o due to the significant land use emissions, which contribute substantially to the city's total emissions. Controlling deforestation directly addresses this major source of greenhouse gases. Furthermore, given the city's tropical rainforest biome, preserving these ecosystems is crucial for biodiversity and climate regulation. This action also helps mitigate risks associated with droughts and floods, which are key impacts identified in the city's climate risk assessment.",
         "action": {
             "ActionID": "icare_0134",
             "ActionName": "Strengthen Mechanisms for Deforestation Control",
@@ -366,7 +366,7 @@
         "actionId": "icare_0128",
         "actionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
         "actionPriority": 6,
-        "explanation": "Ranked #6 by tournament ranking algorithm",
+        "explanation": "Establishing Municipal Programs for Payment for Environmental Services (PES) is a priority because it can incentivize sustainable land management practices. This action directly addresses environmental degradation and can help mitigate risks associated with climate change, such as droughts and floods, which are significant concerns for Vit\u00f3ria de Santo Ant\u00e3o. By valuing ecosystem services, it can also contribute to the city's long-term resilience and potentially improve food and water security. This approach fosters a more sustainable relationship between the community and its natural resources.",
         "action": {
             "ActionID": "icare_0128",
             "ActionName": "Establish Municipal Programs for Payment for Environmental Services (PES)",
@@ -438,7 +438,7 @@
         "actionId": "icare_0129",
         "actionName": "Facilitate Technology Transfer for Conservation Practices",
         "actionPriority": 7,
-        "explanation": "Ranked #7 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it facilitates technology transfer for conservation practices, which can directly address the city's high vulnerability to droughts and floods. By implementing advanced conservation techniques, Vit\u00f3ria de Santo Ant\u00e3o can better manage its water resources and improve food security, both of which are significantly impacted by climate hazards. Furthermore, given the city's tropical rainforest biome, conservation practices are crucial for maintaining biodiversity and ecosystem health. This proactive approach helps build resilience against future climate impacts, aligning with the city's needs for sustainable development.",
         "action": {
             "ActionID": "icare_0129",
             "ActionName": "Facilitate Technology Transfer for Conservation Practices",
@@ -510,7 +510,7 @@
         "actionId": "icare_0130",
         "actionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
         "actionPriority": 8,
-        "explanation": "Ranked #8 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Vit\u00f3ria de Santo Ant\u00e3o faces significant risks to food security from both droughts and floods. Conducting Technical Assistance and Rural Extension (ATER) actions can directly support local farmers and agricultural practices, enhancing resilience to these climate hazards. Given the city's high proportion of low-income residents, such support is crucial for protecting livelihoods and ensuring access to food. Improving agricultural techniques and knowledge can mitigate the impacts of extreme weather events on food production. This proactive approach helps to build a more sustainable and secure food system for the community.",
         "action": {
             "ActionID": "icare_0130",
             "ActionName": "Conduct Technical Assistance and Rural Extension (ATER) Actions",
@@ -582,7 +582,7 @@
         "actionId": "icare_0057",
         "actionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
         "actionPriority": 9,
-        "explanation": "Ranked #9 by tournament ranking algorithm",
+        "explanation": "This action is a priority due to the significant transportation emissions in Vit\u00f3ria de Santo Ant\u00e3o, which are the highest among all emission categories. Expanding mass transit systems on rails directly addresses this by providing a more sustainable alternative to private vehicle use. This can lead to a substantial reduction in the city's overall carbon footprint. Furthermore, improved public transport can enhance accessibility for the high low-income population, contributing to social equity.",
         "action": {
             "ActionID": "icare_0057",
             "ActionName": "Expansion of mass transit systems on rails (metros, LRTs, and monorails).",
@@ -654,7 +654,7 @@
         "actionId": "icare_0131",
         "actionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
         "actionPriority": 10,
-        "explanation": "Ranked #10 by tournament ranking algorithm",
+        "explanation": "This action is a priority because it directly addresses food security, which is a key impact area for Vit\u00f3ria de Santo Ant\u00e3o, particularly concerning droughts and floods. By prioritizing local agroecological products, the city can enhance its resilience to climate-related disruptions in food supply chains. This also supports local economies and sustainable agricultural practices, contributing to broader community well-being. Furthermore, it aligns with efforts to reduce the city's overall environmental footprint by promoting more sustainable food systems.",
         "action": {
             "ActionID": "icare_0131",
             "ActionName": "Prioritize Procurement of Locally Produced Agroecological Products in Public Purchases",
@@ -726,7 +726,7 @@
         "actionId": "icare_0133",
         "actionName": "Promote Urban Reforestation and Green Corridors",
         "actionPriority": 11,
-        "explanation": "Ranked #11 by tournament ranking algorithm",
+        "explanation": "Promoting urban reforestation and green corridors is a priority for Vit\u00f3ria de Santo Ant\u00e3o due to the city's tropical rainforest biome, which can benefit greatly from enhanced green infrastructure. This action can help mitigate the impacts of heatwaves, which pose a significant public health risk. Additionally, increased green spaces can improve air quality and provide ecosystem services, contributing to overall urban resilience. Given the city's moderate inadequate water access, reforestation can also aid in water retention and management.",
         "action": {
             "ActionID": "icare_0133",
             "ActionName": "Promote Urban Reforestation and Green Corridors",
@@ -798,7 +798,7 @@
         "actionId": "c40_0026",
         "actionName": "Vehicle Emissions",
         "actionPriority": 12,
-        "explanation": "Ranked #12 by tournament ranking algorithm",
+        "explanation": "Addressing vehicle emissions is a crucial step towards improving air quality and public health in Vit\u00f3ria de Santo Ant\u00e3o. With significant transportation emissions, this action directly targets a major source of pollution. Reducing these emissions can also contribute to mitigating climate change impacts. Prioritizing this action aligns with efforts to create a healthier and more sustainable urban environment for residents.",
         "action": {
             "ActionID": "c40_0026",
             "ActionName": "Vehicle Emissions",
@@ -877,7 +877,7 @@
         "actionId": "icare_0102",
         "actionName": "Promote Sustainable Agricultural Practices",
         "actionPriority": 13,
-        "explanation": "Ranked #13 by tournament ranking algorithm",
+        "explanation": "Promoting sustainable agricultural practices is a priority for Vit\u00f3ria de Santo Ant\u00e3o due to the city's significant risks related to food security, particularly from droughts and floods. The city also faces high risks to water resources from droughts, which directly impacts agriculture. Given the high proportion of low-income residents, ensuring food security through resilient agricultural methods is crucial for community well-being. This action can help mitigate the impacts of climate hazards on the local food system and support the vulnerable population.",
         "action": {
             "ActionID": "icare_0102",
             "ActionName": "Promote Sustainable Agricultural Practices",
@@ -949,7 +949,7 @@
         "actionId": "icare_0132",
         "actionName": "Encourage Local Agroecological Production and Short Supply Chains",
         "actionPriority": 14,
-        "explanation": "Ranked #14 by tournament ranking algorithm",
+        "explanation": "Encouraging local agroecological production and short supply chains is a priority for Vit\u00f3ria de Santo Ant\u00e3o. This action can enhance food security, which is a key impact area with high risk scores from both droughts and floods. It also supports local economies, which is crucial given the city's high low-income population. Furthermore, it can contribute to reducing emissions associated with transportation and land use, aligning with the city's significant emissions in these sectors. This approach fosters resilience against climate hazards while addressing socio-economic vulnerabilities.",
         "action": {
             "ActionID": "icare_0132",
             "ActionName": "Encourage Local Agroecological Production and Short Supply Chains",
@@ -1021,7 +1021,7 @@
         "actionId": "icare_0084",
         "actionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
         "actionPriority": 15,
-        "explanation": "Ranked #15 by tournament ranking algorithm",
+        "explanation": "This action is a priority because Vit\u00f3ria de Santo Ant\u00e3o faces significant risks from droughts, which directly impact food security and water resources. Promoting agroforestry practices in livestock systems can enhance the resilience of agricultural landscapes to drought conditions. This approach helps diversify farm income, improve soil health, and conserve water, all of which are crucial for a city with high low-income populations and moderate inadequate water access. By integrating trees with livestock, the city can mitigate the effects of climate change on its agricultural sector and support sustainable livelihoods.",
         "action": {
             "ActionID": "icare_0084",
             "ActionName": "Create Incentives for Agroforestry Practices in Livestock Systems",
@@ -1093,7 +1093,7 @@
         "actionId": "icare_0100",
         "actionName": "Support Regenerative Agriculture Practices",
         "actionPriority": 16,
-        "explanation": "Ranked #16 by tournament ranking algorithm",
+        "explanation": "Supporting regenerative agriculture practices is a priority for Vit\u00f3ria de Santo Ant\u00e3o due to the city's high risk from droughts, which significantly impact both water resources and food security. Regenerative agriculture can improve soil health, water retention, and biodiversity, making the agricultural sector more resilient to climate shocks. Given the city's tropical rainforest biome, these practices can also help maintain ecological balance and reduce land-use emissions. Furthermore, with a high proportion of low-income residents, enhancing food security through sustainable farming methods is crucial for community well-being.",
         "action": {
             "ActionID": "icare_0100",
             "ActionName": "Support Regenerative Agriculture Practices",
@@ -1165,7 +1165,7 @@
         "actionId": "icare_0136",
         "actionName": "Support the Implementation of Ecological Fiscal Incentives",
         "actionPriority": 17,
-        "explanation": "Ranked #17 by tournament ranking algorithm",
+        "explanation": "This action supports the implementation of ecological fiscal incentives, which can encourage sustainable practices within the city. Given the city's tropical rainforest biome and various climate risks, promoting ecological preservation is crucial. Such incentives can help mitigate environmental degradation and foster a more resilient urban ecosystem. This approach aligns with long-term sustainability goals for Vit\u00f3ria de Santo Ant\u00e3o.",
         "action": {
             "ActionID": "icare_0136",
             "ActionName": "Support the Implementation of Ecological Fiscal Incentives",
@@ -1237,7 +1237,7 @@
         "actionId": "icare_0085",
         "actionName": "Promote the Adoption of Agroecological Pest Control",
         "actionPriority": 18,
-        "explanation": "Ranked #18 by tournament ranking algorithm",
+        "explanation": "Promoting agroecological pest control is a relevant action for Vit\u00f3ria de Santo Ant\u00e3o, especially considering the city's vulnerability to droughts and their impact on food security. By reducing reliance on chemical pesticides, this action can enhance the resilience of agricultural systems. It also aligns with sustainable practices that can improve soil health and water retention, which are crucial in a region facing water resource challenges. Furthermore, it can contribute to biodiversity preservation, an area where the city shows some risk from climate hazards.",
         "action": {
             "ActionID": "icare_0085",
             "ActionName": "Promote the Adoption of Agroecological Pest Control",
@@ -1309,7 +1309,7 @@
         "actionId": "icare_0099",
         "actionName": "Support Agroecological Certification Programs",
         "actionPriority": 19,
-        "explanation": "Ranked #19 by tournament ranking algorithm",
+        "explanation": "Supporting agroecological certification programs is a priority for Vit\u00f3ria de Santo Ant\u00e3o given its high vulnerability to droughts, which significantly impact both water resources and food security. These programs can enhance agricultural resilience and diversify food sources, directly addressing the city's food security risks. Furthermore, with a high proportion of low-income residents, such initiatives can empower local farmers and improve livelihoods, fostering sustainable development. This action aligns with the city's need to build resilience against climate hazards and improve socio-economic conditions.",
         "action": {
             "ActionID": "icare_0099",
             "ActionName": "Support Agroecological Certification Programs",
@@ -1381,7 +1381,7 @@
         "actionId": "icare_0096",
         "actionName": "Promote Organic Farming",
         "actionPriority": 20,
-        "explanation": "Ranked #20 by tournament ranking algorithm",
+        "explanation": "Promoting organic farming is a relevant action for Vit\u00f3ria de Santo Ant\u00e3o, especially considering the city's high risk for food security due to droughts and floods. Organic farming practices can enhance soil health and water retention, making agricultural systems more resilient to these hazards. Furthermore, it can contribute to local food security by diversifying food sources and reducing reliance on external inputs. This action also aligns with the city's tropical rainforest biome, promoting sustainable land use and potentially reducing land use emissions over time. While not directly addressing the highest risks, it offers a foundational approach to climate adaptation and community well-being.",
         "action": {
             "ActionID": "icare_0096",
             "ActionName": "Promote Organic Farming",
