@@ -23,21 +23,21 @@ LANGUAGES = ["en", "es", "pt"]
 def main(locode: str):
     """Run the complete pipeline for a given city LOCODE."""
 
-    print("\nRunning Prioritizer...")
-    prioritizer_main(locode)
-    print("Prioritization done.\n")
+    #print("\nRunning Prioritizer...")
+    #prioritizer_main(locode)
+    #print("Prioritization done.\n")
 
-    print("Adding explanations...")
-    success = add_explanations_for_city(locode)
-    if not success:
-        print(f"Failed to add explanations for {locode}")
-        return
-    print("Adding explanations done.\n")
+    #   print("Adding explanations...")
+    #   success = add_explanations_for_city(locode)
+    #   if not success:
+    #       print(f"Failed to add explanations for {locode}")
+    #   return
+    #   print("Adding explanations done.\n")
 
-    print("Running Enrich for frontend...")
-    enricher_main(locode, "mitigation")
-    enricher_main(locode, "adaptation")
-    print("Enriching done.\n")
+    #print("Running Enrich for frontend...")
+    #enricher_main(locode, "mitigation")
+    #enricher_main(locode, "adaptation")
+    #print("Enriching done.\n")
 
     print("Translating explanations...")
     success = translate_explanations_for_city(locode)

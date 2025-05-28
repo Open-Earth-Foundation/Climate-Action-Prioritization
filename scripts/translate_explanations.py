@@ -22,9 +22,9 @@ import os
 import json
 import glob
 import argparse
+import time
 from openai import OpenAI
 from pydantic import BaseModel
-from typing import List
 import sys
 
 # Debug: Print execution context to verify the script is running
@@ -50,59 +50,49 @@ ROOT_DIR = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(ROOT_DIR, 'data', 'frontend')
 
 # Pydantic models for structured translation response
-class TranslationPair(BaseModel):
+class SingleTranslation(BaseModel):
     spanish: str
     portuguese: str
 
-class TranslationResponse(BaseModel):
-    translations: List[TranslationPair]
-
-def translate_explanations_batch(explanations: List[str]) -> TranslationResponse:
-    """Translate a batch of explanations to both Spanish and Portuguese in a single API call"""
-    print(f"[translate_explanations_batch] Translating {len(explanations)} explanations...")
-    
-    # Create the prompt with all explanations
-    explanations_text = "\n".join([f"{i+1}. {exp}" for i, exp in enumerate(explanations)])
+def translate_single_explanation(explanation: str) -> SingleTranslation:
+    """Translate a single explanation to both Spanish and Portuguese"""
+    print(f"[translate_single_explanation] Translating: {explanation[:50]}...")
     
     prompt = f"""
-    Please translate the following {len(explanations)} explanations to both Spanish and Portuguese.
-    Return a JSON object with a "translations" array where each item has "spanish" and "portuguese" fields.
+    Translate the following explanation to both Spanish and Portuguese:
     
-    Explanations to translate:
-    {explanations_text}
+    "{explanation}"
     
-    Return format:
-    {{
-        "translations": [
-            {{"spanish": "Spanish translation of explanation 1", "portuguese": "Portuguese translation of explanation 1"}},
-            {{"spanish": "Spanish translation of explanation 2", "portuguese": "Portuguese translation of explanation 2"}},
-            ...
-        ]
-    }}
+    Provide both translations.
     """
     
     try:
+        # Use Pydantic structured parsing for single translation
         response = client.beta.chat.completions.parse(
             model=MODEL_NAME,
             messages=[
-                {'role': 'system', 'content': 'You are an expert translator. Always return valid JSON in the exact format requested.'},
+                {
+                    'role': 'system', 
+                    'content': 'You are an expert translator. You must return a JSON object with "spanish" and "portuguese" fields containing the translations.'
+                },
                 {'role': 'user', 'content': prompt}
             ],
             temperature=0,
-            response_format=TranslationResponse
+            response_format=SingleTranslation
         )
         
-        response_content = response.choices[0].message.content
-        if response_content is None:
-            print("[translate_explanations_batch] Error: No response content")
-            return TranslationResponse(translations=[])
-            
-        translation_data = json.loads(response_content)
-        return TranslationResponse(**translation_data)
+        # The response is already parsed and validated by Pydantic
+        parsed_response = response.choices[0].message.parsed
+        if parsed_response is None:
+            print("[translate_single_explanation] Error: No parsed response")
+            return SingleTranslation(spanish="", portuguese="")
+        
+        print(f"[translate_single_explanation] Success: ES='{parsed_response.spanish[:30]}...', PT='{parsed_response.portuguese[:30]}...'")
+        return parsed_response
         
     except Exception as e:
-        print(f"[translate_explanations_batch] Error during translation: {e}")
-        return TranslationResponse(translations=[])
+        print(f"[translate_single_explanation] Error during translation: {e}")
+        return SingleTranslation(spanish="", portuguese="")
 
 def translate_explanations_for_city(locode: str) -> bool:
     """
@@ -147,27 +137,38 @@ def translate_explanations_for_city(locode: str) -> bool:
                     explanation = entry.get('explanation', '')
                     explanations.append(explanation)
                 
-                # Get translations for all explanations in one call
-                translation_response = translate_explanations_batch(explanations)
+                # Get translations for all explanations one by one
+                print(f"[translate_explanations_for_city] Translating {len(explanations)} explanations one by one...")
+                all_translations = []
+                for i, explanation in enumerate(explanations):
+                    print(f"[translate_explanations_for_city] Processing explanation {i+1}/{len(explanations)}")
+                    translation = translate_single_explanation(explanation)
+                    all_translations.append(translation)
+                    
+                    # Small delay to avoid rate limiting
+                    if i < len(explanations) - 1:  # Don't delay after the last one
+                        time.sleep(0.5)
                 
-                if len(translation_response.translations) != len(explanations):
-                    print(f"[translate_explanations_for_city] Warning: Expected {len(explanations)} translations, got {len(translation_response.translations)}")
+                print(f"[translate_explanations_for_city] Completed all {len(all_translations)} translations")
+                
+                if len(all_translations) != len(explanations):
+                    print(f"[translate_explanations_for_city] Warning: Expected {len(explanations)} translations, got {len(all_translations)}")
                     continue
                 
                 # Create Spanish version
                 spanish_data = []
                 for i, entry in enumerate(english_data):
                     spanish_entry = entry.copy()
-                    if i < len(translation_response.translations):
-                        spanish_entry['explanation'] = translation_response.translations[i].spanish
+                    if i < len(all_translations):
+                        spanish_entry['explanation'] = all_translations[i].spanish
                     spanish_data.append(spanish_entry)
                 
                 # Create Portuguese version
                 portuguese_data = []
                 for i, entry in enumerate(english_data):
                     portuguese_entry = entry.copy()
-                    if i < len(translation_response.translations):
-                        portuguese_entry['explanation'] = translation_response.translations[i].portuguese
+                    if i < len(all_translations):
+                        portuguese_entry['explanation'] = all_translations[i].portuguese
                     portuguese_data.append(portuguese_entry)
                 
                 # Save Spanish file

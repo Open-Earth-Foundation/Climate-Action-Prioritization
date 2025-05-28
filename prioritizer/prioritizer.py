@@ -46,7 +46,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 api_key = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key=api_key)
+#client = OpenAI(api_key=api_key)
 
 scale_scores = {
     "Very High": 1.0,
@@ -220,43 +220,12 @@ def quantitative_score(city, action):
     return score
 
 
-class Action(BaseModel):
-    action_id: str
-    action_name: str
-    actionPriority: int
-    explanation: str
-    city_name: str
 
-
-class PrioritizedActions(BaseModel):
-    actions: List[Action]
-
-
-def send_to_llm2(prompt):
-
-    response = client.beta.chat.completions.parse(
-        model="gpt-4o-2024-08-06",
-        messages=[
-            {"role": "user", "content": prompt},
-        ],
-        response_format=PrioritizedActions,
-        temperature=0.0,
-    )
-    return response.choices[0].message.parsed
-
-
-def send_to_llm(prompt: str) -> PrioritizedActions:
-    # Using the o3-mini reasoning model and no max_tokens parameter.
-    response = client.beta.chat.completions.parse(
-        model="o3-mini",  # Changed from gpt-4o to o3-mini.
-        messages=[
-            {"role": "user", "content": prompt},
-        ],
-        # Specify structured output using the Pydantic class.
-        response_format=PrioritizedActions,
-    )
-    # Return the parsed structured output.
-    return response.choices[0].message.parsed  # type: ignore
+def send_to_llm(prompt: str):
+    """
+    This is currently not used after changes. Left to keep the code structure.
+    """
+    pass
 
 
 def qualitative_score(city, action):
