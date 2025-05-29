@@ -2,7 +2,7 @@
 add_explanations.py
 -------------------
 
-This script generates qualitative explanations for prioritized climate actions for each city, using city context and additional action data. It leverages OpenAI's GPT model to create a short explanation for each action, then saves the updated action lists to a new output folder.
+This script generates qualitative explanations for prioritized climate actions for each city, using city context and additional action data. It leverages chosen OpenRouter model to create a short explanation for each action, then saves the updated action lists back to the original files.
 
 How it works:
 - For each prioritized actions file in 'data/prioritized/', it:
@@ -10,17 +10,22 @@ How it works:
   2. Loads the corresponding city data from 'data/cities/city_data.json'.
   3. Loads the prioritized actions for that city.
   4. For each action, generates a 3-5 sentence explanation using OpenAI's API.
-  5. Saves the updated actions (with explanations) to 'data/prioritized_updated/'.
+  5. Saves the updated actions (with explanations) back to the original files in 'data/prioritized/'.
 
 How to run (from project root, in Windows CMD or PowerShell):
 
+    # Single city
+    python scripts\add_explanations.py --locode "BR VDS"
+
+    # All cities (bulk)
     python scripts\add_explanations.py
 
-The script will process all .json files in 'data/prioritized/' and output updated files to 'data/prioritized_updated/'.
+The script will process all .json files in 'data/prioritized/' and update the original files with explanations.
 """
 import os
 import re
 import json
+from pathlib import Path
 from typing import List, Optional
 
 from pydantic import BaseModel, Field
@@ -36,8 +41,8 @@ client = OpenAI(api_key=OPENROUTER_API_KEY, base_url="https://openrouter.ai/api/
 MODEL_NAME = "google/gemini-2.5-flash-preview-05-20"
 
 # Adjust these paths as needed:
-PRIORITIZED_FOLDER = "data/prioritized"
-OUTPUT_FOLDER = "data/prioritized"  # Changed to save back to original folder
+PRIORITIZED_FOLDER = Path("data/prioritized")
+OUTPUT_FOLDER = Path("data/prioritized")  # Changed to save back to original folder
 
 
 def extract_city_code(filename: str) -> str:
@@ -63,20 +68,6 @@ def extract_city_code(filename: str) -> str:
     return ""
 
 
-def load_city_data(city_code: str) -> dict:
-    """
-    Loads the city data using the prioritizer's read_city_inventory function.
-    """
-    try:
-        return read_city_inventory(city_code)
-    except ValueError as e:
-        print(f"City not found: {e}")
-        return {}
-    except Exception as e:
-        print(f"Error loading city data: {e}")
-        return {}
-
-
 # Existing Pydantic model for a single action (unchanged)
 class ActionItem(BaseModel):
     locode: str
@@ -88,23 +79,11 @@ class ActionItem(BaseModel):
     actionPriority: int
     explanation: str
 
-
 # ----------------------------------------------------------------------
 # A new Pydantic model for a *single* explanation (actionId + explanation)
 class ExplanationItem(BaseModel):
     actionId: str
     explanation: str
-
-
-def load_action_data() -> List[dict]:
-    """
-    Loads the action data using the prioritizer's read_actions function.
-    """
-    try:
-        return read_actions()
-    except Exception as e:
-        print(f"Error loading action data: {e}")
-        return []
 
 
 def generate_single_explanation(
@@ -191,7 +170,7 @@ def update_actions_with_explanations(actions_data: List[dict], city_data: dict) 
     Return the updated list of actions.
     """
     # Load the entire additional data set, so we can find extra context if needed.
-    actions_whole = load_action_data()
+    actions_whole = read_actions()
 
     for action in actions_data:
         # Identify this action's ID
@@ -234,11 +213,10 @@ def add_explanations_for_city(locode: str) -> bool:
     """
     try:
         # 1. Create output folder if it doesn't exist
-        if not os.path.exists(OUTPUT_FOLDER):
-            os.makedirs(OUTPUT_FOLDER)
+        OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 
         # 2. Find both mitigation and adaptation files for this city
-        files = [f for f in os.listdir(PRIORITIZED_FOLDER) if f.endswith(".json")]
+        files = [f.name for f in PRIORITIZED_FOLDER.glob("*.json")]
         target_files = []
         
         for filename in files:
@@ -253,14 +231,14 @@ def add_explanations_for_city(locode: str) -> bool:
         print(f"Found {len(target_files)} files for city {locode}: {target_files}")
 
         # 3. Load city data once for this city
-        city_data = load_city_data(locode)
+        city_data = read_city_inventory(locode)
 
         success_count = 0
         
         # 4. Process each file (mitigation and adaptation)
         for target_file in target_files:
             try:
-                input_path = os.path.join(PRIORITIZED_FOLDER, target_file)
+                input_path = PRIORITIZED_FOLDER / target_file
 
                 # Load the prioritized file (which has a list of actions)
                 with open(input_path, "r", encoding="utf-8") as inp:
@@ -272,7 +250,7 @@ def add_explanations_for_city(locode: str) -> bool:
                 print(f"Actions data updated for {target_file}")
 
                 # Save updated file back to original location, overwriting the original
-                output_path = os.path.join(OUTPUT_FOLDER, target_file)
+                output_path = OUTPUT_FOLDER / target_file
                 with open(output_path, "w", encoding="utf-8") as outp:
                     json.dump(updated_actions_data, outp, indent=4, ensure_ascii=False)
 
@@ -312,20 +290,19 @@ def main(locode: str = None):
     else:
         # Process all cities (original behavior)
         # 1. Create output folder if it doesn't exist
-        if not os.path.exists(OUTPUT_FOLDER):
-            os.makedirs(OUTPUT_FOLDER)
+        OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 
         # 2. List all files in data/prioritized
-        files = [f for f in os.listdir(PRIORITIZED_FOLDER) if f.endswith(".json")]
+        files = [f.name for f in PRIORITIZED_FOLDER.glob("*.json")]
 
         for filename in files:
-            input_path = os.path.join(PRIORITIZED_FOLDER, filename)
+            input_path = PRIORITIZED_FOLDER / filename
 
             # 3. Extract city code from filename
             city_code = extract_city_code(filename)
 
             # 4. Load city data
-            city_data = load_city_data(city_code)
+            city_data = read_city_inventory(city_code)
 
             # 5. Load the prioritized file (which has a list of actions)
             with open(input_path, "r", encoding="utf-8") as inp:
@@ -337,7 +314,7 @@ def main(locode: str = None):
             print("Actions data updated for city", city_code)
 
             # 7. Save updated file back to original location, overwriting the original
-            output_path = os.path.join(OUTPUT_FOLDER, filename)
+            output_path = OUTPUT_FOLDER / filename
             with open(output_path, "w", encoding="utf-8") as outp:
                 json.dump(updated_actions_data, outp, indent=4, ensure_ascii=False)
 

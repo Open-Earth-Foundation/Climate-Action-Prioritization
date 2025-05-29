@@ -78,16 +78,6 @@ def filter_actions_by_biome(actions: list[dict], city: dict) -> list[dict]:
     return actions_final
 
 
-def ML_compare(actionA, actionB, city):
-    """
-    Uses the ML model to compare two actions in a given city context.
-    Returns:
-       1 if actionA is better
-      -1 if actionB is better
-    """
-    result = ml_compare(city, actionA, actionB)
-    return result
-
 
 def single_elimination_bracket(actions, city):
     """
@@ -125,7 +115,7 @@ def single_elimination_bracket(actions, city):
 
             try:
                 # Use your ML model to compare
-                result = ML_compare(actionA, actionB, city)
+                result = ml_compare(city, actionA, actionB)
                 if result == 1:
                     winners.append(actionA)
                     losers.append(actionB)
@@ -161,41 +151,6 @@ def single_elimination_bracket(actions, city):
         final_winner, final_losers = single_elimination_bracket(winners, city)
         return final_winner, losers + final_losers
 
-
-def final_bracket_for_ranking(actions, city):
-    """
-    When we have fewer than 40 participants left, we do a final bracket
-    that fully orders them from best to worst.
-
-    This simply calls single_elimination_bracket repeatedly until no
-    participants remain, collecting winners in order.
-
-    Returns:
-      ranking (list): from best to worst among the given actions.
-    """
-    # print(
-    #     f"\n=== Starting final bracket for complete ranking with {len(actions)} actions ==="
-    # )
-    participants = actions[:]
-    ranking = []
-    rank = 1
-
-    while participants:
-        # print(
-        #     f"\n--- Finding #{rank} ranked action from {len(participants)} remaining ---"
-        # )
-        winner, losers = single_elimination_bracket(participants, city)
-        if not winner:
-            logging.debug("  No winner found, breaking")
-            break  # no more participants
-
-        logging.debug(f"  Rank #{rank}: {winner.get('ActionID', 'Unknown')}")
-        ranking.append(winner)
-        participants = losers
-        rank += 1
-
-    logging.debug(f"=== Final bracket complete. Ranked {len(ranking)} actions ===")
-    return ranking
 
 
 def tournament_ranking(actions, city):

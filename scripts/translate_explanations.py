@@ -1,28 +1,33 @@
 """
-This script translates the explanations in enriched climate action JSON files.
+translate_explanations.py
+-------------------------
 
-It translates the 'explanation' field from English to Spanish and Portuguese
-for enriched files created by the frontend enricher.
+This script translates the explanations in enriched climate action JSON files from English to Spanish and Portuguese using the chosen OpenRouter model.
 
-The script can process either:
-- A single city by locode (for pipeline integration)
-- All cities in the frontend directory (bulk processing)
+How it works:
+- For each enriched file in 'data/frontend/', it:
+  1. Finds English enriched files matching the city locode pattern.
+  2. Loads the JSON data containing climate actions with explanations.
+  3. Extracts all explanation texts from the actions.
+  4. Translates each explanation individually to both Spanish and Portuguese.
+  5. Creates new localized files (ES and PT) alongside the original English versions.
 
-Execute the script with the following commands:
-# Single city
-python scripts/translate_explanations.py --locode "BR VDS"
+How to run (from project root):
 
-# All cities (bulk)
-python scripts/translate_explanations.py
+    # Single city
+    python scripts/translate_explanations.py --locode "BR VDS"
 
-The script processes enriched files in the data/frontend directory.
+    # All cities (bulk)
+    python scripts/translate_explanations.py
+
+The script processes enriched files in the data/frontend directory and creates translated versions.
 """
 
 import os
 import json
-import glob
 import argparse
 import time
+from pathlib import Path
 from openai import OpenAI
 from pydantic import BaseModel
 import sys
@@ -45,9 +50,9 @@ client = OpenAI(api_key=OPENROUTER_API_KEY, base_url="https://openrouter.ai/api/
 MODEL_NAME = "google/gemini-2.5-flash-preview-05-20"
 
 # Determine project root and data directory
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.dirname(SCRIPT_DIR)
-DATA_DIR = os.path.join(ROOT_DIR, 'data', 'frontend')
+SCRIPT_DIR = Path(__file__).parent
+ROOT_DIR = SCRIPT_DIR.parent
+DATA_DIR = ROOT_DIR / 'data' / 'frontend'
 
 # Pydantic models for structured translation response
 class SingleTranslation(BaseModel):
@@ -109,8 +114,7 @@ def translate_explanations_for_city(locode: str) -> bool:
         print(f"[translate_explanations_for_city] Processing city: {locode}")
         
         # Find English enriched files for this city (both mitigation and adaptation)
-        pattern = os.path.join(DATA_DIR, f'output_{locode}_*_enriched_en.json')
-        english_files = glob.glob(pattern)
+        english_files = list(DATA_DIR.glob(f'output_{locode}_*_enriched_en.json'))
         
         if not english_files:
             print(f"[translate_explanations_for_city] No English enriched files found for city {locode}")
@@ -123,7 +127,7 @@ def translate_explanations_for_city(locode: str) -> bool:
         for english_file_path in english_files:
             try:
                 # Extract the base filename pattern (without _en.json)
-                base_name = english_file_path.replace('_enriched_en.json', '')
+                base_name = str(english_file_path).replace('_enriched_en.json', '')
                 
                 # Load English data
                 with open(english_file_path, 'r', encoding='utf-8') as f:
@@ -172,7 +176,7 @@ def translate_explanations_for_city(locode: str) -> bool:
                     portuguese_data.append(portuguese_entry)
                 
                 # Save Spanish file
-                spanish_file_path = f"{base_name}_enriched_es.json"
+                spanish_file_path = Path(f"{base_name}_enriched_es.json")
                 try:
                     with open(spanish_file_path, 'w', encoding='utf-8') as f:
                         json.dump(spanish_data, f, ensure_ascii=False, indent=4)
@@ -182,7 +186,7 @@ def translate_explanations_for_city(locode: str) -> bool:
                     continue
                 
                 # Save Portuguese file
-                portuguese_file_path = f"{base_name}_enriched_pt.json"
+                portuguese_file_path = Path(f"{base_name}_enriched_pt.json")
                 try:
                     with open(portuguese_file_path, 'w', encoding='utf-8') as f:
                         json.dump(portuguese_data, f, ensure_ascii=False, indent=4)
@@ -225,22 +229,30 @@ def main(locode: str = None):
     else:
         # Process all cities (bulk processing)
         # Find all English enriched files
-        pattern = os.path.join(DATA_DIR, '*_enriched_en.json')
-        english_files = glob.glob(pattern)
+        english_files = list(DATA_DIR.glob('*_enriched_en.json'))
         
         # Extract unique locodes from filenames
         locodes = set()
         for file_path in english_files:
-            filename = os.path.basename(file_path)
+            filename = file_path.name
             # Extract locode from pattern: output_LOCODE_TYPE_enriched_en.json
+            # Examples: 
+            # - output_BR VDS_adaptation_enriched_en.json -> BR VDS
+            # - output_BRSER_mitigation_enriched_en.json -> BRSER
             parts = filename.split('_')
             if len(parts) >= 4 and parts[0] == 'output':
-                # Handle locodes with spaces (e.g., "BR VDS")
-                if len(parts) == 5:  # output_BR_VDS_TYPE_enriched_en.json
-                    locode = f"{parts[1]} {parts[2]}"
-                else:  # output_LOCODE_TYPE_enriched_en.json
-                    locode = parts[1]
-                locodes.add(locode)
+                # Find where 'enriched' appears to know where locode ends
+                try:
+                    enriched_index = parts.index('enriched')
+                    # The action type (adaptation/mitigation) is right before 'enriched'
+                    # So locode parts are from index 1 to enriched_index-1
+                    locode_parts = parts[1:enriched_index-1]
+                    locode = ' '.join(locode_parts)
+                    locodes.add(locode)
+                except ValueError:
+                    # 'enriched' not found, skip this file
+                    print(f"[main] Warning: Could not parse filename {filename}")
+                    continue
         
         print(f"[main] Found {len(locodes)} cities to process: {sorted(locodes)}")
         
