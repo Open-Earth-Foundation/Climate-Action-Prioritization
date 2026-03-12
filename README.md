@@ -1,5 +1,8 @@
 # Climate Action Prioritization (CAP) Tool
 
+**Status: This repository is archived.**  
+The CAP backend is now maintained in the CityCatalyst monorepo under the `hiap` service: see `Open-Earth-Foundation/CityCatalyst` at the [`hiap/` directory](https://github.com/Open-Earth-Foundation/CityCatalyst/tree/develop/hiap).
+
 This is a multi-stage tool for generating climate action priorities for cities.
 
 ## License
